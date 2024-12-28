@@ -1,7 +1,6 @@
 "use client";
 
-import React, { createContext } from "react";
-
+import React, { createContext, useEffect, useState, useContext } from "react";
 import en from "@/locales/en.json";
 import ml from "@/locales/ml.json";
 
@@ -21,12 +20,12 @@ type Prev = [never, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...0[]];
 type Paths<T, D extends number = 10> = [D] extends [never]
   ? never
   : T extends object
-    ? {
-        [K in keyof T]-?: K extends string | number
-          ? `${K}` | Join<K, Paths<T[K], Prev[D]>>
-          : never;
-      }[keyof T]
-    : "";
+  ? {
+      [K in keyof T]-?: K extends string | number
+        ? `${K}` | Join<K, Paths<T[K], Prev[D]>>
+        : never;
+    }[keyof T]
+  : "";
 
 export type TranslationKey = Paths<Dictionary>;
 
@@ -34,10 +33,10 @@ export type TranslationKey = Paths<Dictionary>;
 type PathValue<T, P extends string> = P extends keyof T
   ? T[P]
   : P extends `${infer K}.${infer R}`
-    ? K extends keyof T
-      ? PathValue<T[K], R>
-      : never
-    : never;
+  ? K extends keyof T
+    ? PathValue<T[K], R>
+    : never
+  : never;
 
 export const languages = [
   { display: "English", code: "en" },
@@ -69,9 +68,18 @@ export const I18nProvider = ({
   children,
   initialLanguage = "en",
 }: I18nProviderProps) => {
-  const [language, setLanguage] = React.useState<Locale>(
-    () => (localStorage.getItem("language") as Locale) || initialLanguage,
-  );
+  const [language, setLanguage] = useState<Locale>(initialLanguage);
+
+  useEffect(() => {
+    const storedLanguage = localStorage.getItem("language") as Locale;
+    if (storedLanguage) {
+      setLanguage(storedLanguage);
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem("language", language);
+  }, [language]);
 
   const currentDict = getDictionary(language);
   const englishDict = getDictionary("en");
@@ -89,22 +97,15 @@ export const I18nProvider = ({
     return (result || fallback || key) as PathValue<Dictionary, typeof key>;
   };
 
-  const handleSetLanguage = (lang: Locale) => {
-    setLanguage(lang);
-    localStorage.setItem("language", lang);
-  };
-
   return (
-    <I18nContext.Provider
-      value={{ language, setLanguage: handleSetLanguage, t }}
-    >
+    <I18nContext.Provider value={{ language, setLanguage, t }}>
       {children}
     </I18nContext.Provider>
   );
 };
 
 export const useI18n = () => {
-  const context = React.useContext(I18nContext);
+  const context = useContext(I18nContext);
   if (context === undefined) {
     throw new Error("useI18n must be used within an I18nProvider");
   }
