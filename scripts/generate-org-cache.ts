@@ -32,6 +32,13 @@ type OutputCache = {
 /**
  * This script reads the organizations DB dump and creates a cache that can
  * be accessed by `{{url}}/organizations/{parent_id}.json`
+ *
+ * To generate the cache, run `npm run build:org-cache`.
+ * To get the org's dump, run the following SQL query:
+ *
+ * ```sql
+ * SELECT external_id, name, metadata, has_children, cached_parent_json FROM emr_organization WHERE org_type = 'govt' AND active = true AND deleted = false;
+ * ```
  */
 async function main() {
   await mkdir(dir, { recursive: true });
