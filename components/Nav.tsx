@@ -25,7 +25,7 @@ export function Nav() {
     { label: t("nav.about"), href: "/#about-palliative-care" },
     {
       label: t("nav.gridLogin"),
-      href: process.env.NEXT_PUBLIC_GRID_LOGIN_URL!,
+      href: `${process.env.NEXT_PUBLIC_GRID_URL}/login`,
     },
   ];
 

@@ -9,11 +9,11 @@ import {
 } from "@/components/ui/accordion";
 
 import { useI18n } from "@/lib/i18n";
-import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import Title from "@/components/title";
 import Icons from "@/components/icons";
 import { Separator } from "@/components/ui/separator";
+import GovtOrgSelector from "@/components/govt-org-selector";
 
 export default function Page() {
   const { t } = useI18n();
@@ -93,7 +93,7 @@ export default function Page() {
                 </Button>
                 <div className="text-center">
                   <a
-                    href={process.env.NEXT_PUBLIC_GRID_LOGIN_URL!}
+                    href={`${process.env.NEXT_PUBLIC_GRID_URL}/login`}
                     className="text-primary-600 hover:text-primary-700 text-sm"
                   >
                     {t("about.buttons.login")}
@@ -240,12 +240,7 @@ export default function Page() {
                 <div className="space-y-6">
                   <Title>{t("facilities.title")}</Title>
                   <p className="text-gray-600">{t("facilities.description")}</p>
-                  <form className="space-y-4">
-                    <Input placeholder={t("facilities.form.state")} />
-                    <Input placeholder={t("facilities.form.district")} />
-                    <Input placeholder={t("facilities.form.ward")} />
-                    <Button>{t("facilities.form.continue")}</Button>
-                  </form>
+                  <GovtOrgSelector />
                 </div>
               </div>
             </div>
