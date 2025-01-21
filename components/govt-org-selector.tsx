@@ -42,7 +42,7 @@ export default function GovtOrgSelector() {
     const fetchChildren = async () => {
       const parentId =
         selectedOrgs.length === 0
-          ? "districts"
+          ? "index"
           : selectedOrgs[selectedOrgs.length - 1].id;
       const res = await getChildren(parentId);
       setResults(res);
@@ -71,10 +71,10 @@ export default function GovtOrgSelector() {
           <Popover open={showPopover} onOpenChange={setShowPopover}>
             <PopoverTrigger asChild>
               <Button variant="outline" role="combobox">
-                <span className="truncate text-left w-full text-gray-500">
+                <span className="truncate text-left w-full text-gray-500 capitalize">
                   Select{" "}
                   {[...new Set(results.map((r) => r.type))]
-                    .join("/")
+                    .join(" / ")
                     .replaceAll("_", " ")}
                 </span>
               </Button>
