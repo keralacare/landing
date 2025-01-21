@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d4e37e59-2187-4eee-a1b2-44f3ac5a3e6c",
+    "name": "1: MELEPADIMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9049418f-598b-4b5a-b5e7-c204a7876337",
+    "name": "2: SASTHAMKOICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db7af787-fd2e-40ad-8012-aa96c2285057",
+    "name": "3: VAIPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19c13e1c-60a5-4999-84a8-e5660cbea65d",
+    "name": "4: KULATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c48e0969-c140-491c-8b13-3b75986f57d9",
+    "name": "5: MALAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ee21fda-30ca-4e7c-a33f-181b85adb0ba",
+    "name": "6: KOTTANGAL PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3204a2b3-3902-4ba3-9d7a-5a4cb2cdb900",
+    "name": "7: KOTTANGAL KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e29133d-2d91-42b1-99b0-e3d8cd43130e",
+    "name": "8: CHUNKAPPARA VADAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c99fd4e-b4be-4f69-8024-921ac9cd4397",
+    "name": "9: CHUNKAPPARA THEKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11cb5d77-d64f-48e9-bc8b-88d7e1bd072d",
+    "name": "10: KERALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90753660-e84a-466e-bdf3-09c7745c70c2",
+    "name": "11: KUMBILUVELIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89ab144d-b34a-4b41-8da7-12f5206135f9",
+    "name": "12: OOTTUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a70b72b-5f36-4ce6-a080-a0817e896202",
+    "name": "13: PERUMPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ab64b722-1667-42a0-bcb2-dfe020b89531",
+    "name": "1: VELANILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a2dfc4d-16e0-4ed7-b8c5-49c201169654",
+    "name": "2: MUNDAKAYAM TOWN EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2aa0e55f-5aec-45e7-b5d1-ffc10b33e03b",
+    "name": "3: MUNDAKAYAM TOWN SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a6c222c-b7c3-4c89-ac2e-10060992ba3c",
+    "name": "4: PUTHENCHANDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eafe8277-d4b2-4e7b-9d49-e1e808fceda2",
+    "name": "5: MICOLOGY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd5d1605-aed2-4cfc-9b81-8159810e384f",
+    "name": "6: VARICKANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d158cb9e-ea0e-4cdc-9bea-e694915e0a70",
+    "name": "7: KARINILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1264cdaa-9204-47e1-8cab-d2eecaaf458a",
+    "name": "8: VANDANPATHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db788240-778d-481a-a58e-6cb9af7148bb",
+    "name": "9: MURIKKUMVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b182bf51-e869-405f-986f-b6726c8a858f",
+    "name": "10: PUCHAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e3c1999-73dd-4845-8597-ab6058cb5137",
+    "name": "11: KULAMACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b37eced-cf4c-425b-8e9e-5ffcd99ef4d9",
+    "name": "12: ANIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c85a7fc-dc50-44d9-babb-98b714a1ba88",
+    "name": "13: AMARAVATHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df09532a-efd2-43e2-996a-6b560c81f9d2",
+    "name": "14: PULIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63b5099e-d052-4dd6-9e70-269194d591a1",
+    "name": "15: KANNIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2469afc-92c8-47f5-b93f-5ae9b1dcb5bb",
+    "name": "16: THANNIKAPATHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5783727-7201-4bef-a31f-49bacb96f9a3",
+    "name": "17: VATTAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f8dbee0-bc80-4b58-af98-fff6d4e2f316",
+    "name": "18: ICHIYANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06e8cb53-976b-4048-8a75-d649d7526ed6",
+    "name": "19: PAINGANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c968a23-2dec-4ca9-83c8-d187301a3873",
+    "name": "20: MYLATHADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8418a17d-2f6e-4fbe-9a74-46cfd610ef88",
+    "name": "21: NENMENI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

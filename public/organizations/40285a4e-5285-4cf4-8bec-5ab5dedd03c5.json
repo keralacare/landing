@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2eef1436-7dc8-4534-981b-cfc77541a713",
+    "name": "1: PAZHAMTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc90e303-eff1-4733-b532-98764702e8fa",
+    "name": "2: VALAMBOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecdce8d0-6d06-4773-a1b4-9a388ffea821",
+    "name": "3: EZHIPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34054ae0-0cb1-4efd-9a58-fed96bb2c553",
+    "name": "4: KADAYIRUPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d44b8b83-c9c2-4fcf-8cd1-1662d093d65b",
+    "name": "5: MANGATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f67240b-8ccd-49dd-b092-25188e78642a",
+    "name": "6: THONNIKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e86cdece-437e-4e54-b231-32e187008212",
+    "name": "7: KADAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3c5ba25-fad6-4b8e-b4c3-6cc812f0ec93",
+    "name": "8: PERINGOLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96431f26-1a34-4928-ad5a-a80dc3d86055",
+    "name": "9: THONDIPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "feef3da1-23a8-468a-b301-69d76f262bbe",
+    "name": "10: PAREPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d081f1c-9663-4d25-884c-94f51d9aa87b",
+    "name": "11: PULINCHOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69e2bc80-cdf6-42a7-9acd-98e9786a21a8",
+    "name": "12: PANCODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48bc3f95-1d87-4a41-b37c-d3768b2c444c",
+    "name": "13: PANCODE WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e99dbe8-811f-4ad4-bc56-67dd6c503799",
+    "name": "14: MANAYATHUPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

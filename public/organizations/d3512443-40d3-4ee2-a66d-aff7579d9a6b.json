@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ca657982-c603-46d2-bd7e-749e7e3c84a0",
+    "name": "Chelembra Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a3a31a47-b6d0-44db-86c5-63abdaab6c82",
+    "name": "Cherukavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8166e76c-2a9f-401f-a299-49e76fab425e",
+    "name": "Muthuvalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fef37ace-3579-49a3-a4f4-93b3a1e4b710",
+    "name": "Pallikkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "69ccd38a-c159-4d8b-a6ea-ce9fa57d7ec0",
+    "name": "Pulikkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ca304e8d-142b-447f-9fa7-8cdb04351bcb",
+    "name": "Vazhakkad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4939e404-8e91-45e1-99db-e60dbf14d8fd",
+    "name": "Vazhayur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

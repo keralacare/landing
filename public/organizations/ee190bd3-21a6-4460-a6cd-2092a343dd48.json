@@ -1,0 +1,86 @@
+[
+  {
+    "id": "92891dd1-a9d4-491c-bd2e-3ebe28f65397",
+    "name": "1: MULLUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cc10c46-0642-4eae-8bc5-fc20c89b4c28",
+    "name": "2: IRUVAIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76e187e9-4d3e-4f3c-af2e-a00ccd6ff279",
+    "name": "3: KUMILI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0eddc02d-ce1f-4d15-a351-59020c7a60e2",
+    "name": "4: KALUMUGHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ed14670-7225-46ad-99cd-366f8e522a8b",
+    "name": "5: PAZHAYAKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c40142ee-7fc3-4dc2-86dc-9fbe1db88be8",
+    "name": "6: MANNAKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45320035-c508-48f4-8352-550d190dd143",
+    "name": "7: KANJAMPAZHINJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a81f208-c2c3-40ef-ba13-cb311daafc28",
+    "name": "8: THIRUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b8cd015-651b-4c8c-a48b-661db062cfd7",
+    "name": "9: PLANTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9f3ac69-1300-43f6-9b95-680a280f816b",
+    "name": "10: PUTHENKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77d910ee-f0ab-4afb-8a87-840c0fae94fc",
+    "name": "11: PATHANAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "679c8c8d-5212-4e55-b442-1775094d76a5",
+    "name": "12: MANKOOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e85c66c-2dad-4fab-b646-845549e2ea98",
+    "name": "13: PULAVANGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18358b7c-b8e6-4993-9c2c-f93934e80c51",
+    "name": "14: PURUTHIVILA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f333861d-8bf2-4647-a8c3-c096857cf104",
+    "name": "1: PURACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f0fd6a9-8e0c-4564-8e4f-243581ad6960",
+    "name": "2: ARATHIPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ebc2cde-adc2-464f-8981-e37fc606d954",
+    "name": "3: NAREEKAMVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1d42c7b-e343-4989-9f2c-043ab712d0e4",
+    "name": "4: ARATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa81811d-d263-48b5-81ac-46867e92fffa",
+    "name": "5: PILATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eefc951c-fa34-4e59-a4dc-e132fce6e8fe",
+    "name": "6: PERIYATT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d49c6078-ba07-4644-b3ee-e7939c8cf3c7",
+    "name": "7: KULAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f09a6a9-bb5c-43df-bc59-76b7cd4c33ab",
+    "name": "8: SREESTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ae3f8b8-bd74-41c2-9d44-aa8fecbdf5f4",
+    "name": "9: MELATHIYADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e4854a3-a467-462d-9b37-97550e980a0e",
+    "name": "10: ATHIYADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "798e9a21-696a-461b-89a7-8fe55dd57758",
+    "name": "11: PADANNAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f958c9a-36b1-4d42-b1c1-197bcaf585a7",
+    "name": "12: VAYALAPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32349f30-1ef7-4e65-ba01-b00b46291aa2",
+    "name": "13: CHERUTHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6583880-2af4-4af2-a2bd-651d73e1c139",
+    "name": "14: KOVVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fa85bd7-6cc1-4e0f-83ff-d70e327db6c0",
+    "name": "15: MANDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0de0be7e-8569-478d-8dcf-f222ee0d1bee",
+    "name": "16: KAKKONI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ef412f7-c620-4dc4-ba62-124dd82c6ed3",
+    "name": "17: EZHILODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

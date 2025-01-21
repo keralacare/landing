@@ -1,0 +1,44 @@
+[
+  {
+    "id": "475e0ed8-e868-4a95-b026-802253f1d0dd",
+    "name": "Champakulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5a6f221c-5b61-465c-b273-d39ae52e6688",
+    "name": "Edathua Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d9d81a74-0908-4eb3-bb55-932f175ea4d2",
+    "name": "Kainakary Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "03d1399d-f9cb-4083-b439-dd0363e5abe2",
+    "name": "Nedumudi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "02633cff-0f8c-49f1-816c-39f101ae5efd",
+    "name": "Thakazhy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0885f618-d097-4164-8b24-483cdeb90f76",
+    "name": "Thalavady Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

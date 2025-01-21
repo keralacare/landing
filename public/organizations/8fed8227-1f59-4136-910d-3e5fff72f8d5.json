@@ -1,0 +1,110 @@
+[
+  {
+    "id": "515bf6d3-35ad-4b20-9b1a-b0286ce6fff8",
+    "name": "1: THALAKKADATHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "adfc7885-a477-48b6-9833-44ad3b47f9af",
+    "name": "2: BANGLAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f4cbc11-0f6e-4ba8-84e1-0e45f3b15c1e",
+    "name": "3: MACHINGAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "071fadf6-1123-4fee-ba58-8e95652e1a90",
+    "name": "4: KURUKKOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eaf91f39-3301-4a1e-bd4e-f95672b5e15c",
+    "name": "5: CHUDALAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3817aaa0-9588-4b61-b94f-498a92618b3a",
+    "name": "6: MYLAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5310ebbd-d6f1-4e29-8d87-05487b436d19",
+    "name": "7: VALIYAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65dcbbdb-8fd9-4854-8580-f17e68eec739",
+    "name": "8: KURUPPINPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0591a828-7e3f-4c9c-8f0e-bd44ee754811",
+    "name": "9: MANDAKATHINPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06200f54-0e77-4187-b5e7-b825d130c5ac",
+    "name": "10: THIRUTHUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52e8f804-8c67-4252-b596-162a4cc7c387",
+    "name": "11: KANTHALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58ddbe29-6dd5-49b3-badf-960e03409391",
+    "name": "12: VANIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ea418ad-17f2-4743-9cb7-64d43064cdcd",
+    "name": "13: PARAPPUTHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2ac8d91-58ec-453c-8e50-e5134ff3789b",
+    "name": "14: CHENAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e6c4921-3342-4517-903a-fad6fd4968a9",
+    "name": "15: PARANNEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3339e3f8-b12b-45dd-ac84-d7852284b911",
+    "name": "16: THALAKKADATHUR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35083bf4-461a-4d39-a6b9-1733efd7c9f4",
+    "name": "17: IPPUTUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "694bc68a-cf19-491c-9ea3-81327abd8a54",
+    "name": "18: PADINHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

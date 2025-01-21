@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bb095187-dd4a-4848-875c-64c6482b09de",
+    "name": "1: KALLULLATHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85fab0d6-63c0-4822-9e65-d94018719223",
+    "name": "2: AMARAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "347179ff-b046-4224-88c3-e8157ac85c64",
+    "name": "3: THAZHVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc75ecd7-f86b-4337-b0f8-f4a64ffed766",
+    "name": "4: CHAMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d898466-7dda-402d-b3c1-924ff572c38c",
+    "name": "5: PAYONA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5af12d71-ead9-4f33-a62f-2d349b0fb804",
+    "name": "6: POOLODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aebe6bc9-1a55-4c03-8913-a2611aa97d47",
+    "name": "7: CHUNDANKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6071f30c-5446-4882-aeba-cea4090ba7a2",
+    "name": "8: KANNOOTTIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d9749df-2afe-46e1-a18a-0f7e5a5637e9",
+    "name": "9: PULLANHIMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b717825d-ac1b-4eae-b0ff-8462cd14205f",
+    "name": "10: AMBAYATHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59fde597-2aba-407a-a153-b7fa6ead77f1",
+    "name": "11: KOLIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fdb56360-1f70-4463-b096-5e0631edb120",
+    "name": "12: VADAKKUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28cdd568-4fcb-4fda-93ac-656729f53f75",
+    "name": "13: VETTI OZHINJA THOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae6b5885-15d4-422d-a6ef-d3150ef9975b",
+    "name": "14: CHEMBRAKUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f972cb72-0976-4efd-98ad-dd8e0ecd57c6",
+    "name": "15: KATTIPPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

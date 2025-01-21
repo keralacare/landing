@@ -1,0 +1,116 @@
+[
+  {
+    "id": "f9d74c03-5adb-4268-9784-3891f122a151",
+    "name": "1: CHEMBILODE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18860de8-b3fd-4570-a858-bc03e9b32f70",
+    "name": "2: CHEMBILODE CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea639782-6cdc-47ae-bd9c-d2f0db80a63a",
+    "name": "3: MOWANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efd9a3d1-5bb3-41c8-b5e7-94408a2a1911",
+    "name": "4: CHAKKARAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "653082d1-c33d-42c4-80e6-10054c5d7eff",
+    "name": "5: KANAYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fe35b01-a1b0-44b6-bf11-0f52ef70786b",
+    "name": "6: MIDAVILODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9ab50fa-95a7-403b-9dbc-b5b13ca738cf",
+    "name": "7: KANAYANNUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5c24a38-d6b8-4c86-9bcf-b25bd9329e52",
+    "name": "8: KAKKOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5c8f226-edc2-41fe-81c9-28bc1d38cde0",
+    "name": "9: VELLACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38c9694c-5ca3-4f2c-9d74-7f40de76d25d",
+    "name": "10: IRIVERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e9a7cc5-e474-42f3-bb1c-34f2c42b90e3",
+    "name": "11: MUTHUKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08dd752c-5ca0-43b4-9b2d-54a681280923",
+    "name": "12: THALAVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8c75b52-3c95-489f-ab8f-0b68eb667bfc",
+    "name": "13: KOYYODE CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24cc13a0-f43a-4e3d-afbd-b6831e206367",
+    "name": "14: KOYYODE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1528ec0f-449d-40f9-be30-025eae7b082a",
+    "name": "15: THANNADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ea2d3a1-467e-4f8e-9bf2-c845d7434982",
+    "name": "16: CHALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83612bd0-11ac-474c-8538-82325e7a8e15",
+    "name": "17: CHALA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed24f46d-3ba7-4ad4-b9f3-5919dec023aa",
+    "name": "18: KOYYODE MANIYALAM CHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bac96f9f-f069-4a59-84f9-70bacedcc4d9",
+    "name": "19: CHEMBILODE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "4574c986-2d27-45f7-b0c3-ec887b94cb5d",
+    "name": "1: PEECHAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "387406be-f0fd-43cc-8516-f4bd3c1f220d",
+    "name": "2: PADUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f81ee7cd-6776-4381-a36f-ca8c28cd26d3",
+    "name": "3: KALLEPULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b695da9-edb6-44d5-b9ee-be155fe28792",
+    "name": "4: VALIYAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3729f351-6c47-48bb-830c-d7c25b448ce2",
+    "name": "5: PATHANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0593d752-b630-4b2f-8a9c-dce493a82b6b",
+    "name": "6: MUTHANODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8fb5590-84f6-41ca-95b9-961247199600",
+    "name": "7: ARAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82705017-15cc-403a-af07-bcf977ad97d8",
+    "name": "8: CHUNDAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b92ecaf-ec3c-469d-8a07-3df336c5d89d",
+    "name": "9: MOOPPUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad5f7347-605d-4e59-8a63-de0ee2b390a9",
+    "name": "10: ANAMARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00901698-08e8-4964-9008-bd994e3539a5",
+    "name": "11: ERATTAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36a6a307-0282-4ef4-9e56-c4013df739e2",
+    "name": "12: KONGALAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd2efb25-06fe-4c0f-8886-2570ed4ea1b1",
+    "name": "13: VEPPILASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a163a3ea-d049-4a5d-936e-eb0524827f38",
+    "name": "14: THENNILAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b74229f-e13a-4671-897d-5e22d11af93d",
+    "name": "15: KUNNINPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a602c2a-3e37-4423-b01a-9fd9d1d1512e",
+    "name": "16: CHEENIKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0eea394-ddcc-40d1-8b82-dcf939919a90",
+    "name": "17: KUNDUTHODI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7e1f9475-2f20-4dcf-8015-75f34371b861",
+    "name": "1: EDAVETTYCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ae5afc0-9abe-4a55-a112-c1c596324708",
+    "name": "2: THONDIKUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ca9895b-3825-4ff3-82d8-98578bfca07f",
+    "name": "3: NADAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30d5d847-fcc2-4972-84c4-8c91411173fd",
+    "name": "4: GANDHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e26318fe-a2e2-4e03-b969-2bdecfb7952b",
+    "name": "5: SASTHAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75ec5ee0-9d60-4161-93da-b092ebb178f5",
+    "name": "6: MEENMUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "097d3851-0905-42c4-97cb-7a1492c8705b",
+    "name": "7: KALLANICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db75d957-fb34-4634-a598-7dfb71cbc825",
+    "name": "8: MALANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac2e34da-2639-4c36-bda3-00fedbc41a38",
+    "name": "9: THEKKUMHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fd6e539-74a1-4773-8855-8264fd905a5a",
+    "name": "10: KEERIKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcbd5083-e1c9-4185-8559-1fd7ea9c4ae4",
+    "name": "11: MARTHOMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d44ffbaf-61d0-4217-9d59-fd43eb2b9723",
+    "name": "12: EDAVETTY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e0d32d2-07d8-45ee-8490-83764a707271",
+    "name": "13: EDAVETTY NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

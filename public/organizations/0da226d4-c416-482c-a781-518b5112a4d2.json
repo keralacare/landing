@@ -1,0 +1,80 @@
+[
+  {
+    "id": "62fdbb95-b6c4-4fd5-837d-737e85fe7531",
+    "name": "1: VALIYA KADAMAKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53aac730-a513-4ccc-a6ff-de62388a256a",
+    "name": "2: CHARIYAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c76acf6-73db-4af9-b46e-349a28adb0af",
+    "name": "3: CHENNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21082612-d411-4c2a-946d-4af0e28f6cb9",
+    "name": "4: KARIKKATTUTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a7559bc-d896-4d24-bfcc-31a72c5bb15f",
+    "name": "5: KANDANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c146cdd4-dbdf-4d9b-9bfa-9fa9bb2d6973",
+    "name": "6: KORAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f37bbfb-cd64-401a-a9a0-23c55b6cbb05",
+    "name": "7: KOTHAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcb9b6f8-9c84-4811-8ec6-c681a380edc8",
+    "name": "8: MOOLAMPILLY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb946378-3df7-463b-92d2-f50863534381",
+    "name": "9: MOOLAMPILLY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be5aae62-e8a9-4c17-99b4-404e076b802c",
+    "name": "10: PIZHALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56e661aa-43cf-468e-b905-91c260b5e0ab",
+    "name": "11: PIZHALA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf56a1bc-1116-4005-bc7d-e454d53923cd",
+    "name": "12: PALIYAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "739f9f7b-65fa-489c-b60a-951e9ad463f0",
+    "name": "13: KADAMAKUDY MURIKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

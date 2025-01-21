@@ -1,0 +1,86 @@
+[
+  {
+    "id": "43da5e0c-0e0e-4ee4-971e-f31808c7c40a",
+    "name": "1: PANAYILKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9533d923-9173-40d5-a19d-3e8c6f640a85",
+    "name": "2: KOCHUPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb124bfa-ed0d-4078-8d2c-78276787e388",
+    "name": "3: PUTHENNADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c4556ee9-bece-4cd8-b74c-7fe4a973056a",
+    "name": "4: PANCHAYAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92b97ffb-9ec8-41de-b6a4-3556b3967341",
+    "name": "5: KUNJANVILAKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "832404ad-a41c-4734-82fa-9b2c68f78f80",
+    "name": "6: PUTHIYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aef1c225-c5a4-4b15-9881-e3ffe6d82265",
+    "name": "7: KAYALVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b75fc164-185f-42dc-970a-cbaf4399d1cf",
+    "name": "8: PATTIKKAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "553011db-be09-48f3-b2a5-79a9ca8cea34",
+    "name": "9: NILAKKAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90fc863f-4a1d-41d0-9b8e-988a5f828255",
+    "name": "10: KUNNUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "448cac83-66fd-43b6-abbb-09f5027f9018",
+    "name": "11: SOCIETY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7728605-4c17-4372-8346-45182167e639",
+    "name": "12: MUKKALUVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74e43e5d-f217-45b4-ad20-8556eab81888",
+    "name": "13: IRANGUKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22853e41-8376-4bdf-804f-503b3ece3f1c",
+    "name": "14: KAYIKKARA KADAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

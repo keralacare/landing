@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3cfbc528-1045-4a2f-a41f-756c1ce253ac",
+    "name": "1: KUTHAMPULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c9e4a8b-81a4-460e-99ee-5ab41577d6bd",
+    "name": "2: PARAKKOTUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5139934-8f8e-4846-8a83-ecf214b4ed11",
+    "name": "3: KAYARAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90eed2a3-568b-4c01-8ae6-9aac005af1c9",
+    "name": "4: KOODARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4732c320-0216-4387-ae58-3221d8d09abc",
+    "name": "5: PAMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d746b94-6070-43c7-9ab7-e48c5775c937",
+    "name": "6: KOLLAIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a19d6f6a-4a41-426f-911c-c7396f1da297",
+    "name": "7: MALESHAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67f5a683-e0e9-47d7-a691-9150bb21292e",
+    "name": "8: KIZHAKKUMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a12e0293-2e15-4157-af39-ebfffc4353db",
+    "name": "9: PATTIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1eccc7b-2b78-4462-b761-f7eadf4ac76c",
+    "name": "10: ORALASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85ca1fe0-e7e1-49f4-af9d-a4487cc93ea6",
+    "name": "11: PALAKKAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08a76c75-eb5c-49e5-87ae-9d66b96d512b",
+    "name": "12: ERAVATHODY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78b9d216-f7a5-4903-bb28-05f91ece808b",
+    "name": "13: THIRUVILWAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6fd4b7d-0e34-4b49-8ab3-815402e44229",
+    "name": "14: MALAVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8a4c816-3248-4c1d-ae96-f063ef2bedaa",
+    "name": "15: POOTHANAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a073d00c-c5ae-4954-bccc-c3fcbd4cf1d4",
+    "name": "16: AKKAARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78efbfe0-4881-4cd7-9c3b-79784672ba30",
+    "name": "17: KUNDUKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

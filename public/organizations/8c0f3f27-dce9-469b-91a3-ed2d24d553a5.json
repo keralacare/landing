@@ -1,0 +1,104 @@
+[
+  {
+    "id": "eb4fa233-0f0a-49f4-b4f4-5b2a2bd915f9",
+    "name": "1: THRIKKOTTUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6097a6e6-1f0d-4cd0-ac39-d79e6b8e74fe",
+    "name": "2: THRIKKOTTUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "893701af-b649-4042-8afe-46a75cdcadce",
+    "name": "3: PALLIKKARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0a82e66-6873-4f4f-97e6-f40298a09da5",
+    "name": "4: PALLIKKARA CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0856f743-f14f-4dc3-8060-5d7255b26851",
+    "name": "5: PALLIKKARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "adfa9fa8-35f8-4631-a93d-3d3ed6678f29",
+    "name": "6: PURAKKAD KOPRAKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2a0ade6-928a-4611-acbc-5eb291c98391",
+    "name": "7: KIDANHIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c36647f-0bd5-438c-a580-ce53bbbeb774",
+    "name": "8: PURAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d49c4b7f-45d4-4169-afc2-9bed6be0268d",
+    "name": "9: PURAKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e35ea180-5ccb-48c6-a335-06ffc4c77e7d",
+    "name": "10: KOZHIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dac4a297-f80e-4706-a538-106c0f9d6373",
+    "name": "11: THIKKODI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1ab4a23-e70e-4dbf-8f9a-af6226461843",
+    "name": "12: PALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ed16ed5-905a-4059-8830-17108aa965bb",
+    "name": "13: PALOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8bfbfdfd-e683-47c2-be9e-f786ba49677f",
+    "name": "14: THIKKODI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca58f00a-d054-46a0-92e6-109750aacfc4",
+    "name": "15: THIKKODI ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34115b32-43c6-48ce-9c6f-c35a69d0563e",
+    "name": "16: THRIKKOTTUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65defbaf-a757-48a7-9670-2422eda340be",
+    "name": "17: THRIKKOTTUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

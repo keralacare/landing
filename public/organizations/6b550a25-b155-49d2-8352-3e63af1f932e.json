@@ -1,0 +1,98 @@
+[
+  {
+    "id": "8b72824d-b840-46bc-bf92-ca2238577314",
+    "name": "1: KARAPPOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1824927-7e61-47da-8a38-86d1162b9b96",
+    "name": "2: KOTTEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8790d486-3080-4d80-a970-df91dca0077a",
+    "name": "3: VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "243f11d0-37f0-4bc8-8835-caade87231ab",
+    "name": "4: MANNAPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b0d6558-363d-4cec-ad41-b9f6bb8024b4",
+    "name": "5: PULIMKOOTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1485dd8-4008-42f9-a0a0-d77cbc7c08b4",
+    "name": "6: ARAMTHODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c793660-97e7-42c0-a33b-b6b7393e111c",
+    "name": "7: CHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25196c41-1390-4135-b38c-270ec29ab97a",
+    "name": "8: KONNENCHERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8065277f-2645-49ac-b8a9-e7633d5436ae",
+    "name": "9: KARAYANKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3efbc2d-87e9-45f8-8227-bc868ba73c5d",
+    "name": "10: KANNAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa5225be-255d-4bb4-8a18-7e9db2c972ec",
+    "name": "11: CHALLIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "339a1639-6ad9-482a-ab46-dec5608ed4bc",
+    "name": "12: PANTHALAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ad78e5b-a30f-4607-88bd-b486a18d7fb9",
+    "name": "13: RAKKANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c266dc52-3fd8-42f6-8bbf-fe1c13376400",
+    "name": "14: KALLINKALPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a488ceb-b635-4198-9e78-8a820d4011af",
+    "name": "15: KALLERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d74904ec-2fcb-42c7-8f30-d595b32cc345",
+    "name": "16: CHOORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "9c684bb9-f476-40f0-bca0-8ea8e174518d",
+    "name": "1: KODASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e140a30-62a4-4d17-8b42-f3236769bbdd",
+    "name": "2: NAYARANGADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b2edfb2-efd3-4478-bee4-935f5e0c4d5b",
+    "name": "3: METTIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb87f9b3-ca81-46cb-9a68-fd68320f37b1",
+    "name": "4: CHATTIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a224603a-88f1-4e46-96fa-a3835f3a4621",
+    "name": "5: MARAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9116850c-e09e-492c-97fc-6e13d09b01b0",
+    "name": "6: KORMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b382f6f-28de-484d-941f-e9db9e380bea",
+    "name": "7: RANDUKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b599b72b-d54a-4a8b-a584-cc8d617234d5",
+    "name": "8: CHAIPPANKKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cb99f3d-d6d9-4980-b37e-1b712479de3b",
+    "name": "9: PEELARMUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bb27c58-56f2-4ab0-8474-795d80c2100b",
+    "name": "10: CHEMBANKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c355c831-d0e7-4b9c-8764-84ec7f95cd11",
+    "name": "11: PULINKRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41ad79be-9e9b-48f9-81f7-0537c9656622",
+    "name": "12: KUTTICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed6043bd-37df-4f97-8592-353478533067",
+    "name": "13: KUNDUKUZHIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47ea268f-2806-4f27-9d42-40a7e5933bbd",
+    "name": "14: KOORKKAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfa1f570-867a-47c7-85d5-93a8d021426f",
+    "name": "15: KAMMALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8007fb83-ba69-465b-bf69-cb10c7e8c267",
+    "name": "16: KOTHESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f47683ff-b8bb-4964-b1d7-832a277dbb25",
+    "name": "17: ELINJIPRA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e1eb740-25fc-4344-b447-87f2dc21c50d",
+    "name": "18: ELINJIPRA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73abd7c2-0678-41c1-853d-1d2262db3885",
+    "name": "19: CHOWKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9fbc0f8-c396-4fb4-8cb0-fbf1fbb71192",
+    "name": "20: KALIKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

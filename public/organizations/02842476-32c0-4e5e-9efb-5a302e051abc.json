@@ -1,0 +1,122 @@
+[
+  {
+    "id": "99315f98-92a5-447a-8e64-e82a0661bf11",
+    "name": "1: NEDUMONCAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7508948c-7f19-44c7-b122-cdb6b5655cae",
+    "name": "2: MARUTHIKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7e460bd-4285-4540-bc23-2d244bf5554d",
+    "name": "3: MURINJAKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fed2e428-0e54-4eb5-929e-d6648a12e451",
+    "name": "4: INCHAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d284ffd2-b56d-4a09-8200-75b34dee94db",
+    "name": "5: ATHIRUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98d5e149-68f9-4d06-a9ac-f04cf715a153",
+    "name": "6: KULATHUMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8adf78d1-98b0-4ffd-b19c-e08be9789d19",
+    "name": "7: THATTAKUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ecff893-b633-4e43-8926-3bd1b98ea4a7",
+    "name": "8: PADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7670a5cf-6cd1-430d-bff6-1b071c893db0",
+    "name": "9: MANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbebabea-95c4-452b-9a21-d8eca9531a81",
+    "name": "10: STADIUM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "777adc30-233b-4eb2-8bbc-bf608dcf2e68",
+    "name": "11: PUNNAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "235dd772-29d4-4c85-9189-b5c6cbf239e0",
+    "name": "12: KALANJOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7bd3c00-0ab3-4b1b-94d3-511325cd062c",
+    "name": "13: ONNAMKUTTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ff852f4-3ad2-4ad3-bb54-27781099f38c",
+    "name": "14: EDATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "851f4849-e8d3-48b0-9ab6-ecc1ba6adcaa",
+    "name": "15: KALLARETH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f340bc1-7785-491b-8a48-74baaf8170d5",
+    "name": "16: KALANJOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bba3242-ce2f-4642-a13f-ef3d5b39cdf1",
+    "name": "17: K.I.P",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab9092e4-e8b0-42c4-80cc-a19b92b8c676",
+    "name": "18: KOODAL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bab0d127-790c-46e7-85d0-f4b3ae355cbb",
+    "name": "19: NELLIMURUPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "495b2033-7523-4b2b-aaf5-488d33899323",
+    "name": "20: PALLOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

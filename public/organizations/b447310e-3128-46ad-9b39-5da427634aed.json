@@ -1,0 +1,104 @@
+[
+  {
+    "id": "9ab59858-73cd-4df5-ad38-0aa4e3f76f0c",
+    "name": "1: KUNDAMANBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96bc46e3-c533-411b-9448-8ad8d2a952bc",
+    "name": "2: KURISUMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35bf2bb7-98e6-40b6-a150-5489e1f30fce",
+    "name": "3: PUTHUVEETUMELE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c7ecc45-5693-4aa2-8ff5-6015289f8dfc",
+    "name": "4: PANANGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7438f841-7514-4f87-84d4-e0274924022f",
+    "name": "5: PEYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "610b2105-4f3a-4d5b-8a3f-f5f0f4c743e5",
+    "name": "6: PAVACHAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a9a627a-5d17-42a3-bce3-8b3937c4c54d",
+    "name": "7: EZHAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92523275-d5c8-4a1f-b131-118517b96245",
+    "name": "8: OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "304d7ad8-84fe-43cb-8c19-87b4e4d56843",
+    "name": "9: POTTAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e32fe299-9152-4f28-a99b-719dd9f2b306",
+    "name": "10: VILAVOORKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aafa4d30-641d-4713-8a58-77db9602166d",
+    "name": "11: MALAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60c1be03-ac3f-4cd2-8574-5ede4bf2140d",
+    "name": "12: MOOLAMAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b984e34-e960-4710-aa6b-1fd9cd530a7c",
+    "name": "13: CHOOZHATTUKOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "203d64bd-6c01-4a63-b1d1-e3ab209da77c",
+    "name": "14: VENKUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc6f3e8a-89ba-4028-9be6-a98aebced1d0",
+    "name": "15: VIZHAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c905731d-01da-438a-93a4-ad8ab4310b85",
+    "name": "16: THUDUPPOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a8f49ad-22b6-485a-bff4-e64cc02e3f6c",
+    "name": "17: PERUKAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

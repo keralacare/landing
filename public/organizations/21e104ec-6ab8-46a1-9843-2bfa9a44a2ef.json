@@ -1,0 +1,116 @@
+[
+  {
+    "id": "402296f0-759e-4e36-8e28-3aff28ab752b",
+    "name": "1: THUYYAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35bed37b-1082-403a-a667-af4402c283a9",
+    "name": "2: THATTANPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e24dc7d-0304-4f4b-be22-77a0acfcdcf1",
+    "name": "3: PONNAZHIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d490e2b-cd4d-4e18-adac-87a35c6e3f14",
+    "name": "4: THARAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc19ed96-4b53-4ea3-a6f0-da8fba4e86b5",
+    "name": "5: POLPPAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "512fbce3-abff-4bbc-b9b7-7a4e6cb86e1b",
+    "name": "6: PERUMPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd343e7b-c258-4057-bf0d-f87bf9d6b6ac",
+    "name": "7: POROOKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75fd5449-78d1-4d69-94b8-3857101c700b",
+    "name": "8: EDAPAL ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccc9a695-90a5-4ded-952c-e779bf79f959",
+    "name": "9: THALAMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab90bef1-0c30-4370-aa22-51c245e1d5f9",
+    "name": "10: EDAPAL CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a963525-5c8f-47ae-b2e4-62f76b705b68",
+    "name": "11: VENGINIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea5fe60c-acc3-4402-8ce3-acb8798da478",
+    "name": "12: PONKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4a45f4f-3a88-4efb-b0e5-4ccd7fc3fe56",
+    "name": "13: PULIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de2f156b-be1a-478b-9063-c91418a813c6",
+    "name": "14: KOLOLAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "480313cc-5665-486d-b759-19e02fd6dbfc",
+    "name": "15: VAIDYARMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "286636fe-ad2a-4399-bc41-d660a9f1a310",
+    "name": "16: POOKKARATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "226cd815-d7c2-4bcd-bd86-37815d946107",
+    "name": "17: AYILAKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36bccc20-eb77-4698-8e4c-20aa225727ab",
+    "name": "18: AYILAKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b18ae27a-a385-4b08-b503-d15d160566a8",
+    "name": "19: THUYYAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

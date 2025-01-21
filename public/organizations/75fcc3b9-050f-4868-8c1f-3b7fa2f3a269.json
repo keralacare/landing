@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7499f350-cf6a-4f84-af2f-c619105f1c7c",
+    "name": "1: THEKKANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf5d64d8-f364-48bf-bd48-84ade81a8f3f",
+    "name": "2: OTTATHENGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcf8e9f7-f389-410a-8be9-2be1a379ac97",
+    "name": "3: THANGALPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c88f0cf-abb6-4533-ac62-d4d6a031cc40",
+    "name": "4: WILLIAMS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c4cbda7-fc1f-4652-aa37-b40403a356d7",
+    "name": "5: MANGOTTUPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8c50d19-6f84-49f8-ab9e-0acfc591d93f",
+    "name": "6: MUTHAMMAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46045ecf-31cf-4fe5-850d-2ae83df29f8e",
+    "name": "7: KARUVARAKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbc06f3f-4168-4dc9-a673-639501db07ab",
+    "name": "8: BABYLAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be730a21-c773-4566-aa6d-86a147b3e317",
+    "name": "9: PALAMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f435675-671e-42cb-8d5b-a4968d7ff412",
+    "name": "10: MOONNAMKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b76a865b-49fe-45c1-be5a-3906a57ae65a",
+    "name": "11: THAIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe2e07d4-60a1-469f-b193-f015a65ee346",
+    "name": "12: ILLATHUPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1f2368a-8a9d-4558-ab9f-a445de976d52",
+    "name": "13: CHATHANTHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

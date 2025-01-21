@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ee51a2bf-b66b-4f9a-9d84-0743023fdc79",
+    "name": "1: KOTTUKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "872f34db-d874-44a9-bbd8-23e8276f7c25",
+    "name": "2: NELLANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b74149d-5557-46b1-8798-5343ce2f9099",
+    "name": "3: KANTHALAKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c26d3897-ddb5-48b6-9546-0a9f4f83544e",
+    "name": "4: KEEZHAIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c60c0192-75f5-4636-84ce-a372673963b4",
+    "name": "5: THOTTUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20ed036d-2993-4168-a669-3f3e0612c9b2",
+    "name": "6: MYLACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ab0fe5f-a21f-4d0f-85e2-5f8e6be0c5c4",
+    "name": "7: VENJARAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bee72b4-f23d-42cf-b548-bc4c5dd050c4",
+    "name": "8: MANICKAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a63ca06e-0dc1-4576-a2c0-8f43ffba987c",
+    "name": "9: PUTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "822ec3b5-f40e-44a0-bd48-94ee0a3f5a4e",
+    "name": "10: VALIYAKATTACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7e0ef0a-6690-4918-874a-e87640c8f088",
+    "name": "11: KAAVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "634c76ff-e20b-4a5d-a5ff-41b622080683",
+    "name": "12: MUKKUNNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12582eae-8f5a-44bd-b5ce-c2fa5d3c663d",
+    "name": "13: MUROORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7635ba6b-0d64-43ab-b52f-211153d1d8f9",
+    "name": "14: ALANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d83d629c-2d3f-4f35-9f3b-843da3c607cc",
+    "name": "15: MANDAPAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa991bb9-ab9f-4be7-93af-12d5adb73291",
+    "name": "16: PARAMESWARAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d938e9ff-ff41-4041-b5fa-6a6fe2940e97",
+    "name": "1: KUTHIRAMUNMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddb87d2c-422a-4290-8f6f-f07eedf811d8",
+    "name": "2: PADAPPAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a49a97e-f004-48b5-aaaa-96948c6c5713",
+    "name": "3: KARIKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b024e0ef-804f-41bb-a771-f994d3416981",
+    "name": "4: KUMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01b634c7-8bda-49a2-909b-65d9ba65feb6",
+    "name": "5: KUMBALAM PHC",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc67ad5e-f946-4dc2-b568-6762a6944a0a",
+    "name": "6: PERAYAM A",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8785015-f8b7-4641-91bc-698f860e332d",
+    "name": "7: PALLIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e2fb071-7c7a-4713-998f-1f7fcc4c70e5",
+    "name": "8: KOTTAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91391998-415a-45d7-b28d-a515f7156e4d",
+    "name": "9: MULAVANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c273a8d0-31af-49e9-8469-043fce8d963e",
+    "name": "10: PERAYAM B",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b58cb7c-dc98-4806-8f05-32c812f4b2e7",
+    "name": "11: KANJIRACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee1f3f54-8519-431d-9f39-2513b76f4d7e",
+    "name": "12: NEEROZHIKKIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bf618f9-802b-4d81-83dc-e1997749d7e9",
+    "name": "13: S.J. LIBRARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9486aeca-f6dd-4529-a1e2-761f5188e04c",
+    "name": "14: FATIMA JUNCTION",
+    "has_children": false,
+    "type": "ward"
+  }
+]

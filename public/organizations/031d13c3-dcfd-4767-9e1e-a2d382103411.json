@@ -1,0 +1,104 @@
+[
+  {
+    "id": "5a767679-0475-48f2-8266-45da2e0ba857",
+    "name": "1: KODAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2973da97-2643-416f-848e-f3a375236fef",
+    "name": "2: KUTTIKKATTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9043254b-5a68-4c05-a15b-359fb7fbae53",
+    "name": "3: THACHAMMAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db70ea60-e69d-4812-b371-7014c241847c",
+    "name": "4: APLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "054d80c0-3323-4e71-b929-bfe4c047ee6d",
+    "name": "5: POOKKIPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5434d565-5504-4659-910c-0f2b24aeb16c",
+    "name": "6: PERUMBUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c135ae3-eaaa-47b6-99bb-3d5fd877e58c",
+    "name": "7: KULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "762fe9c0-9c2f-49c8-8bcb-eaaafcc9cc08",
+    "name": "8: VALAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f42196d-f0c3-4b1a-9a6c-fa7dc7a0ffd3",
+    "name": "9: THOOMBATHPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77c6dca8-7bdb-491c-a3bf-bd9e26e5f342",
+    "name": "10: KUNDUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28215a7c-9e3d-4b76-80e6-f68948d9e605",
+    "name": "11: KOZHICHENA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8b9f490-94b3-4ded-89b2-595c7f6b6b0c",
+    "name": "12: KARTHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52893cd2-5aa9-4056-93de-38cb8dd57844",
+    "name": "13: ARAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ced363be-62e3-49d9-a076-8223aa8706d3",
+    "name": "14: WEST BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "133c17d9-a849-4b9c-bc37-ec067c62d822",
+    "name": "15: APPIYATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30a62662-3658-4050-868f-b2147c56d205",
+    "name": "16: THENNALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f9cd84c-78ec-437f-8125-f69b4c59c525",
+    "name": "17: ALUNGAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

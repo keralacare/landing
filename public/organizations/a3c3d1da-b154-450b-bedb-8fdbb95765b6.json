@@ -1,0 +1,116 @@
+[
+  {
+    "id": "2e40df6b-b5e6-4f0a-8a6f-5a486c62a648",
+    "name": "1: KARUVANCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6318ca7d-8bda-43c8-9ed6-9c9c8b58c5bb",
+    "name": "2: KANIYANCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fc83809-d80d-4ca5-9486-74c761851b2a",
+    "name": "3: VELLAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72506e9c-686b-466b-a53c-5bce7aa28863",
+    "name": "4: ASHANKAVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5eae5b8d-a939-4866-a256-1bd64663b6f6",
+    "name": "5: PATTAKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38b18053-e688-4ba2-917e-fa0bcf38ce02",
+    "name": "6: PATHANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "640f687b-e997-4edf-bf86-e1cf7372e036",
+    "name": "7: POTTANPLAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35fdeb02-8788-4fef-b18f-f48e5b0a2590",
+    "name": "8: KANAKAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7655f7a-7bff-4418-9fae-aeea9a7d67a2",
+    "name": "9: KAITHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "615e59db-717c-4692-8894-01d85fe1edb2",
+    "name": "10: PULIKURUMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b45ec47-db99-4ae6-be35-f29b09a35fe5",
+    "name": "11: VENKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f491971-4abe-4d05-934e-ce315ce156ec",
+    "name": "12: MANDALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6518eb60-88a6-4e12-b74b-5f1cb5f6d602",
+    "name": "13: KOKKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "845e2f4f-6a6a-41f4-8995-1de45b423e88",
+    "name": "14: NADUVIL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8758f9fd-481d-423a-9899-50aecae9699c",
+    "name": "15: POTHUKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c474af0-88a0-435e-82f0-e0aaed65f652",
+    "name": "16: ARAKKALTHAZHE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05fca5f2-1f6e-4e4f-88dd-407078f0b3b1",
+    "name": "17: NADUVIL PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2b3898a-dbbf-417c-b088-9b118fab8d86",
+    "name": "18: VILAKKANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54745b56-b954-47ba-8ea3-7f2f23d9f4dc",
+    "name": "19: VAYATTUPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

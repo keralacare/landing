@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b39612e2-2f34-49ba-938d-82d480e41827",
+    "name": "1: VENPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb2417f5-9bf4-4bd8-8f90-d9471328d473",
+    "name": "2: KADALIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f79b21bb-6e3b-43f6-a9e6-f222937fc9c5",
+    "name": "3: KUTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e24f55bd-7945-42a8-a56b-94b5941606ab",
+    "name": "4: KUTTOOR VADAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c2e74fd-e0d7-427e-8655-5e77b68ea005",
+    "name": "5: ELAKUTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d135704f-b1af-4a4c-834b-262fa5c8d3d4",
+    "name": "6: PADINJATTOTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ebf572d-9454-4daf-ad39-04798f9ae773",
+    "name": "7: PADINJATTOTHARA KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70acdfc1-bfef-43d4-a083-73f29422aaff",
+    "name": "8: KOTHAVIRUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82d8cfd6-2eaf-4387-8c82-798b8a28816e",
+    "name": "9: THYMARAVUMKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42c5d3b5-f796-4691-b20e-513275e4b115",
+    "name": "10: KUTTOOR KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21edcb26-11f5-4f62-a73c-5bc6591393d1",
+    "name": "11: KUTTOOR THEKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1aad761-517b-4cac-b20d-6d18b6b08865",
+    "name": "12: THALAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40148662-84b8-473d-969c-efbf60a0a8fd",
+    "name": "13: KUTTOOR PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "701d1a1b-6a1e-4bbd-9ab9-fb9db70119d9",
+    "name": "14: THENGELI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

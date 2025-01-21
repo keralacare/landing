@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dd3095ce-210a-48ae-aa35-e2ebffe9afd8",
+    "name": "Ambalappara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "564350cf-b907-44b2-8bb5-aae47647de44",
+    "name": "Ananganadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c8ddef72-0129-425b-bdfb-d740ac595f57",
+    "name": "Chalavara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "28978d16-70b9-42ba-a930-977f0e8ebd21",
+    "name": "Lakkidi - Perur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "730a5f1b-0c38-4064-9c1e-cc21021c6427",
+    "name": "Nellaya Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "aed7e254-e09b-4a64-93e8-6657eca64c23",
+    "name": "Trikkaderi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e6315989-6cc3-489b-8e0f-c6b8e548da3e",
+    "name": "Vallapuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cc71d74e-8c52-47a9-bf10-498b3794524a",
+    "name": "Vaniamkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

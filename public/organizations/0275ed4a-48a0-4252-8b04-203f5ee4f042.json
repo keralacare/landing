@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3e098ba3-fdba-41ee-ac4d-621d583da4b2",
+    "name": "1: MANADUKKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06e69e0e-ba30-4c81-bdf0-7a2793104720",
+    "name": "2: PULIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bc4c5e8-2e7b-4046-ad00-9276e0d9b715",
+    "name": "3: CHAMMUNDIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "693bd42d-b7b8-41d1-ae3c-64c6c3208b1b",
+    "name": "4: OTTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3691bb5b-0fcb-4ed0-ad7f-f2c56f40c522",
+    "name": "5: PATTUVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf075495-eb29-4673-a8d9-80903d8121b3",
+    "name": "6: KALLAPALLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f4d3136-6f24-4ade-848a-c1191e56687a",
+    "name": "7: NELLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae5c57cc-acca-42b0-9b53-1f70f8ab72a1",
+    "name": "8: RANIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08a5d070-e71e-40ec-a20b-7653694f99b2",
+    "name": "9: PANATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd75898b-3435-4dc8-87d8-7c8a4a8833fe",
+    "name": "10: ARIPRODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d8ac465-6133-4aba-ab29-d043180ceb71",
+    "name": "11: KURUNCHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8fcfdc4-7da5-4356-91b6-26cfdeccf04f",
+    "name": "12: PANATHADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffc916e7-dbbe-4587-bf43-7de83cfa6535",
+    "name": "13: CHERUPANATHADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1b79a72-471e-441e-a7d2-7cdea309d796",
+    "name": "14: PRANTHERKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87f10d3b-b2f0-4d9f-a546-34ee42432c87",
+    "name": "15: ERINCHILAMKODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

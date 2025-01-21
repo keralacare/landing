@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4f188f19-de2c-4545-9403-84a9e6c64472",
+    "name": "1: OVVAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36d0ebec-503a-4384-b46a-e67d0c543329",
+    "name": "2: AYYAPPANKAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "205b7cb2-8e59-43cb-b125-93b647fe4e33",
+    "name": "3: VILAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6954157e-fc6a-4974-8a87-da0c40b8167c",
+    "name": "4: PULLANHIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40609fad-8500-4f68-bb51-11ddd66fd7aa",
+    "name": "5: PALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06cb4d91-2e32-437e-b48c-f09a0cc658e5",
+    "name": "6: PERUMPUNNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d3fc7c1-12cb-4867-89c3-0d768bb20da9",
+    "name": "7: KAKKAYANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "343c7539-2b1d-40f7-9fae-9c2c8dbc5a80",
+    "name": "8: VATTAPOIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e38bf11b-928a-46c3-a85c-5ab208d0db59",
+    "name": "9: GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da8a5981-a7e2-4929-b798-1e1ec346a576",
+    "name": "10: MUDAKOZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b7d36fd-614e-47f4-948c-90ffba402013",
+    "name": "11: KADUKKAPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9369fadc-ffa0-4da4-aa8c-ba0017f30516",
+    "name": "12: MUZHAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ff46848-7aac-4fdc-afcc-6943a2d63cf5",
+    "name": "13: NALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1def3b07-af4e-4933-b08a-dbf748a28957",
+    "name": "14: PARAKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fdf9aa22-34d2-4db8-9af6-52b216e0746d",
+    "name": "15: KUNNATHUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

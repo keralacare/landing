@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d8901c5f-5d10-402c-bd83-7ed8f1b66732",
+    "name": "1: PERUMANNA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1b66f58-e085-48be-ae68-177b1b07f5f2",
+    "name": "2: KOZHICHENA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57778b85-45b8-448e-9a79-b271cfb87e3a",
+    "name": "3: CHENAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ef0786c-e8b7-4b08-ac0e-846f5384d646",
+    "name": "4: PALACHIRAMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e90002fe-18a1-44de-b46e-51d521049fd6",
+    "name": "5: KANHIKUZHINGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5270b5a6-406d-42f3-8b2f-23de1d9cfecf",
+    "name": "6: KLARI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85ac7dcc-269b-4e5c-9889-466dc46dab37",
+    "name": "7: MOOCHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "406ee566-0172-4a2e-afe2-0f538244b44d",
+    "name": "8: KURUKATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e766324-6521-4cd7-848e-a7a61ab8b15e",
+    "name": "9: KAZHUNGILAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8862e50-1290-40dc-ba4b-109dc2143579",
+    "name": "10: PUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5635cc21-0e09-43c7-bb35-e7e9e37e6d03",
+    "name": "11: KUNNATHIYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3922844-00cb-42d1-aa4c-03530274de30",
+    "name": "12: KLARI OTTUPARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d58ff053-6d31-42b2-a57b-94b407eabd21",
+    "name": "13: CHOLAMATTUPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c337f2f-40e6-4550-986f-8d1999223f08",
+    "name": "14: CHETTIYAMKINAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed59472b-849b-4bc9-ada4-67580c1079e2",
+    "name": "15: KIZHAKKINITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1208125-c21f-4eea-a2d6-26dc45be0be8",
+    "name": "16: PERUMANNA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

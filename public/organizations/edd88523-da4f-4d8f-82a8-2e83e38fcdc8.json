@@ -1,0 +1,128 @@
+[
+  {
+    "id": "5d6fc1d6-a4ac-49d5-8936-aff5a00d9518",
+    "name": "1: KANWATHEERTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0769f8c7-04c9-4b3c-924f-ed9961aded49",
+    "name": "2: THUMINADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1f429e3-3f47-4edb-b79c-18968faf659a",
+    "name": "3: UDYAWAR BAIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "069f9861-7f82-4edb-9e10-7697d5dd7eda",
+    "name": "4: KUNJATHUR BAIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55437a9c-8266-46bc-bbb8-6ce0edea4dd7",
+    "name": "5: GERUKATTE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c476675-f6de-4327-9320-1bff2cc0de42",
+    "name": "6: UDYAWAR GUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6bbad4c-11c2-4ed3-ba2a-b8fb1ba7e7b0",
+    "name": "7: MACHAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9183be9-76d1-4d29-a456-bc601a9b4357",
+    "name": "8: UDYAWAR GUDDE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ae47069-8ffd-498d-a4a2-5e6a33d0bd55",
+    "name": "9: BADAJE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7712c856-40ea-4a80-ab58-637db93819ad",
+    "name": "10: ARIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d385e9e3-5fee-431d-9d6f-3e061b8e9e07",
+    "name": "11: KANILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7ab9199-ff5e-4fb4-964f-a473d7ab2412",
+    "name": "12: VAMANJOOR GUDDE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dad1d4d3-9d1a-4c31-8b97-5d24d7638016",
+    "name": "13: VAMANJOOR KAJA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ca27cd8-f358-4c47-8bbd-ff507949b183",
+    "name": "14: BANGRA MANJESHWAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8786c85b-d28c-4107-8564-179d296ac25e",
+    "name": "15: GUDDEKERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0025b39d-1a78-416d-bf48-8d28b051fb62",
+    "name": "16: KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db189146-5124-48db-bd09-c9615f40995e",
+    "name": "17: BAVUTAMOOLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3473081c-05a2-430f-86f7-f41c5b7aa922",
+    "name": "18: AYYARKATTE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68234733-9b5f-44e3-aa56-f14e922f9b32",
+    "name": "19: KUNDUKOLAKE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9f4cb91-bf2b-4c58-a590-3154cb05bec5",
+    "name": "20: UDYAWAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1a623b5-59ef-416f-8908-dc9a308a1511",
+    "name": "21: UDYAWAR MADA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

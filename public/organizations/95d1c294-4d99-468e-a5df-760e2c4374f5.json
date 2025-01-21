@@ -1,0 +1,110 @@
+[
+  {
+    "id": "753f3c36-6d7f-4ed4-906f-cb14e4b3d0cf",
+    "name": "1: KONGATTA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cb61db9-4632-4107-be26-0eae830049b9",
+    "name": "2: POOKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e6cf66a-6b49-4470-8c57-3735bb623eb6",
+    "name": "3: OTTACHIMAKKOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1673bf77-72d5-4090-a739-3c8929f03f70",
+    "name": "4: SOUTH PATTIAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2249152-dbfb-427e-a877-098ba44b8d46",
+    "name": "5: MOOZHIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38d51ea4-6e20-4903-8734-528edf408a41",
+    "name": "6: PUTHIYATHERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "493efa5d-97ff-490d-929d-edd92fffebb9",
+    "name": "7: MUDIYANGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce73630b-8306-43e9-a00d-cc95374cc2c0",
+    "name": "8: KARYATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1b7c016-5b11-4eb3-8077-3b9d3bea8bad",
+    "name": "9: KOOTERIPOIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c91819bf-2866-480c-b801-4022e63fa3f5",
+    "name": "10: CHEERATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b293f23-d3c7-4b8a-85a1-1769285d940a",
+    "name": "11: POOVATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5503ee68-2be9-4df4-866e-45bf0677cfd7",
+    "name": "12: KANNAVAM COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be33a527-24c7-4251-bcdf-172235d4f2a5",
+    "name": "13: CHERUVANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bbf5e43-a21b-4488-9d2c-65884f34d250",
+    "name": "14: PATHAYAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f95ca44c-d795-4890-8dbd-82e97220b93e",
+    "name": "15: KOTTAYODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "542807a4-3a7f-4a00-993e-0a831f3e1279",
+    "name": "16: KONKACHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f84f9230-db6c-474f-b9ae-17ca7361895f",
+    "name": "17: EAST KADIRUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a88f8ab-d5a9-4a0b-8726-9c161fc02e03",
+    "name": "18: KONGATTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

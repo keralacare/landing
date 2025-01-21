@@ -1,0 +1,116 @@
+[
+  {
+    "id": "abf7e4e9-84e6-492b-8a2f-9ba261ccbac7",
+    "name": "1: CHOOTHUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d784071-a8a3-4133-b69d-e23975421d12",
+    "name": "2: APPADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88052da6-f17d-4a6a-aa26-6ec50f574998",
+    "name": "3: MYLAMBADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f44de280-b62e-4c2a-a0f0-da43739de393",
+    "name": "4: C.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "babb069a-41ed-417a-bde8-06c044693e25",
+    "name": "5: AVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cc656f4-b889-4643-9f7d-90eef49785ee",
+    "name": "6: KOLAGAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0dea028-3e96-4d3b-877d-a9cce32c166c",
+    "name": "7: RATTAKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd26d6a8-1977-47b2-b1a8-3e2d7f86f251",
+    "name": "8: KRISHNAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49ba5579-7818-4e97-8983-abf255e3b085",
+    "name": "9: CHEERAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd01308c-5461-4a04-8522-a5645133be2a",
+    "name": "10: VATTATHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6024ee82-34e0-439d-905f-f9c142e4f2cc",
+    "name": "11: KAKKAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7c98af9-b82a-47d8-95eb-f1880a802897",
+    "name": "12: KOLAMPATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f073e91d-6b32-422c-a598-d1e79c612d3e",
+    "name": "13: MEENANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a184217-d381-4eeb-8c24-f15925ceeee8",
+    "name": "14: PURAKKADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4a53361-ac3e-4bce-8890-95db6487c4e8",
+    "name": "15: VENGOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49649e8e-0a22-4545-8b12-b86aa7594fe2",
+    "name": "16: PANNIMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec0da2a3-d855-4faa-b8a7-ce4dd1b8f0b2",
+    "name": "17: KAPPIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36c04ca1-f077-4a95-a665-2314538fa417",
+    "name": "18: PALAKKAMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d31a56b8-4594-4126-ac9e-8e681d2af2d3",
+    "name": "19: MANIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

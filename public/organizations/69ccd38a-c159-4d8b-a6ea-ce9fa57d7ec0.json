@@ -1,0 +1,128 @@
+[
+  {
+    "id": "db5d29cb-84c8-40d2-bcea-516fb5c43b3b",
+    "name": "1: AROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00c9e522-5249-442e-897d-d187780aee0f",
+    "name": "2: OLIKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2028487d-2dca-4b91-a97c-38809997475f",
+    "name": "3: PUTHIYEDATHPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d58465d-ea02-44c0-8112-d934aa043f6b",
+    "name": "4: PANACHIKAPALLIYALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b45ea6db-f1bb-410d-af82-f8c7a4562215",
+    "name": "5: MANGATTUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "723c42be-9b84-4081-b5c9-e632bf35b4fe",
+    "name": "6: CHERUMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3a97f8f-f6e2-4a16-bb15-24c6437e28e9",
+    "name": "7: VALIYAPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b6adc30-fa38-40e1-9d9e-0839b320c71c",
+    "name": "8: NOONJALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52abc55e-57c6-4f41-a9d1-748ffc02ae8d",
+    "name": "9: KALANGOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f2ad2d2-032a-4219-ad64-2c3aa1fcd79b",
+    "name": "10: PARAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02e55cf2-833c-4901-b6f4-1ef55db09a1e",
+    "name": "11: THALEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f361176-3aa7-4fe0-8613-62f0c151cba6",
+    "name": "12: ALPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f6bf453-cbc8-432c-bb45-949814b8384c",
+    "name": "13: KODIKUTHIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a438a3a-bae3-4dc7-b561-aa5e218bd16c",
+    "name": "14: PANDIYATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae0ccecf-fbb1-4851-bdc0-08019109935b",
+    "name": "15: KOTTAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fd598cb-f67f-46cb-a049-c9628d0f84d6",
+    "name": "16: UNNIYATHIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78894c1c-ac92-47be-b8c0-6886eeb409cd",
+    "name": "17: MUTTAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9363387f-dc0a-44e9-b778-eb3262bef094",
+    "name": "18: PULIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c80f90c-a534-4d12-a175-72b13e8d6046",
+    "name": "19: POURABAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8f5576f-8ac8-47f0-9e1c-88316fcc835d",
+    "name": "20: ANDIYOORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d97db910-0a11-4a6e-b412-329b6f8af585",
+    "name": "21: MAYAKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

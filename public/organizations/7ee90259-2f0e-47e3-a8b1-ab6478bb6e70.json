@@ -1,0 +1,116 @@
+[
+  {
+    "id": "25f5c446-ce9c-4711-ad9b-204e4c60ea86",
+    "name": "1: KOODATHAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56963fc6-c37a-4194-bc3f-256e18a8d894",
+    "name": "2: KAKKATTUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ef97246-bd0e-4151-9d16-502c46eed152",
+    "name": "3: CHEMMARUTHAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58893e35-cad2-4afb-a2ae-3aeb781834c5",
+    "name": "4: PERUVILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e290a21-68c3-4332-94f2-f2a25b4e303d",
+    "name": "5: KORONTHIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd83f9dd-67b9-4598-a039-aab39077248b",
+    "name": "6: OMASSERY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f232c85-1ce4-43e7-bcd2-3621736db0e1",
+    "name": "7: OMASSERY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd4b3fa1-a88e-4618-b0b8-c60fc8bbf066",
+    "name": "8: AMBALAKKANDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfe9b358-4465-4dfd-9c07-e74b2de2ffc1",
+    "name": "9: ALUMTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0ab0ca0-32c3-4ad3-b6c9-079f1681d2e3",
+    "name": "10: VENNAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "816f478b-38f1-44b1-b5d9-cc36859a0f6c",
+    "name": "11: NADAMMALPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf40cc99-8630-4158-a45d-8ae5d706ef88",
+    "name": "12: KANIYARKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aebbf68b-66e8-4fdf-92cd-f1962083c479",
+    "name": "13: KOLATHAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0ff7efc-c63b-4465-9b88-fe4f1ad1b692",
+    "name": "14: VELIMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae5a2823-3b86-4040-a9f0-b6ab41d4cdd0",
+    "name": "15: PUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c18de59-0117-468a-8a17-17882ed9392e",
+    "name": "16: MANGAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bab2564-7734-4f3e-824e-ea7b1acfe5bf",
+    "name": "17: MANGAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "534e38b2-ede4-497a-b095-ae83f5cdb500",
+    "name": "18: CHAKKIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ae408fd-2eae-4fb6-8255-db5537cbcc36",
+    "name": "19: MEPPALLY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

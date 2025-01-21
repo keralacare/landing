@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4154bbcd-dc66-4417-aa35-6f3bb997e61d",
+    "name": "1: KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae49c639-a96f-4216-a4f1-5afe32344beb",
+    "name": "2: MAYABAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "270e4889-8f33-439f-aeb9-39db3b3f01d9",
+    "name": "3: CHATHANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa7e0d6f-7c7f-40fe-9924-6fb4add672e3",
+    "name": "4: PANCHAYAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b3495e8-4cc6-49c4-84d8-7b3dbbb90f88",
+    "name": "5: PAZHANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f2c7c49-60ef-40bd-94c3-25c47e2ba957",
+    "name": "6: HIGHSCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01c7427c-c119-466a-8e72-b6a56f8475a4",
+    "name": "7: ANIYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05f5304f-9449-40ce-a412-715a4ea4851c",
+    "name": "8: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eca00797-04d6-4674-b243-81d73a124d3d",
+    "name": "9: MOORIPADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f13833a-5a93-4c19-af8a-4b39b8aa6a14",
+    "name": "10: CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7034765-966b-441b-9943-a3009e0ebdb0",
+    "name": "11: NETHAJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e77eb02-3288-424a-8af3-ca3e56c0a706",
+    "name": "12: VILLAGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a8a1e24-e5f0-470a-bb87-a16be18237ac",
+    "name": "13: KANNUPILLAKETTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "810a975a-8be0-43ef-a5e4-9b74c90ac9ab",
+    "name": "14: VACHAKKAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e4ab9e1-6d4a-481d-aef7-f21b702b12a7",
+    "name": "15: ILLATHUPADI WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

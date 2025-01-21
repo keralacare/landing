@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7a560700-9d6d-4116-b43c-e80685fcc00a",
+    "name": "1: KADAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a22474a5-661d-48a3-b961-d568b43a7b9e",
+    "name": "2: POTTUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac87f584-e59a-4212-a04e-8999f7c5bf6a",
+    "name": "3: KADAYANIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1bbbe2d-d4ec-420f-810a-69ff032df3c4",
+    "name": "4: PARACKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0831f91-bd64-46b7-974d-bdd0f23ea2b0",
+    "name": "5: KULATHUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59877446-474a-4bc9-ad7f-c7e69f05879e",
+    "name": "6: MANIMALA TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7366c1c-572f-49bb-bf5b-10dbfc4caad8",
+    "name": "7: KUNNUMBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc689c29-ce99-4e24-a2a3-db456b9bfe95",
+    "name": "8: MALAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33173341-2938-4a7e-b332-00d85c7c91cc",
+    "name": "9: AMBEDKAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2218c503-039b-4c67-b502-cb1b388d466c",
+    "name": "10: ERATHUVADAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7203af2-ec46-4c8d-83ec-3aebed1464e0",
+    "name": "11: VELLAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6b1e36f-f407-46bd-a92c-97c7b695849c",
+    "name": "12: THAZHATHUVADAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0024f333-7940-405f-8904-8ef9beb2d7d3",
+    "name": "13: KULATHOORMOOZHY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

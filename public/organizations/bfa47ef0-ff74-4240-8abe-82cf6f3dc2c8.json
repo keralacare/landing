@@ -1,0 +1,104 @@
+[
+  {
+    "id": "9849fd46-83c5-4059-971b-9289ae10ba0f",
+    "name": "1: THIRUNELLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4860f0d4-a13f-4539-913d-54350875180b",
+    "name": "2: APPAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ee49c72-a49c-411e-9e10-92626d14d13a",
+    "name": "3: ARAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3be9449-fab1-4dbb-88a6-f88856ef2999",
+    "name": "4: ARANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3728a3ba-9de5-4c1c-a81e-7ed5c9fd16aa",
+    "name": "5: THOLPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "166637f9-76a2-40cd-a66e-4160f1d09b83",
+    "name": "6: KUTHIRAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5aa9c00c-ca90-44f5-b5b4-bc4524ed1471",
+    "name": "7: PANAVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8aaf8e08-762a-4870-8637-3408b4d588bb",
+    "name": "8: ALATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88710c39-ea85-4453-a8e3-aefbc4bcd86d",
+    "name": "9: BEGUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37993e9d-5901-41f0-84f8-2fdff140981e",
+    "name": "10: BAVALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e753fec1-a299-4c32-8d94-11446a46fe9b",
+    "name": "11: CHELOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee314de3-cebc-416b-a1fd-ca8da48e874e",
+    "name": "12: KATTIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54a5fc52-b4b1-41db-9d0f-0847fe028e8a",
+    "name": "13: OLIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5dccd51-48b2-4ffd-a517-87710e563ed1",
+    "name": "14: EDAYOORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "517505a6-9b8d-4621-bf53-8b86cf7ef8cc",
+    "name": "15: THRISSILERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77e90f58-f921-4db7-b138-d398ab1b7171",
+    "name": "16: KAITHAVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63f71905-7b34-4846-b92e-55b410681880",
+    "name": "17: MUTHUMARY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

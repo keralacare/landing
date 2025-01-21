@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dcddd3c0-0f3e-4513-ad81-8c19309830de",
+    "name": "1: CHEMPANTHOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dec7c3f-f853-41c1-a315-e30bd14e0143",
+    "name": "2: KORANGODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eec99a4e-55e0-4a62-95d9-923172dd3f40",
+    "name": "3: KARAYATHUMCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ed58c9e-ff9a-4516-bbd6-ac26fac8d068",
+    "name": "4: KATTAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e826665-cc33-4448-a203-a1a84a995c84",
+    "name": "5: AMPAZHATHUMCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0beda7df-9b02-46fb-b495-48a07d1e6907",
+    "name": "6: KAMBLARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f67170f-37c6-49fa-94d6-10606f5a9940",
+    "name": "7: KANAPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e382b8d-f1da-4117-a8f2-edb8e836373c",
+    "name": "8: PAZHAYANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10064108-f348-4e67-9dfa-b6bf3df891cb",
+    "name": "9: PANNYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49bf6cad-c8ee-4efb-99b5-a5567fd020cf",
+    "name": "10: KAVUMBAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "020a5cf0-a96c-487e-a421-8d526b63a27e",
+    "name": "11: PULLIMANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4df5eed6-01ea-46da-af2f-e9aa556ffe11",
+    "name": "12: AYCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b12e037-a87c-4536-a1ab-c851bb49ba89",
+    "name": "13: ELLARINHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c26c0ca-9b95-4f11-bdb4-b1d185348134",
+    "name": "14: KAITHAPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fef0c6f-7e2c-4f79-ac60-a2bdc5728b6f",
+    "name": "15: MADAMPAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2afbc89-946e-4691-ad50-a291d0545905",
+    "name": "16: CHERIKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "789d9fa6-017e-4e53-989d-89692a3848fa",
+    "name": "17: NEDUNGOME",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "885f801d-8801-4ca8-8bc3-79e68286da9d",
+    "name": "18: CHUNDAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d4907dd-9452-48b8-8811-c91dd2e9637c",
+    "name": "19: KANJILERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b3578e0-a79d-47f3-a052-8c4ebdec974c",
+    "name": "20: BALANKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d997f110-a9af-41d1-b9ca-82a67da95b5b",
+    "name": "21: VAYAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53c99ae6-cd96-4354-a976-8917521c4d6b",
+    "name": "22: KANIYARVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0fab047-1bde-4861-b44b-8adb92822a92",
+    "name": "23: KOTTUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bddf7943-4b22-4031-ba14-8d0263b8e0a2",
+    "name": "24: PANCHAMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d6b0d0f-cd00-4cab-9a7a-c7aee5c1dd72",
+    "name": "25: AVANAKKOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23ef2a14-25b1-475a-af30-1888fe539cca",
+    "name": "26: SREEKANDAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "709ffb5a-85c8-40b6-95b3-7a9eced2db83",
+    "name": "27: CHEPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cb29d66-439f-4523-90c6-2756d17aaf13",
+    "name": "28: NEDIYENGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63d1a796-8ef7-4dee-83eb-6bd70d53fc98",
+    "name": "29: PERUVANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bddb8bd2-7ab2-4dca-babd-df53ccebbe04",
+    "name": "30: NEDIYENGA KAVALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

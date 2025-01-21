@@ -1,0 +1,116 @@
+[
+  {
+    "id": "cb8dc2b3-3359-4f3d-9336-d8062736159d",
+    "name": "1: THEKKUMTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb0dd853-be7f-40b5-8c14-07218a970945",
+    "name": "2: VATTAKKORU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cf146eb-4cf2-4215-ae4a-afe3f11d1e53",
+    "name": "3: KORANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22d1bb77-d20e-46be-90f0-3e622dcd778c",
+    "name": "4: CHUNGAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae78cf9d-f23d-404d-a1e3-4cfd48c8ace8",
+    "name": "5: CHUNGAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49f33b41-599b-4167-acfc-c2974c292e83",
+    "name": "6: VEZHUPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5fde1e82-82d4-4492-b976-80fe8e48302f",
+    "name": "7: THAMARASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bd3735c-862d-4863-a2e4-de49b5ca73ff",
+    "name": "8: KARADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "731437dd-cc5a-403e-88b3-db69c9837e17",
+    "name": "9: KUDUKKILUMMARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "989fa00d-f9d6-41c5-899a-1eece935f01e",
+    "name": "10: ANDONA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5db23ce4-8ab0-4482-8882-7ee5eee96e75",
+    "name": "11: RAROTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44ffafcf-71e1-42c4-a74e-fbdcbf0f6c10",
+    "name": "12: PARAPPANPOYIL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b94571c6-c5d8-4962-bf0c-f8bafdd63629",
+    "name": "13: PARAPPANPOYIL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89eaa125-4835-43b2-ac73-76c99ee38bd4",
+    "name": "14: CHEMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "caf86049-9da3-46bc-8eeb-fc4ea4942795",
+    "name": "15: KEDAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27445e71-7f1d-43b3-926e-403b18703722",
+    "name": "16: EARPONA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e49411b0-1ec1-4f7a-8dd0-6aec818b8290",
+    "name": "17: THACHAMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39c195bd-2c78-427c-a48d-6bbd9fcd80f6",
+    "name": "18: PALLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4447be94-56ed-4810-9d59-37dc872e30fc",
+    "name": "19: AVELAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

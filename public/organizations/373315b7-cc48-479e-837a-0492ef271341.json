@@ -1,0 +1,98 @@
+[
+  {
+    "id": "170d8724-0585-48b0-88c7-8d3437a222fb",
+    "name": "1: BETHURPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2184deab-403b-4e2f-a1f1-9e418c44ee35",
+    "name": "2: CHADAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e63ab9ea-82d0-4243-ae88-e2fe415fd38e",
+    "name": "3: SANKARAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab597ee4-25a6-441b-a762-3890f5e6d5d6",
+    "name": "4: OTTAMAVUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca750ab7-b0d8-4f6d-a572-e897067e0937",
+    "name": "5: BANDADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06c723d7-8aca-45e0-9b16-414a9f18729e",
+    "name": "6: PALAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c05e8fea-50ea-409c-bd97-16c4a8add6be",
+    "name": "7: BETHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91e720c3-eb29-4680-a99c-e236654d12af",
+    "name": "8: VEETTIYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "536a96ea-1b2a-4025-b41e-77210f343cac",
+    "name": "9: CHOORITHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a1f67c3-567d-4f26-ab52-27c82a17d7fa",
+    "name": "10: ENIYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c20a9b57-d1ea-4e43-877b-62facb68920a",
+    "name": "11: KARIVEDAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78273e45-9a35-4d80-be98-f9501feaf018",
+    "name": "12: ALINUTHAZHE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0c1071a-fb80-4cce-a735-dcf9f69ff410",
+    "name": "13: PADUPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f547f47-d815-4b2c-a5ef-b8f0e07b1e70",
+    "name": "14: NHERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "013fdd7a-ddf9-4a7c-aa78-59d3a2bcc6d7",
+    "name": "15: KALAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "620addc4-319f-4f7b-badc-c23a362daf31",
+    "name": "16: KUTTIKOL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

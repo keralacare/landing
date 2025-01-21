@@ -1,0 +1,110 @@
+[
+  {
+    "id": "778cf034-da8a-4e59-8693-1dd13f8180b4",
+    "name": "1: KOTTUVANKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24db91ef-0fec-4e60-ba50-2e3a4747bcca",
+    "name": "2: MUKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b47e672c-b635-414a-bfdb-601cda2aa4df",
+    "name": "3: KOONAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e87e087a-7719-4d78-9650-1b4a0ea80bde",
+    "name": "4: PUTHANKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "677c9527-f305-4c7e-afb9-b481ebc95b97",
+    "name": "5: OONNINMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3a8f997-e9fd-4b1b-8745-96f4cb85313d",
+    "name": "6: EZHAMVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ef9dfe8-6899-45de-8939-6b78e93d5111",
+    "name": "7: POOTHAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d6ee755-3258-407d-b71b-1729971176bc",
+    "name": "8: H.S.WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfbee0f2-76a8-4820-be8a-c48ec9ae3310",
+    "name": "9: PUNNEKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68ad6d68-99bb-4823-a3d4-ca2e33dfbf29",
+    "name": "10: EDAYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b8d0cad-9c46-4784-a4c1-7901535d9191",
+    "name": "11: STADIUM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b963306-30ac-4700-813e-87ce004d4164",
+    "name": "12: NELLETTIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "755cde65-d3f1-4386-bcb6-a0ff1919eebc",
+    "name": "13: MAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f26714c-8791-4f1a-bb80-a821fd712622",
+    "name": "14: EDAVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0a97654-fca8-4318-952b-f520a1cb1eef",
+    "name": "15: KALAKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8198ad07-e872-47b8-b273-ed18144c6620",
+    "name": "16: P.H.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa6d1e30-1e2f-4715-a58f-9ae381f31661",
+    "name": "17: PERUMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e166936-c1f4-4a48-b6a5-e00a981ab3c9",
+    "name": "18: NJARODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

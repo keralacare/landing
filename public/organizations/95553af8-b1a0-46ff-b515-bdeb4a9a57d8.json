@@ -1,0 +1,86 @@
+[
+  {
+    "id": "18141ca2-f389-4e67-afa8-05b19f682efe",
+    "name": "1: POOTHAMKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8587fea8-0157-48cb-a667-d2e0720ee0bc",
+    "name": "2: EDALAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8ee45f3-4e29-4b9b-91fc-95ceee13ec9a",
+    "name": "3: THABORE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4333d80c-16fc-4845-9675-df01f2ec2f19",
+    "name": "4: KOKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e89d587e-250d-454d-a9b8-c9fea96c523c",
+    "name": "5: KANAN DESAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bfec3bb-0eb4-417c-81e4-d8d83d00fb6f",
+    "name": "6: BASELIOUS NAGER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b43e8160-fb7e-4d16-a59a-13c1b488127e",
+    "name": "7: MOOKKANNOOR CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f9957ae-4b01-4b04-918c-f24636b6f065",
+    "name": "8: KOOTTALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f813bf0c-3aab-427e-accb-d95301aada42",
+    "name": "9: MOOKKANNOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0715656d-8e1c-4661-bfa3-1a8cf075555d",
+    "name": "10: AZHAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24fe26cc-9e5a-46ae-84ce-393af9f8fcea",
+    "name": "11: HORMIS NAGER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7aae263-cc71-4126-a21d-8befee0bf331",
+    "name": "12: VATTEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ad0e325-3685-4d41-b538-bb35d290bfb1",
+    "name": "13: ATTARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89b0fd4d-7541-423b-a089-899407c815b4",
+    "name": "14: PARAMBAYAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

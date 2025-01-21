@@ -1,0 +1,92 @@
+[
+  {
+    "id": "b6771bca-789f-45aa-b254-08620e4d5e43",
+    "name": "1: KARAKUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da4404fd-8cf5-4214-8a88-d047f95fd39d",
+    "name": "2: MUTHUTHALA PADINJARRU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9772a33-92bf-4c1d-8d17-5584fb1b0219",
+    "name": "3: MUTHUTHALA KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a00cd8e-cfb2-4663-ae9c-7e8ed91481fb",
+    "name": "4: PARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb37e2a2-b171-4e90-82f6-601de90b7784",
+    "name": "5: KOZHIKKOTTIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0276a8d9-c1e0-4f97-8dce-3a9381d21b26",
+    "name": "6: ALIKKAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad8a7487-bf06-4bd8-ad2f-b4ddbbf6aa9f",
+    "name": "7: PERUMUDIYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14ad35d5-1917-46ac-b7ad-192decc427a1",
+    "name": "8: NABRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c27aa87a-5a21-47e2-839d-c69f2e374834",
+    "name": "9: CHERUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fddd037-d5fd-41ef-890d-108bd5b2a8d4",
+    "name": "10: THARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbc17dd6-d901-436e-87e8-f1123b79d4f2",
+    "name": "11: KODUMUNDA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff1b68fd-8508-4123-b70f-2e8486e9caa4",
+    "name": "12: KODUMUNDA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ec5bc35-f647-4ca1-94aa-106c288adc4d",
+    "name": "13: THOTTINKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f72aa1b1-a9e1-4446-a22e-8a2cf7212cb9",
+    "name": "14: KOZHIKKOTTIRI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8c4b012-1b21-4c26-9a50-76c6bdd5b4ef",
+    "name": "15: NALANGADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fcd1ecf4-812d-4691-960f-0b4a1f0c6165",
+    "name": "Alangad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8eba6917-5a82-4af5-8a09-07ba64f0636c",
+    "name": "Kadungalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cd646dee-2a70-4eac-99ce-c82fb9afc31c",
+    "name": "Karumallur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3d539848-226d-401c-9475-554444bb9db2",
+    "name": "Varapuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "0dde59cf-0cff-41fe-a827-3cdbc817fd14",
+    "name": "1: KAYANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bafd71e-b5f7-48d2-8fd1-f80ceab087f6",
+    "name": "2: MELAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c095aab-771b-4ab5-a798-5839c063447f",
+    "name": "3: MARADY CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0534bd26-31a9-4642-a99b-ec9052b88135",
+    "name": "4: THAIKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57cef466-7cd7-452f-89bc-16851b822b90",
+    "name": "5: MANJIRIPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c839f33-626c-4f05-b376-f56273fb11bd",
+    "name": "6: NORTH MARADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d982e42c-a0c5-4b25-b749-4900495f2e1f",
+    "name": "7: THEVARKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe8d45e0-f4e0-47bd-857c-02841f4cfd7a",
+    "name": "8: MANGAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e57b192b-fae2-479b-970b-b06acd7bac79",
+    "name": "9: CHANGALIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9081cb32-694a-44b0-be5b-3a63bfce8de8",
+    "name": "10: EAST MARADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57bc932c-2764-42b8-8725-427872740c42",
+    "name": "11: MANIYANKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31d32dce-71e5-41d9-99e7-1e7b6aa2b1d1",
+    "name": "12: PARATHATTAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7a5359f-89f6-4015-9a35-dc26a0a98e9c",
+    "name": "13: KANDAMCHIRA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

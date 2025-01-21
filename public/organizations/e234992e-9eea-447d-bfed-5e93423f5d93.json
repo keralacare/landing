@@ -1,0 +1,80 @@
+[
+  {
+    "id": "04acc5e1-d0d4-48ad-8b0a-1056bbb2f322",
+    "name": "1: CHERPUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7467ef0-6f49-41a8-8a9b-014f56f72725",
+    "name": "2: KEZHUVAMKULAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63b52528-fe89-4734-965c-024f36fa38cd",
+    "name": "3: MEVIDA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02ba076a-7b62-4ad3-83e9-55c0a5e376ed",
+    "name": "4: MEVIDA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f510008-e819-4cce-b496-63a84dfc68c7",
+    "name": "5: MEVIDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d007c553-ef09-4b80-adba-9fa768d253a7",
+    "name": "6: MOOLETHUNDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a864bea3-3a8b-489e-adcb-eb9e3d314adb",
+    "name": "7: THODANAL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c86f36ac-9c6b-412f-ae3a-abfc7341d889",
+    "name": "8: THODANAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b141d2c-bf02-4f09-84a5-b1b07a9d5ad9",
+    "name": "9: MANAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f39cebc4-24e1-4bea-b33c-1d3d68c1cafa",
+    "name": "10: THOKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d8a34f3-78a4-4226-8aa7-a5ea9c426e2f",
+    "name": "11: KOZHUVANAL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33fc5cb1-1288-46ca-8f77-3dd18fc58c07",
+    "name": "12: KOZHUVANAL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4f013fd-cc1c-4897-8158-ce84aa9dc8e7",
+    "name": "13: KEZHUVAMKULAM WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

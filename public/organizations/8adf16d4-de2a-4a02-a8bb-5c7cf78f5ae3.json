@@ -1,0 +1,134 @@
+[
+  {
+    "id": "54dca81a-2118-422f-9667-ecfffe13fe50",
+    "name": "1: CHALIYAM  BEACH NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fad5ef93-3814-4952-b23d-7ce9e2290ed9",
+    "name": "2: HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2601ac9f-1f3c-43c8-bc13-bbff4b8579f4",
+    "name": "3: CHALIYAM ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a451bf72-d57d-4737-bdc9-c054299fbb0c",
+    "name": "4: MURUKALLINGAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d45be47-96eb-484a-b2ad-8c111a0492bf",
+    "name": "5: MURUKALLINGAL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b5444b9-bf9c-474b-8c20-4468030e8d87",
+    "name": "6: VADAKKUMBAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d34e10c-6595-4257-8cef-b05f424886f9",
+    "name": "7: KARAKALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e5b563d-a90c-492f-8b04-686250113f87",
+    "name": "8: MANNUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45ccc4c1-a2cd-4409-88db-b7af569a56c3",
+    "name": "9: PRABODHINI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e294697-168f-4936-9cbb-33aa0ac11f4d",
+    "name": "10: MANNUR VALAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "232e2d5e-0c0c-4ea5-83a5-001995c6ceb1",
+    "name": "11: ALUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "917e3ae8-3e09-427b-bce1-657470d1f207",
+    "name": "12: KEEZHKKOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "390c6978-8aea-4c55-888b-bf658e7ba779",
+    "name": "13: KAITHAVALAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26f4fb7e-2070-4540-82f2-4332d496db81",
+    "name": "14: KADALUNDI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b92c87e3-242b-426e-a389-8ac64df8c1aa",
+    "name": "15: EDACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f33efa65-327f-4c5b-9a5d-e8085253b893",
+    "name": "16: MANNUR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37a2da94-5206-4f76-9da2-093740ad05ee",
+    "name": "17: PAZHANCHANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "378070c1-8b7c-4262-9e79-3f3a3b975175",
+    "name": "18: KADALUNDIWEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01c15ce7-73c0-416d-9c33-69620297c627",
+    "name": "19: VAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8279ec7d-1355-492b-b524-a9404234b25c",
+    "name": "20: KAPPALANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39ca1dd6-0fbc-4b96-8130-13f4e814f4bc",
+    "name": "21: KADUKKA BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfec95eb-b14d-4824-bc77-df9ee3240b34",
+    "name": "22: CHALIYAM KADUKKA BAZAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

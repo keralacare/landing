@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f3eb61d2-b513-4e62-a0b2-573144746278",
+    "name": "1: PADINJARE KOODALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1667d0c-223a-441f-b607-f7e8f1bca3b6",
+    "name": "2: KIZHAKKE KOODALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "051d21fe-8d3c-4238-9d54-12f45f4359ca",
+    "name": "3: KOTTAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38383166-5082-4cbc-8af6-c9bcae3bf962",
+    "name": "4: KAVALIPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd8a8462-695a-4425-86da-93eba936483c",
+    "name": "5: KUMMANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c49dd1a-8f72-4e22-a8af-ccc0f62325f6",
+    "name": "6: CHERPUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "122c9c47-c77b-49b8-a988-4b201b0e35e9",
+    "name": "7: PERINGOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f51c8104-5fe2-44a9-8f30-81b960835acb",
+    "name": "8: CHEMPILAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb01714d-ce50-4838-9cfe-e1c664e96251",
+    "name": "9: UTHAMESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77d1055b-54d0-4a4d-8380-8a3af5040e7d",
+    "name": "10: ENGINEERING COLLEGE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab5625f5-ea5b-4cac-9e30-80096840f36e",
+    "name": "11: KIDANGOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "131dde43-145e-40fb-bca2-55ce3b7f4d24",
+    "name": "12: KIDANGOOR TEMPLE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0121013f-4e69-4497-9f15-4ba82610ff79",
+    "name": "13: KATTACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8b8ea71-a26f-4741-ba57-1ea4c045c0f1",
+    "name": "14: SIVAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6e19886-9f2f-4a53-82b6-c861f4432a7a",
+    "name": "15: PIRAYAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

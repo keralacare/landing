@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c62b5044-33a1-4af4-b464-2a105fd19845",
+    "name": "1: KODUPUNNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9908c86-8f6f-4ce0-b78b-7dc866f9ad4b",
+    "name": "2: THAYANKARY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57bed195-d303-47e1-8c04-047cd40ee38b",
+    "name": "3: CHANGANAKRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7854c8fe-260b-4c70-88ed-4080c91d29be",
+    "name": "4: EDATHUA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37e0f570-3c84-4575-a7c0-f570dc33e2d4",
+    "name": "5: EDATHUA CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f183469b-38f7-48f4-8d98-05e3ada95f6b",
+    "name": "6: EDATHUA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3761367e-eaac-4241-be76-f482e14a4578",
+    "name": "7: EDATHUA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e11227e9-b0fa-48da-b8c8-e82605562337",
+    "name": "8: PANDANKARY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a26a327b-dce4-4d49-a0b2-898c91c170cf",
+    "name": "9: PANDANKARY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "675a3eba-fc7e-435a-94f2-8968973f8651",
+    "name": "10: KOYILMUCK SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23bf15e8-6174-4317-ba86-d5d05d1abf46",
+    "name": "11: KOYILMUCK NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a5d196c-c67c-4716-a488-000b4cbce14a",
+    "name": "12: PACHA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a5775a8-f62e-437c-8e7a-4c96a783aa23",
+    "name": "13: CHANGANKARY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68bea4c1-4c3f-47af-8dfd-f7e2338c0db3",
+    "name": "14: PACHA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b1f73a8-25c3-4de4-90f6-0dd6b3fd61de",
+    "name": "15: THAYANKARY WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

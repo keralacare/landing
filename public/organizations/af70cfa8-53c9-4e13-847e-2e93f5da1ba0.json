@@ -1,0 +1,51 @@
+[
+  {
+    "id": "3527897b-a930-400f-ac32-fe3bd28a47b8",
+    "name": "Chakkittapara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "46210621-d256-4f55-89c3-e3e8bf8498f0",
+    "name": "Changaroth Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f97eba2e-d956-4909-914b-56a65813e240",
+    "name": "Cheruvannur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e974407e-0d3e-479e-8f75-6050753bba5a",
+    "name": "Kayanna Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "95f8819e-38c6-44cf-b280-11f1ac75ecf4",
+    "name": "Koothali Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ea621b67-4334-4d55-a296-17495ad0acfe",
+    "name": "Nochad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a10caa64-5a32-4d36-84da-439c8e679e8e",
+    "name": "Perambra Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

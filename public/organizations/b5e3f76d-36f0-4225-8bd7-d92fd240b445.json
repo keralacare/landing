@@ -1,0 +1,104 @@
+[
+  {
+    "id": "4c36c1e7-7df8-4fef-ab0f-fa9445d48187",
+    "name": "1: AMBALAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "046e43a6-8360-44b0-a18b-cfccd318f556",
+    "name": "2: CHENKOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab340e96-a11e-4838-94db-8dac1f747d2b",
+    "name": "3: MULAYARACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51a09228-3afb-4e06-8013-a4aced3da6f0",
+    "name": "4: CHERIYA VELINALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "554e2ef9-e91f-493b-9236-71074934ab1a",
+    "name": "5: ROADUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "235caa01-2522-42d7-92f6-9fe5033641dc",
+    "name": "6: ANJOOTTINALU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fa674d9-b8fc-4e8a-92c8-0eafc728f593",
+    "name": "7: ALUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d873a21-37a6-4a1e-bb48-e6e19b0beee5",
+    "name": "8: MOTORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16b484b5-bbee-403e-98e9-c94afd1171ed",
+    "name": "9: AKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41e27802-0043-4311-973e-9f8c481377d9",
+    "name": "10: ATTOORKKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b671f3bc-047f-4b4b-b11c-dab10d8e8f39",
+    "name": "11: PUTHUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f8a120b-f5aa-40ed-ab29-05b9cab22d56",
+    "name": "12: KARINGANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8765c24c-483c-49fc-8ca2-6c1d8465ec5b",
+    "name": "13: UGRAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00166b17-ff48-4a79-9344-c46d87f5ab10",
+    "name": "14: KALAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cac9164-214e-4940-96bf-a0c5ed559538",
+    "name": "15: OYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8c55190-0eaa-4d81-a5a0-f656ca07b06e",
+    "name": "16: VATTAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ff60754-cd3c-4108-9268-302150821978",
+    "name": "17: MEEYANA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "99db35b8-a1c0-4b53-9de1-e918170bdab1",
+    "name": "1: KAITHADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "236d9c82-fdf9-4327-ac97-9bac076e2a58",
+    "name": "2: KANNAMKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04ac071d-445a-4e32-8350-b688fb86a7e6",
+    "name": "3: THEKKEBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7396d9d-ade7-4d9d-a31a-1228c178cf79",
+    "name": "4: KADAVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7e41926-91c6-4da6-85ea-108e63248f12",
+    "name": "5: KUTTINADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "528dfad5-5504-4eca-81db-38c9cde38669",
+    "name": "6: MOONGODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71fcfe6f-a82a-458d-ab38-f60a9e092824",
+    "name": "7: ANAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e59bb3a6-4fd6-4cac-9843-51a31c32e1a0",
+    "name": "8: CHANNAPETTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4d76d65-cf5e-4a6e-b276-a3fe52ed62ad",
+    "name": "9: MANAKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93b200ec-ca21-40e9-b0b7-677ca0a8e1e7",
+    "name": "10: MEENKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99d3c8b5-e623-41d8-81b6-ce19ca23aa70",
+    "name": "11: KARUKONE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c87978b-35df-4d64-a11b-de52875e0ac9",
+    "name": "12: PULLANJIYODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c33f9c0-c274-4a0a-bb7f-2a8b2bb4f1de",
+    "name": "13: PUTHAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3989b892-2adc-4a63-b52e-6691b8c0e8a2",
+    "name": "14: ALAYAMON",
+    "has_children": false,
+    "type": "ward"
+  }
+]

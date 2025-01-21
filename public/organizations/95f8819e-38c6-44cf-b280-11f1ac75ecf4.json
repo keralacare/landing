@@ -1,0 +1,80 @@
+[
+  {
+    "id": "98d6f788-2941-4a6f-9b2e-918a458b1b57",
+    "name": "1: MOORIKUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb35b178-2c3e-4249-9762-3057512d5a9d",
+    "name": "2: KAMMOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1889432e-0ef7-4284-83f3-4354048a96c6",
+    "name": "3: KOOTHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31dd419a-e30e-4cde-933f-1e79dd1c1ff8",
+    "name": "4: KARIMBILAMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df32119f-ed3c-4958-8114-2535823551a0",
+    "name": "5: VILAYATTUKANDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81aaf385-c75c-4cdf-a92a-a52af3961418",
+    "name": "6: KANNOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afca7c80-9a05-43ec-84b9-25969d399f40",
+    "name": "7: THANDORAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e9e7394-e522-40df-825b-c191481221f3",
+    "name": "8: KORATTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a329130c-6b85-4e4c-933e-1938c791205f",
+    "name": "9: PANAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "867ba2fb-2ea3-47e8-b3fb-30e86daa475b",
+    "name": "10: PULIKKOTT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52ed1f36-5001-4854-a1e0-a51bdb6d5fac",
+    "name": "11: PAITHOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a4590c6-c435-4ad8-86a7-e567ac258a49",
+    "name": "12: KOOTHALI THERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c891000c-ac45-431b-830e-f6efb4dd21fa",
+    "name": "13: ERANJIMMAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

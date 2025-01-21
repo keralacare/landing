@@ -1,0 +1,104 @@
+[
+  {
+    "id": "9698600c-affb-4995-9244-d83460225d80",
+    "name": "1: PAMBURUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfdc47d8-c41d-46e1-8820-971ee16fd03f",
+    "name": "2: KAMBIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4968a84c-09ba-4929-a8fc-8059e3ecf41f",
+    "name": "3: PANNIYANKANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8ddc5f1-ed52-4f41-8605-1011ac4a276a",
+    "name": "4: NANIYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee6b00f3-fa35-4085-a7cc-72a94f3dca4a",
+    "name": "5: KOLACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2f2a0db-e838-4186-a61d-dc21ff98df87",
+    "name": "6: PERUMACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "042e612c-7340-40c8-a70d-e3c43fb039ed",
+    "name": "7: KODIPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0863a3b4-b157-4bc3-a723-7ee282d11aff",
+    "name": "8: PALLIPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2be7c9be-e08e-48ea-9880-1bb5fbe61d60",
+    "name": "9: KAYACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a522d7d8-d816-4d8b-9ffe-0f4c905425f7",
+    "name": "10: CHELERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "027af371-74cf-460b-8377-cc98afc2f51b",
+    "name": "11: NOONHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "770250b4-d86a-4f04-ba9c-95dc01b95020",
+    "name": "12: KARAYAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6a568e1-0d60-4b74-ac1b-6c69310ae178",
+    "name": "13: CHELERI CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "908f7548-0be7-42fb-be1d-982a34b6d684",
+    "name": "14: VALAVIL CHELERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e852ba4d-58ec-43f7-a236-0c7ab9300daa",
+    "name": "15: EDAKKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a59ff4d-028c-4e60-bce6-dfac2f98b866",
+    "name": "16: KOLACHERI PARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d73d231a-3a38-4572-8d55-6a6fdc827043",
+    "name": "17: PATTAYAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

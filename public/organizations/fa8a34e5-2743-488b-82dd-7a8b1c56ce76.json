@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9d2b5027-dfcd-409a-89f2-8eec7b7ae6a4",
+    "name": "1: AREEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e509c7c-8da1-443e-ae07-c1578baac9da",
+    "name": "2: POOLERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3377adf6-5dd2-4d20-bc63-c64d01f04f7a",
+    "name": "3: PATTITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa1c486f-b4c5-42d4-8997-6b5b393c4fe8",
+    "name": "4: CHITTAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9635e0eb-652e-4dbb-9399-2e0ec561c61f",
+    "name": "5: ALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e59ef89d-5441-415c-9a83-57dd9e07d505",
+    "name": "6: THANAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6496fca2-58cc-4a4b-bc43-e0129dea6380",
+    "name": "7: VENKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c94c9024-5e7d-43e0-902c-eb87645b4868",
+    "name": "8: KASAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e49c46c-ebd0-418d-a41a-a503f710240c",
+    "name": "9: KAKKATTIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a33464ff-3238-4da7-a2dd-d7ec9144089f",
+    "name": "10: DHARMAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96bc4b55-6c05-4395-b07c-448fe4fc50d3",
+    "name": "11: VATTENAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f612397-e4f4-45c2-874d-aca9bb19ba13",
+    "name": "12: MALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84ab6e97-126e-4030-a9da-b808a1400caa",
+    "name": "13: KOTTAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4e83996-21d8-4f3a-8d58-266724f8de53",
+    "name": "14: THALAKKASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29c345bc-3b40-4b76-b34e-f5224d53a22e",
+    "name": "15: THOZHUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4523cf93-038c-490e-ae89-5d280228db7c",
+    "name": "16: ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51bf5a38-7110-4a22-8609-4b93bd1495a9",
+    "name": "17: KOKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3cdfc19-fc44-4319-8e80-73fd4b8f36b1",
+    "name": "18: OTHALOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

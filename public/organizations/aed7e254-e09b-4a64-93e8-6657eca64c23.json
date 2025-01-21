@@ -1,0 +1,98 @@
+[
+  {
+    "id": "eb4021ec-7c3b-4214-b63b-eb6b72a66d6e",
+    "name": "1: MANGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3d335cf-cc1f-421e-a6c8-15943f6c7463",
+    "name": "2: CHAMMANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05bda477-fd0a-4dda-bdb2-ce4f4002c1ff",
+    "name": "3: POOTHAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "752fc1f2-fb27-4c57-9c87-763e143e44d7",
+    "name": "4: ATTASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "955e8492-c594-4aa8-b6a8-a92913ad9914",
+    "name": "5: KARIYAMUTTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2143a9b-f1a1-4879-bd95-c9757bf42f54",
+    "name": "6: KEZHOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2feef3d-01f5-410c-b8a1-bfdad6d50274",
+    "name": "7: KEZHOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48fcb393-90df-416f-9004-268dad698001",
+    "name": "8: KEZHOOR ROAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb68e5e0-3e39-4b11-afd7-87448175a3ef",
+    "name": "9: THRIKKADEERI CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "15c112fd-b0c1-4ce7-a1bf-60786677794e",
+    "name": "10: THARUVAKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6c6aaaa-1208-4f81-bb37-5e84062ec563",
+    "name": "11: KARATTUKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97af6fb5-4cd4-4ece-b90b-f9515f7589d5",
+    "name": "12: THRIKKADEERI DISPENSARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d8d78a0-879e-4238-84d8-5915de68e1e3",
+    "name": "13: AMBALAVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa294824-edc1-42f5-9b45-6b0738b29322",
+    "name": "14: AMBALAVATTAM KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61384a2b-a3af-43b2-a21e-b1ca7f758382",
+    "name": "15: VEERAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c14dc5a7-96cc-4457-b647-66be44a59e55",
+    "name": "16: MANGODE MILLUMPADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

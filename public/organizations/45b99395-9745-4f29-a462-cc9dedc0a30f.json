@@ -1,0 +1,110 @@
+[
+  {
+    "id": "8dbb868e-76eb-4e3d-819f-d2cf66e8ba12",
+    "name": "1: PUTHIYIRUTHY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "656e668e-acc0-48ac-8dec-fd24d4798370",
+    "name": "2: PUTHIYIRUTHY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1145fdc4-94c4-4292-b359-a1ee74e2fff3",
+    "name": "3: AYIROOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acd940b9-b321-4f8b-832c-688a56438ec9",
+    "name": "4: KODATHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e8cb146-3dba-4e3a-a12d-da47040a97cd",
+    "name": "5: PUTHANPALLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "488225af-05dc-4b5b-8d5e-2d35c902ed3d",
+    "name": "6: KUZHAPPULLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14ca9c5f-b32f-41ea-b893-567b9986566b",
+    "name": "7: CHERAVALLUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ffb156b-07df-4fa1-b731-2ae394f9ea12",
+    "name": "8: CHERAVALLUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5b89ce8-fea0-4a65-9416-18b1516364e9",
+    "name": "9: THAVALAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4a66a9d-bb0d-4640-bb05-a2268431bbcb",
+    "name": "10: PERUMPADAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ba2d79c-173b-4ef7-aab4-3c56a489aaee",
+    "name": "11: VANNERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3bdca54-9ff9-47b6-a3cd-55f02c5d3fa5",
+    "name": "12: CHERAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5662be81-3637-4df3-88a5-28d1f11b8289",
+    "name": "13: KODATHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f10191f5-f42e-4f8f-be3e-52ec06984bc3",
+    "name": "14: AYIROOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8696b2c-854f-4164-bf13-c0a88d804853",
+    "name": "15: PALAPPETTY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e37d67f-f66c-4e79-adbf-87ccd11e912d",
+    "name": "16: POOVANKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a109b55e-e428-41f8-8079-458372d198aa",
+    "name": "17: PALAPPETTY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c0a2630-4a75-48ab-9755-4f01a3b9d002",
+    "name": "18: THATTUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

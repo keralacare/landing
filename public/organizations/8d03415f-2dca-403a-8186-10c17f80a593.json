@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fbd1e6fe-e0c1-4444-86e0-0ee4905e332f",
+    "name": "1: KAVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac6a63cd-6123-4b9b-b1aa-c6b85a049f2d",
+    "name": "2: ETTUPURAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a252514-6717-48bb-9c6d-8559abcf45cb",
+    "name": "3: RAMAVARMMA HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fba1335-5b17-485e-8334-e371eb333866",
+    "name": "4: NAGAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d40c756b-e282-4c06-9024-adcd75a31075",
+    "name": "5: P.H.C.",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a776646-044d-45a3-a434-993acdf45a38",
+    "name": "6: KERALADITHYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42a0f430-2d74-4c05-bfce-4749a379e8b2",
+    "name": "7: RAMAVARMMA SMARAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a1f7cc3-9837-4686-8f5f-8c1c335ca5cf",
+    "name": "8: MANDAPAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc4ea443-7a34-4b1e-8b9c-c685c9502228",
+    "name": "9: SAKTHEESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cbf78c6-7785-4c65-ab33-f8b39120e46f",
+    "name": "10: KALAVAMKODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5fefbda-32b8-4257-b6e4-766acded4042",
+    "name": "11: KARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd183db3-af07-4fcb-a231-b7377b082319",
+    "name": "12: KOLLAPPALLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd75c129-37f1-47be-8342-188d67c168c3",
+    "name": "13: NEELIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7ab19c5-a318-4cb1-aa9b-2884581c5aad",
+    "name": "14: A.K.G.GRANDHASALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5e60643-b98d-427e-b93d-d8d491a4ef7b",
+    "name": "15: CHATHANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8beddaa-d359-4a87-be77-93b5656f8d3e",
+    "name": "16: OLATHALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

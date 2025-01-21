@@ -1,0 +1,122 @@
+[
+  {
+    "id": "94831348-98e7-45be-b1cb-85048bc3fd31",
+    "name": "1: VALAPAD BEACH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4ccab8b-e59c-4b8f-9d26-93ea31d7f138",
+    "name": "2: PANCHAYATH OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "654f3f44-340d-47a7-bf31-e8986b7af17c",
+    "name": "3: VALAPAD CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5af565af-102c-446d-8f2f-1465a6d3f3bb",
+    "name": "4: VALAPAD HIGHSCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5d75c5b-e6bc-4796-9f67-7ef57726f7bf",
+    "name": "5: ILLIKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7073a7ec-d869-4e3f-aebc-d996ff23b945",
+    "name": "6: AANAVIZHUNGI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8502216-1b4e-4fdb-acf6-2c795f5f3625",
+    "name": "7: KOTHAKULAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9058cef5-6f56-46da-9f5a-be7bd4d80337",
+    "name": "8: MYTHRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68a64d27-f401-4dd1-a4bb-3b667d6eccaf",
+    "name": "9: PAYACHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8c52231-b9cf-4b8c-a6b4-9c43e7ca23af",
+    "name": "10: EDAMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "832aee8c-44ab-47ac-b2cf-02413346f019",
+    "name": "11: PALAPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d52a5fc-6bde-421c-82e3-5d72833cd9ab",
+    "name": "12: PATTUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a74aeee7-42e0-4111-9e67-c9a29e8d2399",
+    "name": "13: KAZHIMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de4b8e45-68c8-49d3-b053-75b2c5caf250",
+    "name": "14: MAHATHMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6541d8d7-3585-4553-a5dd-bd17fd5f9547",
+    "name": "15: ELAVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c3c9575-2439-41fb-ac08-e1588e8c0cb6",
+    "name": "16: KARAYAMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a090d12a-d889-4c2f-88d4-946726d15d77",
+    "name": "17: FISHERIES SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cebdf12-e369-46b1-b903-ccb764ad01bc",
+    "name": "18: CHALUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42f3732d-f367-4a3c-80d5-9c22875511b7",
+    "name": "19: ANJANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1aabbde-5369-4bf2-a468-b5c5b425b8cd",
+    "name": "20: KOTHAKULAM BEACH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

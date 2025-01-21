@@ -1,0 +1,128 @@
+[
+  {
+    "id": "a9b2418e-2ff3-4601-a97c-0e9335f87bcf",
+    "name": "1: VALIYAPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b607ad4-9ea5-4c84-8470-df720efd2b5f",
+    "name": "2: PUKAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a7d5e9d-4ec3-450d-a5ae-4caa96d6b4d0",
+    "name": "3: KOTTAMCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91e38e4e-c706-4ed6-9654-959f7d8ab806",
+    "name": "4: PUTHIYATHUPURAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a908a4dd-2e47-4927-bb57-727ad06557ee",
+    "name": "5: PALAMADATHILCHINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "063fed77-5449-4c84-8be2-b7d777f4208b",
+    "name": "6: CHEPPYALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "367b4ca2-8852-4992-be71-19ffc8627c35",
+    "name": "7: KUNNUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4db6dcdb-c3a9-4239-918e-7228f09bb639",
+    "name": "8: KAKKADAMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77e5733d-a02e-42b6-b786-37b490da42e2",
+    "name": "9: KODAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "249c3fff-d130-46e9-a5d1-50e8ba1f1042",
+    "name": "10: CHENDAPPURAYA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a025129a-14c9-40a8-a282-b4c031a0c272",
+    "name": "11: A.R NAGAR BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a914ccd-f5c1-4f5e-b8fd-c2519cf6d7ca",
+    "name": "12: CHENDAPPURAYA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "133c952c-8fc3-4c3a-95b3-4e227c5f477c",
+    "name": "13: ULLATTPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddde47ad-8e26-4d25-a5ef-c9ffce18755c",
+    "name": "14: V.K PADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d07e77b-c56b-45b7-8552-8b6ac7104689",
+    "name": "15: IRUMBUCHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2fa5fcf-aeb6-47a7-84d1-b0f88cf20466",
+    "name": "16: KOLAPPURAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "caa12fb6-f266-4cd0-a254-3ee12204dade",
+    "name": "17: KOLAPPURAM CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "015fe4fd-db14-4d8e-a5ed-d618a712493b",
+    "name": "18: KOLAPPURAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea8af26b-f726-4a5d-8ae8-293a7749e8f9",
+    "name": "19: MAMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f087cee0-7b1a-48b0-ad91-430d8710b249",
+    "name": "20: VETTATHU BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3ec0742-c4c0-4109-aae9-e2dd8e93b194",
+    "name": "21: PALANTHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9e8301e6-2b13-4e9b-9c66-8c3ab7df86c7",
+    "name": "1: SREEPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f49d220-4436-4e33-8f9c-15da50e9c544",
+    "name": "2: KUNHAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "877da2a0-a1f4-4812-b7fc-443e62771e0d",
+    "name": "3: CHUNDALE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9e18750-9f39-4d93-929c-096208a0caac",
+    "name": "4: THALIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64a63c87-9326-440a-848a-e44ede399dca",
+    "name": "5: NARANGAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c0969ba-8bba-412b-8b5b-e748d5be2969",
+    "name": "6: CHARITY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f09e04d-28d5-47de-b679-275d1331cf61",
+    "name": "7: MULLAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed84e07c-64de-4f66-8efc-8b94d0c0ff72",
+    "name": "8: LAKKIDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "945ebe73-9d45-45b8-9384-33762cf21b97",
+    "name": "9: THALIPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1768cddb-d9eb-483f-8d60-7bebb5826555",
+    "name": "10: KOLICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "827fdab3-a032-4b8c-bd03-df8ddb2bdf39",
+    "name": "11: VYTHIRI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "203eae79-3385-4ffe-8cb9-ae49ebe14237",
+    "name": "12: PANTHRANDAMPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69eeeceb-0b9d-4276-b9c7-c46cf981aeae",
+    "name": "13: VATTAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "960f35e7-c0c7-4595-8d31-930fc81ac9b4",
+    "name": "14: VELLAMKOLLY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

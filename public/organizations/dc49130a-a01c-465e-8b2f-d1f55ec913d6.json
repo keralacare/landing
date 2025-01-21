@@ -1,0 +1,116 @@
+[
+  {
+    "id": "b05c86db-ff5d-41ab-bf81-63c86c62fc7e",
+    "name": "1: VALLIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "359fae80-adb9-48c7-893b-2dcac371a5ac",
+    "name": "2: KUNNUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "311c986e-223b-4af2-8670-ed20ff3a4804",
+    "name": "3: CHAKKANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43d9e85f-5bb8-4032-95f4-5289f4d10a00",
+    "name": "4: PANTHAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c74e314d-d0dc-479b-8146-e8b1c7798b55",
+    "name": "5: MANALIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "272ada76-e2ba-4534-a0d6-dd25f77c36e9",
+    "name": "6: MATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d0b8631-7254-4caa-83b7-a5188b4fbe6b",
+    "name": "7: CHEMBODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c2eeb76-e7fc-4ccb-b4dd-b23d9150f956",
+    "name": "8: THEKKEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a6da013-dec9-422d-8a40-99cc8c8215b7",
+    "name": "9: VANDAZHY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04b5cb5c-c16f-4f23-9e7b-c25b5e386cb0",
+    "name": "10: KIZHAKKETHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb82784a-39e3-4617-9854-7f5895ada6cc",
+    "name": "11: CHITTADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48fb596a-9cd8-43a5-bc23-3fce14d3dbf3",
+    "name": "12: MANGALAM DAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "702c90e7-d1f1-45f9-b467-45eaafcbbb68",
+    "name": "13: OLIMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb6b2f4c-8ba9-419e-84c6-cfe462aee3e3",
+    "name": "14: PONKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d338f314-0156-48b0-b451-15b99bf48794",
+    "name": "15: KANIYAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b8b9547-6924-48ed-b7e6-33ba0d35fccc",
+    "name": "16: PULIKKALPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20465593-4bcf-4caa-ae02-f3cb3938762d",
+    "name": "17: VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f98d098d-01ec-4042-b4dc-139753702d63",
+    "name": "18: PADINJARETHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90da8f56-4410-46a4-b862-8887a1e1709d",
+    "name": "19: MUDAPPALLUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

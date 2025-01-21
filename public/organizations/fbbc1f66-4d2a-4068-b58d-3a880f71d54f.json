@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f61666a1-db9c-4cf8-af32-9f19e22e23eb",
+    "name": "1: KIDAPRAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89d0985c-bcef-4406-9b79-bcf7e8ed2cba",
+    "name": "2: KIDAPRAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e177e03e-0b78-448e-bd84-eceb166f8470",
+    "name": "3: KANDRAMKANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee7e0625-261f-4463-aa26-377e81020de7",
+    "name": "4: VILLIMANGALAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b8bbf2c-ddf7-4edd-83ec-d287567cee98",
+    "name": "5: VILLIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eed708b2-dfeb-49f5-b8a6-70e12c878ea4",
+    "name": "6: NENMENI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ca11a7c-47e6-43ec-96e1-c6145ec0e222",
+    "name": "7: THOOMPUM MUKHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1b693b0-1796-41e6-9a4e-2b81ce1a3d4a",
+    "name": "8: NENMENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11661fcd-6733-4c9f-a6a2-35019ef40ffe",
+    "name": "9: NENMENI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfb8ed8e-b8fd-4fef-b0d5-d73a7d7bdafe",
+    "name": "10: PATTOMTHURUTHU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b09626cc-ca92-4e4d-a2d8-5c18235bfc32",
+    "name": "11: PEZHUMTHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eba0bb98-749c-4b79-900b-129b8d0d7629",
+    "name": "12: PATTOMTHURUTHU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1d0b406-9cab-4487-b2f6-e648526ee692",
+    "name": "13: PERUNGALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

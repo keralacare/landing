@@ -1,0 +1,86 @@
+[
+  {
+    "id": "af44981a-e6fd-405a-9ecc-627a93d2d4aa",
+    "name": "1: KOTTANKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9cf060f-3a5e-4f2f-983d-fe91dfc4c6a2",
+    "name": "2: MALEKEEZHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "722bd87a-ece9-437c-b461-f80067c38b20",
+    "name": "3: METHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9175e811-52f0-47ac-b4c9-a3aa7ae0bf52",
+    "name": "4: EZHUMATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcce7ab9-18b2-410b-8772-04270116a4d0",
+    "name": "5: IRUMBUKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b9aa82e-bdd0-46ba-bb77-255a1235c042",
+    "name": "6: INDANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d99d0cc6-f0b9-451e-afac-4bcc69a21cc9",
+    "name": "7: EDACKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e9c38f1-97ab-4655-abcc-b877a2655755",
+    "name": "8: VALLIKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44a42016-e96c-4a96-a1c9-a1759a1fec6f",
+    "name": "9: KOTTIYAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f3d8834-00ba-4ff9-a265-bc784e7c62b4",
+    "name": "10: THELLIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9908aa48-573e-436a-a30d-0c95190395e3",
+    "name": "11: PERUMBRACADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8cecf57-43e0-4ec0-a5e7-10749f94e18a",
+    "name": "12: VALAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fd9a87e-859c-492b-b455-cf24625dd22c",
+    "name": "13: SANTHIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78ce925c-0686-4bb8-b1ea-c4eb872630a9",
+    "name": "14: VENGHAZA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

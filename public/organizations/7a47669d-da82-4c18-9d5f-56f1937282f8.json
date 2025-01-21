@@ -1,0 +1,104 @@
+[
+  {
+    "id": "b9ffd8d5-463e-49c3-ad04-bf34b12531bd",
+    "name": "1: KANNANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "952c716a-1c1e-4866-a6aa-795168021631",
+    "name": "2: KUTTIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34030886-dcb8-4184-8f2f-9f221354b263",
+    "name": "3: KANNADIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90f4ce6e-1028-4851-be15-d729c09477b1",
+    "name": "4: KOOROPPADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed4280d7-494f-4c38-b07f-b2306507e6b9",
+    "name": "5: ERUTHUPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a893fa3d-6ed4-4b7f-9605-21e06260d78d",
+    "name": "6: MADAPPADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3414683-2d2b-45d0-a322-b8488a5ed33c",
+    "name": "7: EDAKKATTUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e56eed1-1c8b-4909-8500-69cfc7735350",
+    "name": "8: PANAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b88f798-14dd-46c6-86ce-1bd2484a2222",
+    "name": "9: PUTHENKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "021ec291-b576-4f2f-9109-e731a0f710bc",
+    "name": "10: KOTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b39baa5f-f007-401a-ae1e-4d8ca8ee3b40",
+    "name": "11: PUTHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a292933d-58d6-49e1-be68-4c2adc8dae95",
+    "name": "12: NADEPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1869e5c1-8975-43fa-aa9b-2548c6df400d",
+    "name": "13: KOCHUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89fff4ae-c02c-43f4-856d-cb3010a6fcc1",
+    "name": "14: KUPPATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "091b1773-5a0d-48b1-b210-6af7737ce397",
+    "name": "15: ANIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2eff798a-2f57-4658-8e67-eeafa5154daf",
+    "name": "16: CHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01ef6b6e-46a9-4399-9d63-7ab0c59b19b6",
+    "name": "17: LAKKATTOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

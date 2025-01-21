@@ -1,0 +1,37 @@
+[
+  {
+    "id": "25146653-4ef4-4c81-9fa7-0b9574541cd3",
+    "name": "Athiyannoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "80426f9b-cd47-4fb5-9f78-32386d88bb58",
+    "name": "Kanjiramkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9d50b0db-516e-4781-9ab2-0e7f53732f22",
+    "name": "Karumkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d8932551-7a6f-4922-89df-024568d4d814",
+    "name": "Kottukal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2a87fd3c-515e-4d5c-b068-c53a0d022d73",
+    "name": "Venganoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

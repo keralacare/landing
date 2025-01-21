@@ -1,0 +1,104 @@
+[
+  {
+    "id": "4343edc1-9076-4563-afe1-1a6851bb8703",
+    "name": "1: AMBAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbb92f01-da27-4e6f-be86-1d731002dc6e",
+    "name": "2: VALIYAKUNNU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc468468-84f1-4c98-a7c9-5c43ab359cc4",
+    "name": "3: VALIYAKUNNU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffbdd1ec-cbca-4822-8f43-35f6af88dd84",
+    "name": "4: KODUMUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0a32869-e790-4eaa-a629-da98c5f4ee82",
+    "name": "5: KARAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d668c100-f474-4172-80ff-ae0b417a28da",
+    "name": "6: THOTTILAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "090e3393-66cd-40f2-8a16-32ab77ca09a5",
+    "name": "7: PURAMANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ece7fa6f-3c16-470b-ab58-51d031283d18",
+    "name": "8: IRIMBILIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "962b3bc7-c823-45de-b63c-e36208200b46",
+    "name": "9: MOSCOW",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1b793f5-5000-4da2-9953-88d177dba3b6",
+    "name": "10: VELIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94f04428-01a0-4930-a207-2c8d7c4b292e",
+    "name": "11: MANKERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6505f152-0b0a-4741-97e7-93def8bdf3d0",
+    "name": "12: VATTAPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb0f909a-fcf8-4f22-a36a-369ad108dd54",
+    "name": "13: THIRUNILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f04299cd-afb9-4c3c-b14b-2890b80f694a",
+    "name": "14: VENDALLOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47b22cad-f302-4b2d-aaee-be98607fef1c",
+    "name": "15: VENDALLOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7476259-1fe3-485a-b410-70712afe2fe9",
+    "name": "16: ALUMKOOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8b8d500-375b-4e4a-8a2f-25ada1178911",
+    "name": "17: KOTTAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

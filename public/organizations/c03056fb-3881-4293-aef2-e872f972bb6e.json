@@ -1,0 +1,128 @@
+[
+  {
+    "id": "7ed5c02d-0518-44bd-b2f9-1c7b4805c1ec",
+    "name": "1: PAZOORMOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e12f3e2a-d4b9-448e-9aa4-864ad1ab79b2",
+    "name": "2: ERUMALAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab68d2bf-5967-4828-8256-7cf05462c14a",
+    "name": "3: PANCHAYATH WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ade22f9-cf2a-4913-bdbe-438ce9900778",
+    "name": "4: EDANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2594bcf-dc91-46b7-9f64-b5b3a4bb3aa3",
+    "name": "5: THRIKKARIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fffbfc3-b22c-4764-b940-0de1788c69bf",
+    "name": "6: THULUSSERIKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e0cfc4c-82d4-4102-a00a-8e9f0f36f0df",
+    "name": "7: CHIRALAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d23f403-767e-4a72-9d51-8210d110fb48",
+    "name": "8: MAVINCHUVAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb36ba24-8563-423c-b798-d5221c5bc92e",
+    "name": "9: ELAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09634661-6cd6-44f0-88ed-2cc97dca1a12",
+    "name": "10: THATTUPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d16866af-bf24-456d-a8e4-63d683b20c2a",
+    "name": "11: CHIRAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b831e33d-4f50-4666-93b6-9d1c24bfdbc9",
+    "name": "12: NELLIKKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbd3066b-9054-49c9-955e-23f8f32e9566",
+    "name": "13: COMPANIPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4365f9d-e660-4758-9ba2-5316e68b598a",
+    "name": "14: SOCIETYPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ccd4ca4-3f30-4e04-9660-a426eb45d224",
+    "name": "15: ERAMALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b5e8e8c-d41c-46e6-be03-c42c4f1f2ba6",
+    "name": "16: M M KAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "988b6543-009a-4104-9688-686ff10a28e1",
+    "name": "17: KOTTEPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f29427c-4e77-4f5a-8b8a-7162b21cb9a9",
+    "name": "18: CHERUVATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2119da54-d15e-4da7-b314-01884c6bfa09",
+    "name": "19: HIGHSCHOOL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8941af97-690d-4086-87ed-4d979d1bc4fa",
+    "name": "20: KANJIRAKKATTUMOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb1737b3-9c26-4241-a852-f1d86a6121d5",
+    "name": "21: KUTILINJI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

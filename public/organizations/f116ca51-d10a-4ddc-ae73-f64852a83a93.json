@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a64d0e18-78e9-4d50-934a-11586c774fbf",
+    "name": "1: NELLICKAMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ae3bb73-5c68-41da-a1a6-1daf09a8f39f",
+    "name": "2: CHAVARAMPLAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "151a9ac4-3085-4767-83db-6edc9ae54a19",
+    "name": "3: MANNARATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7e7697a-8866-42e8-83e9-0ccbd27cdcc4",
+    "name": "4: VALIYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "048b65f8-4e2d-484f-bd20-3a1fdc641041",
+    "name": "5: ETTICHUVADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a2b4a28-d1e3-4890-b44e-f738b0c2f301",
+    "name": "6: PULLOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43a1cf4f-2bf7-4f89-ac64-e65aa45bb6ca",
+    "name": "7: ANGADI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d17fd78-d476-4e64-a7bd-6a0f5860dad6",
+    "name": "8: KARIMKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e1f5a2b-cf90-4fb9-887e-ce5c9bc2bb71",
+    "name": "9: MENAMTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76816d98-0d81-4561-8847-3647d9367a7c",
+    "name": "10: PULLOOPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f673bd7c-6e8b-45a1-bcc5-47c75da75d53",
+    "name": "11: VARAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02e19f0b-7893-435c-97e9-72764ee32d4b",
+    "name": "12: POOVANMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0a8bf45-319e-4a8c-87ec-1489417959b6",
+    "name": "13: PULLAMPALLY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

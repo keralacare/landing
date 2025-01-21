@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9a437165-8a49-4104-99ff-5750965b97b1",
+    "name": "1: THRIPPALAMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa94ea59-ace0-46f6-bf57-20f6a447c504",
+    "name": "2: KOTTASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a99fd746-46d7-4ce7-9e44-0748c08fc7a0",
+    "name": "3: ATTAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77aaeb7c-f817-4884-a811-1af4560964c4",
+    "name": "4: CHERAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53ba0504-5cba-44a9-bb9d-27a44ea66e1b",
+    "name": "5: MANIKKASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5b3a9ac-2afd-4361-9add-9d1b43a66704",
+    "name": "6: KOLPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "093c2556-bb1f-47a6-9aee-536bab81442c",
+    "name": "7: KAVUNADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9717cba-54ac-4343-bcae-91b343e6aad0",
+    "name": "8: POOTHAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bdd8b4ee-f2af-4e49-aaaf-fcaf3a86b323",
+    "name": "9: MUCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53978eab-9f16-42cf-b0b9-27210fbce726",
+    "name": "10: KONGAD TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "166de14b-4acb-45a7-9e17-ca85728e3462",
+    "name": "11: MANNANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c54ccd0-fe5f-4520-ace7-6049e2c34ff2",
+    "name": "12: KOTTAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "653fb733-e432-40ec-baf7-c726a6fbae7f",
+    "name": "13: PULIYANKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "674e1429-c555-4128-a3d9-54a8028bc63d",
+    "name": "14: THONIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3def93f6-6311-485a-a757-3bba3ed1c4d8",
+    "name": "15: PARASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d95030d1-e1c3-45e0-9c24-e741c0dde7f1",
+    "name": "16: KUNDUVAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80cf878c-449d-41cb-a665-08e339ba696a",
+    "name": "17: MUNDANCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e9c984c-50ea-49a8-908d-0d2fe45b7439",
+    "name": "18: PERINGODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

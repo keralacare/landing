@@ -1,0 +1,104 @@
+[
+  {
+    "id": "40bf4c9e-c433-4c51-bc38-e4579533eba8",
+    "name": "1: KALLARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68efd780-e79b-400b-b902-3e78795b65ff",
+    "name": "2: KALLARATOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a83f8e4-3a32-4eb9-8d1e-bff77f41665a",
+    "name": "3: VELLAMKUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b81cf2e-2eb4-4318-8982-4e387cb062ff",
+    "name": "4: THAPASAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a02c6ddc-747c-4820-85c7-fc47c3806a76",
+    "name": "5: KURUMBAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97be6ace-1c30-4aaf-af91-2b36da6f3bfe",
+    "name": "6: PALKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "417ac539-16e4-40e8-b5fd-652405a329e9",
+    "name": "7: K.T.KUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7f9d698-d4b4-45bb-a25f-41039f018af5",
+    "name": "8: CHERUVALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7618212a-c395-401f-8273-0dc5c7316450",
+    "name": "9: THENGUMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6caf8d27-b5eb-4c93-a0b0-8350c01344d2",
+    "name": "10: PARAPPIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7969362a-d89c-4a1c-86a0-96145b89b19e",
+    "name": "11: KALLAUVARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f78d602-3a8f-43f2-b961-b88e55985592",
+    "name": "12: MUTHUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9039ecaf-10c2-4b8a-947d-bf324fc81f02",
+    "name": "13: ARUVIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a28e4cb2-0adc-45e1-85b3-155ea7b4b339",
+    "name": "14: KURINJILAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fbb28b3-f8c8-4412-b6b2-798794fec726",
+    "name": "15: MITHIRMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cd9510b-5700-4235-8245-03fcd75b9add",
+    "name": "16: MULAYILKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97793d9c-cffc-4915-93c8-1e903848fd88",
+    "name": "17: THUMBODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

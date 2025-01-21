@@ -1,0 +1,98 @@
+[
+  {
+    "id": "b0788e72-d725-4c00-ac1e-f455d02bb8e8",
+    "name": "1: CHERUKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f3a9587-b474-4f82-8c59-6d591ae58653",
+    "name": "2: NAGAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c995ff2-4fd9-46fe-8278-112fae75b38e",
+    "name": "3: THENMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e6d2a63-dd02-4cb8-8609-0f3e572e13fc",
+    "name": "4: PATHEKKER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7a56ddd-c69f-46eb-aedc-0300a048404d",
+    "name": "5: OTTAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42ee34b5-c2bf-4194-803f-a657ba07eed6",
+    "name": "6: URUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da8d4c0a-b7c4-4c49-9e46-b7dc54a3912e",
+    "name": "7: INDIRANAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d77b5fe0-e2a2-4c37-a088-fee5141542c8",
+    "name": "8: ANAPETTAKONKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5ab7581-7da2-46de-b539-64b35f7eec31",
+    "name": "9: ANDOORPACHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30621f87-c280-43a9-933d-6898bbf04f7b",
+    "name": "10: THEKKINKOOPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24fcd3d1-5d23-43e9-883a-ea5a3ab0f345",
+    "name": "11: UDAYAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4eadf2fc-ea68-4659-b57e-1e2eb4f015e4",
+    "name": "12: EDAMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02d7814f-7b47-4bf6-bfda-dfde08fa9369",
+    "name": "13: THEVARKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f0074fb-fae5-4e4f-9023-6b8fed879521",
+    "name": "14: VELLIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62a958cc-9db9-4806-861f-2a587bc9cbc4",
+    "name": "15: CHERUTHANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6cbf3719-c970-4718-afad-df2a984100e6",
+    "name": "16: CHALIAKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

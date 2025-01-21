@@ -1,0 +1,140 @@
+[
+  {
+    "id": "e7274ab9-83ac-4a9d-a66a-e7dcbd260492",
+    "name": "1: PULIYOOR VANCHI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8d5d171-c60a-43ba-83b3-602db33712bc",
+    "name": "2: CHITTUMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a5e4d3c-8568-40ba-a3a8-992579c184e5",
+    "name": "3: PULIYOOR VANCHI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1853f51-bc9a-429d-9932-79775a86ee5e",
+    "name": "4: EDAKULANGARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e5656d7-46ff-46f9-b7e0-5f27d56e9016",
+    "name": "5: VELUTHAMANAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "147b0391-862b-483b-8425-e9675f7145e2",
+    "name": "6: PULIYOOR VANCHI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0686572b-8a05-4da8-b7b3-65878a25e73d",
+    "name": "7: PULIYOOR VANCHI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a02c07df-993f-413e-93bf-ed8afaf932a6",
+    "name": "8: H S WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d892181a-38e8-48d5-b186-0abf6644d936",
+    "name": "9: ARAMATHMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c6817ce-d0f6-4c88-910a-2957a947e114",
+    "name": "10: THODIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb266efc-1644-48a7-9ddb-fdf7fd24252f",
+    "name": "11: MALUMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e785b56-aba2-4031-bbf8-8b64d49765fd",
+    "name": "12: VENGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bb97c6c-396b-445e-ad21-fec4911b5254",
+    "name": "13: VELUTHAMANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "912a5ca6-c3da-484c-ac08-02151e4048af",
+    "name": "14: MUZHANGODI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a3a4f04-a58c-41a5-bab5-88af7d291f64",
+    "name": "15: MUZHANGODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e1c8a7e-d6fe-4d34-b894-dc123d0ef58a",
+    "name": "16: MUZHANGODI SOUTH EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23957403-3a3e-41b8-ae68-d31f0c7f3173",
+    "name": "17: MARARITHOTTAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fa83b11-1526-4d82-8093-d387bb154ea4",
+    "name": "18: MARARITHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fdd737a-23f5-4662-930d-5606572c8b9b",
+    "name": "19: CHAMBAKADAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "852e3690-dddd-42f3-bf54-0ded18af542d",
+    "name": "20: KALLELIBHAGOM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bcd78e6-8c55-475e-8c10-43f3cf527149",
+    "name": "21: KALLELIBHAGOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45ec3f9d-d11a-4cef-b019-4128555647bb",
+    "name": "22: KALLELIBHAGOM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85320e82-89ad-440e-a031-cc9edeafccfb",
+    "name": "23: EDAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

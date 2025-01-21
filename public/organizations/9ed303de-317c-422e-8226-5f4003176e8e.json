@@ -1,0 +1,86 @@
+[
+  {
+    "id": "76d68e72-2e77-4d97-bed5-df9b45c3aeea",
+    "name": "1: PERUMPULICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b344c6b3-b72d-4d16-a986-f1be5a7922f3",
+    "name": "2: MANNAMNAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f5a8f58-6897-4585-a288-183d029ad250",
+    "name": "3: PADUKOTTUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6efec001-5b80-49eb-af28-154fc774b264",
+    "name": "4: KEERUKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e65ae95-5a5f-4865-9d30-aa168198ff8a",
+    "name": "5: BHAGAVATHIKKUM PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ecb12e4-9e27-4ed9-bee3-e11902fb775a",
+    "name": "6: IDAMALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "803b32e7-92b3-4036-8802-d5fc2cd1ee69",
+    "name": "7: PARAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ab92209-6d17-4d86-8f11-5e25fae5b0ef",
+    "name": "8: MANKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67959211-9724-4c66-baf3-6f7cac6b81ec",
+    "name": "9: THATTAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b804fc1-939b-4e99-93a5-e679e6d339a9",
+    "name": "10: MALLIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "360c3f32-ffce-4167-89f7-48f91ec9c2b3",
+    "name": "11: MAMMODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83bf8156-2cc9-45bc-a142-0ba4630095d4",
+    "name": "12: PONGALADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "458bbd40-ba17-4c3d-9e88-93d04af1ff45",
+    "name": "13: CHERILAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bc038c4-0fd5-44c9-bcd0-507f9c27cebc",
+    "name": "14: PARANTHAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

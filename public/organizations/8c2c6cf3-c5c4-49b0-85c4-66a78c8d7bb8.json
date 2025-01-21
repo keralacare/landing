@@ -1,0 +1,176 @@
+[
+  {
+    "id": "98a3c816-fd05-4ad5-b5a1-61a4f3c14d33",
+    "name": "1: HOMOEO DISPENSARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ca9d586-2db3-4665-bdf5-e0dccb32bf5a",
+    "name": "2: THULAMPARAMPU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73a8e62f-fc44-4c0f-b3cf-8498e250463b",
+    "name": "3: KILIKKAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab022f17-3862-4137-a88c-bcfdd6282d4f",
+    "name": "4: THRIPPAKKUDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c7440a4-55ad-4fb1-9803-f54d7d518823",
+    "name": "5: THULAMPARAMPU NADUVATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cde36eb9-7dc6-4bab-a76d-f57f919df3e7",
+    "name": "6: NAGARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8804d9f7-08c7-4c38-9201-2954a6ccce3d",
+    "name": "7: AROOR L.P.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9827561-be90-44db-960b-321975270a9d",
+    "name": "8: VATHUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1e174ea-826c-4897-9b81-cc6bcbab1c78",
+    "name": "9: P.H.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "753d612c-f73a-4bd8-9e4f-a2162bc664af",
+    "name": "10: MANGAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cee2f5ea-fa28-42a3-8651-7dd1ec9e1d6f",
+    "name": "11: PILAPPUZHA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98ce4bf5-f4b2-421a-99af-4e9e50aeae2d",
+    "name": "12: NEDUNTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccfa3c09-9fcd-4a55-bcc6-e66f49b77830",
+    "name": "13: TRIVENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dca29b5a-23fa-4232-954f-955db40d729b",
+    "name": "14: EERICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f39af537-dad0-4c25-9697-0aabc7dec7d6",
+    "name": "15: MANIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8b0d71f-4130-44d9-9f70-2cdc1eb650a8",
+    "name": "16: HOSPITAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ef9eb09-9597-46aa-b6f9-592cd0649eda",
+    "name": "17: R K JUNCTION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9588f4d9-dbcb-4ab8-b03b-3546332c3335",
+    "name": "18: NANGIARKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cc42809-d654-42bc-9efc-ca780cee2d9a",
+    "name": "19: MAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e3313b1-9734-43c6-88a3-5530f6a60d78",
+    "name": "20: VETERINARY HOSPITAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cab8f1a-c850-4200-938f-d579d7599251",
+    "name": "21: THAIKOOTAM LAKSHAM VEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9ab2d78-011b-4df4-8af9-0c242beec3f6",
+    "name": "22: SURESH MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7301dbf7-f385-474f-93d6-42deeb587b44",
+    "name": "23: VETTUVENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46dda839-96d5-4aa2-b3e4-fcb21130dd16",
+    "name": "24: D.K.N.M L.P SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c58fe7f2-52ec-44b6-8cbb-1ff43e7193f1",
+    "name": "25: K.S.R.T.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03070e20-6b24-493a-9906-c7dd18628145",
+    "name": "26: TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54e751d2-1e4d-4559-b5c9-51d999fab557",
+    "name": "27: THULAMPARAMPU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a44b542-d9c5-4522-9292-ecbb8fdc06c4",
+    "name": "28: DANAPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e33862b-8a92-4dc9-9aba-7ba367e59a1c",
+    "name": "29: MANNARASALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

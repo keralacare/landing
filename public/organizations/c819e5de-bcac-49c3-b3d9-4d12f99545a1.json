@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4d8d076e-7644-4b86-acca-80628755e35e",
+    "name": "1: IRINAVU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23ba52b0-1b0c-4a92-8c21-1222d9ffe0d0",
+    "name": "2: KALLIASSERI KANNAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c4db7c4-faee-4e93-8ca4-1988c17d504e",
+    "name": "3: PARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8a2b133-9d3f-4223-a0ef-98ec91983bf4",
+    "name": "4: KALLIASSERI CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ca25f77-84f0-4b15-9cff-0cfab82903c2",
+    "name": "5: PARAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "adbd78ef-e63e-4bbe-9bac-2eb77cc6648b",
+    "name": "6: ANCHAMPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02557d48-c66f-44d2-8c17-4f231d1fe823",
+    "name": "7: KANNUR UNIVERSITY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5745642b-dd15-45e6-a0b6-4b3662cf904e",
+    "name": "8: KELTRON NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a23623b0-ef23-4de1-8261-7851fa8b8056",
+    "name": "9: KRISHNAPILLA NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ff9ec26-97fb-4511-918e-070fda8fa26e",
+    "name": "10: MANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26939196-b665-42dc-afb1-bc858e88126b",
+    "name": "11: KALLIASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "522895ba-861b-4447-8054-fa2c9f878cca",
+    "name": "12: KALLIASSERI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e7e27a0-7fd7-4720-9ac3-87d33f5699c9",
+    "name": "13: KOLATHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e1461f0-88a5-4b7f-9d5a-af5fb92b2fa1",
+    "name": "14: KOLATHUVAYAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eebe1622-ca33-4f90-aba7-876c57084e0f",
+    "name": "15: VELLANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec09ea59-c01c-4385-b373-6eb163fecb39",
+    "name": "16: PAYYATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a91f314-34a5-486f-abf6-f84d011549b3",
+    "name": "17: PUTHARIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b6599af-0752-48ac-85ad-bda93c041322",
+    "name": "18: IRINAVU DAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

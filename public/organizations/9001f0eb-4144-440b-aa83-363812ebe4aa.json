@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a5b93af9-b386-4869-b810-5a7090672c84",
+    "name": "1: MANNATHOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7dd5fbeb-1e7c-439d-8557-5f09fa1367c8",
+    "name": "2: MANNATHOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5732ea3-eb41-48e4-9311-26d37c2edfdc",
+    "name": "3: MANNATHOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8181afba-8cf7-4b4c-a051-3bf6b65cbd02",
+    "name": "4: OLIYAPPURAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6a8b2b5-512d-4ec6-95b0-0bce42ca8187",
+    "name": "5: OLIYAPPURAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b506512-50a7-4d76-ac94-17cff07968ee",
+    "name": "6: OLIYAPPURAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e418ee9f-8ca1-43b0-a782-c464b11882e1",
+    "name": "7: OLIYAPPURAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cedc89b2-474b-49cb-a947-0eec613dc4d3",
+    "name": "8: THIRUMARADY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0495868f-d22d-4b10-bddb-a42d3ab96b1c",
+    "name": "9: THIRUMARADY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e48b08ef-1122-4bfc-a942-4b012dd00f9e",
+    "name": "10: THIRUMARADY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9208f74-709d-41f6-b1e4-1fb974543cb3",
+    "name": "11: THIRUMARADY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97bca92b-1917-4d3b-b90e-a8fbe39ddd1b",
+    "name": "12: KAKKOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9b9e413-1114-4add-a64c-76b090b36b62",
+    "name": "13: KAKKOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

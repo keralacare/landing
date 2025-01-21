@@ -1,0 +1,51 @@
+[
+  {
+    "id": "8fed8227-1f59-4136-910d-3e5fff72f8d5",
+    "name": "Cheriyamundam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5e365822-21a1-4bc0-80c0-924ee4df1b54",
+    "name": "Niramaruthur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "eb0ce818-1b22-427d-84e3-1a90e54180d7",
+    "name": "Ozhur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e6b474bf-492e-4ca3-a3a7-117bc73521be",
+    "name": "Perumanna Klari Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1b71254e-808c-4d9a-b168-c81331599e24",
+    "name": "Ponmundam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "303d8a69-6ba3-4a7a-9e88-2c27ee831e4e",
+    "name": "Tanalur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d7eb8cee-92d1-46a6-b70c-e09584fd10b5",
+    "name": "Valavannur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

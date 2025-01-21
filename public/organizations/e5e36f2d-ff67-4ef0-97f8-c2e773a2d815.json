@@ -1,0 +1,104 @@
+[
+  {
+    "id": "14384710-644f-4128-8182-fc69b5261f15",
+    "name": "1: ANCHATHANI-PAZHATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e53dc9b-f887-4758-a3b3-1439c32fe1fb",
+    "name": "2: KADUNGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ea926f0-8f67-4965-8680-4402838a5bd7",
+    "name": "3: ELAMANNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e8c1ae4-a42b-4098-9074-c77d168d7896",
+    "name": "4: MANAMKULAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c69c047b-97e9-4c11-9264-26174a57b920",
+    "name": "5: MAHALIKUDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d141a716-e553-4bc7-8ecf-e4e3e1141401",
+    "name": "6: THENKURISSITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fc1aed1-0c3d-42a6-9862-ec15888954a9",
+    "name": "7: VILAYANCHATHANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99516e0a-47eb-4354-870c-9f9d0cabe46b",
+    "name": "8: KANNIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "270a2aa2-f973-4bf3-957e-844723c0602e",
+    "name": "9: VEMBALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06216944-f937-48ac-8277-dd8d42b7f514",
+    "name": "10: MURINGAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a63a36d4-9c25-4a55-9f60-22c9b3b8bea0",
+    "name": "11: MANNALUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58c13a51-4983-4f87-9986-f5c25a9a6e72",
+    "name": "12: EDAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a1b06b2-07d2-475b-b073-80415063a9ca",
+    "name": "13: VETTUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72787934-142a-42fd-977f-924fced9ec3d",
+    "name": "14: KOTTADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24390ef1-f5e3-44ff-bb77-539d003b227b",
+    "name": "15: ANAKUTTIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fa9c32f-6fb1-4862-82fd-a91ed9a8df38",
+    "name": "16: CHERUKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd1fe8c3-1bf8-4150-9d68-9a2e36afe393",
+    "name": "17: KAYARAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

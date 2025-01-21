@@ -1,0 +1,140 @@
+[
+  {
+    "id": "2c4724c9-038f-48d7-83b8-f1af957c6b33",
+    "name": "1: IRINGALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efa4584e-b71e-40dd-b192-5c2af1eb0323",
+    "name": "2: PALAZHI PALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d089655-61da-47cb-8be9-134f8b27e0f7",
+    "name": "3: PALAZHI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc6df0cc-e100-480f-836a-70dd7b9cb3ea",
+    "name": "4: PALAZHI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1b6c850-e300-43dd-8aaf-611dc8959ef0",
+    "name": "5: PANTHEERANKAVE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0396c3ec-7f70-47f7-991d-c83192cdfbe4",
+    "name": "6: PANTHEERANKAVE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "544c40df-ae84-4fb6-b800-5d1d43930b3a",
+    "name": "7: POOLENKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c70c39a7-3370-4941-9763-e53e286527bc",
+    "name": "8: MUTHUVANATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89504c99-afef-4a10-ab91-2fba04708a1f",
+    "name": "9: MANAKKADAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c136a54-d63e-4325-9018-2e83941ae7fc",
+    "name": "10: KODAL NADAKKAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1688b6db-c632-426a-800b-7aaecff2d3c9",
+    "name": "11: MOORKKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5634781e-10a2-466f-9173-70193e495c3e",
+    "name": "12: CHATHOTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23ae3f13-3f0e-48d2-bbb6-7541b5e7508b",
+    "name": "13: KODINATTUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "454e90cd-c59c-4f1a-a412-599b1545b36c",
+    "name": "14: PALAKURUMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5605908-ca6a-4f19-8ba7-da5d83d756ed",
+    "name": "15: OLAVANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "baf25126-25e6-482b-9227-2ce9e74e0262",
+    "name": "16: THONDILAKKADAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dba4cec3-9729-49c1-886b-ae6a1b1b0e3f",
+    "name": "17: KAYATTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abc5c06d-5efc-4e04-9e10-e16e56206d4d",
+    "name": "18: ODUMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b361485e-5940-40f7-b714-e1f8d3a2928b",
+    "name": "19: KAMBILIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17f98c3c-fa4f-4675-a524-cc54ec1446c9",
+    "name": "20: KUNNATHUPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24d3db0a-e7e6-49d4-afbe-b10b8d4d9beb",
+    "name": "21: M.G.NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d329837-a8c1-498a-8970-4a43e6a7f429",
+    "name": "22: MATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0eae5b1-ef79-4622-8ff5-8351b8b77651",
+    "name": "23: KONTHANARI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

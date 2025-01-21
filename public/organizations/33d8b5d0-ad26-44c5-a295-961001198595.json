@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d7c1df47-d6de-4edb-b184-b9f62519e090",
+    "name": "1: THEVANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e4de21b-4558-4839-9e3f-add949df350c",
+    "name": "2: VLAVETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "464449f1-887f-4085-b088-376cca21888f",
+    "name": "3: PERUMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "082a4f86-103e-434e-87e9-0ee47f3d02d8",
+    "name": "4: NEYYARDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf837b05-aaa8-4334-8ae7-3140e6a42012",
+    "name": "5: KALATTUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51c54338-a63f-4c99-81d5-4587d5891b68",
+    "name": "6: NIRAPPUKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e36ad38b-10fc-4a8b-a428-fa9b99224664",
+    "name": "7: VAVODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "132ccc7b-abed-4fa8-ad45-0944f916fc97",
+    "name": "8: KALIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34e86adb-4750-4696-b902-de6c90a89c09",
+    "name": "9: MANJADIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31c89b74-5b9e-455e-b5f1-a880e94cf54b",
+    "name": "10: CHAMAVILAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c812a49-cbd0-4c1c-b0d9-4658af16c082",
+    "name": "11: MYLAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cbe3b64-3a66-4147-9006-bd231cc2e1cc",
+    "name": "12: PERINJAMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93ca2a32-b84e-472b-bdce-815e0e47fbc0",
+    "name": "13: KALLIKKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e2882261-71af-4e18-898c-7b88841f198f",
+    "name": "1: PAZHAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ce22c5f-a888-406b-a7e4-2aaf6137ef6c",
+    "name": "2: ANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5051281-5981-4e7c-8df4-e73d4fbe1c16",
+    "name": "3: PALKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1be44bf9-608e-4a65-aaa5-4161a12b3579",
+    "name": "4: ALATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e338980-e4bb-49fa-8590-7ab000e48574",
+    "name": "5: THATHIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8275a055-aee9-4988-b25f-2ac540755560",
+    "name": "6: THRIPPALAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e2984bb-3c42-4da1-b67e-3cf735959b5d",
+    "name": "7: ARUVIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8835b8a-60a4-49ee-a357-28d59f1c32ee",
+    "name": "8: VADAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d6e5ab7-3d61-4940-9852-6e14228a3291",
+    "name": "9: CHULLIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f4e3bc4-40ff-4042-ab11-96c4f5ba395a",
+    "name": "10: ANAMUKHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecb80387-9a5e-4bf3-bae4-f267cede5f40",
+    "name": "11: MARAYAMUTTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da65f531-f756-4c15-822b-05b1f0660c5e",
+    "name": "12: ARUVIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eeeecd11-29cc-44de-9183-ad43283cf202",
+    "name": "13: AYIROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6be1189-85a5-46a5-8037-f4f38b98b946",
+    "name": "14: THATHAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1989b6be-bdc6-467f-9576-424088ce8a21",
+    "name": "15: PULIMANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2144155b-758e-429c-93c0-3be077875bc2",
+    "name": "16: PERUMKADAVILA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

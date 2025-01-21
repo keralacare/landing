@@ -1,0 +1,104 @@
+[
+  {
+    "id": "974c6af6-192f-474c-9d37-a41ec9fa0ef6",
+    "name": "1: PUTHANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e45f112-d83a-46aa-8ab6-d85b074854f6",
+    "name": "2: KARINJAMTHODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "946d17bd-5b16-46ac-a93a-022e50afbc3e",
+    "name": "3: AALINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e4597f5-ec5c-48d5-aeeb-25fabcac5f50",
+    "name": "4: CHANTHAPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86d80dd7-344c-4f4a-8984-28294629b7aa",
+    "name": "5: KANNANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7f6b83c-f46d-4aee-8215-a3daff688508",
+    "name": "6: PUTHUCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c9c2c43-a9d0-4fe8-99b7-0d70c71644e7",
+    "name": "7: KOZHINJAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e2e5235-e7b3-418a-bca5-97599acbc918",
+    "name": "8: PULLUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bba7c5dd-be79-443a-890d-cdcc8dd845c9",
+    "name": "9: KALAPPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba0e52e0-3cab-4228-b232-af46fafb67c2",
+    "name": "10: PERUMKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5531fb95-9e26-4914-813b-d7f9ea76e3f2",
+    "name": "11: CHITHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bf70a78-0d2c-4a76-a442-3f37bdfdb1dd",
+    "name": "12: KALLENKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5c07f35-a1d3-4034-99f6-e13593928a5b",
+    "name": "13: MANJADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5eefd303-a2f3-493b-ad86-c1e5d3377095",
+    "name": "14: POOPLIKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c41a74e-1425-4f4b-96d1-13e9cdfa0c84",
+    "name": "15: CHARAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "357070e8-417e-4f64-922e-be512f869257",
+    "name": "16: KULAVANMOKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d32e464e-b3a8-4fd5-a287-cbcf028c110e",
+    "name": "17: MANNAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

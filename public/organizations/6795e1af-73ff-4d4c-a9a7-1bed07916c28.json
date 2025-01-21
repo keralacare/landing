@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1b39121-3935-430d-abaf-35d21bab33f1",
+    "name": "1: MANDAPAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b20e22f4-6c23-47f6-88b7-ae9d1849110a",
+    "name": "2: CHITTARIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f598883a-ea9a-4081-8241-d6f7d27adcc0",
+    "name": "3: PALLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9779fee-daf8-4399-927b-6f4edb3aa844",
+    "name": "4: KAVUNTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43b7daae-e496-4de6-aa9c-88aa13d521f3",
+    "name": "5: THAYYENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc3bead3-608d-4d41-bcb0-91eb590219cd",
+    "name": "6: MALANKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82792cda-2328-4908-8571-6a3d12389cbf",
+    "name": "7: PALAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e788d66-33d1-45af-ab96-47e5dd41d1f9",
+    "name": "8: EANICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b862d880-747b-4c06-bfe3-9f0582c5d3fe",
+    "name": "9: KANNIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ef9f817-4728-4245-99db-4bd7fbd01070",
+    "name": "10: NALLOMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "448f7298-7782-400e-b711-1a71fd95adfa",
+    "name": "11: PONKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3dbe0bc-54b3-43fd-a611-500491db89a8",
+    "name": "12: VELLARIKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ae68e4c-a7c7-4f65-aa3d-84bc89dd4603",
+    "name": "13: KOLLADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1b08e55-c37c-424c-a2ac-094d15b3a2f8",
+    "name": "14: KAMBALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "044f6529-2fd8-460f-afba-efee6cce04a5",
+    "name": "15: KADUMENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "deb27eec-518b-47c7-8b5a-29bc3019c901",
+    "name": "16: KARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

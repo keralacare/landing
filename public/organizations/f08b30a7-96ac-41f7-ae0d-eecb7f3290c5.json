@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e4d0128a-860b-479f-848e-a28600038fee",
+    "name": "1: MAJEERPALLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a28c1f8a-8c93-491b-a01c-f5cacfe31ded",
+    "name": "2: KOLIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "584115a5-8a8f-4408-a05f-862a877f9a68",
+    "name": "3: TALEKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47780726-2f38-460d-bfec-96a99735575f",
+    "name": "4: MEENJA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ce4c87d-76e1-4ff5-98ad-ea47adae4810",
+    "name": "5: BERIKE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33d0de76-31b5-494b-8099-f4ffb3d453c9",
+    "name": "6: ARIYALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "320997e9-e68a-47fc-ba3a-e99ef87e9da4",
+    "name": "7: CHIGURUPADE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59f6791f-e6c0-4d9e-ad69-2e2a552d11f4",
+    "name": "8: BALIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30d32044-3d80-4a6d-838a-f4be2a0298a4",
+    "name": "9: KULOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03cfc34f-73b6-4584-a00e-bb2b0508cb16",
+    "name": "10: MOODAMBAIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fcfc336d-0b08-4bd3-aa09-3110c909f3e3",
+    "name": "11: MAJIBAIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba7c660d-f628-4fb9-9cee-ae96defc6133",
+    "name": "12: DURGIPALLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "782a483d-2088-449c-a485-5106a84bb380",
+    "name": "13: BEJJA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9ce7baf-5f5d-4fe7-8ec2-13a60547c4e0",
+    "name": "14: KADAMBAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b13b99a-d290-4e84-ad50-0999c615c406",
+    "name": "15: KALIYOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

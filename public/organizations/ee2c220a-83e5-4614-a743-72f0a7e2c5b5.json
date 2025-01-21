@@ -1,0 +1,92 @@
+[
+  {
+    "id": "6d053637-e20b-492d-a119-fce45a5727da",
+    "name": "1: THIRUNELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66eddd7d-222c-4bff-987a-7a377e20a57a",
+    "name": "2: PERUVALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4aa2a677-a9f2-4931-bee7-ab1851fbf01b",
+    "name": "3: AMBEDKARGRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c9b6e64-4bfa-4f80-9568-60148cfa74b3",
+    "name": "4: PENAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5121b91f-10e8-4b31-a7b9-87e43e77e808",
+    "name": "5: ANNAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcaf67c2-8555-4f93-a83f-853afc10f793",
+    "name": "6: ELAVATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a98d034f-ba5a-4142-8f9b-93c87087fd68",
+    "name": "7: PATHIYARKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79585274-88e8-4902-ae13-7cbd725ff35b",
+    "name": "8: THANAVEETHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfed0807-8e01-40e2-b075-3b65ff377314",
+    "name": "9: MANINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa2d6d87-9fe8-4bc6-a769-69fd8ce9751a",
+    "name": "10: PARAMBANTHALY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31572138-9ffa-4c94-9f8b-302cf112edc4",
+    "name": "11: SANTHIGRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a2acd1d-eb57-464e-82fb-bd01fbd4e450",
+    "name": "12: POONCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a53ea8d9-8b37-443a-9bce-514deb04cd5e",
+    "name": "13: KORLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "463f64db-cb02-483e-955a-92dce476a294",
+    "name": "14: MULLASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ea64f7b-08b0-4709-b91e-6dfdb0332cb4",
+    "name": "15: C H C",
+    "has_children": false,
+    "type": "ward"
+  }
+]

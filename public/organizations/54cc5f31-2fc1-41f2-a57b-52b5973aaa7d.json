@@ -1,0 +1,110 @@
+[
+  {
+    "id": "65ee5cdd-41b7-456e-ae3b-8d30aa64d7e0",
+    "name": "1: GOTHURUTHU- VADAKKETHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7195ff05-39ec-4f94-b54f-c8b9898ca893",
+    "name": "2: GOTHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f8fd5b4-a0fa-4ca8-8cf2-ebada8707559",
+    "name": "3: CHATHEDAM- KURUMBATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0b71b49-703e-497c-a790-ca01f814d2bd",
+    "name": "4: KURUMBATHURUTHU - C P THURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6f723f2-1983-4348-8cbf-a6a2f112b4ee",
+    "name": "5: KUNJAVARATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d7ff788-ac02-4ea1-ade1-6e58bf1a54ee",
+    "name": "6: CHENDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7430bdcc-9efa-4fad-b39c-f22c8dc02d22",
+    "name": "7: VALIYA PAZHAMPILLY THURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60dc0ac0-5443-4f5a-97a1-ddba01fafc57",
+    "name": "8: KIZHAKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "214a1860-bdaa-4895-87c6-c6ad4872da8c",
+    "name": "9: KOTTAYIL KOVILAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45ac20bc-cfc9-45c5-b16a-19c07e884f82",
+    "name": "10: PALATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70ebb2b4-7c70-465b-8dd7-ae85b78b4f63",
+    "name": "11: THEKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cce6521-33b9-4aa8-ac16-2f7990378ada",
+    "name": "12: KARIMPAADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cc3dd53-009e-47a3-86d4-533dc120965c",
+    "name": "13: MANAKKODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "597ded92-4d9b-446e-b7e3-65ab152b99c9",
+    "name": "14: VADAKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebb217ca-db4b-491f-ba0e-928489cf472a",
+    "name": "15: KOOTTUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b29dbea-58f8-42a4-8e3f-62bcd9d45deb",
+    "name": "16: KOCHANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ceb133f9-0cc0-4ebc-98fd-9d4d213b7492",
+    "name": "17: GOTHURUTHU- THEKKETHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66493ff9-47ef-4e22-8491-2f0b919b4602",
+    "name": "18: KADALVATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8524746b-aa24-4d9c-8cf4-27d4091e4d2e",
+    "name": "1: ATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb8adf52-b098-4836-963d-d89b74f2cbf4",
+    "name": "2: PATHIPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f47c5d4-6465-4f6c-a8c5-617cebd31e45",
+    "name": "3: VALLYAYI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06222925-499e-4aef-b6cb-b911aca52444",
+    "name": "4: VALLYAYI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb5f217d-1a9b-422d-b73c-c8e5b593b5c7",
+    "name": "5: VALLYAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d31b2081-b354-49d6-92a5-bdb123dfcb18",
+    "name": "6: MAKKOOL PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14b5941a-482d-4456-aad5-0eef00e15ac6",
+    "name": "7: MUTHARI PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49687532-1c47-4f05-a524-fabab5a7a34d",
+    "name": "8: PAREMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a61e134c-757e-45b0-ae7d-a6838355f7c8",
+    "name": "9: VALLANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67ee9515-d29c-4347-bda4-12ad8af1a69b",
+    "name": "10: MOKERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "468767e4-5db1-441c-ab28-dfb4ecf06ab0",
+    "name": "11: KADEPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2393596f-4ea6-4102-99f7-422da8b27adb",
+    "name": "12: KOORARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76ac965f-62b0-4bde-a1f4-2f1e5ffd81c1",
+    "name": "13: PADINHARE MOKERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "640e437a-35c8-41a6-ad68-e2926336fefc",
+    "name": "14: KOORARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

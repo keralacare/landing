@@ -1,0 +1,122 @@
+[
+  {
+    "id": "7d728ee6-7a56-4d68-a59a-780edb488f90",
+    "name": "1: RANDATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c84820fa-6c11-452b-a042-7aff40b249ca",
+    "name": "2: KEEZHMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b28b3b23-caf3-4842-822a-ba9b2d03068e",
+    "name": "3: ERKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9dd6ebea-4c1f-41e9-8e8a-52908e28538d",
+    "name": "4: MARUTHINCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fedf8629-7ed5-42c1-accc-075e5a9fe795",
+    "name": "5: MELMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31b700f1-7f11-4291-9a40-28dc09fbb967",
+    "name": "6: PARAPPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47a7bb85-be10-4fec-994e-85b58e164354",
+    "name": "7: KAREKKAD NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8b9eaa3-bbef-4212-a30e-2dd4e9235248",
+    "name": "8: CHITHRAMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afd10b3a-2bbd-44cf-9803-d9abfd4cd148",
+    "name": "9: MAJEEDKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e473a63-1e9d-4f50-a293-ce5ea4579678",
+    "name": "10: JARATHINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2aa4221e-57d6-4cb2-ad73-9a927efc0f4a",
+    "name": "11: MALAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "595bd2c0-2b1b-40b1-ae03-0dd97ce531da",
+    "name": "12: NEERADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06bc0e44-dce4-4b2a-a883-001afb39d81e",
+    "name": "13: PILATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80f8d733-e72a-4ecb-a04a-b02c5a8ee087",
+    "name": "14: KADAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22b1eb9f-e945-490f-aff2-4610664b901b",
+    "name": "15: CHULLIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36e1adad-3517-4604-be99-7a0a0aaf1739",
+    "name": "16: A.C NIRAPP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5efbd0cc-c21b-4b06-b137-6a007736b968",
+    "name": "17: KALLARMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ec5807c-0ac4-4e69-a6f0-e19bbde8eb18",
+    "name": "18: CHELAKUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d8a45d3-f290-4ec4-a7c2-ae499f18fda8",
+    "name": "19: POOVANCHINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ba33a6a-5293-488f-8183-b29896cb541f",
+    "name": "20: ATTUPPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

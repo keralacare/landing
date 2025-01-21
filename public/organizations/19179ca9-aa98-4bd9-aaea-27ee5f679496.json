@@ -1,0 +1,122 @@
+[
+  {
+    "id": "41414de8-e794-4bee-8339-a93b71a9b195",
+    "name": "1: NELLIKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa290b90-9f1f-4b4a-b2d7-17cc4213ba3e",
+    "name": "2: PLAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fcc17d7-9eae-47d7-9257-b8751f747398",
+    "name": "3: NEDUMANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53fae0bb-f184-4d4c-87cc-38a013f625c9",
+    "name": "4: PANAYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95dddb8f-9319-427e-92f1-fd32ddd89a34",
+    "name": "5: AMPALAKKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2fd2910-a6ec-4414-baaa-57f02c4b781e",
+    "name": "6: AMPALAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "510e983a-5239-4084-ba79-aa3156977c2a",
+    "name": "7: VALAKOM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bdeb3ed-f41a-4c96-a65f-73ff5ea148e7",
+    "name": "8: VALAKOM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bdf960e-03f8-4249-9dac-33dffcec699c",
+    "name": "9: POLIKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c80b8ac4-8118-4e61-a597-3edf2a964526",
+    "name": "10: VAYAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41f08efe-c3a5-4e13-81be-6bc4bd71fc03",
+    "name": "11: KAMPAMKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9481c08a-04fb-410f-8c18-2f0ce192f24e",
+    "name": "12: THEVANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f672e59b-cf43-49ba-9f78-af39495bee04",
+    "name": "13: MELKKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8b47014-f4fc-4870-b8dc-e54f011fd1cb",
+    "name": "14: ANDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a155235-1f2a-43d4-a867-f17b3c26c4ed",
+    "name": "15: UMMANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a30f40f9-5be7-41f1-950f-98abf750e7ad",
+    "name": "16: PAZHINJAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d903ad9-4614-4488-aa9d-5488ddd2c4c3",
+    "name": "17: VADAKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12c8f8ac-48cf-4471-81c5-bec9a11e3016",
+    "name": "18: PINATTINMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f1d8227-59d9-4682-8e09-4f4034d4078c",
+    "name": "19: VILAYANTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fa598d9-9405-4b04-9f54-fa9fd1801521",
+    "name": "20: VILANGARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

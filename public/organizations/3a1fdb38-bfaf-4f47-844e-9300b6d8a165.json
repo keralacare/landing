@@ -1,0 +1,86 @@
+[
+  {
+    "id": "157b4360-5a64-4f15-ba8e-6eef3faca939",
+    "name": "1: EYYAKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2081139a-28e1-43ea-bdf1-eb18703b8cca",
+    "name": "2: MUKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "798f8032-e645-46ed-9863-43e4e6560a37",
+    "name": "3: ANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05e387d3-29ff-4965-ba6a-6e9b53e03a24",
+    "name": "4: PANGALUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a353a38b-756d-4952-af25-f74a2c5aedb6",
+    "name": "5: DARPPAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a2974b2-72ff-4568-b77c-61e6852e80b5",
+    "name": "6: KONDODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23364d6a-49c6-4c1a-89bf-8bd9565399fb",
+    "name": "7: MANKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a221db45-9fbb-446c-8e5e-ac759a29bc98",
+    "name": "8: KUMMIL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e9593ba-7b32-401e-8cd7-2137eb8a8f93",
+    "name": "9: KUMMIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efbb6bff-ada9-4f8c-83e2-a1e7a0a9d0e3",
+    "name": "10: THACHONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "980acccc-0ab5-4761-b871-06a891d049f2",
+    "name": "11: MULLAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "879ff8bd-3827-4721-83ee-aa92ececa571",
+    "name": "12: VATTATHAMARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d7d4234-b54a-44e6-9e1e-e6985d4c2f5c",
+    "name": "13: SAMBRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5be0d37-c2e9-43ae-ba4a-9d5024c8fbf1",
+    "name": "14: PUTHUKKODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

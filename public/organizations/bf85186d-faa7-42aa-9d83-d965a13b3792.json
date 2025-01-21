@@ -1,0 +1,104 @@
+[
+  {
+    "id": "d43b9540-7d08-4c98-aadd-e117c9a80a12",
+    "name": "1: THATHENGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90d6b971-2588-48e3-8672-8225b89b2892",
+    "name": "2: KARIMBANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b71c143-2627-4dd6-ad38-ef65098f7c15",
+    "name": "3: MELAMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d3ceae4-d89b-4706-bd14-b4995583b811",
+    "name": "4: MEZHUKUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "308c7435-ec9d-4298-b1ef-fa7fed587f09",
+    "name": "5: ANAMOOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f88eb0ad-72c3-43f0-87c8-2b449ddcb635",
+    "name": "6: KOTTIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "906cfebf-7155-4a1e-a204-8ca9a0d49390",
+    "name": "7: KOLPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e724ae7-36c6-4ec3-9eb2-250bf056cfc7",
+    "name": "8: THENKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3c3d3d7-048d-4c7d-a590-f172e59d4a05",
+    "name": "9: KANHIRAVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90c00ce2-8f36-4d30-aec7-7d4f64f621d4",
+    "name": "10: MUTHUVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60a627f6-28d7-4c9d-8351-72698aa90a64",
+    "name": "11: PARASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e161678f-58b7-4d9e-9a21-3e4cb6e31ec9",
+    "name": "12: MANALADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "029ab150-9fd7-4c0c-8904-1d94ac4b340d",
+    "name": "13: VELLARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47d44ef1-ca72-426a-ae12-10b71c0c277b",
+    "name": "14: PUNCHAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdf8c008-09d0-4871-8062-a12a8c57888c",
+    "name": "15: MUNDAKKANNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a345541-af49-4b29-9d8e-727044230e54",
+    "name": "16: CHERUMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26b83abc-979e-49af-84ec-78653f69b698",
+    "name": "17: KAITHACHIRA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

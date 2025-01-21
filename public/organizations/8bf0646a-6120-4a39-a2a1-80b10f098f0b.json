@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6786b71b-d670-45df-a32a-ca35fa07dff4",
+    "name": "1: MITHRAKARY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c91ec6ea-668c-405a-b3e9-f947da5dd178",
+    "name": "2: MITHRAKARY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79e8e9b3-5c20-4db3-8fa2-53e95b78147b",
+    "name": "3: MITHRAKARY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cb354a1-f263-457d-bafd-d9d5e13e70ad",
+    "name": "4: KUMARAMCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31dc7ab3-d0a5-4edc-9638-690a2f6d876a",
+    "name": "5: NALUTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de22c035-59e1-4d4e-9650-afbc1c2ff9e5",
+    "name": "6: MUTTAR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bfffbba-0260-4c3b-a638-52bf954ae834",
+    "name": "7: MUTTAR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "baa245a8-d6d0-4480-811c-8ec66bb09816",
+    "name": "8: MUTTAR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1244ec2a-1863-4ba1-b263-f68fb81ec7bd",
+    "name": "9: MUTTAR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbd4d36c-a50a-42cd-97c3-3b1a79bddcd8",
+    "name": "10: GOVENDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e41f6c7-17f6-4bde-bbb8-bbe45d52cac0",
+    "name": "11: CHOORAKUTTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "182bb94b-5a4a-4845-8245-f1be784a5ec0",
+    "name": "12: MITHRAMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ef64c1e-e265-4b04-87ce-47755148d761",
+    "name": "13: ALAPPURATHUKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

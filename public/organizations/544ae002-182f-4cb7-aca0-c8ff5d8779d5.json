@@ -1,0 +1,98 @@
+[
+  {
+    "id": "80aae7f0-f72c-4f14-9238-9c5737024d67",
+    "name": "1: PERUMON WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f25ead8-e2f8-4e33-8711-edacffd5b3be",
+    "name": "2: PERUMON EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40c44d18-d26d-47ce-9d80-bf29a9980376",
+    "name": "3: P.H.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d403a689-8679-455b-9280-8a31c6137818",
+    "name": "4: RAILWAYSTATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dd1f703-530f-469c-a7d4-159010248a13",
+    "name": "5: CHEMMAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f046cff-6adf-4e04-a89f-6fc008889999",
+    "name": "6: CHARUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1549e1ab-4b09-473d-b647-740225ce3bfd",
+    "name": "7: CHATHINAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34c01fbf-a57c-4649-b0ec-f240eabea329",
+    "name": "8: GURUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bee14014-7c74-45de-b62a-4d104d0e4d9b",
+    "name": "9: PAMPALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9a40b57-7a36-47f9-bdc6-59ff10739d11",
+    "name": "10: KANDACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbb33710-1165-4e85-ae97-60a7bdd699bb",
+    "name": "11: THANNIKKAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6e8ac3c-5432-466a-8478-6ef092d80fd0",
+    "name": "12: CHONAMCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e705181a-dd26-40d8-b9d6-5cc74743f346",
+    "name": "13: AMBAZHAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf0edea1-94c8-425d-a738-ab36f9d78f70",
+    "name": "14: PANAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1465bafd-a708-4d58-b185-280fb2569498",
+    "name": "15: KOVILMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5908c2fe-5f20-4ddc-bfe7-4f67307dc841",
+    "name": "16: CHITTAYAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

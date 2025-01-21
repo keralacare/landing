@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3eb71cf3-3514-4c78-b4a7-eff0642afa32",
+    "name": "1: ELINJIPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8ad8927-47cc-4bba-9136-f40a4f80d4fa",
+    "name": "2: PARIYARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "409b6441-4264-4b6d-bafe-63ca69cd1301",
+    "name": "3: PARAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d7bbe75-104a-4118-85c3-cb7af2b4a92c",
+    "name": "4: KUTTIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8706f769-0a85-44ba-a50b-dbacbb70a793",
+    "name": "5: CHANKANKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db27e0b4-4586-4c6f-b859-e482f5ef53cf",
+    "name": "6: MANNUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a12698a2-3a82-404d-b13a-1e0a3b195221",
+    "name": "7: PEELARMUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c3d3d37-b80e-4a62-923b-88d271bd78ee",
+    "name": "8: KONNAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd7401aa-3381-4d21-887a-db4c60c1907b",
+    "name": "9: KANJIRAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d231daf-3926-42b9-badc-29e43717b65a",
+    "name": "10: ORAPPANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a06b082-bd9c-4e8c-8a76-4e7edca1a80f",
+    "name": "11: THOOMBACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5eec524-4bf3-4f06-b77c-a87fb063f676",
+    "name": "12: THRIPPAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81a6b5de-a27d-4f8e-9b37-164fd7d76ef4",
+    "name": "13: POOVATHINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88f59eba-9eed-4705-9af2-1d058f6f803d",
+    "name": "14: MOOZHIKKAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70c1065c-66a9-47e6-a5f9-9d8bbca61c62",
+    "name": "15: KADUNGAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

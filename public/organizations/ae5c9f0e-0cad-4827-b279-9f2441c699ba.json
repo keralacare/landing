@@ -1,0 +1,98 @@
+[
+  {
+    "id": "98b46ac6-1d76-44c5-9ff5-eced892f8b17",
+    "name": "1: THOTTUMPALLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04667a9d-772a-4504-9664-093156d9c707",
+    "name": "2: PAZHAMAPALAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a62369b-5b69-4e95-b214-21adc3b6b193",
+    "name": "3: CHERIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e9d7978-641b-49f2-8f38-06b11689de74",
+    "name": "4: KUTTANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9607e56a-21c1-48aa-a3cd-a1bd72518250",
+    "name": "5: NECHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b5f43b2-5df3-4928-92d6-7a06c472721b",
+    "name": "6: AMBATTUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5eeddb6b-ae4e-4689-9724-8cc03a7166ac",
+    "name": "7: THODUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16079861-bdc3-4fbe-9527-72fd6d327ede",
+    "name": "8: ALINKALPARAMABU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fb3cfc5-47bf-41ab-8537-7bf1960fd910",
+    "name": "9: KUNDUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc75b22d-09a6-4e7d-8330-1ea2bae76084",
+    "name": "10: VAVULLIAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ea7411c-fb99-4c50-aafd-7bb6c134a7bd",
+    "name": "11: KAVUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b5f8422-2e31-4917-87b5-eb59d6524d96",
+    "name": "12: ATHIPOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b73eaf98-5e3b-4ae0-b51a-c809257863bd",
+    "name": "13: TARUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ca9840e-1a24-41d1-b29b-d35281863f80",
+    "name": "14: VALAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30f428ed-a892-4c16-89f2-681b3f0ef493",
+    "name": "15: ARIYASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7273ccd3-69bc-491d-936d-417726259c96",
+    "name": "16: KURUTHIKODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e72ceb05-f8d4-4d47-ac2f-070ae94b8f6e",
+    "name": "1: KANNIKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7052d64-e1bf-40e4-beb8-da89e2aafafa",
+    "name": "2: PAKARAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5693072-9e64-4f64-a22e-a14052ae2fe9",
+    "name": "3: SANTHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7e8436b-7a3e-4abc-bce3-c47de94cd1e7",
+    "name": "4: KIZHAKKUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "796f3f6c-c996-4f3d-9dcc-6fcf7bc2988a",
+    "name": "5: SADANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24d8efe2-0d6e-4027-a953-60089b375edc",
+    "name": "6: AASUPATHRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05e04457-5a63-41ac-adb8-918eff072a12",
+    "name": "7: PUTHENCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd8bfebb-c233-4a1c-9a1b-8c13a498f6e2",
+    "name": "8: KARINGACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7ea9e9e-4eef-4d4a-bae1-9270e784bd0b",
+    "name": "9: PINDANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e3f6073-b23a-4e1e-a657-67c07206e54d",
+    "name": "10: KUPPANBAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b2e7375-e9db-4f09-9bbe-2b389118a291",
+    "name": "11: ANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b108e217-8d21-44f0-a764-5a9b13b1b010",
+    "name": "12: KOMBATHUKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d26fdca-82d2-468c-8e85-d28ea96b74ce",
+    "name": "13: VELLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa9daec5-5eff-48ec-9cab-da0cc9b34c87",
+    "name": "14: MANIYAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5fe8e500-3f20-48d8-b9d3-ab4b2b28f24f",
+    "name": "15: PULIYILAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

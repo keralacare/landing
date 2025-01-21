@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f7f01e28-0297-434d-aaa6-91f97b727ea5",
+    "name": "1: PALAMOKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5e88e1e-08cb-43b0-9449-d4315f4334e1",
+    "name": "2: KARAKKATTUPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "970a6cc2-7e9a-43c5-a443-e5573155d84a",
+    "name": "3: THEKKETHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b563887-ebd1-4918-a31b-a9bd71c948b0",
+    "name": "4: AYILOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ee8e5d4-f629-4ad8-89ee-a5a1409c603b",
+    "name": "5: PALIYAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba029081-d64f-4634-8ca7-2684a1230a90",
+    "name": "6: KAIPPENCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9607db61-d134-46c2-bb7c-ad5e1d02daca",
+    "name": "7: KOZHIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98f99106-4659-40c4-bc42-fe36dbe92388",
+    "name": "8: THIRUVAZHIYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89d11e58-78c9-48fb-8bc8-ceab66d9dd19",
+    "name": "9: CHAKRAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f707d16-acf6-481f-a89d-257e2d48fe66",
+    "name": "10: KARIMBARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5218211b-9cd3-464e-875a-bd2b5fff2007",
+    "name": "11: MARUTHANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3b5fdbd-7137-43fd-9a2b-e19e21b06d58",
+    "name": "12: THENGUMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77f3ecc8-2313-4ebe-b940-49221190bb47",
+    "name": "13: OLIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9c7906a-df9c-4317-a8f3-11a7255c02aa",
+    "name": "14: ADIPPERANDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c51a7fbb-928b-41b1-a388-f56de808c4cc",
+    "name": "15: PAYYAMKOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40889909-59e3-49af-bba6-daa42328857d",
+    "name": "16: KAIRADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56c6ab8c-dacf-4c14-ba9a-f27b1d2caf93",
+    "name": "17: KANTHALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66783ac5-acc3-4c3c-a9e5-df3126f31476",
+    "name": "1: KOTTODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6716a21-94ad-4d14-bd7f-a6534901ce6d",
+    "name": "2: KARAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b834adb0-ffdf-45ca-9f1b-f7e29295fb61",
+    "name": "3: LAKSHAMVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df090c3c-e9e4-4b9a-a732-2e2aa32e7015",
+    "name": "4: KOTHAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c79de54-d985-469b-92c6-9e2a72d71e8c",
+    "name": "5: NADUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d9d0db5-cbb4-4c5b-9843-0580ec8d93b6",
+    "name": "6: BALANPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de1eb6d0-1349-4a2f-ae9a-0f7c0b1187a2",
+    "name": "7: PRARUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e6aaeb8-4f62-4091-a92f-ceca4e974824",
+    "name": "8: AMBALAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff1db67a-279d-4fdd-878d-6845fe1d761e",
+    "name": "9: VALUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c8147aa-bfa5-4889-8626-35032dd1624b",
+    "name": "10: MALANCHITTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbc4c0d3-9b5b-40a0-aa03-cfc9454e4f0f",
+    "name": "11: MARUTHAMTHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53f0100a-c5eb-46bd-a75d-a0ce4a7dd2f4",
+    "name": "12: KARINJAMTHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31309832-45ac-49c7-86a9-904560a22e2e",
+    "name": "13: CHIMBUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d24dd764-d38a-4362-9699-46474d12bba0",
+    "name": "14: KARADIYAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c31e2574-5f55-4efa-a7af-0fc26bcfd659",
+    "name": "15: PALATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c727b28-0b89-4ff3-8729-e1088bec3527",
+    "name": "16: PEZHUMKODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1d4b7f22-43ac-4360-b735-43542ac35014",
+    "name": "1: KALLAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e64a15c9-502d-43f9-ab38-15fd77c31479",
+    "name": "2: THANNIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cb71d85-46bd-4ed0-8914-cf1a83908871",
+    "name": "3: MUNDIYERUMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c49f2ce-d560-4669-8d2d-3d3447bfca0c",
+    "name": "4: THOOKKUPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae5c5ddb-fd12-4119-adaf-202fb38b791a",
+    "name": "5: BALAGRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba66d77d-e550-40ef-9044-1bcd386a45d8",
+    "name": "6: THIRDCAMP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf7470dd-3cac-4d66-bf57-4732dbf45980",
+    "name": "7: KUMARAKAMMETTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60c0d9fb-b520-4986-a451-a92eea8e4862",
+    "name": "8: EDATHWAMETTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a43498d-9923-4505-a0f5-bc89ae3bdbee",
+    "name": "9: ANYARTHOLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35127ac3-e915-4240-a8b8-c325e16385b8",
+    "name": "10: SANNIYASIODA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f178015d-dfc5-4355-9305-f7d55de41a24",
+    "name": "11: AADIYARPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb90b1b3-c8e3-4ba0-9d5c-ac1bcca5c930",
+    "name": "12: PUTHUKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf102ccf-3f1b-42b8-9a1b-52a1bb2311b3",
+    "name": "13: VALIYATHOVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29600c24-2d7b-48d7-95f4-5b50d18b5c10",
+    "name": "14: MANNAKKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47b19e5a-0da4-415a-9cde-7be47d74f2fe",
+    "name": "15: PAMPADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5957c27d-97fc-4e5b-bf2d-e610bc0ea1bc",
+    "name": "16: VATTAPPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

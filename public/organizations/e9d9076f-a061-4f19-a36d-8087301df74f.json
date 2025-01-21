@@ -1,0 +1,80 @@
+[
+  {
+    "id": "34b3cf90-7096-4ff6-ad9f-3d976b0548a2",
+    "name": "1: PAMPINI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "867c1a0d-e64d-4ceb-9412-9d7548df1d8e",
+    "name": "2: PANNIYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "869da373-3b42-45a9-bcc9-862e6ab0528f",
+    "name": "3: MANAKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0c3ee61-a531-4535-a5bd-9567289bc097",
+    "name": "4: CHITTAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8553f890-21f0-44ff-b0fb-fe14389aae6b",
+    "name": "5: CHITTAR THOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2be0a4c-a510-4024-b8c2-6e7de40c2c17",
+    "name": "6: MEENKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f97ee9f8-dfb5-4971-9d17-8f16caa3742d",
+    "name": "7: KULANGARAVALLEY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb7630a1-f1cb-4801-b985-f8e8cf7d83a8",
+    "name": "8: VAYYATTUPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73dba5c2-9a16-419e-b8e5-2c16e8ae81b4",
+    "name": "9: MANPILAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64919f91-c4fc-4298-aace-4b47aeb02777",
+    "name": "10: NEELIPILAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac303dfd-c821-41d6-baa1-d4aeb353d6c4",
+    "name": "11: KATTACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b27cb53b-b96f-4aff-af41-4f8bde95ea03",
+    "name": "12: CHITTAR THEKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7308dacd-0f48-4f05-814f-4b0249f5de53",
+    "name": "13: KODUMUDI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

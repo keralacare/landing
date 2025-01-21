@@ -1,0 +1,92 @@
+[
+  {
+    "id": "209bed76-5aa2-41f1-a7cd-c958e545c2fd",
+    "name": "1: CHEERAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2ceb565-a928-499c-9070-14e5e5409d1a",
+    "name": "2: CHETTEDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "922b64d3-6c3c-47f8-b2e9-0ae8feb4e4f8",
+    "name": "3: KANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ee84df9-8831-42f3-a833-cb0e75f8c0d1",
+    "name": "4: PATHIPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73947379-113f-460a-a230-20c81e0d93ae",
+    "name": "5: ANCHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "844c6c93-e3f5-4c96-aba1-5bcb7ed198af",
+    "name": "6: EDAYARICKAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a073e3c9-6a27-4814-b025-bab116fec22f",
+    "name": "7: PLACKALPAPDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b887080-b3b5-4c3d-a653-2fce7940c885",
+    "name": "8: ELAVUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afd3046b-82cb-4439-8b5e-af3d4e3724e1",
+    "name": "9: EDAYAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35105b9f-1447-45af-8064-71c848f0517c",
+    "name": "10: MUNDATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9a1fa3f-2b76-4476-acf9-713c7ccb2036",
+    "name": "11: MULLANKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca81c53a-493c-4876-aae9-4e93fbad8dc2",
+    "name": "12: THANNIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52c5ab1f-534d-451e-b96b-bedebee8ea84",
+    "name": "13: KOVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cfd8767-5942-46ae-9ea1-d013edd7bb87",
+    "name": "14: PADANILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e78fe6ca-c3f8-4171-b7c6-5b9ef38a8da1",
+    "name": "15: PATHANADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

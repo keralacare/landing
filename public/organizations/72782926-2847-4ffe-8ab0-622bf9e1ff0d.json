@@ -1,0 +1,80 @@
+[
+  {
+    "id": "12f9bfa6-d46b-49b4-b205-73270a3c816e",
+    "name": "1: PUTHAKIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c4ce4c05-1afb-4e38-9308-9796bfd68fec",
+    "name": "2: KUMBAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de930973-6fc0-4812-918f-9166a66a105c",
+    "name": "3: KAJANAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a040b100-9d68-496e-b0e7-77a2f2bbca13",
+    "name": "4: ARAMANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cf0cddd-d400-4bc1-9122-8b04dec8bfcf",
+    "name": "5: B-DIVISION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca0f8fd7-7369-4bc5-8f65-14f4edcfe879",
+    "name": "6: MANJAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f334487e-0bdd-4db9-b9ce-39bc7ac04ea0",
+    "name": "7: PUTHAYALPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b27e0ca-e23b-432f-8206-4e713b7bfaef",
+    "name": "8: MURIKKUMTHOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c952ce8c-aa6f-4b2b-aca9-2f669c3c64ac",
+    "name": "9: KULAPPARACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42c107bd-13fe-42b1-9000-4dc6963389ed",
+    "name": "10: PANNIYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af8e474f-d496-4e57-8c99-42ab6ffe73e5",
+    "name": "11: RAJAKUMARY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c1a1a3b-4a3d-402c-80dc-71367f8a0c22",
+    "name": "12: RAJAKUMARY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d58f09d-bf88-418d-a394-b9457d83ef9f",
+    "name": "13: NADUMATTOM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

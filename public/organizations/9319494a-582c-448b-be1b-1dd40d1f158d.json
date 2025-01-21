@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8adf16d4-de2a-4a02-a8bb-5c7cf78f5ae3",
+    "name": "Kadalundi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "161bd492-4402-4952-8692-db99884b3e28",
+    "name": "Olavanna Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f550f55e-95d8-4583-991d-6b5dda580c88",
+    "name": "1: KATTUNILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "605991f3-579e-4da8-b8ff-c233869f107d",
+    "name": "2: VADAKKUMBHAGOM PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1990b912-ea9d-49b9-b420-d072e906a520",
+    "name": "3: VADAKKUMBHAGOM KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a9e30c6-4649-4e07-869e-834ef46af60e",
+    "name": "4: KANNASSA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96b1ed80-bebb-4d2f-891f-cc5ad8f885e6",
+    "name": "5: YMCA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b323834e-2801-4fca-a589-19c35cd20498",
+    "name": "6: DUCK FARM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3ccf71e-4072-411f-8fb4-53b77e5632ee",
+    "name": "7: KIZHAKKUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0afc143-d85b-4384-abc9-679b883fd8aa",
+    "name": "8: THOTTUMADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5cd5d8d-455a-4387-82e7-112a83d7157d",
+    "name": "9: PANCHAYATH OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7258873d-efcc-4e43-bf16-cd9861fe0173",
+    "name": "10: PHC",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57041dc6-910c-4d24-805e-c8c0adf8e8c5",
+    "name": "11: ERATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "536e98b1-ba09-4c7a-829b-56ab232a2268",
+    "name": "12: KOMBANKERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbd696ed-223b-4d32-9270-42e8be7530ca",
+    "name": "13: THOTTADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

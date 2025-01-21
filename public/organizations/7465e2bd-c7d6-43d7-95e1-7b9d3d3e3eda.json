@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3dbd09e9-aaa6-4a8e-a646-bf118bac8b69",
+    "name": "1: VILLERIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebbecbca-fbfd-4ddc-becd-a194598b9b53",
+    "name": "2: PALAKKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d57763a-e959-48e6-9d28-73354af17918",
+    "name": "3: THARAYILAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0797aa44-7073-45de-9a91-37fb69117d47",
+    "name": "4: PAREKKATTUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbc55ba6-a3bb-4293-bec4-56bba0afb9c1",
+    "name": "5: KUNNATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc1e3cd4-ddcb-4b7a-a1a6-5327e3e6bef1",
+    "name": "6: VATTAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25701ec3-4d60-44cf-ae3d-97573c748563",
+    "name": "7: MURIYAD CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d1a5492-6676-47fa-b221-1d68d608d442",
+    "name": "8: ANURULI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c98e392-d2b8-4756-8faa-bf9e2ac734bd",
+    "name": "9: PULLUR ANDIKAMBANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad6c0e22-4148-4115-a6f6-ada887ab4d6f",
+    "name": "10: URAKAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6e5aae9-4e13-4c7c-8f5c-abd1fd01121a",
+    "name": "11: URAKAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dee55862-509a-4d4c-aa20-c79b54de5c55",
+    "name": "12: MULLAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68e7045e-13db-427b-97c7-d504f7348cad",
+    "name": "13: THURAVANKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89288492-cdfe-4c3c-aaf0-3ef06e930046",
+    "name": "14: MISSION HOSPITAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77a84fa9-812a-460c-9a01-7d588de3f7bf",
+    "name": "15: CHERPPUMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f16594cb-23fb-4bec-bb88-6a0ed1614daf",
+    "name": "16: KAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4885c3a5-5286-431a-97de-ccb499aae613",
+    "name": "17: ANANDAPURAM CENTRE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

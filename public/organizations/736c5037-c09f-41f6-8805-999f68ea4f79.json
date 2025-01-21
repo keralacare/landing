@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7d5aa445-05f1-434a-a281-14228e92d628",
+    "name": "1: MEETHALE VATAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfbbe983-5fb0-4d20-bb63-f6c7da228eda",
+    "name": "2: NARIKOOTUMCHALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6859047b-9262-4a25-b48a-ea2f4e0121e8",
+    "name": "3: KOORARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a5cef10-be93-4d40-b449-42283783c9e6",
+    "name": "4: POOLATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "462085a3-7b7d-45bf-a65d-e2aaded20ec3",
+    "name": "5: KUTTIADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c008f803-46fa-468a-9b26-3418b9551c49",
+    "name": "6: KAMMANATHAZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c157b0c-0a2c-4c4d-8f8e-1e322fa2236b",
+    "name": "7: NOTTIKANDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1a79815-4189-479d-9502-9200a132725b",
+    "name": "8: URATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e711cc8-6d6e-4165-b021-265b9c940d0e",
+    "name": "9: MAVULLA CHALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a4b7469-c7c6-456f-bb85-9bdb8e878229",
+    "name": "10: PANNIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e14499f-5ae1-479c-b227-74d0ceb4d6ce",
+    "name": "11: PALONKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf4f7be6-fee3-4a1d-9076-60986a65fff0",
+    "name": "12: NADUPPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c4e4a74-a0d9-41fc-a538-afa6c5ec4719",
+    "name": "13: NITTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6da7082-42fb-40bb-8f88-d0bbfba67166",
+    "name": "14: PONNELAYI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

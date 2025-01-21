@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0e86fc5e-eb3d-4acd-91ed-fc3a36c9b084",
+    "name": "1: VENATTUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1c9673a-1143-43b6-b7c1-04fbd7f07af6",
+    "name": "2: COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7088a319-1c9d-43e9-9960-3fb8bd7c2647",
+    "name": "3: KANNADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e05fcc5-d694-4e8d-95d3-741ab0f6edff",
+    "name": "4: VALANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6aa0d37-92ed-40a3-b1a2-b48e1b9b434b",
+    "name": "5: MARADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd1dda4b-85ce-46d7-a5f3-64efee3ca77e",
+    "name": "6: AMBANAPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b6d9bba-8cab-4f10-897b-021955691d2e",
+    "name": "7: KIZHAKKETHALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e73bb398-cd96-4fd9-932e-c7da7469709c",
+    "name": "8: KOLLAMUTTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4ff277a-9eb8-4743-b569-b9719fa78a72",
+    "name": "9: CHOOLAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3227eed-58d4-422f-8375-0b645906cc45",
+    "name": "10: KALAKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d247eee-f147-46f0-888d-17175b24a036",
+    "name": "11: PULINCUNNOO",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a72d2c1-950b-44fd-aa5c-b711f544c1e2",
+    "name": "12: KAYALPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef468911-3152-492e-a5a9-e87d79a6da3e",
+    "name": "13: HOSPITAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1640010f-f1cc-4f08-94cc-89b19ded94fd",
+    "name": "14: MONCOMPU TEMPLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bad9a5f-6357-463d-8db1-db01632f625e",
+    "name": "15: MONCOMPU STATUE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f959f993-a03b-4331-be06-6d5e10ce81c7",
+    "name": "16: CHATHURTHYAKARY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

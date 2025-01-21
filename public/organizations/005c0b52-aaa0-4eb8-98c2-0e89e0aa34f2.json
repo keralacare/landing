@@ -1,0 +1,170 @@
+[
+  {
+    "id": "988a511a-28eb-456d-a8c6-5f716d1e12c5",
+    "name": "1: VALLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c4f3521-702b-4ff7-83bd-862eb3d74197",
+    "name": "2: VALLUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c761085-4352-44cc-932e-f913266cd0f2",
+    "name": "3: SECOND MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62271e49-ffd3-4a69-b20b-bc13a8ed5f70",
+    "name": "4: KALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07f3c714-6095-4ba8-be0e-813c4be1ad4c",
+    "name": "5: KODALUR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d91b9ff-c957-4345-a32c-ab0d7eda1bfe",
+    "name": "6: NEDIYAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2369f449-9096-4f83-85d3-057859931f85",
+    "name": "7: SANKARAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95bfbcd2-1a24-4846-a6f2-4e5aca202712",
+    "name": "8: THEKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0a34803-19c0-44e1-bcc2-d6893c65621e",
+    "name": "9: CHORAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d154f9e3-3e1f-49ae-95ed-a4febcb931cc",
+    "name": "10: COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40ea0ab4-f4b3-4a5a-ac17-b977c272856e",
+    "name": "11: KIZHAKKE ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22ea357e-785a-47ad-8fda-784a3361073d",
+    "name": "12: HIDAYATH NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9888552b-c565-499b-9587-30d17b6695c5",
+    "name": "13: CHERULIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fd5f4a4-2043-4262-b1a7-74d509f1e062",
+    "name": "14: KIZHAYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f808790e-1ea0-4560-bc15-7ff62c2f7d53",
+    "name": "15: LOVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf44c8ba-08ca-4b72-bc59-3c429798e584",
+    "name": "16: KOLORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70adcd15-5822-41db-b050-5d31cd262642",
+    "name": "17: MELE PATTAMBI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93abb6ff-7cd9-4403-a971-40ceb15827c4",
+    "name": "18: UMIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc5c08ba-f55d-472e-a047-e781af17733a",
+    "name": "19: NAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d21eb067-6cc1-429b-a399-c8a886718c27",
+    "name": "20: PATTAMBI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ab9ace8-2f3f-4207-b6e3-6fa6b3ad62ce",
+    "name": "21: KAITHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99f4ad41-6087-433f-afe2-cac601fb21bc",
+    "name": "22: NETHIRIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1707b82-5ac2-4e0e-9f3a-414f42dec4af",
+    "name": "23: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "418f45e7-71bb-4b4c-ae2a-22a96929efa8",
+    "name": "24: PARUVAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "089a518a-b5e8-4a82-9864-1976511a87fd",
+    "name": "25: KOZHIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fb9cd5c-9986-4d35-b5cb-f47fa15b024b",
+    "name": "26: VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99b6518f-ef96-4f25-b4f7-5a42c27835b3",
+    "name": "27: THOTTUNGAL CITY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b93223f-d96a-4be6-8168-6d8c40bf34dd",
+    "name": "28: VALLUR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

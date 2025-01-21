@@ -1,0 +1,37 @@
+[
+  {
+    "id": "19a85c4a-5faa-41a8-980d-ba77ac145c6a",
+    "name": "Adichanalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3c5ce366-19e0-46e9-94a1-b6e95e0efd6f",
+    "name": "Chathannoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "502539c6-04ef-4dd6-b1d1-13a3b15c3bb1",
+    "name": "Chirakkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6747823f-1f42-4127-bf17-38ab1feb8c6f",
+    "name": "Kalluvathukkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "98eb84f0-99bc-4f2e-a343-041ebbd8026c",
+    "name": "Poothakulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

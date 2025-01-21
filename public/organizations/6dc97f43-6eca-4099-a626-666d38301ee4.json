@@ -1,0 +1,122 @@
+[
+  {
+    "id": "804d25e1-595c-431c-82f0-0fdfe40a7ca9",
+    "name": "1: MANCHADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7937adb5-0e13-47fe-b437-759af849f6d6",
+    "name": "2: SREEKRISHNAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f80159b-c542-4635-8218-924bd380242d",
+    "name": "3: ARUVIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42e3fbe1-de2f-484f-926e-060350c5d630",
+    "name": "4: MAVOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53493cb5-4a20-468e-9b32-2f8c7e536441",
+    "name": "5: CHITTIYOORKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a786a16d-c3a4-4656-8cd6-390f7b2de2eb",
+    "name": "6: MALAYINKEEZHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5beeb420-d13a-45fc-b5d2-cbc62be6008a",
+    "name": "7: MEPPUKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41b1f470-32a6-4ca2-89c8-315a6b43a31f",
+    "name": "8: ANTHIYOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49da0956-21e8-4c13-8347-8c3f5c74ba44",
+    "name": "9: BLOCK OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7903f73-f074-41f6-a6b8-d1b6a50e2da0",
+    "name": "10: GOVINDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8dc3443-781a-48f1-a3f5-22c33cb1e80a",
+    "name": "11: MARUKIL PERUMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a8db17b-ce34-426f-9caf-5ac939cf4b04",
+    "name": "12: ARUVAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c556f09-2cad-4315-b04e-5ab6112965f4",
+    "name": "13: VALIYERATHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b98f50d-aa0d-4aa6-8ef6-deec773736bf",
+    "name": "14: KUNNUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca7ff896-9d96-42f3-8bc7-aee5d1e67e7e",
+    "name": "15: MACHEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7eb7af9d-3cd8-426e-9723-a423ce9236a2",
+    "name": "16: ANAPPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66d80e3c-03cc-4d86-bd55-49cb941efddb",
+    "name": "17: MANAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4044c16-c4ff-4d70-be80-7232efe96821",
+    "name": "18: KOVILUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21ee223f-6b97-48df-984e-c80a2a702ca8",
+    "name": "19: OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19b392a8-5538-4fd0-8b47-37b8544ba75d",
+    "name": "20: THACHOTTUKAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

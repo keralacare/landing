@@ -1,0 +1,116 @@
+[
+  {
+    "id": "a2d2fdc4-dfaf-4fcc-9833-c163822fa5f0",
+    "name": "1: TAVANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92f6978e-58b2-444d-b5bf-0801b64c84b9",
+    "name": "2: TAVANUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e0f4cb8-9eab-4dbf-9a1b-601e63f1f5cd",
+    "name": "3: MOOVANKRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "539064be-0c46-4093-82a7-d8c32d1af529",
+    "name": "4: KADAKASSERY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91f4255e-516f-4c43-a4f5-4d41875f352b",
+    "name": "5: KADAKASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f0eead8-cff2-4749-b4c7-8aa5af7c9c07",
+    "name": "6: VELLANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a01af821-80d6-4592-b7f0-3bd5a613c778",
+    "name": "7: MADHIRASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d38948bf-2269-4639-a089-ae102c531c41",
+    "name": "8: KOORADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a1be05e-1e70-4691-8416-de7f058551fe",
+    "name": "9: THRIKKANAPURAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28faa1b2-a234-4460-a0cb-cc31e7f40ba1",
+    "name": "10: THRIKKANAPURAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f11efe31-ad39-40f7-819e-5570b88dde8a",
+    "name": "11: KACHERIPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45fefe9a-8ded-468e-95bb-4deb4432c690",
+    "name": "12: MARAVANCHERY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b14b0f45-1bc2-4096-b5b7-7cc21904c356",
+    "name": "13: MARAVANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "548b4baf-5ab8-491c-a25c-c05f02017f5c",
+    "name": "14: KALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e17791c4-4ca1-4ce4-baca-c31d7731f9ac",
+    "name": "15: AYANKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8aca5829-3136-434a-9264-e67a84825ad8",
+    "name": "16: ANTHYALAMKUDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da5addeb-0cff-4ab9-a7d1-49042e322612",
+    "name": "17: ATHALUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cad066fd-f006-4643-82ec-7eaa9ac11abf",
+    "name": "18: MATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99519728-4ab7-4bbe-9978-bece91f7f2c2",
+    "name": "19: MATTAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

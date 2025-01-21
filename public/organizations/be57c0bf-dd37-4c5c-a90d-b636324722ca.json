@@ -1,0 +1,86 @@
+[
+  {
+    "id": "231fc593-f68c-43e2-bc59-6f60308948d3",
+    "name": "1: AYANTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8102b86-3235-433a-8e82-73b77067b285",
+    "name": "2: PALACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e1126b7-b442-4cd8-97be-63f24f68f8cd",
+    "name": "3: VADASSERIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abca5530-d1e6-4746-9691-70b5deed9987",
+    "name": "4: THETTIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a570e2d-d070-48bc-9328-7b445d4497cd",
+    "name": "5: NELLETTIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e329bc0-d65e-4897-a586-ee2ef412730e",
+    "name": "6: ACHUMAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b9e5544-a938-4f38-b02c-147e580dc439",
+    "name": "7: DALAVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65980107-8dce-497a-a75a-c32b52198b29",
+    "name": "8: CHERUNNIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4da54436-f43f-4861-a55d-6302019164d6",
+    "name": "9: CHAKAKAPOYKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ef94094-f0c8-47ab-b6f7-b9481acb294f",
+    "name": "10: MUDIACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d89cfa6-57f5-4d44-9116-3634b540b278",
+    "name": "11: THANNIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "537e7da3-03b6-4493-9be7-f2a226d365d5",
+    "name": "12: VENNICODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f11cc8c7-ef84-44c0-8a59-b72a099fa7bf",
+    "name": "13: KATTING",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28d6d820-ceb9-4c54-8056-1d16eef185c9",
+    "name": "14: KALLUMALAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4bf89fe6-990f-4844-98b2-79cbb1693a36",
+    "name": "Badiadka Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "64369242-f550-46f2-887a-5e6eacbaa3a7",
+    "name": "Chemnad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e1b29896-fb0c-4d2e-8a30-fb17a973dacb",
+    "name": "Chengala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3aa3bf0b-268f-4e0b-b4f0-c274927fc7da",
+    "name": "Kumbla Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "52f13d5c-ee02-4eb7-801a-a98e3709f003",
+    "name": "Madhur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1d24fecd-37d8-487f-9525-0682b98d610e",
+    "name": "MogralPuthur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

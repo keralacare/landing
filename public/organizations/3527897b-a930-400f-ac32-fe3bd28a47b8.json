@@ -1,0 +1,92 @@
+[
+  {
+    "id": "6b5882f3-497d-49e9-93e6-f37817c04e76",
+    "name": "1: PANNIKKOTTUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f803b91-3028-4048-aa5a-d2676b5bf3ab",
+    "name": "2: CHEMPANODA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6c19ba4-eb17-4149-ba5a-16c49983ebf0",
+    "name": "3: KURATHIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a908daa2-9f6f-40c4-b46f-34591514cdfe",
+    "name": "4: POOZHITHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a0b3045-e63f-4437-b7f8-aa86e6e662b6",
+    "name": "5: MUTHUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2983501-c5f8-47da-b39a-22fedebcd223",
+    "name": "6: CHENKOTTAKKOLLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82388c6e-811c-4c27-aa5f-aa7fa4d93411",
+    "name": "7: ILAMKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a961c82-cb5e-498d-9e50-174b90a73ee6",
+    "name": "8: PLANTATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29f4f58f-c3d3-4570-95c1-88229cd68a5f",
+    "name": "9: NARINADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e786fe8-e3d5-41eb-b1c4-88fa3bba0789",
+    "name": "10: ANNAKKUTTANCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f80d015f-c162-4aec-a552-522615f2359b",
+    "name": "11: PERUVANNAMUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d415b501-6e0d-432f-84ad-ad295d35ceea",
+    "name": "12: CHAKKITTAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f57ec96e-b359-4aaa-a97e-0a0d3724ab61",
+    "name": "13: KULATHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bc07e5b-b37a-492a-88d6-ba7fa71a56c1",
+    "name": "14: THANNIYOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "442b8718-88b5-469d-bbdd-59e990bd66bf",
+    "name": "15: KULATHUMTHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

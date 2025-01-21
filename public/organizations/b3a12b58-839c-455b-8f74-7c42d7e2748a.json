@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ae92638a-a732-4d6e-8809-2444d2d7312d",
+    "name": "1: AZHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f69a2a76-5c66-4d58-80ec-ed6ccfc74eaa",
+    "name": "2: KAPPAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a04e775a-a851-41df-8fce-4fbcd9adf237",
+    "name": "3: POITHUMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c163b34-57ca-47ea-89d9-4d1df4398b0e",
+    "name": "4: PALLIKKUNNUMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9715a51-3fc2-48a0-b45e-cfea2eebae37",
+    "name": "5: THERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0dbc6b9-3f5d-4183-bb57-052f181ed4ce",
+    "name": "6: MAILADATHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7027d469-c01e-4eca-9869-f6a6906a512b",
+    "name": "7: MOLOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8418571-a7ae-450b-9181-b7b8c74d98eb",
+    "name": "8: CHAKKARAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "baedf9ab-abd9-48da-a97f-b75939b738a3",
+    "name": "9: ARAMKOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a4ef83d-7c6b-41e6-9a5c-d92ce360712c",
+    "name": "10: NEERKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dd04135-cba3-4dd9-98ef-ecfe95064157",
+    "name": "11: THEKKUBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c7433ad-e599-450a-95f7-edbb713d0525",
+    "name": "12: CHEMMARASSERIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9a67097-14f8-4a7b-a0f6-ce359414a1ab",
+    "name": "13: PUNNAKKAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee69954b-e2df-4779-81a5-486e40db8f71",
+    "name": "14: MEENKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6cad455-b582-4249-9205-7312f8d08aab",
+    "name": "15: VAYIPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea7ff131-a126-4641-b6b8-8cca8d7fae6f",
+    "name": "16: VANKULATHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d41bcaeb-0ba4-4130-9c5e-d09beb80539c",
+    "name": "17: MOONNUNIRATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "618784dc-4d57-4292-b81a-64d36f36f255",
+    "name": "18: UPPAYICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d71f0aed-a1fc-4a4a-b74b-5e3d912dee6b",
+    "name": "19: ETTODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87242587-90bc-4f02-b04b-fbfaabc12f4c",
+    "name": "20: CHAL BEACH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ede36a7-e615-462f-b8b7-69765fec53c0",
+    "name": "21: NADUVILE CHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d93c6b92-0b6c-4a9a-bdae-7f7b0e6f748a",
+    "name": "22: PADINCHARE CHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3d6507b-a566-4fef-a54f-5b032033aee0",
+    "name": "23: AZHIKKAL KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

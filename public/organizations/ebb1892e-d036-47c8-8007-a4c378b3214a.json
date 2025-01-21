@@ -1,0 +1,92 @@
+[
+  {
+    "id": "afd9375e-8ee5-4ad1-a7de-e4085b6915b4",
+    "name": "1: NEENDAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "152208dd-e4bd-4402-ba2e-221a787bc0d5",
+    "name": "2: KAILASAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5d5014d-21ce-4bcd-9fd1-2a6ca69e6d20",
+    "name": "3: KUZHUVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6e10f60-57c2-4e9b-805c-1a72a1618f9f",
+    "name": "4: KUREETHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dbdb654a-1dab-4461-9a2a-19e758f49eaa",
+    "name": "5: CHAMMANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f7c9a64-55e9-4d74-8207-3a2000853af6",
+    "name": "6: MONTHACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dacd876-5eb6-4b09-801e-a0342eec3897",
+    "name": "7: CHIRACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06346245-0325-453e-a885-4c63e2e35687",
+    "name": "8: MANATHODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07fee3db-e112-4085-a3f5-8256a780b3fd",
+    "name": "9: PANCHAYATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "467f474a-1237-4b82-bd48-79d1bf65e0fa",
+    "name": "10: KELAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5cf4aec-09dc-49df-bf56-819b97a23822",
+    "name": "11: KOYICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "786c4cf6-287d-42c8-8dca-8932c3f67738",
+    "name": "12: MUTTATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5ee3f8e-9565-406d-8e55-606c51ca8562",
+    "name": "13: VALLETHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebcb1336-d296-462a-a05a-e76174ab9090",
+    "name": "14: MOORTHINKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08231d97-b852-427c-a7b3-72fd5f2d1487",
+    "name": "15: CHANGARAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

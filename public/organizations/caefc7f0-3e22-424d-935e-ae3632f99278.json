@@ -1,0 +1,51 @@
+[
+  {
+    "id": "12638933-44e5-4d95-8745-cb38b20a8c2c",
+    "name": "Enadimangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6c7f8e14-3240-43aa-99bc-c3b4fd9a75f3",
+    "name": "Erathu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "af20ba18-4de3-413d-85f5-86e9fb225e40",
+    "name": "Ezhamkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f661920d-1e56-43b1-80b5-fd0cd3991923",
+    "name": "Kadampanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "02842476-32c0-4e5e-9efb-5a302e051abc",
+    "name": "Kalanjoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "16f87347-109c-4c90-9cbe-7e29566d2a04",
+    "name": "Kodumon Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "71052d19-051e-46a9-9bd2-7c0b814724be",
+    "name": "Pallickal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

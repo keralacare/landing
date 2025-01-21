@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f58bf9e2-4725-454c-af9b-809c8e419b46",
+    "name": "1: ANAYIRANKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ec6cdb2-2ce5-49c8-8e9e-44bf0764413d",
+    "name": "2: PANNIYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92476c97-d35c-46fa-9a64-60cf2092e6bb",
+    "name": "3: THONDIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85f4e1e8-9bbb-47dd-8dd3-cee41f2ba8ab",
+    "name": "4: POOPARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a758123-c042-448d-8d1f-fd6009741f83",
+    "name": "5: PETHOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7986e345-6c04-4ad7-af2f-cc3e04cff69b",
+    "name": "6: SANTHANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "766d020b-e3ee-4c50-8c2c-c857ce435dbe",
+    "name": "7: CHERIYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e0851b7-d6cf-4ab5-acd3-7a055744b89b",
+    "name": "8: PUTHADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e63a1a18-48a5-489a-94f8-484be0d29dc7",
+    "name": "9: PALLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f65cf50-1149-465b-85a9-cc66afdc821f",
+    "name": "10: THOTTIKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ca055ce-4718-49ad-b437-64018be7ac2b",
+    "name": "11: POOPARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8a2ba1a-8a98-4e26-8ae4-a00c726cdb50",
+    "name": "12: ESTATE POOPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1164d6e3-1622-465f-bda0-05ced09855dd",
+    "name": "13: MULLANTHANDU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "53eb3444-f349-4c1e-97a1-3d3d3374d2c1",
+    "name": "1: JAIHIND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aed682de-01c8-4611-9ad4-ffe4bcb53f57",
+    "name": "2: ARAPETTA N C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd0f35e1-ea9e-45ee-92f2-125e47dc5632",
+    "name": "3: THINAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f91921d7-302a-4010-8a2f-2450e603a27c",
+    "name": "4: PULLOORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6f3800e-441e-4155-a18f-086bb47d46be",
+    "name": "5: NEDUMKARANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91b4d00c-341b-49f2-8ff8-7cc88c6f6578",
+    "name": "6: KALLIKKENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2d21193-2d4f-4228-bbb9-12e7152db2e5",
+    "name": "7: CHELLAMGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "676d3e1e-3aea-4816-aad1-e1c28e833d93",
+    "name": "8: VADUVANCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f324606-a071-4e25-a5ce-1bb1b1a3ac9f",
+    "name": "9: KADACHIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21cd4a39-488e-4cae-87a8-676139499122",
+    "name": "10: RIPPON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cc9cacd-adb1-4851-9c15-57feea170c75",
+    "name": "11: PUTHUKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cedfc4a-028f-448a-8d67-103bbb2afa5c",
+    "name": "12: VALLATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51f55e99-8f0e-4fdc-8af0-184c545cbbd0",
+    "name": "13: ARAMANGALAMCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a318fb7b-f816-45a3-b559-31c8d91ebcf2",
+    "name": "14: ARAPETTA F D",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7d018b5-824f-4940-88dd-13df6faaaa59",
+    "name": "15: MANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9b54d0a-601a-4841-ba87-81c0894d4cca",
+    "name": "16: MUKKILPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

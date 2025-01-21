@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2dbdf8dd-c27d-4c2a-be0d-7aca556d68bb",
+    "name": "Karavaram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "06ef3122-96d2-47ef-b95c-c2e367e90d90",
+    "name": "Kilimanoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "13918988-3a7c-4cb2-84ca-d6f69cf7789f",
+    "name": "Madavoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ea1c4cc1-05ec-4907-bcd7-f64851cd16f1",
+    "name": "Nagaroor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5033f45d-f76d-48eb-b57a-89b39beccaa1",
+    "name": "Navaikulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fe7036c4-9ace-46e3-b876-2fadec79fef1",
+    "name": "Pallickal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d56edd4e-9452-495f-9874-480776932da8",
+    "name": "Pazhayakunnumel Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cf820e11-c39e-4440-b3a7-d0bddcb7aaf0",
+    "name": "Pulimath Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

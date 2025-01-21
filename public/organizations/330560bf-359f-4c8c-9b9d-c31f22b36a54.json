@@ -1,0 +1,140 @@
+[
+  {
+    "id": "be9ac122-3a16-4ec7-9868-213b4bf1b694",
+    "name": "1: KAINOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67f77248-6002-4a27-b740-ebe3dbda03d4",
+    "name": "2: THONIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "380fc690-201e-47dd-bb52-62eca38c6258",
+    "name": "3: CHERUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6df056c7-076e-4b98-a673-050b5241f358",
+    "name": "4: EZHAMKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08a6a623-6864-4075-98ae-7fcafa64fbbf",
+    "name": "5: MANNAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "286b1118-d57a-4e0d-b77f-77c6b80538e7",
+    "name": "6: VELLAKKARITHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5b56303-7c01-4361-9306-376c42796fa1",
+    "name": "7: MARUTHUKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43043c65-b460-4103-a007-42cb3bd533da",
+    "name": "8: MAROTTICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8daa68e1-7aa4-4a63-bf13-87691f147a6e",
+    "name": "9: KALLAIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51962e1c-36f7-42cd-8ada-008668af24aa",
+    "name": "10: CHEMBAMKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e4debaa-7ea5-4d8f-9ef9-27bf8ca244a2",
+    "name": "11: PONNUKKARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2a12661-0d09-4c0d-9a36-5dd663bd8e7f",
+    "name": "12: CHOCHERIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06039801-a565-4f20-9786-c037a230695c",
+    "name": "13: PONNUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f98b8c6b-ac61-472a-8946-49467a6e6e3f",
+    "name": "14: PUTHUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac322051-3c5a-4f6f-a4f6-f50a95156096",
+    "name": "15: PONNUKKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0fa863e-8e61-4b5a-a949-126928250718",
+    "name": "16: PUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b13b1178-4bc3-4d4c-a3d8-eb0e32e15dc0",
+    "name": "17: PUZHAMPALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4678515f-84dd-44ef-9430-b8fbc2cf7912",
+    "name": "18: KUNJANAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e7072be-5b71-4775-87bf-a99751dbcb03",
+    "name": "19: KANAKASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31553eee-8a98-461a-8fbc-8601afa797bf",
+    "name": "20: MARATHAKKARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74168e40-7b6f-4e74-8f52-f7cccf02f9ff",
+    "name": "21: MARATHAKKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a330b5ed-cd1d-44fd-985d-74dd8469e89a",
+    "name": "22: PERUVAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fff57cb8-2460-4c51-b280-5bedffa44228",
+    "name": "23: ELAMTHURUTHY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

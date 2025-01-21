@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ddd838f2-dfcc-4edd-9ad4-e417830a1099",
+    "name": "1: KULATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5222267-74a7-4544-b1ef-2621311420db",
+    "name": "2: KANNADIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48069f45-2492-4e65-a0f9-476a2a3e44ef",
+    "name": "3: PAYATTYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97c53001-aed5-4f57-882c-e8168a171ec7",
+    "name": "4: CHALVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27c8c2a5-302e-4b64-ab6d-1a258ca80c82",
+    "name": "5: MAMMALATHKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16025362-6a29-486f-ba9f-e4bc9dc35bde",
+    "name": "6: CHUZHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c477fde-e7e3-4fe3-9067-6cee1d2fd263",
+    "name": "7: NIDUVALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "509407a6-1e9e-49cb-a8ab-6c36529a02c3",
+    "name": "8: KUNDAMKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccbbfed0-7bc0-40a2-a04a-37785c4ee795",
+    "name": "9: CHENGALAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4f79995-0686-4057-b8f8-ae7ca2dba26f",
+    "name": "10: PARIPPAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a8217bf-40cc-412a-a1b3-966a23b10501",
+    "name": "11: CHENGALAYI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad4ddc52-1367-4f9d-a4c8-b2ab35edb530",
+    "name": "12: PERINKONNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c778eaf-0bdf-48fe-af62-130a0eec5d4e",
+    "name": "13: KOYYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1af77874-71c4-4a41-abe0-1672207213e0",
+    "name": "14: PERINTHILERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19eeff86-0183-4ac4-ada9-4bbebc71f113",
+    "name": "15: THERLAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a64800fc-a4d5-4592-ad58-f2c3eb83b791",
+    "name": "16: MANAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db4ea95b-b181-4f9c-b151-9e71ded48125",
+    "name": "17: THATTERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85d8faf5-903d-4515-9cb0-02af91b5099a",
+    "name": "18: MUNDATHADAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

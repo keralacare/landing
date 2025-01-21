@@ -1,0 +1,116 @@
+[
+  {
+    "id": "bb174523-f303-4e26-bab7-b94426608698",
+    "name": "1: MANGATTUPULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2afde682-2772-45d1-9ad4-db5008225022",
+    "name": "2: VADAKKEMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6eded7f-22f5-465d-ae65-82e6c7766576",
+    "name": "3: CHEMMANKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54f1dd20-c852-4e62-aa13-c22143ee79d8",
+    "name": "4: CHOLAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd8fcfee-e362-4f53-9af7-64d2d6d74ed5",
+    "name": "5: UMMATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "679a4c8c-a692-45ba-81fd-d8edb4329622",
+    "name": "6: PERINGOTTUPULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a660689c-d732-46f0-b11c-43fab6898485",
+    "name": "7: CHATTIPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1671ca7d-741e-4049-bfc8-e6ad8e1607b6",
+    "name": "8: EAST KODUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40b66d8c-d4c9-40f8-b4bb-fa8a4831ed9e",
+    "name": "9: THANIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7868af37-737e-48df-8b89-e4542b43fc73",
+    "name": "10: VALIYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2f51810-dacd-44d5-b900-b37599cde172",
+    "name": "11: ARAKKALPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "15d8ffe7-fd47-4372-a911-e68a4feb7026",
+    "name": "12: ALPATTAKKULAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cf29331-f9ce-4f33-9141-208661c82fe5",
+    "name": "13: PULIYATTUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fbdd09d-92cf-479f-99c3-d5ee61cc569b",
+    "name": "14: OTTATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cd65072-72a5-4298-8ca3-83e6dfffe15c",
+    "name": "15: VARIKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cdee27d-e5e7-46ed-b88d-b839184df80e",
+    "name": "16: NATTUKALLINGAL PADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29a5240f-9046-4149-bc73-c76d4b038650",
+    "name": "17: PALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cf44c78-c55e-4ee6-b38a-532d34e55dc7",
+    "name": "18: WEST KODUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a5e374b-aa78-4ae6-b8af-2f08ae1eff03",
+    "name": "19: KAREEPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

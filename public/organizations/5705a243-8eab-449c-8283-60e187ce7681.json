@@ -1,0 +1,65 @@
+[
+  {
+    "id": "e9d9076f-a061-4f19-a36d-8087301df74f",
+    "name": "Chittar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fa8b13ba-90bc-4078-aa24-24337b9d2112",
+    "name": "Naranammoozhy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e995de80-9abe-4514-8607-985b851d467b",
+    "name": "Ranni Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f116ca51-d10a-4ddc-ae73-f64852a83a93",
+    "name": "Ranni Angadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ef906e24-2225-41d2-afe7-2165fb86836d",
+    "name": "Ranni Pazhavangadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f486d301-df8d-4a8d-883c-abd1c7ed243a",
+    "name": "Ranni Perunadu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e8cfeeff-2003-47d6-85cb-4b01665965b3",
+    "name": "Seethathodu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3b827d89-b3d0-46cf-a049-3254a21c7146",
+    "name": "Vadaserikara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "90b4b43f-6f05-4165-8252-226e78441db5",
+    "name": "Vechoochira Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0bf4072a-3bdc-4270-b4e4-c3e7f1034c82",
+    "name": "1: MALIANKARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb557e3c-5308-4c9f-98a0-4b99d8a18b37",
+    "name": "2: KOTTUVALLIKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "634c00b0-adce-4bf0-b54d-3e09a69039d1",
+    "name": "3: KOTTUVALLIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25a7fc90-e58f-484b-916e-d935d4255ddb",
+    "name": "4: THARAYILKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "827c8159-ce53-4d64-ad35-78ac275d78ff",
+    "name": "5: MOOTHAKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93a12ce8-e9f5-4f29-82b8-9507ffb6097b",
+    "name": "6: MADAPLATHURUTH WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72d0637f-e891-432c-8ced-871e38fc8381",
+    "name": "7: MADAPLATHURUTH SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f208bbf0-833b-4f65-b0a4-d8f6b35c84c1",
+    "name": "8: ANDIPPILLIKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bb6891d-cc6b-4885-a2a0-8634869b17df",
+    "name": "9: MADAPLATHURUTH EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a037890d-c0bc-4af3-a2e5-c2c1235b8692",
+    "name": "10: THURUTHIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61d6c6ba-94eb-41ba-8fbd-408c8e9ff2a1",
+    "name": "11: MURAVANTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "812d65d3-e025-411c-9014-550e584e418e",
+    "name": "12: ORAVANTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "373493ed-c586-4538-95a0-99f5213f759b",
+    "name": "13: KATTATHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bc0bad9-15d9-498c-89e6-569380a20ac8",
+    "name": "14: PALIATHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a93cd3f6-1868-4f49-b11b-d164958f485b",
+    "name": "15: VAVAKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a94581d-e418-40a4-ade7-67de7cbe9e9e",
+    "name": "16: VAVAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e040da35-d4df-46c6-898e-6397795d1c9f",
+    "name": "17: KUNJITHAI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80b99ee7-c8c6-4f73-a962-0a14ba3dbf05",
+    "name": "18: KUNJITHAI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9893ae6-7ee5-49bb-ab38-36c0d83ab162",
+    "name": "19: CHETTIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa12aaf9-6607-43d9-94e2-c29939d865ed",
+    "name": "20: MALIANKARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "40345136-629b-4a0b-b74e-6e0e7efdc3f0",
+    "name": "1: CHERUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bc18383-4788-4edc-bf19-e863123646d8",
+    "name": "2: ALUMKOOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5fb62ce2-2eac-406a-a0b5-c59cad9eacf9",
+    "name": "3: KIZHUNGATHOLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fc4cbf7-2e2b-464f-9fb3-3177576cc83c",
+    "name": "4: PARAKKALMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0712ac9-c75b-4fa8-877a-2c47035c9993",
+    "name": "5: CHENGANAMPATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72b53402-a0af-4345-a0ba-43b4076e8815",
+    "name": "6: ETHEPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bc9d00c-e7c1-4c50-a93a-755f16f5e5d7",
+    "name": "7: CHENAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31cda5af-2787-4318-b031-f4fea0128dec",
+    "name": "8: MUTHUKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93ae9bef-8499-4499-ad5b-67aa7991ff85",
+    "name": "9: KUNNAKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1b7c6c7-4444-410f-b8fd-f026521f78b4",
+    "name": "10: MALLISSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0e26eea-43af-4cf8-8589-74f22d66b752",
+    "name": "11: KORAKKUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82d4d707-0829-4af8-b8a9-f0898b9e1d07",
+    "name": "12: THEKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a30be43d-cc11-44dc-a236-c516122850f4",
+    "name": "13: PALATHOLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "841dceb7-5601-4ec9-a40b-ae58456a4dec",
+    "name": "14: ELAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7f7a282-4f14-4ea0-8ff4-12d55916e94d",
+    "name": "15: PERUMBARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e6e822e-e863-4249-bbe0-dd4ccf94a5ab",
+    "name": "16: PULINKAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0453c85a-42b5-4bcd-9631-a34692d1dcce",
+    "name": "1: CHANDAPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6745a9b8-636f-4f9b-ab0f-dc5b2221a3fd",
+    "name": "2: KANDONTHAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec4c89c3-527c-473e-a6f5-d85dec1b8677",
+    "name": "3: PANAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a76ac5aa-60ea-4d6e-87f8-815e7360bf2a",
+    "name": "4: MOODENGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84486982-400f-4712-a378-bfd9416d10ea",
+    "name": "5: PARAVUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d31a6de-e981-4f35-adf5-f867871a95a1",
+    "name": "6: AALAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85263254-a990-4aab-a5cb-045d9d446bed",
+    "name": "7: ERYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a32683e8-af4e-4f2b-8f0c-988a4c634d7e",
+    "name": "8: KANARAMVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04e51e33-ff4d-481b-a787-0ae1e433e23e",
+    "name": "9: CHERUVICHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "50ef0980-3639-4fed-91c4-f06996ce718f",
+    "name": "10: KIZHAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3dbf106-c05f-4df2-9f6c-4190478b8e23",
+    "name": "11: THEKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6c049b6-c500-418a-816e-034532a6e65e",
+    "name": "12: MEDICAL COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97a8a222-e43d-477d-9490-1f838b863870",
+    "name": "13: VILAYANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c286636f-05f9-434e-bf82-b0d0506c52d1",
+    "name": "14: CHITTANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6cea868-0848-42b4-a513-a38c976b4658",
+    "name": "15: PADINJAREKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

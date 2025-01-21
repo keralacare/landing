@@ -1,0 +1,236 @@
+[
+  {
+    "id": "2a6f90f4-cd21-4c21-85b8-e0ce713e0ca7",
+    "name": "1: THRIKKULAM PALATHINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a55aa3c6-9f32-4534-824c-5efe8ebe08db",
+    "name": "2: PATHINARUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cba0bdd9-19a3-435b-a606-9c855ef497a4",
+    "name": "3: KARAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afae5833-0098-4506-8572-ec050a125e6c",
+    "name": "4: KAKKUNATHUPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29001a90-0293-4bf0-ac6e-43dfed0a6284",
+    "name": "5: PANTHARANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33c22489-c2e7-42f7-9af7-8a812a4738fe",
+    "name": "6: KARIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b906e748-b91d-437b-9ce4-aa5609a50c84",
+    "name": "7: MANIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "677d76a3-f1da-4777-8e66-ce69f9940f02",
+    "name": "8: CHEMMAD NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09b955ce-3a9d-4d14-8440-d64290da2cbf",
+    "name": "9: MAMBURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca9c3854-5d5c-4600-a5b7-902c204ed6ad",
+    "name": "10: TIRURANGADI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54362c42-88c0-4c75-b294-e94e79997f3f",
+    "name": "11: SOUDABAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3245587b-aaab-4b68-a4f5-5522b832df96",
+    "name": "12: KAKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b6e2914-4a2e-4d76-9ac2-f4b87f34dbaf",
+    "name": "13: KARIMBIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce0a9147-0c03-40c3-8d8a-987ed8ec38c1",
+    "name": "14: VENNIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9e8bc93-2b97-469e-ab93-81092378deed",
+    "name": "15: KAPPRAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4bc61f7-3c50-4339-be62-3cc832773faf",
+    "name": "16: MATTIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8241594d-0157-47d4-95c0-93212e3f93cc",
+    "name": "17: KACHADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de6f2a4f-57d0-403d-87e7-da0093b99f05",
+    "name": "18: CHULLIPPARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bb5b65e-64c9-490a-869a-df0ca44e2be8",
+    "name": "19: CHULLIPPARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb9fbc38-dce1-4514-9290-8664d089111a",
+    "name": "20: KUNDALANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12e4efc1-f9f4-49b6-9e05-d0f197deb1bc",
+    "name": "21: KARIMBIL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3eb64e5-53ba-49b5-98d4-0a229244001b",
+    "name": "22: KAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e379eb2-fd53-44b9-9c62-6363341df431",
+    "name": "23: KOYILIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be1c721a-6709-40eb-bda4-277d2ed6b793",
+    "name": "24: MELECHINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88ac669d-db0f-4490-8b7a-f46a5cbd5a39",
+    "name": "25: THAZHECHINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a5bbb59-4d95-429a-ad3c-b23d95dddb9d",
+    "name": "26: CHERAPPURATHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e253c25a-1718-44f1-ac75-b74ee1d15a3d",
+    "name": "27: TIRURANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f71851a-49f0-4e77-aa0a-701cbdec5c30",
+    "name": "28: CHANTHAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac8dbe52-c8b4-432f-b475-9b5e172eeae8",
+    "name": "29: AZAD NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "396b8e1c-ef8e-4bf4-93ce-5c187e262cdd",
+    "name": "30: C.K NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2745dd00-a4bd-4f43-bb92-179d7dbe6cc1",
+    "name": "31: C.K NAGAR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b01dc946-8b29-4b0f-aa68-c73197f6ea86",
+    "name": "32: KUMBAMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43716027-6c4c-4425-9572-bd44af4c8d68",
+    "name": "33: VENCHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f3cc2cf-5429-4a0d-9538-6f86fd004aae",
+    "name": "34: KISAN KENDRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7751268f-4930-482f-bb30-40c330e257de",
+    "name": "35: KOTTUVALAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97777a6c-93b7-4c60-b879-7541c91579d1",
+    "name": "36: THRIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cbef8ab-ecc0-42ee-8512-8a61e614a0b4",
+    "name": "37: KOTTUVALAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48c18183-4111-419c-aa72-8e92e249cb24",
+    "name": "38: ANITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b98ee51-13a2-4885-90c3-e942e718126b",
+    "name": "39: PALLIPPADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

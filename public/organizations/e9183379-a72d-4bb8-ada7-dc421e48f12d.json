@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7a19ee69-c17b-42fa-a411-e59082519e01",
+    "name": "1: KOTTATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3191b04e-a661-434c-89de-c9fa13150af0",
+    "name": "2: MATTATHUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "964429ad-8b93-4560-a7a6-30561b106543",
+    "name": "3: VATTALAKKI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e98a0b2-4a98-4601-bc68-cedc7874981c",
+    "name": "4: ANAKKATTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7ba2a95-cc9f-4252-a55a-f6c454bb877b",
+    "name": "5: KADAMBARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb2fccbc-6f71-4233-aa53-4eb007289bb6",
+    "name": "6: VECHAPATHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18b239e7-29a1-4313-b6a8-01c32e438351",
+    "name": "7: VARAGAMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb819a00-08af-4207-8c22-818f8802369d",
+    "name": "8: PETTIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20470839-763d-4224-b791-50c4cdc754cd",
+    "name": "9: KOZHIKOODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1556c8d-d84d-4133-8ac5-b125a17cb487",
+    "name": "10: KURAVANPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4c7f51a-7f72-4b27-a0bc-fadacaa7a739",
+    "name": "11: CHUNDAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe92b213-9c70-4f0a-8e27-9502b4548c1d",
+    "name": "12: SHOLAYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58e39281-c0bc-4e54-90d5-645904ac57dd",
+    "name": "13: KALLAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b55570e-613c-42a2-882b-b1c126069edf",
+    "name": "14: VANNATHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "02c11a15-8f86-44fb-9162-1631cafedbf8",
+    "name": "1: KARALI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1c4ab22-911f-4207-a92e-9cd0fa4fc32a",
+    "name": "2: KANATHARKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54527fb8-2cc1-4643-a17a-723b87cd238b",
+    "name": "3: VALIYAPADAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa84819c-891b-42e2-88a1-5807c417bb27",
+    "name": "4: VILANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e48c85ca-87f4-4d0e-a57a-eae005aa1ec9",
+    "name": "5: VALIYAPADAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a94fe43-5da6-4c51-9684-3d3d5d938607",
+    "name": "6: KADAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4db8e1f-bda7-462b-a1f6-09f39ea8434c",
+    "name": "7: KOICKAL BHAGOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1c89b0c-1909-407e-bbcf-33bcb6d65f8a",
+    "name": "8: NADUVILAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dca8d4f7-7b90-4449-99b6-d8e5f9cc7d43",
+    "name": "9: ULLURUPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23082546-d0bf-428d-aa73-e6d468cb8e54",
+    "name": "10: AITHOTTUVA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73d5d865-e901-44b2-9288-15bf691153ed",
+    "name": "11: AITHOTTUVA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a2013a7-4e5b-4db7-b587-45d3c73ad786",
+    "name": "12: AITHOTTUVA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e10493b-d7d7-4df1-bc5f-41ae20219f0c",
+    "name": "13: KOTHAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e9e0bf8-891f-4559-8acd-3d444236543d",
+    "name": "14: PATTAKADAV",
+    "has_children": false,
+    "type": "ward"
+  }
+]

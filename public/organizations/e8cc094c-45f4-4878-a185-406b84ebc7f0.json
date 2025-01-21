@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a328120d-b53b-4ea7-95b5-adc702712978",
+    "name": "1: THIRUVEGAPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df824819-7a1d-44e4-b246-5dde6bb1fcdf",
+    "name": "2: WEST KAIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "078afda0-0d0f-413e-94a4-a61801277623",
+    "name": "3: NEDUNGOTTUR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24e5d6c2-e90d-4858-8368-368c1c357438",
+    "name": "4: MANAKKALPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbc588ca-29f0-4967-bd45-4d67d877f0b0",
+    "name": "5: KAIPPURAM CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b14120e-25b8-4614-9e9d-ca075ecbd142",
+    "name": "6: PARAYIL KAIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11f7cf81-f0a9-4705-8bf0-16ad3d0008ba",
+    "name": "7: NADUVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8605a50c-d584-4427-825a-be31710df58b",
+    "name": "8: THEKKUMMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8ad5d87-e565-4488-bf42-d35a5ff1f42d",
+    "name": "9: VILATHUR EDAVARKUNN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00cec59b-0db0-4ccf-96c2-e02167926c60",
+    "name": "10: MANHAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce39078a-ab7f-4009-953b-3f819c9aeb9b",
+    "name": "11: VILATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3a54830-6986-4228-8486-26af634d6788",
+    "name": "12: NHAVALKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2311fcb7-3f8e-4f6c-8e70-0ac470b8b655",
+    "name": "13: CHEMBRA ALINCHUVAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "162d28a4-7d72-4882-bda8-5739947b33d9",
+    "name": "14: ODUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dd8caa7-94c2-4464-9ac6-c09da93921a2",
+    "name": "15: CHEMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2a9863a-5539-4810-91a3-136e27a6bd82",
+    "name": "16: NARIPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f33ad1db-eb93-4f0d-b0fa-41107d2c9b66",
+    "name": "17: PAZHANELLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5c139cd-d5af-4907-90fc-1a1e08e0e9d7",
+    "name": "18: AMAPPOTTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

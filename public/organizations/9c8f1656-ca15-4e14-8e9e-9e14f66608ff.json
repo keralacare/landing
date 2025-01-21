@@ -1,0 +1,104 @@
+[
+  {
+    "id": "266330da-e0e0-4e81-a854-5963e1dcc11d",
+    "name": "1: KUNIYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86cb5fef-10d0-4228-b993-344c5bade39f",
+    "name": "2: AYAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96f10d0a-84d8-4e13-b4ec-d8d039ae8545",
+    "name": "3: KOODANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f92c1c4c-3273-40f3-a8c7-98fd1722e7a2",
+    "name": "4: THANNITHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21c41c8c-45ad-410e-8131-51125afc7429",
+    "name": "5: KALLIOT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1ffe158-1f71-4421-9825-06d2ed4608f0",
+    "name": "6: IRIYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e360f615-a822-4e53-9334-2f525fa1f581",
+    "name": "7: KUMBALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "807ca7f4-2e89-4aaf-b02d-2d2ec3a896a1",
+    "name": "8: AMBALATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36492639-33db-4ffe-aec2-6d9b3fee0285",
+    "name": "9: KODAVALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0018deee-14ca-44c4-8799-4c591337f5ad",
+    "name": "10: VISHNUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fd3cd0c-76f8-4a60-be10-d669e96e4b26",
+    "name": "11: HARIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7282e6f8-5d59-4867-b1a1-cac81bbc915a",
+    "name": "12: THATTUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26107e33-40c8-49c4-a81e-d7be4fbff775",
+    "name": "13: KELOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d82fab3-6610-48d1-8d95-d7a613edfba6",
+    "name": "14: CHALINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4e39d5e-4500-4b5d-ad76-d79fa3a12240",
+    "name": "15: KAYAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7534900d-9d47-43e7-9275-c0efc110d3ec",
+    "name": "16: PERIYE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3fc9447-5e36-4aa9-bfc4-bf10774fbdda",
+    "name": "17: PERIYE BAZAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

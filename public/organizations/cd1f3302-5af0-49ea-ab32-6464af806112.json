@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e097c229-afe6-4a0a-9f98-3e6b8f5ca61a",
+    "name": "1: VAZHAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27f1a67a-ea9f-4af5-a16f-2cee2493b88c",
+    "name": "2: NARICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3bb8bc4-8fa0-46d7-9273-8f284cb89e13",
+    "name": "3: MATHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "115c6441-322a-4bea-9984-a1f2cc1aecc2",
+    "name": "4: ADUKKALAMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5356f11-e40a-4859-ab22-2b5837b042f9",
+    "name": "5: VATTAMAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f435278-3e45-4fdb-b754-dce2431af84c",
+    "name": "6: NIRAPPATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93698e50-5c66-4a0c-a52e-26bfdfce1eac",
+    "name": "7: POYKAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e8223d3-b6fb-47f0-9943-904c95595ee5",
+    "name": "8: NEELAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65036aa4-58a5-436b-8149-b7205e9abc25",
+    "name": "9: KURIYILUM MUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5794984f-dc24-497a-801e-22eb37740d31",
+    "name": "10: KARAVALOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e45f961-79f5-484c-83c9-4fa50bfbce14",
+    "name": "11: KUNDUMAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "544e2315-0a5f-4bb8-ba05-8288b2ddae49",
+    "name": "12: NEDUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e1a86ee-f03e-4c6b-8fa6-40b6eaea004a",
+    "name": "13: AYANIKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a25b9ded-811f-4ee1-a0ae-623d808546e0",
+    "name": "14: VENCHEMPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "286eb03d-dcde-44fe-8c5f-13efb259693f",
+    "name": "15: CHETTUKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8d2d9e3-94e5-411d-bd2b-f27c50f2a0a3",
+    "name": "16: THEVIYODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

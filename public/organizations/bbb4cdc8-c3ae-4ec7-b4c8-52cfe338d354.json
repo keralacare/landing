@@ -1,0 +1,58 @@
+[
+  {
+    "id": "66d54c9d-96ba-4c3c-8f05-c101a40564ff",
+    "name": "Ayyampuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0b64c1e7-71fa-42a0-b4fe-b3bedeb074de",
+    "name": "Kalady Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7c1f2811-25b7-4fe4-a269-2870ccd54ee2",
+    "name": "Kanjoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b2e34f3f-8deb-4a99-9a8f-fdf834e81178",
+    "name": "Karukutty Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b37df90c-e009-4590-bb02-24f2b02d68b4",
+    "name": "MalayattoorNeeleswaram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f9d7ba48-d86c-449d-9ca3-c43a669c853d",
+    "name": "Manjapra Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "95553af8-b1a0-46ff-b515-bdeb4a9a57d8",
+    "name": "Mookkannur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "95849cd7-63c3-467e-babe-44f5d55a969c",
+    "name": "Thuravoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

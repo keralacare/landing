@@ -1,0 +1,51 @@
+[
+  {
+    "id": "66936bc1-2853-48cc-ab22-112da17fa398",
+    "name": "Anakkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3ac813aa-6e91-4093-b17a-b412fe08dc55",
+    "name": "Chalissery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "57212730-90b5-4a5e-b50c-c3b1cb939cf9",
+    "name": "Kappur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0a5ce1a0-f9d6-450d-a702-d7e0562582ab",
+    "name": "Nagalassery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fa8a34e5-2743-488b-82dd-7a8b1c56ce76",
+    "name": "Pattithara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b8580482-a380-4a5d-8538-5326333bf2e5",
+    "name": "Thirumittacode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d35a5dad-0f63-493d-afea-9e6ad8aaa652",
+    "name": "Trithala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

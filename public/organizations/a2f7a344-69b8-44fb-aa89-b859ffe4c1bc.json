@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9093f5b4-5201-4e52-8140-ab8773773609",
+    "name": "1: EDAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3066209-bb09-44b9-a152-4092c5c656eb",
+    "name": "2: CHERATT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7a00da3-0c43-4920-b5d3-e9875f58cc03",
+    "name": "3: KUNNINUKIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c813ad40-891d-4467-bcd8-c2ccb9e93c1b",
+    "name": "4: PARAMBATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fcf5c8a-57db-443f-93fe-74f044cf0e34",
+    "name": "5: KIZHAKKANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6cc1bf6-6940-4f63-b132-b0151a9b30fc",
+    "name": "6: MALLIYOTE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc44daad-9953-41d8-a776-9d93705b7cf1",
+    "name": "7: PANACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bd1abe4-a86b-48da-98f4-a2500629a1c3",
+    "name": "8: ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "680257ec-f1f1-40e2-8db9-932bdd78cc76",
+    "name": "9: THALAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88602808-5b4a-4aba-abc1-2e61d1ea6357",
+    "name": "10: THEKKUMBAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b11723e8-ec87-4788-bb96-02e5742bdeec",
+    "name": "11: PUTHIYAPUZHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ba32c74-858a-44fa-8648-91bd08e67fcf",
+    "name": "12: KUTHIRUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e1c290b-1273-4259-b064-2869842c145d",
+    "name": "13: KANDAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c52a532-2d56-4378-b758-a259ce38d061",
+    "name": "14: VADAKKUMBAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "c6524984-3354-4dd4-935c-207e2373828a",
+    "name": "1: MATTUMMAL NEENDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa3ff535-6211-4f2d-8bcb-78f6154d92e1",
+    "name": "2: KURUNTHOTTY PARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3791161b-a6d1-42f0-8516-8da556a99435",
+    "name": "3: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbc5bce8-c676-433d-9cc6-5111f8985478",
+    "name": "4: KANNANKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29596501-05b3-44d5-9410-a5f0ef0f6d7a",
+    "name": "5: TOWNHALL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce62015b-3553-48b2-afaa-74ba292abe44",
+    "name": "6: PALLAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "971352bb-55e1-4f43-96c9-a3355ceee23b",
+    "name": "7: KOTTACKAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8646249d-dfa2-4fb2-a408-7dc09da0c6e3",
+    "name": "8: PARAVOOTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6524a8b-679a-4a45-afb4-e60637a65456",
+    "name": "9: FIRE STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71b6c556-34df-4c63-a1a8-ce667649ffe7",
+    "name": "10: VEDIMARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dae52542-9d31-45e3-8843-e4e4a230be66",
+    "name": "11: PALLITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6d49f41-3155-4a7b-abed-7ae5ed6e3280",
+    "name": "12: SANTHI NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62da4eaa-0468-46d5-9697-eb47cf6b8fd3",
+    "name": "13: NANTHIKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b822b445-aadd-4358-b5bf-4200e3271832",
+    "name": "14: VANIYAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af606396-80d3-4001-98c2-622b306e8a46",
+    "name": "15: KIZHAKKEPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f61f09f-cfe0-4818-8ef3-19e813e89601",
+    "name": "16: VAZHIKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "700834b0-e750-427b-b9de-36a7fcad5749",
+    "name": "17: PERUVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98467809-b5c2-4e01-8115-62dd43c6c412",
+    "name": "18: KESARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f002c14-bc8b-47ec-b284-421a2d107f05",
+    "name": "19: NANTHYATTUKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b09b28d-d24a-4b26-a944-145b76b96ad9",
+    "name": "20: THONYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d55155f-ffdb-4810-82f8-786bad5f856f",
+    "name": "21: STADIUM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12a811b6-6a4c-4602-9584-b751a5aa384f",
+    "name": "22: SAMOOHAM SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5485d013-1487-4d81-b85a-2deab97ab66b",
+    "name": "23: S N V SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d437db8c-d13c-4486-b58b-ce115717fa11",
+    "name": "24: KANNANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "834fc5ed-b575-412a-a5f8-4dddadb84bee",
+    "name": "25: KEDAMANGALAM PAPPUKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6469415-c159-4e4f-98b5-5a9e0c021065",
+    "name": "26: KESAVADEV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a9689f6-5467-46c3-988c-2eb88cb99150",
+    "name": "27: KEDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9043430c-be56-46cb-bf84-0f8de8e77c90",
+    "name": "28: PERUMBADANNA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58a426af-175e-47c2-80b4-ecd0d042360a",
+    "name": "29: PERUMBADANNA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

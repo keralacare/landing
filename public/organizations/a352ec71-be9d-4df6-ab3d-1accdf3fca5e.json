@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b00837fa-3af1-4ee1-a429-a8b25066fe81",
+    "name": "1: AMPARANIRAPPEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99c9733b-82b9-4b14-8be3-7c4e986ed8c4",
+    "name": "2: KONDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19e1251c-eb9b-44d7-932d-16baaec54ad5",
+    "name": "3: PATHAZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a24412d8-7270-4413-a077-53d0b9e301b1",
+    "name": "4: VAILKANAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d612f7a9-0664-4b3c-af88-58978ce48c5b",
+    "name": "5: PONTHANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ece788bf-e88b-46ff-b178-ee94ee14ac34",
+    "name": "6: NEDUMCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e35f86d0-d7fe-4a61-b9b6-c0e8c344abfa",
+    "name": "7: VARIYANIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf2be2ba-e519-4f2d-a804-e57952c5bfbe",
+    "name": "8: CHETTUTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b583899c-6b12-4744-88a8-99b5f52c1b4a",
+    "name": "9: KALAKETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "267688bd-242f-423e-822b-32008d7a128d",
+    "name": "10: PINNAKKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff19dd70-c578-43cb-a676-2eaf3571fc4d",
+    "name": "11: CHEMMALAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2597d110-eb8d-4507-b4af-4c2e67a86a08",
+    "name": "12: KALLARANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db691eb3-e83a-4a9f-bd3f-d8b5514bf98f",
+    "name": "13: THIDANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e8decdc-51ed-4c41-a32a-4fd922a47ca7",
+    "name": "14: MOONNAMTHODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "5ed1d506-8cf6-4c46-9d2c-3782a2f54d7f",
+    "name": "1: CHENGANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cff5f85-2fb7-45ca-9bc4-d4b5f0db0346",
+    "name": "2: CHEREKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c9dc8a6-7f62-4059-b900-aad0ac69cb77",
+    "name": "3: MEMATTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "934742ec-5c36-4837-8747-184b0d2ab95a",
+    "name": "4: MUTHUVILKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94ebb7e4-7f95-4378-999b-9426c0f759bc",
+    "name": "5: KILINAKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "851540da-f7ff-4ea3-9a73-607ef800e96b",
+    "name": "6: KAPPIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4c9ff25-4309-4c6a-8b46-539885a2ad29",
+    "name": "7: V.K MADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08f09324-9f0d-4894-b101-8f8de65b82f2",
+    "name": "8: CHEROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf2c8ad6-0f68-4845-a6d4-055405e22202",
+    "name": "9: KOVILAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d74cc50c-8750-4e2c-9fab-dfe593acdec2",
+    "name": "10: CHANNAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd1dcfe4-af0e-48be-ad83-3ebe999078f8",
+    "name": "11: KOTTAMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b540893b-d9f9-445a-8967-e2904ae3898e",
+    "name": "12: POOCHOLAMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e6bd97e-affe-41c5-a2ba-47aa314d5884",
+    "name": "13: ACHANAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a211a6f-56bd-4b0b-85fb-4c736a0389e4",
+    "name": "14: THONNIPPURAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27434277-9936-4427-ba0f-5fd1d7544c9a",
+    "name": "15: PADAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6800dd09-664f-4bef-80cb-0941f31c1e4c",
+    "name": "16: EDAKKAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f704285d-86b5-4fa7-9e65-ad34451b3dc1",
+    "name": "17: AMBEDKAR GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c290ca1e-51f8-4a74-9dbc-b2e5e0e4b61f",
+    "name": "18: E. K PADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c67d3fb-4000-4b82-a227-ad28afca8c1e",
+    "name": "19: VALAKKUDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a9cf3b6-2189-4282-b0cb-b11bd4d1cc92",
+    "name": "20: THOTTASSERIYARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

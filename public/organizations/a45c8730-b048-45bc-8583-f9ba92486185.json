@@ -1,0 +1,86 @@
+[
+  {
+    "id": "97f69666-7dd0-40a2-b7cc-ce190b58ac7c",
+    "name": "1: KOTTAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d619d9aa-b778-490b-969b-6dfef20f8856",
+    "name": "2: KANJIRAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c003b452-64f3-420c-bbf8-5756fb9052ff",
+    "name": "3: POTTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca9f4d06-a998-49f5-94e2-fda2886d675b",
+    "name": "4: KIZHAKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a628ef64-6b97-49a6-b54a-178e52c16b39",
+    "name": "5: KOZHICHUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99e21c18-c3ef-486b-a70a-07971fe381f2",
+    "name": "6: PARAYANKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a45b99ca-efc0-476d-80fc-ad304f6b06c6",
+    "name": "7: PEZHUMKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9c33689-0d9a-488c-9cd2-3fa2fed94294",
+    "name": "8: ONNAM MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "176fa685-78ea-44fb-a6b4-3455bcb0cd84",
+    "name": "9: PATHIRIPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df463273-7bd7-465f-b836-22ec1aeb9800",
+    "name": "10: MANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94f32589-c8aa-4ba6-a1e4-85839837b955",
+    "name": "11: ARIMBANKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac29996f-ed09-4c6a-a4cc-4eed01d2c099",
+    "name": "12: NELLIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed3cd624-1cde-44f3-948b-034f02bbced6",
+    "name": "13: PERADIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1e4aa73-a791-4179-a05b-78be5ef84419",
+    "name": "14: CHERUMBALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

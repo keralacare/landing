@@ -1,0 +1,37 @@
+[
+  {
+    "id": "10c1e2fd-6065-465b-9063-952189fc08a9",
+    "name": "Anad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9b6cb050-616e-482c-abf4-40ecf3e06a51",
+    "name": "Aruvikkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1f835dfa-eb6c-4347-97e1-b2e55c39c45d",
+    "name": "Karakulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "aba92d1f-0a0a-453b-b4c1-8ba168dddd9b",
+    "name": "Panavoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "bdcd39c8-3e11-4c96-a535-eaa6f409c799",
+    "name": "Vembayam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

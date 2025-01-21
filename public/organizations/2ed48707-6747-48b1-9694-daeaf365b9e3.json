@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2ff3c017-b2cc-41d8-8a27-49dee95db259",
+    "name": "1: ADAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ade8540-b5d5-4436-bdb6-2f8533314424",
+    "name": "2: KANHIRAKOLLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8ee0d2c-de30-4a2a-95e7-338fe20c2e2d",
+    "name": "3: SANTHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4edc174-eeae-42fb-89f9-82aede0fcb64",
+    "name": "4: CHANDANAKAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6a31180-e6f8-46b0-8edb-cb7985e532a7",
+    "name": "5: CHATHURAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98a561af-6cfc-4992-8ae3-5d1e17eb7b48",
+    "name": "6: PAISAKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2f9e5b3-832d-4ce6-807a-9fdb650c04e5",
+    "name": "7: KUNHIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc2cbf0d-13b9-45e3-be87-25925faba488",
+    "name": "8: CHAMAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "861f4c1a-153e-4a67-a4a0-402d8d4b70fd",
+    "name": "9: CHAMATHACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4bc2f24b-fac5-4ab3-83e5-e2306aaa11b8",
+    "name": "10: KANDAKASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d3b30fe-4896-4089-9a64-3eead42e6722",
+    "name": "11: PONNUMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5262b3d-3965-47e2-a532-1286d54b3d06",
+    "name": "12: PAYYAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "083b41c1-4bbb-4fe9-b601-112f7f25d020",
+    "name": "13: VEMBUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2ea6f93-ce7b-4bcd-844d-ce80f1938fc2",
+    "name": "14: VANNAYIKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2971ed72-e111-4c80-84cf-4cfbe65bb8f9",
+    "name": "15: EATTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53f5a119-d676-4952-88b2-c7371a22df2e",
+    "name": "16: VANCHIYAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

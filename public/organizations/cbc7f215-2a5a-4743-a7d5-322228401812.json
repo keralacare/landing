@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4d434a54-b220-4eb9-826d-5d8c5fd8d74e",
+    "name": "Bharanickavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1d1d0cc6-4d34-4665-8080-757eff305ff4",
+    "name": "Chunakara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1c3717dd-1d31-4cfa-b72a-f4eb1e8bae7c",
+    "name": "Mavelikara Thamarakulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6183b086-d5be-4c3e-8768-840b20934833",
+    "name": "Nooranad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9a334ecb-be99-4a8d-aea7-df1ba84eaa76",
+    "name": "Palamel Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8871abfa-deea-4a38-b7fd-2dc7514e3387",
+    "name": "Vallikunnam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

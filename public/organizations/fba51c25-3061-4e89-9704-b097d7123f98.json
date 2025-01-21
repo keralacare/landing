@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6dd07aac-024f-40cd-ab4f-5d3c9f3d3f9e",
+    "name": "1: KODATHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ca5c9f2-5c97-412f-a070-d6a37fe2e400",
+    "name": "2: MATHAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f48ab59-24a5-4dd3-9844-fb03f052888c",
+    "name": "3: MUNJANATTUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e268164-ed87-433b-9198-6516440533b5",
+    "name": "4: SANKARAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb2a672b-5ad7-4580-82b0-e8037af4aee5",
+    "name": "5: MUTTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d611bca1-7557-423a-9024-35b6e42a60b5",
+    "name": "6: KAKKOMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d389df5-5ca2-42ea-b95d-cd00dfe29c07",
+    "name": "7: I.T.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2771b4f-2325-4777-aa1f-0e6cffa629f6",
+    "name": "8: ELLUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f529c040-e06e-4bff-8dc4-86e7b288dd45",
+    "name": "9: THUDANGANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd287b05-107b-45f3-85a8-f93911306586",
+    "name": "10: PAZHAYAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc683773-ac22-4455-8b64-960261535ce2",
+    "name": "11: KANNYAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a4f444b-ee1e-4c17-81bd-8ba063b45c41",
+    "name": "12: THOTTUMKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac232523-1207-4d65-aea6-70dd3728245d",
+    "name": "13: MUTTOM GOVT. HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

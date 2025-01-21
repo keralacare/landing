@@ -1,0 +1,110 @@
+[
+  {
+    "id": "595be612-1c53-4804-85d0-0848ff2388e6",
+    "name": "1: KARICHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fd64058-22a0-4400-be62-bb5b0c48ab0a",
+    "name": "2: VELLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81e60974-d316-40a1-a032-5cc9eaf3d561",
+    "name": "3: KOITHOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d9a9b5b-e8b1-4019-8727-e44e0db49cb4",
+    "name": "4: THIRUVELLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5753d753-fc16-4514-9445-59c0fc8d4530",
+    "name": "5: ANDOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3885b8ad-ad7f-4d7c-b52b-a164155800ab",
+    "name": "6: KEEZHAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bc35452-7c4e-4386-a275-e1b6db078658",
+    "name": "7: PARAMBILPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b772f896-65d7-4bbc-956f-8d2e1f169da2",
+    "name": "8: PAICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26e0e1cc-ef34-4e45-aeb2-6d827d40152e",
+    "name": "9: PALLICHAVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f32f6b30-2f4d-4526-82b1-fad7e76d76e8",
+    "name": "10: KUNNINAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a94d802b-59ce-4016-9f72-90a7642351f9",
+    "name": "11: KANIYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20d052c2-6b28-4855-bd8d-638d24735560",
+    "name": "12: ALUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a2a3445-f322-4b3f-ac85-0e421258e560",
+    "name": "13: THEKKEVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aed53a44-4153-4abb-9e7a-59ac403ecfc2",
+    "name": "14: VALIYAVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9acc81ed-575f-465b-9caa-83829776ff97",
+    "name": "15: PALLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef4a62d2-7fd6-4eb9-9923-4ac1df0a23ed",
+    "name": "16: KANDAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd7d14ac-7402-4aaa-89e7-20e6fe93f5f7",
+    "name": "17: SREEPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd137efb-fe5c-42b4-912a-4ce8db00572d",
+    "name": "18: MAITHANI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

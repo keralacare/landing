@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b76a7b78-e469-4da4-9140-668a0848bb98",
+    "name": "1: THAZHUTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d248f33-5bd0-47e7-8315-8fff881b8c3d",
+    "name": "2: PUNCHIRICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2def3ba1-f129-4e02-98f6-f452d5b33709",
+    "name": "3: ALUMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9650af03-0ce5-45a3-9330-048e334c8386",
+    "name": "4: PLAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4ddcfd4-bbc6-48fe-a008-cf764657f9ba",
+    "name": "5: FARMERS BANK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b61a062-56fd-4d73-adbd-57a5b9a8bae1",
+    "name": "6: KUNDUMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fb037bb-20c3-44de-a648-e43fe4f8b48e",
+    "name": "7: ADICHANALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cbacb0d-df45-471c-8a49-4ce36b526bc9",
+    "name": "8: VELICHIKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f64e5b99-98ad-4a67-83d6-4a25c8a0e5f0",
+    "name": "9: KUMMALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bb5467d-9562-4dce-9879-36a28fdf9543",
+    "name": "10: KATTACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "257d76f9-5ccb-4ae5-a94d-1f56df5e9e71",
+    "name": "11: KAITHKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23c7ae20-deda-42e1-87d0-60a5330a1366",
+    "name": "12: MYLAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1d31a37-6d69-40f9-82d5-751aedaa8227",
+    "name": "13: ITHIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad44710d-2752-47ab-87a0-399cad1c6f69",
+    "name": "14: OTTAPLAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c8cbd20-24dc-4dc6-a816-54c54191d695",
+    "name": "15: ANAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa85b820-c477-4969-8acc-b67e78c65637",
+    "name": "16: MYLAKKADU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07538cad-33ca-4fff-8927-1eaa36bb57df",
+    "name": "17: KOTTIYAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93ea5845-a14b-4bc2-b101-a042fe0d6f16",
+    "name": "18: VENMANICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f76e8cb-5b1f-4155-910b-100dc6bce6b9",
+    "name": "19: KOTTIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0eaf4d8-5d13-4713-9de6-e755192299ae",
+    "name": "20: THAZHUTHALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

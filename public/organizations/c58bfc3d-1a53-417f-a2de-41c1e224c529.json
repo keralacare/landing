@@ -1,0 +1,122 @@
+[
+  {
+    "id": "42db1b50-ddf2-455c-8879-b46f7c8fcc36",
+    "name": "1: KOTTAPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef60cd8d-2ed4-46fe-86a8-f143e7671dc1",
+    "name": "2: KARIKKANKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6775108-b069-4a41-b483-c6dbe4464208",
+    "name": "3: DHARMAKINAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b273fc27-f8e6-4d8b-a1eb-81a5d08dd9e0",
+    "name": "4: PAZHANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dc0ba58-e2ad-4ada-91e4-a67b6c892af0",
+    "name": "5: MANHAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d42a750-5a68-4363-8404-308f79fca122",
+    "name": "6: AROLI HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccfd4526-5159-49c3-a296-1ffe6f2edefd",
+    "name": "7: KEECHERIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f59b1fa5-029e-4216-8d53-a27c2e4a1a9a",
+    "name": "8: KALLOORI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d75623a-8035-4225-8023-706439bc4b37",
+    "name": "9: KATTYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9896b495-52a1-4664-b298-3fa4023256e0",
+    "name": "10: MANGADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "410834c1-23ca-4e12-bdd8-bfb876f5a5eb",
+    "name": "11: AROLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83422a92-6a14-49d7-b59f-663b08b182c6",
+    "name": "12: THURUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79d966c2-e1e9-471b-a7bd-01be99f20932",
+    "name": "13: MORONNUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fd0e06a-3a99-4305-8b50-c48459f65739",
+    "name": "14: PAPPINISSERI CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90378067-5f35-4fd9-aca9-f8333bd4686c",
+    "name": "15: VILAKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3641aa16-b16c-43ba-b87d-a66de469dee2",
+    "name": "16: ARATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0d40863-d3d6-4742-bccf-b02914fc50ea",
+    "name": "17: BAPPIKAN THODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e295436-92c2-4c1c-8870-ec703de3ae82",
+    "name": "18: PODIKKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad41c127-b1b5-4b7b-a676-b4e1da8001cb",
+    "name": "19: ILLIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdca231e-4e0a-4606-a347-edd52f48d5f6",
+    "name": "20: PUTHIYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

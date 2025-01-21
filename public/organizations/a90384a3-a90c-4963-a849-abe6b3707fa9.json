@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0cac0490-2468-4661-8878-c9e749b85426",
+    "name": "1: KAKKATTUKUNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0354108-511b-4b1b-a34b-dcb2c49b646b",
+    "name": "2: KULATHINKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72d9b868-31ee-405e-892a-49db4fe92d6a",
+    "name": "3: POOLAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e312e37-f4fe-4ec8-b456-ec07028384d1",
+    "name": "4: CHETTIYARPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9df506f-266b-433b-81a4-99468aaaa026",
+    "name": "5: PARAKKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b34027f7-8f59-4e39-a158-b054bcb1ecc9",
+    "name": "6: MADATHILKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d1944e3-0b99-4a3b-8dee-00a748bef908",
+    "name": "7: CHAMAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19e923bc-0eb9-45ac-910c-b9b50a140921",
+    "name": "8: THALLUMANNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c468ac52-77fc-4007-ab5c-fb050fb8cd8d",
+    "name": "9: THUNDAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4559af37-1d15-419d-b3d6-53ebdabfe260",
+    "name": "10: OZHUVUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d7ea961-eb63-42a9-884c-05810e63b408",
+    "name": "11: KOODALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66fa7182-ee25-40aa-8629-c2e245b5b1bd",
+    "name": "12: NADUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28f8ab46-2f19-4cd6-8fdf-3eb985492725",
+    "name": "13: THALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "088a52a9-0fdc-4159-b749-e1f934aa0ee7",
+    "name": "14: KUMARAMPUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7ccba30-7bd8-48c9-b890-c0e0af9af4e8",
+    "name": "15: PALLAVUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "715a6276-37da-49cc-9171-061fd2b77b00",
+    "name": "16: THEKKETHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

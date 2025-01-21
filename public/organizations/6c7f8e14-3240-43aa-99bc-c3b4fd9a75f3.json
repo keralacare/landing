@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ea38a1b4-362a-4ba5-8cc1-f383263bf557",
+    "name": "1: MANAKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6659db07-c609-404b-913e-2eca41838415",
+    "name": "2: VELLARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ed84c1a-d7ee-47e0-952d-810c89a2e865",
+    "name": "3: AYYANKOICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea891c6b-a139-4c29-aefe-7cdea09b6810",
+    "name": "4: PARUTHIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7be13f7e-af18-418c-a091-5389352bf1e8",
+    "name": "5: MURUKANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90a82588-1e20-43f9-8c2f-01a35635b343",
+    "name": "6: KILIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93cf3020-60f6-4012-ba41-0c8c5a3e409f",
+    "name": "7: VAYALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46748ccb-9199-4f1a-a883-f97e73b25f37",
+    "name": "8: PULIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f5d614f-9b32-4ae1-90c1-d194179de8c9",
+    "name": "9: PUTHUSSERIBHAGOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d254831-e409-4457-bcc5-dc941819b781",
+    "name": "10: MAHARSHIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dec133e7-7d22-4d16-bfa9-7c7a94c084c6",
+    "name": "11: CHATHANUPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74d16323-4008-4054-82ee-da77ca96f7fe",
+    "name": "12: VADAKKADATHUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4fabaea-a9ad-4fb9-8f42-5f99e13e9082",
+    "name": "13: CHOORAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac12b777-41a0-4f5d-a5cc-eebc250fe7b9",
+    "name": "14: SREENARAYANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd8f06c7-8a9a-4562-a218-89402f3614c7",
+    "name": "15: ANTHICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d6894f7-35c0-44c1-a2de-b4f65dca56a0",
+    "name": "16: THUVAYOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efec3d5c-3029-4c2e-9269-a2dbc3cd599d",
+    "name": "17: JANASAKTHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

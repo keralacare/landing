@@ -1,0 +1,140 @@
+[
+  {
+    "id": "2a23c583-5536-4e0e-b804-7fff632dc3e4",
+    "name": "1: KUMBOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5b6a0a5-b4fb-4c24-a051-3e81a4f488bd",
+    "name": "2: ARIKADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0dd4da75-6d74-458f-9768-a2b9899af900",
+    "name": "3: KAKKALAM KUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0454905-7c75-4f51-8a47-09efa203dfb3",
+    "name": "4: BAMBRANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "caade996-0b21-4f63-9afa-a8a54ffe1510",
+    "name": "5: UJAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07894891-ea8e-459d-a6e3-2f39875e4e17",
+    "name": "6: ULUWAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9c0dc28-89c4-414a-bcb7-399a78d41bd7",
+    "name": "7: KALATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb5d60f4-642e-4987-868c-d186b2e7d5f0",
+    "name": "8: MADVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c0df2d5-b6d4-411e-ae48-2678b1d4bc3c",
+    "name": "9: KODIYAMMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d972590-1d56-44fb-ac62-311e55df09d3",
+    "name": "10: ICHILAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc7aeda5-a836-4689-9029-36b60805a41a",
+    "name": "11: MUJANGAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fef0c0a5-ef9b-4f51-9e5d-9faf56b8056f",
+    "name": "12: KOTEKKAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b50e580b-4984-420e-842f-5637fc032218",
+    "name": "13: SHANTHIPALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f6c3935-f65e-4bd7-8a86-5e12c38d28d9",
+    "name": "14: PERVAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b15e7198-510a-4276-a479-e63b17e90634",
+    "name": "15: BADRIYA NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f291a1c-a03e-47ab-b970-6ddd4dfbd8fa",
+    "name": "16: PERAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "558e298c-ff82-4d87-b9a9-76d4176d5cae",
+    "name": "17: K K PURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c51d0df4-0395-4aae-a3c2-186974b81bcf",
+    "name": "18: MOGRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8da1ef48-7d68-4d90-92bc-50af8468ed9e",
+    "name": "19: KOPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6329b63-bf0c-4596-b613-9d96a1307e8d",
+    "name": "20: KOIPPADY KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df1ca59d-3c28-45be-87a0-21a4c92376b3",
+    "name": "21: MATTAMKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db8fd014-1ee8-4e4a-857d-37ac74766cb0",
+    "name": "22: BATHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7eca6356-d15a-4b56-ac43-2de827954903",
+    "name": "23: KUMBLA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

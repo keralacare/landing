@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d584db59-c9e5-499a-98e2-3afaa7455db0",
+    "name": "1: PALAPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f2de7bf-4e27-4d77-bd57-8dd569297c1c",
+    "name": "2: PERADIPALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efa3dc72-fc48-45f3-9e18-623f48f52767",
+    "name": "3: KEEZHANTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dfe5825-02cc-48e6-afa5-7779a53123fd",
+    "name": "4: CHENKALAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a918050-b815-440e-8ce9-a73741727f3e",
+    "name": "5: KANTHALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2300c97-4a9c-4136-b99f-3435a9e6eb65",
+    "name": "6: PUTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "864a18d9-26ce-4b05-bc52-f2c4410cf2c8",
+    "name": "7: PERUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfd7380d-540d-4a85-ae30-c2bd5041a3c4",
+    "name": "8: KARSANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f9d3a46-558b-472d-9ceb-7aef016ce00f",
+    "name": "9: MISSIONVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eaa7c634-f6ca-4523-b18b-bb2430e7b8ca",
+    "name": "10: DENDUKOMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "100cfbcf-107a-48a6-8657-465b3b18e3b7",
+    "name": "11: KOVILKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7168b729-cdd6-4734-9467-ec6757058e6c",
+    "name": "12: PIUSNAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cadfdd5-7c22-4cd8-8a25-b8c677cab653",
+    "name": "13: CHURAKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

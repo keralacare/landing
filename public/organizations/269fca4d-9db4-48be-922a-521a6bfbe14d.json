@@ -1,0 +1,86 @@
+[
+  {
+    "id": "15059597-0396-41f6-9694-4f050ed81db9",
+    "name": "1: POONJAR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f25bc7ae-1fa4-4d39-af6c-fd87116a039e",
+    "name": "2: KALLEKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e60cb319-9e65-425f-bc91-34bd8e3235af",
+    "name": "3: PERINGULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a40fac6-52e7-4356-b4a6-f426ffeeba6e",
+    "name": "4: ADIVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9640813e-fbf0-45b8-8f4f-89f28f6c3864",
+    "name": "5: KAIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "466ae534-6497-4e60-afbd-0cbf671a1652",
+    "name": "6: ATTINAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a73bfb96-9aa9-4ac7-aafb-dfacc734705b",
+    "name": "7: EDAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "363d7d37-d019-47c7-b8fe-0e96659d0a2b",
+    "name": "8: KUNNONNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f487fe1-0725-4005-a7fc-792b2cca6b77",
+    "name": "9: PATHAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8d5d187-e4d5-4363-ad5b-898d62502da9",
+    "name": "10: CHOLATHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "587b66b4-ab8d-4048-be13-5dd24c03aab6",
+    "name": "11: MURINGAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4b4da0b-ebec-4587-b76b-62ef8bb428e5",
+    "name": "12: KADALADIMATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11ef7ecb-c8f2-497e-b8e2-eeccf7d133c4",
+    "name": "13: PAYYANITHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed5ccf4d-59d1-4971-94e9-2b28ed5ee709",
+    "name": "14: KADOOPPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

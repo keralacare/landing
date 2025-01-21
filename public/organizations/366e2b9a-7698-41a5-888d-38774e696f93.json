@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3db44efa-d48d-4c0c-b899-b0ebe2f79e7c",
+    "name": "1: KAYAPPANACHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "965d46d4-e409-4c4b-a38a-e1f5751d7eb2",
+    "name": "2: IRINGANNUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "869491e6-598a-4b09-98b5-7697b1ab642b",
+    "name": "3: IRINGANNUR HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fda62db-1b2a-496e-9352-8902fc065f6d",
+    "name": "4: IRINGANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78a03e08-c1ef-485a-8ce1-f3756920a728",
+    "name": "5: HEALTH CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c881637-270c-42df-9bae-4fa4ed8c3fb0",
+    "name": "6: KOTTEMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e812d27d-90c0-45de-ad28-28ff13b21c08",
+    "name": "7: KACHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "370bc903-bfbb-4b36-a742-f706b2c2763a",
+    "name": "8: EDACHERI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "249b7acb-3079-40fa-9ff5-684574530dfa",
+    "name": "9: CHUNDAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ee59026-e1ee-4617-92ce-72c1d5b06320",
+    "name": "10: AALISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bce3c8ae-cf98-49ff-83fe-b423044f56d5",
+    "name": "11: THALAYI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd08d4a5-292d-4866-8e03-d5eb02056f4c",
+    "name": "12: THALAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3648173-1ad4-4a4e-80c3-94c9e11ae107",
+    "name": "13: NARIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33b0e803-5062-49a3-b42e-ae9ab77529ba",
+    "name": "14: KALIYAM VELLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a20347f-4d30-4c1a-a398-a8af3cc02dcd",
+    "name": "15: KAKKANNUR`",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b603cb7-17e2-4351-b4a8-b0434f9d21a7",
+    "name": "16: EDACHERI CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d5f30c7-a02a-4738-a3e7-44a68d627b2e",
+    "name": "17: THURUTHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

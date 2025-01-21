@@ -1,0 +1,200 @@
+[
+  {
+    "id": "10eb8e19-0607-4270-abc4-eb8c941caff5",
+    "name": "1: VELIYEMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ec7fc9c-eb6f-428f-a515-fd65bdaadf67",
+    "name": "2: PERIYATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "637cf9bb-2068-40e4-a222-408c89c16c2e",
+    "name": "3: VATTAKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d68c65b-e557-4c36-902f-0ab27aaec2b0",
+    "name": "4: EDAKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d339399c-db88-4806-bb77-640760bb3f81",
+    "name": "5: KEEZHURKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de7011d4-e236-412b-b41d-9a525f6c20ed",
+    "name": "6: VALLIYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c7adb45-d117-4628-a922-5961d8a860e5",
+    "name": "7: KEEZHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b827df3-8bd3-4d83-a5ac-5d6893e276bf",
+    "name": "8: NARIKUNDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3a49bf9-aa31-450e-9b2f-0822af3ab2ad",
+    "name": "9: IRITTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7214e1b4-78e5-43ae-992c-5f9cbd8a9545",
+    "name": "10: PAYANCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6cab1212-5c04-46ab-af5c-c5377cfb8346",
+    "name": "11: VIKAS NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "860e078a-7645-4f7e-a45f-e46074bbfad7",
+    "name": "12: ATHITHATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16115623-485e-4703-81cb-edeff2c2ce63",
+    "name": "13: KOOLICHEMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82b348a7-7fb4-4491-88f3-0b771ca622ee",
+    "name": "14: MEETHALE PUNNAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "018be192-4ec4-4cde-b695-a1984e86e0a4",
+    "name": "15: THAVILAKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d981660e-77a3-4f74-b496-fec67aa60f80",
+    "name": "16: PURAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0395e61-26f3-4b1f-93c0-3ef7a8e4a5ea",
+    "name": "17: PUNNAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3d531ec-4ea5-46f5-883a-5f3723aee1e3",
+    "name": "18: PUNNAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "766b411b-e30e-4762-ab58-fcea7d55e0c6",
+    "name": "19: ULIYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4163f25-5234-4007-9b72-bb47d5d30d68",
+    "name": "20: KALLERIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4df56606-fd45-440d-b241-07366c122896",
+    "name": "21: NARAYANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8022599b-9a84-4686-b26b-33e975de1770",
+    "name": "22: NADUVANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d9409af-1ba4-407b-a758-40c51e24336e",
+    "name": "23: KOORANMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3504e5bb-02be-4538-9bd4-9135532e208d",
+    "name": "24: NIDIYANJIRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03a12a26-7823-4a29-9d19-5a85ec1c2083",
+    "name": "25: AVATTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "540cb62a-884c-4ed1-9031-ae6451086c57",
+    "name": "26: VALORA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a127f44-b09e-48a0-b32a-6009af42bc11",
+    "name": "27: KATTENKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41e16ac2-3267-45a3-8efd-a693db425609",
+    "name": "28: CHAVASSERY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d281b722-d1e5-4c06-9c26-729131e2a3fe",
+    "name": "29: CHAVASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "096b29bd-9adc-4e3b-a95e-105ef3d82684",
+    "name": "30: MANNORA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19f26920-e4a4-4d7e-b8fb-6e5749dfcd57",
+    "name": "31: 19TH  MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cfc08ad-e57a-481a-ae77-9bde48b486ce",
+    "name": "32: CHAVASSERY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99dc2c06-7a3b-4bd1-8d21-8572008aac38",
+    "name": "33: ATYALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

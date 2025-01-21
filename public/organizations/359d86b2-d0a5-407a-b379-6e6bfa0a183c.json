@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ad373172-3ee9-4252-8c3d-caf7fbf7730f",
+    "name": "1: ERAVICHIRA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23abbe15-97ca-4dc5-98f5-b45ce3c8c869",
+    "name": "2: ERAVICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67a35d50-3edb-42f4-837f-6531227abf30",
+    "name": "3: ERAVICHIRA NADUVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05b5a20a-08e0-4c77-9151-23b911a8f665",
+    "name": "4: THRIKKUNNAPUZHA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae62dcf5-e027-43b2-8cf6-c93602506027",
+    "name": "5: ERAVICHIRA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f4cf9d7-bb2f-4ec9-bb1f-1bfbeb2ff851",
+    "name": "6: INCHAKKADU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "faac01ac-b004-461e-9070-faf30294a3f4",
+    "name": "7: THRIKKUNNAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b953d1b-6540-43d6-8ec3-91fab98a8db8",
+    "name": "8: INCHAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f0180a8-6dcc-404a-b6b9-534337c4ba62",
+    "name": "9: AYIKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ee6c7e1-0536-4e10-841e-a3f619206f32",
+    "name": "10: THRIKKUNNAPUZHA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6300037-ffef-4ca6-b483-627bc0c98bde",
+    "name": "11: ERAVICHIRA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06b838f5-6671-476e-8ec6-89d3cbbe33eb",
+    "name": "12: PATHARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52477d4a-2c3c-469d-9f9a-ada285645f43",
+    "name": "13: KUMARANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e050b393-3e9e-4463-a140-4ae691b3622e",
+    "name": "14: KIDANGAYAM KANNIMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49cb970f-1259-4d33-840c-6ed9cc46efe3",
+    "name": "15: KIDANGAYAM NADUVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cd9afa8-5c64-4866-aaea-b2a61e3b7e6c",
+    "name": "16: KIDANGAYAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "59be5f87-790e-457a-ae18-ee42f6cc183d",
+    "name": "1: ERAVU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12b67b4e-d953-4b0b-8e9a-d15450279d8c",
+    "name": "2: VADAKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b5ddc14-b901-4ebf-ac85-d5bc1b3ec6aa",
+    "name": "3: ARIMPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb2287e7-20bf-46f8-9127-3c175be83ef5",
+    "name": "4: PARAKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6ca3cd9-cb0f-4d98-a087-51180977b892",
+    "name": "5: PARAKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32aa34e6-1d0f-4b65-aaf5-8b4efdc2c623",
+    "name": "6: KIZHAKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64c43487-c7da-4abf-b46b-34b69a6f320f",
+    "name": "7: MANAKKODY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcae1db2-b16a-46c0-a8e6-89b32137b484",
+    "name": "8: NADUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b967cfe-434d-45e7-9a59-3aaf2c89f38a",
+    "name": "9: MANAKKODY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3701b434-f59e-4945-9a8a-7dd8e9934555",
+    "name": "10: THACHAMPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c5e9d47-aa57-4eb0-924b-5b56041e5092",
+    "name": "11: VELUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63264a82-bddf-4375-a27b-baaaea62a24e",
+    "name": "12: VILAKKUMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36274ef0-abd9-44b8-944e-49f5a821221e",
+    "name": "13: KUNNATHANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "280357a5-97f3-4e81-9302-cc1a1acd5d59",
+    "name": "14: KAIPILLY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad680446-eca6-4ddb-aca5-aca922cfe5a8",
+    "name": "15: KAIPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ecc223f-c666-49b9-993c-8675fe4753fc",
+    "name": "16: ERAVU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c29bf6d-087c-4261-a269-cef0d60003c7",
+    "name": "17: ERAVU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

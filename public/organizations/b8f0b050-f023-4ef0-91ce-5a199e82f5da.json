@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3590bf0a-a48f-4199-9dba-c6e20e39d980",
+    "name": "1: MULANGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42f597bc-d055-4fc6-a65b-e8c17f11a8ee",
+    "name": "2: PARAPPUKKARA PALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "308ff474-3231-49e0-bb15-f968b6983f57",
+    "name": "3: RAPPAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11301343-36c0-4b7a-acda-18fc24da493f",
+    "name": "4: KURUMALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f313d45d-9825-45e4-a1f7-d17af2f7ee39",
+    "name": "5: NELLAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71455692-af00-4317-8a51-d95c4a70b614",
+    "name": "6: PANTHALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ced237c-f35d-401f-80ae-a1b377af5593",
+    "name": "7: KOLATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a8e7711-86b1-4dbb-86f4-5f6c19082df2",
+    "name": "8: ALATHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99cb1b02-df83-492f-9c14-8eb415fbdb7f",
+    "name": "9: ALATHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "600b5c74-a8ae-4fa4-98d7-3dd09a32070a",
+    "name": "10: VAILOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcc5a3b5-1429-4bee-ad41-9019d11b33f3",
+    "name": "11: NANDIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f27e1e2-368f-4366-a377-13e0d2c77a03",
+    "name": "12: PONGOTHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "227c55ac-d032-40a8-83b8-ecd5500db8ba",
+    "name": "13: MUTHRATHIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6985b08b-e710-428f-8401-26898ec76ae0",
+    "name": "14: MUTHRATHIKKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "883af540-9487-4787-96e5-9dc961703048",
+    "name": "15: PARAPPUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "260b1da9-8be0-4c0b-a42d-9876d88e6e7a",
+    "name": "16: NEDUMBAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "415a8587-42ba-405e-aebc-8f39462eac16",
+    "name": "17: THOTTIPAL SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d13caf5a-6031-4ed4-87f0-cc0ab7eef8e8",
+    "name": "18: THOTTIPAL NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

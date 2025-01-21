@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2a9c8a0d-614a-4075-8279-a4ce5fa29003",
+    "name": "Cherupuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "574210dc-dd4d-475a-8b6c-c63c9cd4d2bf",
+    "name": "Eramam Kuttur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "63233651-54ff-4002-807b-7bf4fb5f14b2",
+    "name": "Kankol - Alappadamba Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "aa794c32-d192-4c4d-b257-562a1c2516d2",
+    "name": "Karivellur Peralam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a2f7a344-69b8-44fb-aa89-b859ffe4c1bc",
+    "name": "Kunhimangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f1e13b76-cb6c-4a55-a9db-af419e98be87",
+    "name": "Peringome Vayakkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "abacc41f-02b9-4292-bd25-1eb9a0f76163",
+    "name": "Ramanthali Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

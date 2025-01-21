@@ -1,0 +1,116 @@
+[
+  {
+    "id": "b517fc45-b713-4550-8135-9932d3b63adb",
+    "name": "1: EDATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca26e368-504a-41c0-b8af-249a51d4fcfb",
+    "name": "2: NADUMURUPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84544446-48d3-4866-a9a0-6b7aa653eff8",
+    "name": "3: VAZHAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8cba4a9-5eab-4e12-8d5e-2e17c1f96d5b",
+    "name": "4: CHITHALVETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ba0f2b6-9574-431e-b3f8-32c3431bd4f6",
+    "name": "5: MANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1646943-6cff-4cee-936f-baab40ef0336",
+    "name": "6: POOMKULANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfa72f7d-a0e8-4cb7-85d2-1ef8774fbc88",
+    "name": "7: NEDUMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5787a455-6861-4ddf-b2bd-1019034fbd9d",
+    "name": "8: NADUKKUNU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "984af115-eb0b-485a-9655-f3df068ce3a9",
+    "name": "9: NADUKKUNNU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cd41efd-a33d-4ad7-b8f1-9dcd4e4e16e6",
+    "name": "10: TOWN SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38e7aea6-a0aa-4707-842d-a6f0d496d6ed",
+    "name": "11: MANCHALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0aa1abcd-2db6-4e0f-874e-80784a4160da",
+    "name": "12: KARAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb817bab-fd27-40f2-98e4-5d01ec16c73a",
+    "name": "13: MOOLAKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7464bcd2-ad4f-474e-8af4-2db759edf24c",
+    "name": "14: KUNDAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05ba88b4-cd1a-43af-b94e-c31072646966",
+    "name": "15: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "130ac29d-6a96-4919-987d-52f0b46754fb",
+    "name": "16: KALLUMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92c3524b-5a8c-4e20-b81e-fdbec1f5ab31",
+    "name": "17: TOWN CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7844a791-4e92-401b-9e62-54260954fff3",
+    "name": "18: TOWN NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec352c0b-88ba-4094-a5ee-ef6d2ceafd41",
+    "name": "19: PATHIRIKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

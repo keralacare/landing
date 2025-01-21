@@ -1,0 +1,92 @@
+[
+  {
+    "id": "10136608-fbdf-4aa3-960d-3c056e23a609",
+    "name": "1: KATTIL MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f273b468-fa49-4610-9fe1-497fb4da0f3c",
+    "name": "2: S.N.V.L.P.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0eb7a157-408a-4a57-9d06-f7e76e19bdd6",
+    "name": "3: THAMALLACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d3e17aa-8116-4e01-8bcf-2ff56bf6484b",
+    "name": "4: KANJIRATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2232d931-61ea-4720-9420-5f200682ff2b",
+    "name": "5: KUMARAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44052bcc-6fd7-4c68-af02-b9fc25e2ce11",
+    "name": "6: N H",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a724cd61-03e0-498c-b8a6-752d63790f08",
+    "name": "7: ANANTHAPURAM PALACE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f31752c6-96f9-4b31-a300-3bbad9f3a9ec",
+    "name": "8: LIBRARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "498f0525-b768-4f51-917d-f493cf5511b0",
+    "name": "9: ERICKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3746a51a-b780-4422-b206-c388d00ba67d",
+    "name": "10: SOCIETY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92fee889-b315-41f0-8c17-f92fbe269c82",
+    "name": "11: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d976900b-892e-46cc-9a0a-349304ef1974",
+    "name": "12: POTHAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66b1d0de-ab9f-445f-b8f7-3d2d214b6cbf",
+    "name": "13: E.A.L.P.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dabe6191-38b5-4c92-b916-d21eb922bb3a",
+    "name": "14: PAZHAYACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0c13a71-ea54-4797-9a6c-455be080a04d",
+    "name": "15: P H CENTRE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

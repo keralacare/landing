@@ -1,0 +1,44 @@
+[
+  {
+    "id": "f3049187-cc70-40c1-943e-b423d0e52fd3",
+    "name": "Athirappilly Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "707651a0-8d3e-48d0-a1d3-76e236bb51a5",
+    "name": "Kadukutty Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "835d1372-7784-4e79-8465-ebd45c75f4c0",
+    "name": "Kodassery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d1cffdac-ae06-408e-91b2-b70fd08c9912",
+    "name": "Koratty Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "30f0976d-4d61-4d0b-9a9b-cbe4c549635d",
+    "name": "Meloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1e1f4bd8-8ceb-4c12-838c-65a993100674",
+    "name": "Pariyaram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ea135504-3f83-428d-a142-95c95a419e63",
+    "name": "1: VALLIYANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57d0134a-8afb-43e3-8b94-ff684df4c301",
+    "name": "2: MUKKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8b46295-3ba7-4dd1-8814-4a1d597eb7bb",
+    "name": "3: POTHEEPADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "396698a1-a86c-4a82-b158-f73e7c671836",
+    "name": "4: PUTHUKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e18a28c9-35d5-4d59-9875-695267a66c71",
+    "name": "5: THOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5961c6b-70af-4df9-a847-8507f3792e67",
+    "name": "6: ELAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1abd7edd-02d4-49bf-aa25-34ef13351170",
+    "name": "7: KIZHAKKUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cd704a5-7aae-4c79-9b36-5f7db8475f8f",
+    "name": "8: VETTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "165c5a3b-cf67-42b7-a753-fce4ca3f58ae",
+    "name": "9: VETTOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d547bd1d-fa7c-4b6a-a224-b8df9b2cec42",
+    "name": "10: VADAKKUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c395546b-2b0e-4876-935d-2e1cc4767a5a",
+    "name": "11: MALAYALAPUZHA TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29c87e0c-920f-4171-8a8e-f31d0beb03b8",
+    "name": "12: MALAYALAPUZHA THAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b10ac4e4-a07f-4719-b674-4d4dac650732",
+    "name": "13: CHERADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3a0c611-5500-4d83-96bf-0c5e45bf3d6e",
+    "name": "14: KOZHIKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

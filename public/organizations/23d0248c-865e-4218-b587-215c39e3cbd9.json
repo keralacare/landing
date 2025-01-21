@@ -1,0 +1,134 @@
+[
+  {
+    "id": "35d40539-20b1-430c-a5e7-912eb0e5c212",
+    "name": "1: VELLITHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b97a7a56-ba33-4354-b404-652b8fbc1b3a",
+    "name": "2: THRIKAIPATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cfbb157-7ed5-4719-b88c-c03e1192b9c0",
+    "name": "3: EZHAMCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba4f020a-e1e7-4a0a-a209-ba8099ee101b",
+    "name": "4: NEDUMBALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cf7d9a2-5ce1-4772-b93e-8063fd598cf4",
+    "name": "5: POOTHAKOLLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0dbb7ee-6ce2-43d5-b9c0-e8bc92385138",
+    "name": "6: MEPPADI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "50a5ed00-12fd-4330-ae4e-7e1dbba8f1fe",
+    "name": "7: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b263334-ea8f-46e5-81f0-c9ec7fdf950c",
+    "name": "8: NELLIMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "712273bb-1e5e-44a9-b6f3-0551a4843b60",
+    "name": "9: PUTHUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac2cdb53-363d-4b3e-a99b-37c0d68e40df",
+    "name": "10: ATTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d624ef92-a95a-4960-82cd-f9df3e963a39",
+    "name": "11: MUNDAKKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "495f1287-e768-4048-a728-1ae5e9550dc7",
+    "name": "12: CHOORALMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17909ee4-f564-4169-b0ab-5e59ed350e8c",
+    "name": "13: CHULIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ffa51ef-3051-4605-bf09-4a94d77defca",
+    "name": "14: KADOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4139a24e-fa11-47e3-97af-1dabcda7a6af",
+    "name": "15: KUNNAMANGALAMVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16e59333-4f09-4f48-a0ac-70943a0ab174",
+    "name": "16: CHEMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c45ce7c-0880-4eb1-ab6d-a6cf46d2eb94",
+    "name": "17: ANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5cc2c09-c1db-478e-b3f4-6e962fc3e337",
+    "name": "18: AUDATHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2085ab3-bf6f-4afc-92e5-4877d0bf3519",
+    "name": "19: KUNNAMPETTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c332bd8-2c56-453c-a0e1-bbb73561814e",
+    "name": "20: KOTTANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc756c1d-73a5-4985-aca5-f02c1dc0a242",
+    "name": "21: CHEMBOTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0000374-2a3a-480b-90a7-c60ea12150b1",
+    "name": "22: PUTHOORVAYAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

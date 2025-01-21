@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d5498383-2d23-469d-a2bc-d5511b595019",
+    "name": "1: MANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c4c4ef3-e0e2-4d60-808d-da561495e466",
+    "name": "2: N T P C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09584294-0e8d-4b5c-98e1-b5b5cd98d999",
+    "name": "3: KANAKAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d830319-1796-4439-8ecb-88afdb7ad80e",
+    "name": "4: PATTOLI MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "074dca9a-3c89-455f-8fc0-9534ee756e66",
+    "name": "5: KOCHIYUDE JETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a934ebe8-b790-4fce-8bd9-9f53e0b74134",
+    "name": "6: VALIYAZHEEKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f311009d-2917-4426-8d41-22b5c9168a0b",
+    "name": "7: THARAYIL KADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "314c413b-a1e9-4947-916d-847bb80c2ebf",
+    "name": "8: PERUMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23b01ad7-32ae-4f11-b8e6-6c4d50b4ebe5",
+    "name": "9: PERUMPALLY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4be9d28-8cfb-47fc-b372-b5f19a76129d",
+    "name": "10: RAMANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "022e3cfc-79f1-42d7-adae-1c4aa24ed5b9",
+    "name": "11: VATTACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1a59414-eb96-46d7-bc99-ac1919f79b6e",
+    "name": "12: NALLANIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c397338f-1452-40c9-92a5-6b75d213ff10",
+    "name": "13: KALLICKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73b0c5b4-ca16-42b3-bd1a-3085226cea53",
+    "name": "14: A K G NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b69364ff-092f-4f6a-9e3e-acb5e842097a",
+    "name": "15: ARATTUPUZHA PHC WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d715348b-d1ea-4c3e-9a87-8a9305acc1d8",
+    "name": "16: ARATTUPUZHA MES WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "831b8745-9189-42dd-abb7-3b207e6cbb5c",
+    "name": "17: ARATTUPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab3fe41c-0c95-4480-a6f3-f2faf25160f8",
+    "name": "18: S N MANDIRAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

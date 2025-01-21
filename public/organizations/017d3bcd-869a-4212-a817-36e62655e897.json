@@ -1,0 +1,116 @@
+[
+  {
+    "id": "e0e4fdc6-177f-47bd-b855-20328b1a9486",
+    "name": "1: THAZHATHU KULAKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23b27ffb-07ea-4366-9374-b7be92c65868",
+    "name": "2: KULAKKADA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c80606f7-e3f1-4292-b23b-17193771ccef",
+    "name": "3: KUTTARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "501bf77c-a9aa-4d16-bfb4-c542399bcca8",
+    "name": "4: MALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0de6d38e-4bc3-4a95-a6c6-bc3aac196dec",
+    "name": "5: KULAKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68b3e5f8-0f91-489a-9ee2-8ddce5b9a87f",
+    "name": "6: ERATHU KULAKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09113dbf-d9f4-46cf-b327-a6560da529b2",
+    "name": "7: COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5371e633-e8f9-4dfe-b043-4a3f97eb35ba",
+    "name": "8: POOVATTOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6894710-90dc-473e-9dcc-b5bfeb73c73f",
+    "name": "9: KALAYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e7c61f7-5ef7-4f12-9186-90e420d4aff6",
+    "name": "10: PERUMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94af742f-a02f-48e6-965b-ce6114e32ed4",
+    "name": "11: PONGANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0736de57-a5f0-46da-8990-9a6df09a8c9d",
+    "name": "12: VENDAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdab7826-a236-4ef3-9aa2-1b2c9d7f6b76",
+    "name": "13: PATHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83655a30-b2e8-40ff-8a33-121abc061a46",
+    "name": "14: POOVATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f68f32b-8135-4756-bd85-cba119ab6f5c",
+    "name": "15: MAVADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f5438dd-da8c-4fd3-bb18-fc2c08aa7e2f",
+    "name": "16: ATTUVASSERY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ab22b0c-c015-4637-ba0d-bcc192c0d3dd",
+    "name": "17: MYLAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1a39aa0-5ea7-45ab-aae7-17a849e1dd32",
+    "name": "18: PUTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2dd3f095-4a1a-41a2-9e15-fe363800c488",
+    "name": "19: ATTUVASSERY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

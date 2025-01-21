@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e5636708-6c70-4ba7-8a0f-2799f42fa89b",
+    "name": "1: ANTHYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34421758-5e6f-40ab-a601-fe95355375ba",
+    "name": "2: KOORU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e9e91c8-91fd-4551-8f96-1512b2f80a81",
+    "name": "3: NELLOORUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b70c0155-8446-4206-bbe8-18872ff6d9b5",
+    "name": "4: JOSEGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f1e7bd2-c959-4a3a-a78f-8a05b96be665",
+    "name": "5: MUTHOLAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93ae0b32-32d9-4f34-bef8-4ff31bc04fa5",
+    "name": "6: ALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "104989b8-18dc-4f3b-a203-7f28a7d86b82",
+    "name": "7: MADUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05a225ca-4340-4a0b-b022-26ad33b684c6",
+    "name": "8: ELANJI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bb05d88-a8b5-4c14-9c2e-04ba1c4adc80",
+    "name": "9: CHELACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f422905-0010-44cd-b34e-5aeb5e825567",
+    "name": "10: ELANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b079be0d-d062-44f7-a35f-40fdff26df95",
+    "name": "11: MUTHAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d394ab88-8967-4396-8390-cbad7673dd76",
+    "name": "12: PERUMPADAVOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ea4e3d7-3f46-4aa2-a38f-2679a49e3c8b",
+    "name": "13: PULICKAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

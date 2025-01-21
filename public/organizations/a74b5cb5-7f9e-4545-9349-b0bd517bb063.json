@@ -1,0 +1,104 @@
+[
+  {
+    "id": "01f5ed50-a22f-4fc7-9575-cce3feac6e39",
+    "name": "1: PULLIKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bae6503c-7c1c-47d1-925a-1fcbcb704038",
+    "name": "2: ULUPPONNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "636a111a-9c15-49cd-bc57-bdf494e72baf",
+    "name": "3: KOTTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96fe6f79-7d27-46be-b391-e606d677f3be",
+    "name": "4: VATTAPATHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2cbec6d-0a7a-4caa-b9b0-a80537b44316",
+    "name": "5: KOCHUKRIMTHARUVI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9443e670-d7d9-478b-b1a1-2f53c2c889d3",
+    "name": "6: CHEMMANNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "682c032a-8eb6-47b1-8091-d0a4e458ee70",
+    "name": "7: CHINNAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfbc9aba-d6d9-4bb9-bdc6-1d3d21fb1be4",
+    "name": "8: VALLAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d73584f-1cd6-424e-9545-8d5c1f5d9b69",
+    "name": "9: HAILEYBURIA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55d2e99d-7761-4efe-9772-089b684fd0ef",
+    "name": "10: KIZHAKKEPUTHUVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc5ca3fb-7303-4845-bb0b-68fd1a42e472",
+    "name": "11: KOZHIKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25e65ccf-42b3-4c71-8367-4bf95df7d77c",
+    "name": "12: THANNIKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8db9cff-0da0-458d-9b7d-d06700e4435d",
+    "name": "13: ELAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "945662d9-2021-40d7-a173-b928f05a618e",
+    "name": "14: TYFORD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48b0accc-10d0-4c6b-953c-f60c8cfd4eeb",
+    "name": "15: BONAMI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57ce13fc-3820-4afd-8e2d-3fdb12203eea",
+    "name": "16: KOLAHALAMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85fcc82e-b52b-4420-972a-9399fa247482",
+    "name": "17: VGAMON",
+    "has_children": false,
+    "type": "ward"
+  }
+]

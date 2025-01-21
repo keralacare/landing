@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b76cf809-a665-4139-92ee-ec3cb65fb427",
+    "name": "1: VELLAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a8b2fef-5e7a-4306-95d6-dae990d24943",
+    "name": "2: KADAVINMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5334e71-56a4-451c-a634-a4c13377418c",
+    "name": "3: MUTTACAUD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b3b0479-5790-4046-ba68-519c29172115",
+    "name": "4: PANAGODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f33e794a-1e31-40b7-8d56-8819d3759e44",
+    "name": "5: VENNIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e12711d8-7064-4d84-9c1d-51bc3ce999dd",
+    "name": "6: NELLIVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d763cb22-bbd6-457c-9598-c08ba6c79ccb",
+    "name": "7: MAVUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8a245e5-67e9-444f-b3d3-5332abe12bb4",
+    "name": "8: OFFICEWARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b58881df-2b33-4ecd-86a4-41364bdfeb49",
+    "name": "9: PERINGAMMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1e2c521-cc42-43af-af49-c08bfb68d49d",
+    "name": "10: EDUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8fa654d-2e37-435b-ba04-a150eb5143da",
+    "name": "11: MANGALATHUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2473deef-5ee3-4b1d-80e6-15c896c63bc9",
+    "name": "12: KATTACHALKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87a70542-652e-455f-b389-532d3dc8a402",
+    "name": "13: CHAVADINADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "509e5b5f-7b60-4a93-8898-111a2a116078",
+    "name": "14: SISILIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10695b8d-ce7e-4192-aa2d-2f3e3346883a",
+    "name": "15: VENGANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64a3ec64-2616-481e-84bb-6343dbdd9381",
+    "name": "16: DR.AMBEDKARGRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49aa609f-4aca-42ef-9bc5-07b1410d8483",
+    "name": "17: KALLUVETTANKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99cc789d-5d33-48f5-9402-a61bd0c5b95c",
+    "name": "18: AZHAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a0ecae1-88ef-4fc2-8c53-14f4cc13cf8d",
+    "name": "19: THOZHICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d94ffe80-1077-4b25-8dd6-c8029e92fefc",
+    "name": "20: KOVALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

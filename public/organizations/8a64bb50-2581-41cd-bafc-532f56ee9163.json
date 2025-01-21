@@ -1,0 +1,98 @@
+[
+  {
+    "id": "13aac2a1-3688-4993-8475-57d160dab7cc",
+    "name": "1: AZHEEKAL-A",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef481fe4-6063-4628-b30f-bc18605cc4dd",
+    "name": "2: AZHEEKAL-B",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3176df0-78e3-4703-8654-7a4b53ccee0b",
+    "name": "3: AZHEEKAL-C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "168df11f-18be-4753-b5b2-5fc21bc22833",
+    "name": "4: AZHEEKAL-D",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c6df9b5-7b49-4952-982e-1bf987ba509c",
+    "name": "5: AZHEEKAL-E",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1facaf55-0c85-448b-8e5b-936589d75898",
+    "name": "6: SRAYIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e17e847-e821-4eda-a98f-9e163f1f1f65",
+    "name": "7: PARAYAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb00cc66-faac-4573-b4a1-e04ee4bc677b",
+    "name": "8: KUZHITHURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e8731f5-20f7-4a63-93fd-76ed0be6a60a",
+    "name": "9: ALAPPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "875d8cba-4206-4287-b5d6-f4df0312ac8f",
+    "name": "10: CHERIAZHEEKAL-A",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "072b7aef-cb55-4df5-937e-d2de26c79acd",
+    "name": "11: CHERIAZHEEKAL-B",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e46c490-b176-4d1b-943a-1df427573e6a",
+    "name": "12: CHERIAZHEEKAL-C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2526459f-e09d-4b3a-b773-5e4b9a904d72",
+    "name": "13: KOCHU OACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6393269-f2c1-4b1e-9b37-c8836d2e0628",
+    "name": "14: PANDARATURUTH-A",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee18417d-f915-4369-8ea5-56e760334c0b",
+    "name": "15: MOOKKUMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a84e4a02-a71b-4c50-80b7-1b0e6aa64bfb",
+    "name": "16: VELLANATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

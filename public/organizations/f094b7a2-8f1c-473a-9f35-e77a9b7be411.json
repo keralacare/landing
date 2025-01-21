@@ -1,0 +1,65 @@
+[
+  {
+    "id": "742e08a6-b4b7-4943-aea5-5f1208613b3e",
+    "name": "Kanhangad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "809bea3a-d838-4728-adff-661aed2f9655",
+    "name": "Kanhangad Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "e4d7ccd2-3a6b-48ef-871a-c03691d712d9",
+    "name": "Karadka Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "def37af7-e48b-4575-ba35-5da11b29d1f1",
+    "name": "Kasaragod Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "c9390207-674b-44fe-aed6-3363a308f95a",
+    "name": "Kasargod Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "c4accaaf-6a64-43e7-b799-8c35755eb793",
+    "name": "Manjewswaram Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "7941219b-9a05-4f6b-99ca-6c9f5f87f7db",
+    "name": "Neeleswaram Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "a7346999-f112-4742-97e9-cc50bddb0fe0",
+    "name": "Nileshwar Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "22224946-dfac-4a04-9579-770a7fc745d8",
+    "name": "Parappa Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  }
+]

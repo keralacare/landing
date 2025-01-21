@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f1a7514f-8832-4e46-bf6b-5fc5d8c02ad4",
+    "name": "1: NELLIKKATTIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "803b70ed-74c6-4c99-97fc-fd2785ad7d80",
+    "name": "2: RAYAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab3ed597-0923-4cb9-ade6-2e166c9b2732",
+    "name": "3: THIRUMITTACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2b232ec-69f0-44d0-9b07-25de504e7865",
+    "name": "4: IRUMBAKASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d79b9a01-b074-44d5-89a4-05d1dde506eb",
+    "name": "5: EZHUMANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be9fb572-5373-460d-a840-a49fccc236a7",
+    "name": "6: IRUNGUTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "738294d8-a5ff-45be-8434-733bd9acb27f",
+    "name": "7: CHERIPPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "769972d2-9590-4103-88c7-054b674b65fc",
+    "name": "8: PERINGANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa722e0d-25ef-4203-9585-a18bbad7d5e6",
+    "name": "9: OZHUVATHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c563c881-e566-4270-bb9d-016dec588e28",
+    "name": "10: ITTONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c84f824-41d0-4573-b184-f45d5d224d2c",
+    "name": "11: PALLIPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a1899a6-a47e-4124-86ce-8bfdbf1cd243",
+    "name": "12: AKILANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "031bb983-78ae-466a-b839-bb3fffa367aa",
+    "name": "13: CHAZHIYATTIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2c99dbe-baf6-4070-a674-d0321a6136fc",
+    "name": "14: MATHUPPULLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c34e6c65-ec39-448e-93ec-cac0d2f8c14a",
+    "name": "15: CHATHANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4748449c-3cda-4182-9c8a-3279fe808f33",
+    "name": "16: KARUKAPUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cc1ba44-2c67-45ce-afd9-269d07422962",
+    "name": "17: VELLADIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dadeb26-6db0-40f7-ace1-d7abeef9bb57",
+    "name": "18: VADAKKE VELLADIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

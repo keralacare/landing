@@ -1,0 +1,80 @@
+[
+  {
+    "id": "35986c52-5587-4065-ba92-492d69885585",
+    "name": "1: ACHICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6eb48b65-793a-4fe4-9825-679a4defedea",
+    "name": "2: KUDUKKAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b33cc36-d942-4e23-bd3b-b6a476750b50",
+    "name": "3: PIOUSMOUNT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f12f92b-8eab-4f46-a216-5a1bb3f698a8",
+    "name": "4: AREEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "953380ec-99eb-46ec-97f5-6cfd3f85ce24",
+    "name": "5: NEDUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66c3bed0-4c84-4eb1-9e7f-774784188fb6",
+    "name": "6: KURISUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "108ba481-ccc1-47dd-89d3-7dd209f88471",
+    "name": "7: PULPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef51acbb-d153-4a27-b23d-544a531136aa",
+    "name": "8: UZHAVOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ba9c639-1685-4fa7-a68c-ced0411c7041",
+    "name": "9: PERUMTHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "025a4530-9a76-4afd-96a2-37fdcf9e5d9d",
+    "name": "10: KARUNECHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "818f12c4-7d31-4e84-b620-d00eebc5c94e",
+    "name": "11: ATTAKKANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4edfc827-1f93-4472-8ad8-3d6b15514f26",
+    "name": "12: CHEENKALLEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39834aa2-d9d4-4821-8702-362bc54f369a",
+    "name": "13: MONIPPALLY TOWN",
+    "has_children": false,
+    "type": "ward"
+  }
+]

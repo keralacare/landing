@@ -1,0 +1,30 @@
+[
+  {
+    "id": "65482061-c456-44b8-a4d8-389bd56f4be6",
+    "name": "Madakkathara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4e892b42-dc67-4421-b3bd-4a30b272f841",
+    "name": "Nadathara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9f2ed384-6c67-4843-8cad-e9d369e47971",
+    "name": "Pananchery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "330560bf-359f-4c8c-9b9d-c31f22b36a54",
+    "name": "Puthur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

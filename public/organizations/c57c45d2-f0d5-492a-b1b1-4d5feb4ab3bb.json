@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e66fd80f-9915-407b-8b33-5cb9553009fc",
+    "name": "1: ULAVAIPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f02dec0f-60e4-4786-9b9d-1be255b65c68",
+    "name": "2: CHUDUKATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "651fae52-f7bb-41c6-93a4-ebbc2160b10e",
+    "name": "3: THEVARVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "491f33ab-1a76-4579-9fed-4cacfdde3965",
+    "name": "4: POOCHAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccf4085d-c1c5-431f-9435-3119ed0b9905",
+    "name": "5: PONPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab947f3c-c1df-4acd-b6b6-cacd154bb67b",
+    "name": "6: NAGARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9bdd885-d299-457b-bf0e-9392f72fa732",
+    "name": "7: AATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9288b1b5-48ac-44b8-8141-569dac81853d",
+    "name": "8: MANAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4748aada-28a2-4a93-a3f1-a6ad32e23de9",
+    "name": "9: SUB STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c0b3f72-188b-4646-a26a-bc5986b600a9",
+    "name": "10: CHEERATHUKAADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69a555e8-1ee2-45ec-a8f6-afa9e2c459ab",
+    "name": "11: PANIYATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82f838d3-3ef8-42f1-9e52-1e3b532af4bb",
+    "name": "12: SHRAMBIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19c6fa04-aff9-43e1-a1f7-a416c068c2e8",
+    "name": "13: THYCATTUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c9687f9-8b4a-4e84-bfea-c97b2563f0c0",
+    "name": "14: MANIYATHRIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7607f8b6-94ae-4105-8cf6-3a081c983244",
+    "name": "15: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

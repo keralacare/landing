@@ -1,0 +1,92 @@
+[
+  {
+    "id": "60b96498-967f-4ce7-9e6c-dbb8517a3058",
+    "name": "1: KARIKKINMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6642574-ac64-444d-8e93-6713ae1937bb",
+    "name": "2: PRAKASH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5412dfc-f0c6-4067-b976-819fb3d1813c",
+    "name": "3: UDAYAGIRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f308799-ace3-4b68-8837-9ebba01cecc2",
+    "name": "4: PUSHPAGIRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32b2c8d0-e7e3-4c85-a1ac-4198a3f8775c",
+    "name": "5: AMBALAMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a606c313-d5ae-4d27-a133-088cd1278e31",
+    "name": "6: KAMAKSHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40c96ff3-27fa-4c8c-8dba-dd6722ef2c2b",
+    "name": "7: NELLIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7caf438-d299-493c-a2bf-d9ec98c77afa",
+    "name": "8: 8TH MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef33e4e4-a748-4a83-9024-d16199c4a20d",
+    "name": "9: CALVAYMOUNT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e52bb0fa-c09b-4180-835a-e97ac24fc34a",
+    "name": "10: KOOTTAKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c549aee8-6709-443b-b884-3fa7048e0e74",
+    "name": "11: THANKAMANY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a581ca47-21b0-4153-8abf-7d94335bfa26",
+    "name": "12: THANKAMANY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da979e9b-15a4-4d30-8de6-6e1f6d87781f",
+    "name": "13: NEELIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d86af24-d336-4b68-9af8-aba97a385f2d",
+    "name": "14: PANDIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6516b69b-7710-4d30-ac1d-f4992ca29422",
+    "name": "15: ERUKOOTTY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

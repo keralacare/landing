@@ -1,0 +1,110 @@
+[
+  {
+    "id": "2fd5b539-d447-4b45-a11b-1c5243c43a4d",
+    "name": "1: KUMBALAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac577559-99c3-4929-8835-8e63300f3ec4",
+    "name": "2: UDAYATHUM VATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4de7beb-7412-41ba-9ea3-54d735a9bda2",
+    "name": "3: PANCHAYATH WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dba8e36-0035-471b-997c-8ab2164eeff7",
+    "name": "4: PANANGAD CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "479c2587-eb8e-46f5-8077-6f7532bb5295",
+    "name": "5: CHEPPANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6d5a537-7caf-4acf-8624-f8f19012e421",
+    "name": "6: CHATHAMMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49e62730-06e6-4868-a58e-f33980b519c6",
+    "name": "7: VIDYABHAVAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1413cf6-374a-42eb-b0ec-af8a1b889d93",
+    "name": "8: OLLARIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db59ec25-1310-475e-9d5e-9268db497382",
+    "name": "9: PANANGAD SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afd64437-a509-426d-985a-b760f9843d31",
+    "name": "10: KOOMBAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fbd2be8-904d-4885-817e-8c8595069a78",
+    "name": "11: PERUMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e7d2207-64e8-441a-89b1-1108c7f34663",
+    "name": "12: MUNDEMPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b292be43-27d4-4679-a678-2da7dc9300cb",
+    "name": "13: PUTHIYAPALAM JETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9254cfd9-807b-418d-8ed9-37ae60c00928",
+    "name": "14: KUMBALAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37cea12c-6fa4-4369-9c70-844da05c32a3",
+    "name": "15: SCHOOL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb952abc-2cce-4771-8e66-c22b7cda84af",
+    "name": "16: KUMBALAM CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8752f741-8340-4082-aab4-5054eab84902",
+    "name": "17: PRANAVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "261f7ac9-171d-48e3-97e4-da677540c2d1",
+    "name": "18: AMBEDKER WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

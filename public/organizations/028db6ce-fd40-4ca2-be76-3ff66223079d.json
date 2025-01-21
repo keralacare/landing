@@ -1,0 +1,92 @@
+[
+  {
+    "id": "6d80e80f-1b2b-48ac-8a65-c2aba0c2ac0b",
+    "name": "1: KUNDAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1715b78f-07e5-45ff-9f9a-2eef70e0ec66",
+    "name": "2: PANNIKKOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9c4d5d6-01f5-4994-9ba7-fd138d00f50f",
+    "name": "3: MOORKHANKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac63a305-29c3-468e-a0cf-7bf89a70442c",
+    "name": "4: KARUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "158401fd-d395-41fc-9860-048ba2629842",
+    "name": "5: VATTAPPARAPPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10f10791-084a-4e5a-ad3b-681323dca9ad",
+    "name": "6: NARIKKUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b96f576-4ddd-4a21-a972-4145dd1ab749",
+    "name": "7: PARANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1af073c-8d91-40af-9da0-7c9e9752c60d",
+    "name": "8: PALOLITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6362b485-b843-407a-a19c-6f7bf362e11b",
+    "name": "9: KALKUDUMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78d0e400-b3b5-4d93-8890-c9a390a53a35",
+    "name": "10: CHENGOTTUPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecd3cc25-9304-4819-9fae-964f86aed991",
+    "name": "11: NELLIYERITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a63fd0b-20a4-45c9-b5b2-936f1bdb8b7b",
+    "name": "12: ODUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6664bbed-2562-40a0-a7e9-d30118abc55e",
+    "name": "13: KAVUMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64351591-c02f-4ed3-bb36-6a73110d4ce3",
+    "name": "14: KALATHILPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e23c72ad-3f18-485c-bdcc-144d4854964c",
+    "name": "15: KODOLI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

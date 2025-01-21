@@ -1,0 +1,140 @@
+[
+  {
+    "id": "3eb34f7d-bd4d-4586-bfc0-51c8feaaddb3",
+    "name": "1: CHERAMANTHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "481f7539-c633-48a7-ab58-05774e3670a7",
+    "name": "2: KADINAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "092b1f43-cfad-45f3-b4ed-b5bd87cadd07",
+    "name": "3: KANDAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e328db03-592f-49b2-a396-e29dcb3367a9",
+    "name": "4: CHANNANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d18b39f1-934e-4f0e-8688-bce5bd2410d2",
+    "name": "5: ANAKKAPILLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a76b93fb-b6d3-49d4-a69f-df922eb7af1d",
+    "name": "6: PADINJATTUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca49b87e-3e38-44b6-b2af-48db62c481d2",
+    "name": "7: CHIRACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e463f2ae-87c3-4eed-8df2-16e1037fafe8",
+    "name": "8: CHITTATTUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed1d38d6-a2e9-43e9-bd7f-6383bb3c4ae9",
+    "name": "9: MENAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44698b72-414d-4169-93d5-72e5529d11df",
+    "name": "10: KALPANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8269bbec-06e7-4ac6-a86b-584df4bb6c52",
+    "name": "11: VILAYILKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1139c4d-c718-4f5b-88c2-e1cfaeae1207",
+    "name": "12: THUMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1964281-2387-4be1-b720-93fba18a136d",
+    "name": "13: ST.ANDREWS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8f05519-a622-4152-839e-d4dc1fc66dae",
+    "name": "14: PUTHANTHOPE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84980943-8b22-4dc5-98e3-050e1197e7a4",
+    "name": "15: PUTHANTHOPE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6022321f-2437-483e-965c-9383b2728455",
+    "name": "16: VETTUTHURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84334635-7f8c-4694-a01c-cca119f66a18",
+    "name": "17: PUTHUVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e57dc11-d9dc-49f5-b148-a7a17b01e009",
+    "name": "18: SANTHIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa8ec1f7-7f01-46dd-b21c-68e6c7a1361b",
+    "name": "19: MARIANADU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9669427-f08b-4a9e-9587-4f5957059e5a",
+    "name": "20: MARIANADU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8fadb93-9de7-410c-a8f0-d5f126903b97",
+    "name": "21: PUTHUKURICHY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d9d48a7-8df0-428c-9ce0-5ba499eda132",
+    "name": "22: PUTHUKURICHY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ae10b1b-7174-4618-bf5a-51bf662ecafd",
+    "name": "23: PUTHUKURICHY NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

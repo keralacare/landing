@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e20f17ee-79b1-451e-823d-ce5ac84999cc",
+    "name": "1: AARYAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f083bf3d-063b-4f29-9697-c9427b8b96a9",
+    "name": "2: CHAKYARKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4582ca80-a429-4b63-aa68-e7a02e42d30e",
+    "name": "3: SUBRAMANYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45491293-4887-41e5-acc7-1dcdc90926f3",
+    "name": "4: VENGINISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e73f41a-3c80-4a56-abf6-1a5d28922fa5",
+    "name": "5: ARATTUKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "919f690c-8cc5-4f71-a66f-0225fb32def7",
+    "name": "6: PERUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3e265dc-3514-420b-9b84-6664c8502749",
+    "name": "7: SIVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fc485e1-aa1c-4f79-baa5-97b54a7bdde6",
+    "name": "8: PARIS-KOOTALAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6629e89a-891b-43f6-b011-442db98c2641",
+    "name": "9: PARALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f21870d-9935-4dd6-84b6-0601c92d2190",
+    "name": "10: PARPPAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73e958b0-74f8-4f3c-b83d-2e1c20fc03db",
+    "name": "11: CHENAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83d28967-ca96-491e-b9d1-00770dac61cf",
+    "name": "12: AMMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "479ce2ba-c1cf-4f56-83ef-52b636e3446b",
+    "name": "13: KODANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbfe7e13-ad5c-461f-a9d0-677e2b6f9ad9",
+    "name": "14: PALLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32f82926-e3d5-4fe8-bfa2-f356605bb38d",
+    "name": "15: SASTHAMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

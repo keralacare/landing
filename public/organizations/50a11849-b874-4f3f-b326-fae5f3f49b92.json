@@ -1,0 +1,128 @@
+[
+  {
+    "id": "7ce18243-b87a-4b96-a17e-9e467db11f39",
+    "name": "1: KANDATHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "feccb027-09e8-4647-a482-7e5e7b81fdf2",
+    "name": "2: VELLAMUNDA 10TH MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98e5b417-6cd0-4a8e-866f-804364faa4ef",
+    "name": "3: PAZHANJANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67fcefdd-c0b6-4b22-a1c7-5e98e4298484",
+    "name": "4: MADATHUMKUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00d66c61-0389-4b63-b646-48735da1e84d",
+    "name": "5: VELLAMUNDA 8 4",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e12b3fb-5b7c-49a1-9779-8b823de82b20",
+    "name": "6: KATTAYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae8d6233-9ce8-4b48-8303-8413e5ebec22",
+    "name": "7: KOKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7453750e-d6dd-4df5-84e6-7da8b2320f13",
+    "name": "8: THARUVANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8126a3b-3692-4500-8e14-6b81c3e158e0",
+    "name": "9: PEECHAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "298f2658-63a9-4964-b931-b34d516af993",
+    "name": "10: KELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49f0282e-4dc6-4ef5-a30d-88351bc4e896",
+    "name": "11: KOMMAYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ca4ba6f-2b14-45aa-8089-a8e5344581fc",
+    "name": "12: KARINGARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a6bc1b1-3308-4102-b540-2b4885a432d7",
+    "name": "13: MAZHUVANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48266ee3-7b62-44f5-876f-d536d4e903bb",
+    "name": "14: PALIYANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d3a1044-a61f-4bc6-b030-3b728272974c",
+    "name": "15: PULIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a474903-84f9-4931-8106-7ce92b0a1d48",
+    "name": "16: CHERUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "feddc721-55c7-45bf-b21b-07903bd48020",
+    "name": "17: OZHUKKANMMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d424ff5f-a92c-4e38-a008-68016d5d3af4",
+    "name": "18: MOTHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2abef9c7-87e4-42d5-95a6-d956b3f15c7d",
+    "name": "19: VARAMBETTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc77d8b5-529a-44af-8a38-cc4b2c09ae28",
+    "name": "20: NAROKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03556365-bffc-4180-9034-f68158511c0e",
+    "name": "21: PULINJAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

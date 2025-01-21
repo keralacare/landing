@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1cc0e70c-bf22-4131-8e58-b7c0a08a2740",
+    "name": "1: PERUNTHODIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17809e0d-435a-4df2-a011-2c9e0e199906",
+    "name": "2: CHELEMBRAPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e06d10f-e77c-46fe-aa0e-8f9a800969a1",
+    "name": "3: IDIMUZHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f37c5329-2cd2-4d9f-9aa3-b79b960a5193",
+    "name": "4: EDANDAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa71124a-877f-40ca-a025-1f3fa7d9807c",
+    "name": "5: PADINJATTIN PAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8c2402e-bd20-48fb-8bc9-20cafbd0c7fb",
+    "name": "6: PULLUMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02cc9bbd-8a1d-4abe-b3c7-76bc9ba96d8e",
+    "name": "7: CHAKKAMMADKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2343411e-7099-4552-ae50-03603e379b93",
+    "name": "8: KAKKANCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21259dcb-2dc3-4d53-8ab1-008cb08ffed2",
+    "name": "9: PAINGOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e282d65-7aca-4088-9d38-27b54a3036c0",
+    "name": "10: CHEENADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4b4ea65-0722-4aca-9a92-3a0db0a30d10",
+    "name": "11: CHELOOPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0546de8c-d2f2-4742-bddc-7b69c3493344",
+    "name": "12: PANAYAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c607e0a-3143-463d-a967-4c7c1dda2c5f",
+    "name": "13: KUTTEELIPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06086650-d4f1-4c6c-86ce-b995dfe53dc9",
+    "name": "14: KANDAYIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86abe11d-970d-44c9-9384-a05b5d49561e",
+    "name": "15: THENERIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6657039b-d896-48d1-b9f9-18e763b2f7c4",
+    "name": "16: PULLIPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89f2414a-2f9d-4972-aa5f-06b34f01d1a6",
+    "name": "17: PERUNNEERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5923309-f5c1-4100-b328-81d1540011cf",
+    "name": "18: KUTTEERIYIL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

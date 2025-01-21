@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4dd494a8-d061-4d79-8a58-19c8c5067cc0",
+    "name": "1: KAREEMADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "347cc1cd-f71f-473e-9ace-dc91c2ac8f4a",
+    "name": "2: VALLYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75c90bcb-0634-4c84-a452-4f902f74b57f",
+    "name": "3: KALLUNKATHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9674e15e-ff6b-4598-a24f-d0b1b68fe700",
+    "name": "4: PULIKKUTTISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a221d657-8368-4d4c-a572-add35a557d3c",
+    "name": "5: JAYANTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2b9e0ad-95ad-40a3-bac9-b1c1fb65ba40",
+    "name": "6: IRAVEESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4c48f15-77e2-4b17-92b9-13e2f5553f99",
+    "name": "7: H.S WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "456a0656-fd31-4e56-ab85-87dfe9e8bb41",
+    "name": "8: KUDAMALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83a71436-1314-4526-8b3f-4ec401ff64e7",
+    "name": "9: AMBADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "204e78e9-bcc8-4e7c-ae29-6376b000554c",
+    "name": "10: PANDAVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1c2e537-4995-499e-a9c7-093541f0a2ff",
+    "name": "11: MARYATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3649fe33-00e9-49b9-a947-b52fe652d17a",
+    "name": "12: ELAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14d799dc-762d-448c-82b2-a4aa1d0ce7b9",
+    "name": "13: AYMANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6a0cc9b-6ea4-4e69-8156-2c94b40ed4d2",
+    "name": "14: KALLUMADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc2bce2a-7030-4ad6-be28-35b977f6433f",
+    "name": "15: KUZHITHAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6db89ff-411c-4dd6-bfe8-635e74c1c8fb",
+    "name": "16: OLASSA H S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23a7f0c9-041b-43a3-9de3-bf8d3f6d397b",
+    "name": "17: OLASSA PALLIKKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2babf0a8-d287-4fb3-9ed8-b488a56dc9a9",
+    "name": "18: PARIPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5c98553-248a-44e6-9e22-f04ff3304bfb",
+    "name": "19: AMBALAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1468f1e9-dfdc-4b5c-b9af-047e6a226497",
+    "name": "20: CHEEPUNKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

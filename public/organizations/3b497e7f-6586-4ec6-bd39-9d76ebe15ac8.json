@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cda00bc2-23d1-4de4-9759-594c6247407c",
+    "name": "1: CHELOOKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "998ae36c-af6f-4dd9-8047-7dffb007cc85",
+    "name": "2: SHANMUGHAM CANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "434d9ac6-3a92-4b5b-9714-891d5e39658c",
+    "name": "3: S.N. NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7dacf63c-b3c1-464c-8c3c-56c7e24c742d",
+    "name": "4: EDAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08174ab9-beee-4492-8e0c-5435b14292a5",
+    "name": "5: THOPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72545f88-bd36-4d8c-9e77-0ea5ff7ac0d0",
+    "name": "6: PATHIYAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cee8c4f1-df21-456d-905f-ccf134f66afa",
+    "name": "7: KALPARAMBA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "431fa424-67a0-425e-bfd8-ed286e592c67",
+    "name": "8: POOMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05b016ef-f016-4280-9989-d23fb301ef4e",
+    "name": "9: KALPARAMBA  CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b6e064e-4eb5-40bc-89d0-3780ae73b072",
+    "name": "10: ARIPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd35e4a4-3a43-4159-aabf-3d2964145a05",
+    "name": "11: PAYAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4efb747-7aef-4173-8dd8-cff33e73cb15",
+    "name": "12: NETTIYADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4975c1bb-2270-45e2-9f1f-683ba8da662a",
+    "name": "13: MUTTATHERI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

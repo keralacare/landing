@@ -1,0 +1,128 @@
+[
+  {
+    "id": "afe9bb03-7e4a-4b13-92b9-0a2d5276f97a",
+    "name": "1: MULAKKAMTHURUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47e51e04-f1f0-4c9d-997c-56c987aabfdc",
+    "name": "2: CHETTISSERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ec04337-4996-47d2-9db8-43c5042cfe5b",
+    "name": "3: THURUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7efa156a-3f64-443b-80dd-f150e666b0e4",
+    "name": "4: PUNNAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca264694-de00-4ea0-be76-0f0794d6efc4",
+    "name": "5: VADAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57552a8b-69ba-4c90-a181-6e9d8059a789",
+    "name": "6: VEROORCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68d1755c-ebb2-4abe-821c-3e6ac82140ad",
+    "name": "7: KOONAMTHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d182987a-6580-4c8c-a0ee-bd5dd25d847a",
+    "name": "8: PUTHUCHIRAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad0878da-afc0-483f-a5df-4b6935603f60",
+    "name": "9: ENACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca39d516-b649-4dc6-b968-6cc6368864c6",
+    "name": "10: CHEERANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31ea4f08-e35d-4cf5-abd4-fe7eda162c6f",
+    "name": "11: PUTHUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb4746c0-f4c0-479f-b357-5458c54f0d9e",
+    "name": "12: MANNATHIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "540e2d06-b025-4788-be96-02b7ecb61544",
+    "name": "13: INDUSTRIAL NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bca03208-5d22-42c4-8f87-1571355f32a3",
+    "name": "14: KADAMANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "296e81be-366d-4570-bef0-fed295e0572b",
+    "name": "15: VALIYAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d79a289c-1472-4821-8564-a1b4d350f26f",
+    "name": "16: KURISUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e68e7fcb-3c70-49dc-920a-d803b8b4051d",
+    "name": "17: VAKKACHANPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b1a556f-974b-4395-9921-92a4cae9c818",
+    "name": "18: CHETHIPPUZHAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fc2862d-7240-42f3-b356-bd222c46758a",
+    "name": "19: PUTHENKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e7d449a-4e2c-4525-b049-6d2b370e7357",
+    "name": "20: VETTITHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9c80a13-8424-4c5c-98db-8da77e57d2c8",
+    "name": "21: PARAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

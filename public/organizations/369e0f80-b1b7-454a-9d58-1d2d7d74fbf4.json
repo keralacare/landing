@@ -1,0 +1,86 @@
+[
+  {
+    "id": "948390ca-84da-42de-95e0-6802f5dcb9fe",
+    "name": "1: KANNOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7401a15e-e62c-480b-bce2-ea2e9a6e60a2",
+    "name": "2: KOTTILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecdb43c4-1914-4395-a63e-75f53a7ba0db",
+    "name": "3: ONAPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c48a2849-d4a3-4ddb-911a-2503ec1098ce",
+    "name": "4: NARIKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75951e24-e862-43b2-ac90-040c51234daa",
+    "name": "5: PARAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78d8ec05-ce47-43b4-bc23-9849e6b36a38",
+    "name": "6: KOTTAKKEEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e50daa9b-223e-4a29-a823-b19678fadd75",
+    "name": "7: EZHOME",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0474ecad-edd7-4a67-9b3c-512fec9e9fd2",
+    "name": "8: EZHOMEMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fea6e392-3b1c-4ba1-a2fb-5e20ed244c16",
+    "name": "9: CHENGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60a8d739-9ec1-47b9-9dca-19ae33f52fad",
+    "name": "10: PAZHAYANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0834b2e-9942-4966-a470-d923101a746a",
+    "name": "11: ERIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ac92c50-c682-4300-a58e-5391322569bc",
+    "name": "12: ADUTHILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e41c4df1-c005-4b6c-b692-8248600d535e",
+    "name": "13: NERUVAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a384449d-1149-4a5f-89d2-6c1c3a747d5f",
+    "name": "14: KANAYI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

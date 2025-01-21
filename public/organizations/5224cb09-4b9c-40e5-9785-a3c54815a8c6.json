@@ -1,0 +1,104 @@
+[
+  {
+    "id": "fd10c498-2c19-44b4-a748-b7cab6493711",
+    "name": "1: CHELAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f33c66a7-7cdd-4529-b3de-542bbcf308ec",
+    "name": "2: KANNENKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbcd5d4c-37a0-4af3-9955-9c4114c202ba",
+    "name": "3: MOOKKUTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c73937db-1305-4727-a839-bed99b4c9eab",
+    "name": "4: KANJIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db61d09d-f61b-43ec-9598-cc5df3477def",
+    "name": "5: CHANGARAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0119b19-3802-42a7-b2cf-21942f543263",
+    "name": "6: PALLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7700c6d7-e7c5-4a8c-a26f-be2f64c42656",
+    "name": "7: PALLIKKARA THEKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83cd6bd5-b852-42a5-8182-9712e68b6877",
+    "name": "8: AYINICHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cd0831d-02cf-45f4-90f0-d4c7217b8bc8",
+    "name": "9: NANNAMMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad2e4243-d38d-4e90-803b-3f9bd96032d7",
+    "name": "10: THARIYATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f51eca0-c32c-4d5f-866d-b4a1f5ab0399",
+    "name": "11: KALLOORMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c9dbc1d-be14-40ca-86c9-5a99890abdc0",
+    "name": "12: PERUMBAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9069eaea-9d65-4f25-bef8-a1e81dd21859",
+    "name": "13: MOOKKUTHALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66ad807c-9e2b-4e73-8164-495472d322f0",
+    "name": "14: PIDAVANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f93909f-f29e-4624-a3d1-aec023afe44f",
+    "name": "15: PIDAVANNOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80b46c4c-ccf4-4973-a906-9eca3c51930f",
+    "name": "16: NARANIPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d30cbf9-03d8-455b-a511-f66febae0ffd",
+    "name": "17: KOLENCHERI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

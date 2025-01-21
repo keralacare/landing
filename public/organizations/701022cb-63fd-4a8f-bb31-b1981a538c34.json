@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1aa7635d-3e2c-4df7-9445-799521a8bc39",
+    "name": "1: IRUNGOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3491f77c-fedb-4274-8816-69609051ed64",
+    "name": "2: CHENGAMANADU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0fc6196-be88-4116-94f4-0051840aeed4",
+    "name": "3: CHETHADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6339f87c-5726-4088-b5d1-5cc1318eb27b",
+    "name": "4: MYLADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74f441b8-1d9c-4f2c-a033-e081aea04556",
+    "name": "5: MELILA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47817dd1-72c5-4793-9792-b695dbba0277",
+    "name": "6: MELILA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33e16007-fed5-498b-9ac6-518a9cd749cb",
+    "name": "7: MELILA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d98d8ea5-ab0f-4144-9d1a-339d21ae7ae3",
+    "name": "8: MELILA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddfcb481-a0fe-4c6b-aceb-05144bbeef5f",
+    "name": "9: VILLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4ab9056-e034-4fb2-a951-eeeb135e8b44",
+    "name": "10: NADUKKUNNU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7930dabb-7390-4a77-b4ac-bdc298f40da2",
+    "name": "11: CHENGAMANADU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd896a16-3380-4a96-939b-4e63144c0eee",
+    "name": "12: NADUKKUNNU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e88a375-1caa-4343-84f5-52d76c9d28b2",
+    "name": "13: PATTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0dbe27d-b7a0-4c9a-8c35-270f31a9b4be",
+    "name": "14: IYPPALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2967ac9a-ec1c-44dd-bed3-03b6f490bb3c",
+    "name": "15: KIZHAKKETHERUVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

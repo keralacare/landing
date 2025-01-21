@@ -1,0 +1,110 @@
+[
+  {
+    "id": "68c274ed-cc4e-41fb-802d-3d6f66876ebe",
+    "name": "1: VADAKKE POYILOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bad6b43-8492-4d28-8b25-c3887dba7088",
+    "name": "2: PARAYULLA PARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16f7ce11-4fa6-4caa-b3c7-5d58964a94e3",
+    "name": "3: PULLAYITHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ca08e2c-33df-408a-8806-f2d0a15a72f3",
+    "name": "4: CHAMATHAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d88f9bd5-def0-4ad5-93ec-bf606e9397b6",
+    "name": "5: VILAKKOTTOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7daf7bec-3850-49f8-a4ae-075e14d23bb1",
+    "name": "6: CENTRAL POYILOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "376b2010-f5d7-4dd7-88cc-755640eb1f43",
+    "name": "7: VATTAPOYILUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "893d834a-484b-4b53-b36e-725d05f858b1",
+    "name": "8: THEKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9b93ac6-d7ca-4bb7-af3c-5c7be502ae90",
+    "name": "9: VILAKKOTTOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1174e8bb-73e8-417e-9135-f3aea584b323",
+    "name": "10: CHETTAKKANDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebf1c497-c343-462a-ae3b-6ecc7c763d72",
+    "name": "11: KALLIKKANDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3580679e-faad-4976-b93e-df4e33694e3a",
+    "name": "12: UTHUKKUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83cdeb9e-82cf-4db9-a9c6-fb05300d39af",
+    "name": "13: MUNDATHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73ecdafd-054b-462e-b498-d61f3f3e3e49",
+    "name": "14: ERANJEENKEEZIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b55abb1-fb5c-44ba-b17b-e1b76cfb9eaa",
+    "name": "15: KURUNGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dac3327-f8f9-4462-ac13-5241d00a16f2",
+    "name": "16: KADAVTHUR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84094ad0-1724-48ba-a237-844ad0d9b452",
+    "name": "17: HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62b68d0c-eacf-4096-b3ea-1e3c0a2884dc",
+    "name": "18: KEERIYAV",
+    "has_children": false,
+    "type": "ward"
+  }
+]

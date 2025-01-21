@@ -1,0 +1,116 @@
+[
+  {
+    "id": "bd959cb9-e2eb-40c5-a104-159537819c7d",
+    "name": "1: THANGALPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "008f7da8-e310-48e4-b765-c7fe1942aabb",
+    "name": "2: NAKKOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14997c98-9810-4733-b982-2d83f014371f",
+    "name": "3: CHERAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da7f0abf-c6e8-4968-81bd-529495a737ff",
+    "name": "4: THRIPPAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f64749df-323a-436a-93e9-c900166e4048",
+    "name": "5: MAVINCHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "397c2c8e-4b8e-434b-94a6-2185aeb954d3",
+    "name": "6: PUNNAYOORKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f417d92-cb0c-4b4a-8e7b-6bc63352f4cd",
+    "name": "7: CHEMMANNOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "880827a9-989e-4668-964a-ff198896466b",
+    "name": "8: CHEMMANNOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fd55608-4d75-46eb-a9cb-1db9a52cb4c3",
+    "name": "9: PARUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2dd623c9-c1dd-4821-a502-8aea54dac8d1",
+    "name": "10: ATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5e7e69e-e5bf-4732-bca2-716cfa02f209",
+    "name": "11: ALTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b84f5df7-9c78-454c-966d-7c4b2a3b1dde",
+    "name": "12: PUNNOOKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "285462f7-f4b2-4955-b2eb-e416b7b83678",
+    "name": "13: KADIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9feb8d8b-c1ca-48ba-8395-d22b01a5f03a",
+    "name": "14: PUZHIKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3efca671-7f29-4443-963f-bed356a870c9",
+    "name": "15: EDAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88a013be-db0c-40cf-9016-d7bade4db397",
+    "name": "16: PAPPALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62a662f7-75f3-4cae-a1cb-deb9e83809f7",
+    "name": "17: KUMARANPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eec1dea1-b29a-4e74-880f-80944d0af4fb",
+    "name": "18: ANDATHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74c46848-cd7e-4f18-82a1-b36b7b5604ca",
+    "name": "19: PERIYAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

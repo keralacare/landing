@@ -1,0 +1,58 @@
+[
+  {
+    "id": "34e57ca8-0df2-4d22-8615-60d9f74de1d6",
+    "name": "Melukavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7836801f-66f7-41fe-847e-3a02d032ad96",
+    "name": "Moonnilavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f0d58b54-006d-45ef-902a-e7a13e525020",
+    "name": "Poonjar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "269fca4d-9db4-48be-922a-521a6bfbe14d",
+    "name": "Poonjar Thekkekara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3d292b3a-2289-4af8-b282-d83e09f2919b",
+    "name": "Teekoy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "165f8ced-a0b2-48b2-aa96-84b79696ea64",
+    "name": "Thalanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a340276a-5c93-4457-882f-616136147b42",
+    "name": "Thalappalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a352ec71-be9d-4df6-ab3d-1accdf3fca5e",
+    "name": "Thidanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

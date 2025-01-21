@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c7172169-0878-46c1-9b7e-beec996833a2",
+    "name": "1: VADAKKE THORAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f413892c-103d-480d-a622-776f9e7a3f86",
+    "name": "2: PUDUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db07d16a-f3c8-4335-804d-da95e53565fa",
+    "name": "3: KANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "facd4e30-b38b-47ef-aa46-739ccb38915a",
+    "name": "4: KANNAMBATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33a02f12-3f61-4834-8088-af3026d7c76f",
+    "name": "5: SNEHAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac021dfb-30a6-4e3e-8a35-f222ba9e4419",
+    "name": "6: MATTUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c50c1c31-905c-41b9-a516-d9febad73630",
+    "name": "7: SHANTHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7246cb3f-6794-4124-8c9e-59f9d226625b",
+    "name": "8: SOORYAGRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30af50d8-5590-46db-aeaa-9d980f64501f",
+    "name": "9: CHENGALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d545c16-11f6-448f-93e5-b65e205360d2",
+    "name": "10: S N PURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "504bf999-4724-4a5a-8eb7-18524faf3d6e",
+    "name": "11: RANDAMKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23af61db-1f75-43d5-bda9-b4aa32b4877a",
+    "name": "12: CHACKOCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41360317-76e0-48aa-a8d6-812439fde58c",
+    "name": "13: KURUMALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45b99129-5d51-4b86-a7cd-1dd7e61f1dd7",
+    "name": "14: THEKKE THORAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b3f323c-c195-4aae-9ecb-1f7b2f69ded1",
+    "name": "15: BLOCK OFFICE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "b45daaf0-2775-41d7-8b3f-3a2e43f098d2",
+    "name": "1: THANGALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2544c92-c7aa-4d2f-88a0-c862d4ee023a",
+    "name": "2: EDAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fdbda81-b6e8-4d0b-817e-1d40b4b5108d",
+    "name": "3: VELAPPAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdd3b131-3b47-4c19-8a40-5565983f65a9",
+    "name": "4: MEDICAL COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3889f23-c99f-4eb9-a555-1d0a0c434c34",
+    "name": "5: VELAPPAYA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b7acd50-04d6-4167-985a-ecf1c77380a2",
+    "name": "6: MANITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c44e26ef-edfa-4d3e-a635-e292698b1b69",
+    "name": "7: CHOOLISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3ed31f5-2c90-445d-9b49-35e00a3f0049",
+    "name": "8: NARAYANATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0b95ca7-fed3-40e7-a54a-051f6d6debd7",
+    "name": "9: KOLANGATTUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfbbd6df-0ad3-4f38-98db-fedfdfae9fb2",
+    "name": "10: VARADIYAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f8d77cf-3e48-4b61-bd9b-76d744d8c44e",
+    "name": "11: VARADIYAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "953bdb0b-5a86-4cb8-a23e-2bb80f3b62fe",
+    "name": "12: AMBETHKAR GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9763b07-10de-4057-86e7-c5734f25c5f9",
+    "name": "13: VARADIYAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6adc69dc-a43b-4d59-a29d-a37f547acc91",
+    "name": "14: AVANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0276826-af9b-4fdc-ba9c-5ad7fcd9b964",
+    "name": "15: KARORE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

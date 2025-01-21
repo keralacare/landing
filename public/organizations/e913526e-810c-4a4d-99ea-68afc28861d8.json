@@ -1,0 +1,134 @@
+[
+  {
+    "id": "2dc07351-72a5-4f85-95d9-90a5ff666e90",
+    "name": "1: VADANTHOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86ba1a98-5930-4848-871a-e9711f81c076",
+    "name": "2: KORANODY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7bcfa14-1f91-48ca-a4f5-c077a5f46d8c",
+    "name": "3: VADAKKUMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abedc259-9867-4d9f-9870-a23e3a9b61db",
+    "name": "4: VELUPADAM MADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7414b2a3-7bc5-4ea8-b82d-41b9803124b6",
+    "name": "5: PULIKKANNY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe532f67-cb4e-44c5-9348-ec0aeebccd4c",
+    "name": "6: PALAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19e82d11-de64-41af-a4c0-c7b8140c582e",
+    "name": "7: ECHIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59f1feff-18bb-4542-94be-1d3edaf3aa6d",
+    "name": "8: KUNDAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c669329-1cb2-4c7f-9480-3ec38b118d6a",
+    "name": "9: KANNATTUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c647325c-379e-4dd5-a3c6-145baa5edc26",
+    "name": "10: INCHAKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "713ca0c5-73ae-4e11-a91e-4856b4c94aa5",
+    "name": "11: MUPLIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55df876f-23d6-4955-bf55-ab384c185d4b",
+    "name": "12: POUND KARIKULAM KADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7fd1cdd-5a01-4a98-b0a2-2524b0b439ba",
+    "name": "13: VELUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4360a347-2a72-4367-be26-47727fabc157",
+    "name": "14: PIDIKKAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8bf9fb0f-91f1-4752-9ae1-b91ea834dffa",
+    "name": "15: KUNJAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6f8ee8d-50a7-4297-9167-7b1c5d87cf1d",
+    "name": "16: MANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27931f39-b534-4b85-9704-bcf33ca7d145",
+    "name": "17: KARAYAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78ca38fb-7ac7-48ae-932e-2de1f5cfcf5f",
+    "name": "18: NANDIPULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4534f13-7147-46a1-8d7d-d034b78615a6",
+    "name": "19: ATTAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c78ce9a-d069-4b7e-bdd4-94b837e418f9",
+    "name": "20: MATTUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ddc6ba3-b65f-410b-8c04-a789d56e6d8d",
+    "name": "21: VARANDARAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17bb9fc8-80ab-4ce7-889a-eaa47f4ae51a",
+    "name": "22: MATTILDESAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

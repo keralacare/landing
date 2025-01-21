@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ee9968d2-8116-4864-804e-89f2082994a9",
+    "name": "1: VATTAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6e5dfb6-844f-4f18-88cd-582a5e77156f",
+    "name": "2: CHATHRATHODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d19e72e-024c-4e93-aeb0-3dac61d3f420",
+    "name": "3: KAKKATHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81ef8f08-97b4-489d-bbf1-e7b69c255d6c",
+    "name": "4: ILLATHUMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e896b1ad-eae9-412e-b5fc-0e10e0d1425b",
+    "name": "5: UNGUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f91dc5b-cddf-46de-9ea1-7fc06a97b187",
+    "name": "6: NADUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e3de99c-8a41-407d-a1c8-840d8f9475b0",
+    "name": "7: SIDHEEKHABADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f7e2855-94c3-46c0-8753-dd76c05ba833",
+    "name": "8: PENGATTUKUNDIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "709c95f0-4501-43a3-a77d-b33ee2e2957a",
+    "name": "9: POTTAMMALMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fb44d2e-59a2-4926-a518-11b60b8c6057",
+    "name": "10: KOLLAMCHINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e857f62-8ae2-4719-be3b-10e357027dc5",
+    "name": "11: PANNIYATHUMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0444907-c678-44a7-bc95-f2d3bdc00465",
+    "name": "12: PARAMBILPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95e0c3a1-dab2-437c-aa19-faa41685381d",
+    "name": "13: MENGOLIMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8752297c-63a1-4a1d-89ce-71ddb273e65c",
+    "name": "14: OTTAPPILAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "336a6e3d-da59-454c-82fd-de1277ae7b7a",
+    "name": "15: POOVATHUMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4dc2fa3f-9248-4ba7-8803-bd94e3515029",
+    "name": "16: SUPER BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a28501b8-1a53-43bc-b3b8-1c301fdf50bb",
+    "name": "17: KALATHINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eccd1663-58e2-4cb0-a6bd-5de93e98eff8",
+    "name": "18: SHANKARAMDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "073a8db6-81f1-4e4c-bfa4-0416c2cbf915",
+    "name": "19: VADAKKEELMADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "96eb2142-cf55-4123-a5ba-f2d0b0462f1e",
+    "name": "1: OLAVAKKODE CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "004bf752-db66-4fc9-a630-a2f19e0f34d1",
+    "name": "2: KALPATHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8020249-17bf-4e0f-813c-1665bdaee189",
+    "name": "3: KUNNUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e54540d6-5e48-4aee-a8ae-8c51dc34a492",
+    "name": "4: AYYAPPURAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c28211ac-31ff-4da5-85fb-d0b68047f520",
+    "name": "5: KALPATHY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60191e60-1a3a-43c2-9011-0b186a70a7cc",
+    "name": "6: THONIPALAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a37d55f-698f-4573-a941-00dd4b4e00a8",
+    "name": "7: KUMARAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f701eaca-2a47-4016-9cfe-2517853e0aa7",
+    "name": "8: VALIYAPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd82d98a-1a3e-436b-8e87-49255fd216a1",
+    "name": "9: MATTUMANDHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6147df28-3309-47bf-916d-71f2a44e11f1",
+    "name": "10: KALLEPULLY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2260c26c-f704-4a6f-91c4-69f6d1c2aaf4",
+    "name": "11: KALLEPULLY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38538751-4bbd-4ee9-b56a-242272f34217",
+    "name": "12: PUTHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7313a80-de58-408e-827e-01aae51b3952",
+    "name": "13: PUTHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d37e6e82-48ef-4168-b2e5-d4a34e1beb6f",
+    "name": "14: SEKARIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0062901-e981-4af1-82ed-1a3c7acbb0f7",
+    "name": "15: AYYAPURAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d6eab9c-b439-467e-8265-dfd530149032",
+    "name": "16: PARAKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59468328-1890-4b4b-9923-7ef1491b6bd6",
+    "name": "17: NARIKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68f923b2-1e5b-40dd-a8e7-b85098b9a0e3",
+    "name": "18: KOPPAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb9a9af9-cf2e-4c99-89eb-fa8b086ff273",
+    "name": "19: SULTANPETA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61216e8b-04b1-462c-9edd-f17f4bfbf7a3",
+    "name": "20: MANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "562ef6dd-df55-45f1-8b23-221a69572281",
+    "name": "21: VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5d7aba9-b419-4e9b-99ca-e4b3e028754c",
+    "name": "22: SELVAPALAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "239fd958-6654-4335-a964-25d789e9bedc",
+    "name": "23: KUNNATHURMEDU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de352ef4-5e1f-436d-963e-1cccc12eacac",
+    "name": "24: KUNNATHURMEDU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a66a272-2fcd-4735-97ac-5b4874e756d8",
+    "name": "25: CHIRAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75b2f82e-c448-4022-b2a0-6fc7e2e3de1a",
+    "name": "26: KENATHPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be5afdb9-818f-4eed-ae70-a5142b5ca10b",
+    "name": "27: MANAPULLYKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6cb58a0e-52b9-4234-aed9-6a91f74b129c",
+    "name": "28: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2159feb3-ac4b-4426-9cdb-78e1bbcfb5f0",
+    "name": "29: MURIKKAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53637ae6-f3d2-4559-9908-9b7d25a901ee",
+    "name": "30: WEST YAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef544afc-284a-48a8-b9f7-d34f26b52b7c",
+    "name": "31: PUDUPPALLITHERUVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2005f16-a761-4632-b962-ae92e0ff9346",
+    "name": "32: VENNAKARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dc97f6a-7693-49dc-a014-95ef38893c62",
+    "name": "33: VENNAKARA CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6ed7c51-6ca7-4509-9d1d-cfe53efa7033",
+    "name": "34: OTHUNGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f59dc8e-9953-4eed-99a4-4c7451b940ec",
+    "name": "35: THIRUNELLAY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea98c1de-4955-40a5-be5d-2699a2b1bd3b",
+    "name": "36: THIRUNELLAY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ff67f5b-9b49-4a51-921f-a7ffd6494ef3",
+    "name": "37: KALLIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba436407-d29f-41e2-ad90-276ca245833b",
+    "name": "38: KAIKUTTYPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1e0d90f-5330-4f57-bd74-b9b19fe6a323",
+    "name": "39: NURANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "021db576-e475-4cc6-b1f3-a1a000e941e5",
+    "name": "40: VITHUNNY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e1ba06e-c639-49e3-b9d2-ca67274513b3",
+    "name": "41: MUNICIPAL OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efdfe3ab-8d7a-461c-81df-af06049b7676",
+    "name": "42: PATTIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4d9ebf3-27ef-4de2-80d1-9894ac0851c3",
+    "name": "43: VADAKKANTHARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e417360-9985-4812-99d8-a4857e0b4c6d",
+    "name": "44: SREERAMAPALAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a40111af-8b88-460c-bd54-4abf584f6818",
+    "name": "45: MELAMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5177fe6-f401-4054-b36e-03695a2e444a",
+    "name": "46: VALIYANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe6ce16f-b49a-47e4-ba12-a4314f09c5db",
+    "name": "47: PALLIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35ac5d2e-8a2b-44c4-a243-ecfc27e6f82a",
+    "name": "48: MEPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bc899f1-955e-4b47-be31-9d671cc94cdd",
+    "name": "49: KANNAKI NAGAR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a56b32b9-6219-4842-b378-c1bd0dd72b64",
+    "name": "50: VADAKKANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96b42531-21c0-460e-a09f-9eddf1e2751a",
+    "name": "51: JAINMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fdad4611-0f30-43e5-a213-330afeabac75",
+    "name": "52: OLAVAKKODE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

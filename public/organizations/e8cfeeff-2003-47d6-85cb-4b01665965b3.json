@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ac2aba12-8a17-4daa-85ed-7b3a6b1766e9",
+    "name": "1: KOTTAMONPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "332cf519-8832-4631-8e50-e806e2c6f53e",
+    "name": "2: PALATHADIYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "978db1b9-e5a7-41ab-b87e-1661dee7db5c",
+    "name": "3: GAVI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a4b93ac-34e3-4196-8204-2306703d5f02",
+    "name": "4: ANGAMOOZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c456c025-b826-41ab-add9-40aa6e550571",
+    "name": "5: VALUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "214cd56e-3be9-43a1-a8a8-f718eccb7849",
+    "name": "6: KAMBILINE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e9f637b-1dfd-49d4-a229-41e7531f5f4b",
+    "name": "7: KOCHUKOYICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8afe19a0-e557-4d4e-b396-dd5074378896",
+    "name": "8: KOTTAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b4cf965-b457-4878-9d7d-ecf8993abcfa",
+    "name": "9: GURUNATHANMANNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "230a7abd-32ec-4802-91af-a8bf20aea01a",
+    "name": "10: SEETHAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01cd7630-1301-42a0-bd84-ec966af7f3a1",
+    "name": "11: SEETHATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65dd9b87-ee28-4673-948b-cbaed3231221",
+    "name": "12: MOONNUKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a469294e-29cc-4cf8-99ee-d1bd0667fc5c",
+    "name": "13: ALLUMKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

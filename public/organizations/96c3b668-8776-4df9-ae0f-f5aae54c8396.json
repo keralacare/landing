@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e62f745e-3b92-48df-8272-46763aa6c6b3",
+    "name": "1: MANALADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a587450-a387-4ecd-ba7a-01a936bacdbb",
+    "name": "2: NORTH OF RAMANKARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e0077a3-1a75-4a18-ae6e-337cc993b372",
+    "name": "3: RAMANKARY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e9a65cd-8beb-4a76-a141-02894e50745c",
+    "name": "4: MAMPUZHAKARY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9a3ed9e-8607-49e8-a86f-9b923c6cb615",
+    "name": "5: MAMPUZHAKARY CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a1baeaf-4d28-4645-af02-56fec137b570",
+    "name": "6: MAMPUZHAKARY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abf3389e-99ec-4cc5-bf65-40e8c0449d70",
+    "name": "7: MAMPUZHAKARY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "974379f7-c31d-4f40-a25b-0bf3f476f676",
+    "name": "8: OORUKARY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2ef89f5-d4b7-4982-9e62-d977de854798",
+    "name": "9: PUTHUKARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "681b7794-cb82-4733-8f49-acfeecf2f466",
+    "name": "10: OORUKARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "998a28ad-6c9d-44f2-9389-0908b098988e",
+    "name": "11: VEZHAPRA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b603752c-665b-42fd-8156-cb87b393c905",
+    "name": "12: VEZHAPRA CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e47b785-8776-431c-a0f1-3f1bd15f326c",
+    "name": "13: VEZHAPRA WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

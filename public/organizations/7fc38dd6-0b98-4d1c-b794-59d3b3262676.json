@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a1def7cf-6efa-4a2e-a1a5-637d30440573",
+    "name": "1: NJEKKADE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c86a67eb-1dd4-4741-a9c6-918ea9a2dd49",
+    "name": "2: MATHURAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24f708dd-e275-4090-be9e-68137f27ca9c",
+    "name": "3: CHENNANKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67b52e11-1beb-4d8d-9d84-e908a65f8b5a",
+    "name": "4: KALLAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bf0145b-3576-4e83-b279-269cbc0a91c5",
+    "name": "5: MULLARAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08c5991b-e58f-4aa5-b6b9-ef6d9488f5b3",
+    "name": "6: VETTIMANKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acb816b2-fd6a-4283-88da-ab1dfacb549a",
+    "name": "7: THOPPUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1c0c49b-1656-446e-af56-870d4231abc8",
+    "name": "8: NELLIKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71516937-c705-4485-97dc-66f3123d3b6d",
+    "name": "9: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56b6cfde-21b2-46ed-b5a2-6a1c390d3a20",
+    "name": "10: OTTOOR KRISHIBHAVAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "629b6e97-8f38-47c9-adb3-cd0917c81b36",
+    "name": "11: THOPPIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3acf84dd-63e0-463b-aa9d-365f9cfa9d5d",
+    "name": "12: MOONGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03404a2f-386a-4c99-8610-5f0f5378b4a7",
+    "name": "13: SREENARAYANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

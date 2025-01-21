@@ -1,0 +1,128 @@
+[
+  {
+    "id": "e72546a7-99b9-49a2-9ee9-5637e8eff9fa",
+    "name": "1: KEEZHKOLLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98ab6f65-39c4-48ee-a3e2-8a2ac9fd7290",
+    "name": "2: VATTAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ce444fa-3bb0-4df7-8650-dd15c2c77768",
+    "name": "3: KUDUMBOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bec7c3f6-4e87-460e-a24d-b87cab16299e",
+    "name": "4: KOCHOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "871b91d3-c7e9-48d6-846d-9dad2029a318",
+    "name": "5: UDHIYANKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1bb9681-ee8e-4ec8-bd3f-f8a0b8bda6a9",
+    "name": "6: KOTTAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27f7edd8-8631-429e-bf3e-79b118bb3aac",
+    "name": "7: ARAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30b8577e-025c-49a4-89ca-db273d0f3e20",
+    "name": "8: ARAYOOR KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3eb86952-4198-44a1-a880-8c1ff635219f",
+    "name": "9: PONVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c878fa0-1179-4c7b-9380-049ab9661bf7",
+    "name": "10: THOTTINKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f162486-cdcc-40e5-b591-95cd126041c9",
+    "name": "11: PORANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7691b47f-775c-441a-8afa-d5f38ad61c7b",
+    "name": "12: MELAMMAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d6ee172-7d9e-47aa-a422-a41e981a569b",
+    "name": "13: KODANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29f41aaf-a8c0-4724-a64e-0c808c78788a",
+    "name": "14: MARIAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b1bf30f-96cf-4783-9bd8-cb4fb8f50c37",
+    "name": "15: KUNNANVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f99443d-6def-43f6-9a69-f3d8d47748f1",
+    "name": "16: CHENKAL KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d9d438d-3290-4442-8931-4a31be6698d2",
+    "name": "17: CHENKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84af1841-e3b6-4482-adb8-1ab47ae522d9",
+    "name": "18: VLATHANKARA KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4857fc3f-b788-4fd2-a412-980272a02038",
+    "name": "19: KEEZHAMMAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e47026fe-7584-48eb-aef2-1cf5e8bc101d",
+    "name": "20: VLATHANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20b95229-de74-4651-9f63-6e2e49ac0d1d",
+    "name": "21: NOCHIYOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

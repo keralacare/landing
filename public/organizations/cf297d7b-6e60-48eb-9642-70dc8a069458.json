@@ -1,0 +1,80 @@
+[
+  {
+    "id": "33e14153-ff9e-4db5-b915-824660e34782",
+    "name": "1: AMICHAKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1eda45db-1f09-402b-a998-8c92d7e89d9c",
+    "name": "2: NEDUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f67b1d18-1c29-47b5-be98-e642e9f78820",
+    "name": "3: PUTHIYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86bb6766-6f19-4896-90b0-830133e09182",
+    "name": "4: VAYIKKATHILLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fd2e82b-4baa-42ff-aae8-7cc6e0103221",
+    "name": "5: CHOONTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4deef31-3460-4715-abb3-436400ee6fdd",
+    "name": "6: PODIYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f19b4a8-f7ad-4c29-87ff-42e5bfd956f3",
+    "name": "7: MANIPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec809ddf-4ea0-4271-84e6-8ab829d29aed",
+    "name": "8: MALAYITHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d966201-9f02-439e-9e6b-45dbd79bedd2",
+    "name": "9: KALLUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ead7941c-ecb7-44bf-830b-578ff811819b",
+    "name": "10: MURINJACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d715bdf0-8a84-4023-b812-edef410d92d8",
+    "name": "11: PULIKKEEZHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31074a4e-b946-48dd-9647-803642c142a6",
+    "name": "12: OTTATHENGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f79deed5-ca40-483f-8e88-c8a848ffba9e",
+    "name": "13: JALAMELA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

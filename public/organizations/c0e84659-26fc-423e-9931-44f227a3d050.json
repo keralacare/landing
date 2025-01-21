@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c261dfcb-2afe-442b-a523-656cb1478978",
+    "name": "1: AYYAPPANCOIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f48a1d79-4c31-4d10-85d1-cde5596f88de",
+    "name": "2: ANAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e903a356-812e-48d7-adf9-8c97082b7ec9",
+    "name": "3: MATTUKKATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9eebfcf9-65ee-4a0c-842d-afd0808c94c8",
+    "name": "4: CHEMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9514868-881e-4854-b6a6-53620e689a89",
+    "name": "5: DORLAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0391acdf-e841-418b-9b05-45dc784c8045",
+    "name": "6: PALANIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fda1f016-614a-4881-97e8-e86fe283827e",
+    "name": "7: SULTHANIYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "241bc33a-1f5c-44b7-8a06-2059e632fde8",
+    "name": "8: PACHAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "481790b1-4239-44c2-9c06-97f3c4ce0612",
+    "name": "9: HEAVENVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78fa9e2f-3b3c-47c5-a1ab-afa58a3cf9fe",
+    "name": "10: CHAPPATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ab34560-70ba-4a5a-bde5-e3c9a8ccb9c9",
+    "name": "11: ALADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dab9712-ff34-4fb9-84e9-b22571c8e684",
+    "name": "12: POOVANTHIKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "731c5d22-67ec-44ce-938b-ea826bb06658",
+    "name": "13: MARYKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

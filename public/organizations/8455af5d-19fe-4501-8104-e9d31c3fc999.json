@@ -1,0 +1,58 @@
+[
+  {
+    "id": "263c9241-463d-467f-8e18-9099ddcc38ce",
+    "name": "Areacode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0fa6569b-d7bb-49cf-95e4-ea0728646f20",
+    "name": "Cheacode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a8e30f9c-5213-484e-8dd7-121e6e83e69b",
+    "name": "Edavanna Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5f61d36f-608d-4c45-9e5f-a20d54dae880",
+    "name": "Kavanur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "bf138cea-7c8f-4ff4-af86-0ad88344bdff",
+    "name": "Keezhuparamba Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fc704c83-2b53-4b17-98e4-38bb84751795",
+    "name": "Kuzhimanna Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8340e8e9-17fb-46f2-b986-c39ca40fae12",
+    "name": "Pulpatta Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "861d6f64-94e4-4c4c-acbd-c60c4d5b3c54",
+    "name": "Urangattiri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f9c96e14-5295-41ea-a321-87197607bd50",
+    "name": "1: THARAVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f155e9ec-5aea-4dcd-bb7b-c24481da84a2",
+    "name": "2: CHATHANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6935701-27b0-4b50-aa63-a1bff1493e3f",
+    "name": "3: THURUTHUMMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9144e2d9-4d90-422c-a71f-569b3182c41e",
+    "name": "4: PANJIPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a1f3cd9-d0fc-4545-a0cb-0f2f9f0c7425",
+    "name": "5: MARAVANTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87502f64-5cfd-4334-ae0a-5d6fa1cae186",
+    "name": "6: CHUNGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2580b04-4b66-43cd-8cd9-4feb94bf0bdc",
+    "name": "7: PALAMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5dd633fc-c796-494f-93d2-d5b6e97a550b",
+    "name": "8: CHIREKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fc85b95-3610-4b70-bcdf-cadcb4c3aaab",
+    "name": "9: EDAVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfb86eba-d016-4b6c-87c1-79dc6ec7596b",
+    "name": "10: KADOOKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c0c7f4d-2824-4e17-ad69-5b2da2f91b82",
+    "name": "11: KOOTTUMMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1ad8a45-795b-4ee1-b789-36d88fc529a9",
+    "name": "12: KULASEKHARAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "107a448e-6df6-4fcf-b8aa-14df918fb75b",
+    "name": "13: TOLL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "425f03cf-0f62-462d-a7f0-1835962ddfc7",
+    "name": "14: KODOOPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac317b1b-2386-48a0-8c96-85966a5a42e0",
+    "name": "15: CHEMMANAKARI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "987396de-9b09-4b84-a102-f6052500053f",
+    "name": "1: THIRUVANCHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cd45aab-4c9e-4cda-82cc-f8dada65c1cd",
+    "name": "2: PARAMBUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abb25157-7d00-47d0-9f1a-02344794efe1",
+    "name": "3: NADACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "499c9a36-94bc-474a-a921-6d05b8b71e34",
+    "name": "4: MALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f18022c8-d21a-47b4-afac-ac0db2248d74",
+    "name": "5: PARAPPALLIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5fa6b7a9-9110-4e3d-97b6-4ce2ade3c9cf",
+    "name": "6: AREEPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d366a8e-1c40-41c6-ac44-68a02ed2f3df",
+    "name": "7: MAROTTIPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18d28d6a-6e76-4ab9-a0fb-67bec93f77d1",
+    "name": "8: PANDAVARKALARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ee3ec0f-e97a-4023-bd16-3bea759fa25e",
+    "name": "9: COLLEGE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a64491ab-108e-456b-83d7-9b2b001d1a0b",
+    "name": "10: I.T.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7882a50b-4e68-40fb-a3e8-ac8c5415cd7f",
+    "name": "11: KUTTIYAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "144e8609-3cf5-4a63-8999-d108c0420ace",
+    "name": "12: SANKARASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "730b0170-c3b7-4a63-bc47-e3c7dd526f89",
+    "name": "13: VENNASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6363648e-85da-4a1e-b026-7c035fd3a853",
+    "name": "14: MANARCAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17b7e226-b308-4228-a82a-8f2da455c6ab",
+    "name": "15: IRATTUNADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd187531-8d0d-4908-bc5b-3c96e09375af",
+    "name": "16: KUZHIPURAYIDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c2ded2d-cca0-490a-bb4e-c019860a9ec1",
+    "name": "17: KANNIYAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

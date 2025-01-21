@@ -1,0 +1,140 @@
+[
+  {
+    "id": "d08d4e96-6368-4560-86eb-67358cb0ca41",
+    "name": "1: PATHIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39f36f94-7a5d-49a3-b870-00a68723ee40",
+    "name": "2: PADANILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "763b4dca-6794-4196-b527-1d3f099a8252",
+    "name": "3: PILASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e232537-5cb2-4b3b-8eb2-dad3c3621aff",
+    "name": "4: POYYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78a94cb7-003b-4674-a337-149313ff252c",
+    "name": "5: NOCHIPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7ca902e-1b8c-47e4-bd35-537fe5014a69",
+    "name": "6: CHOOLAMVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e51b924-5603-4257-8143-9cd81cacbe79",
+    "name": "7: MURIYANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98168481-b8e7-48e6-9e34-a17eb035748b",
+    "name": "8: KUNNAMANGALAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de45dc11-24dc-4b64-a10e-19e498cccc8b",
+    "name": "9: CHETHUKADAV NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e49a4d0-f0ca-4fd0-a4ad-65613e711046",
+    "name": "10: CHETHUKADAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fdb4d6c-2238-4435-8c93-a8d0f6ae0b12",
+    "name": "11: KURIKKATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "15c820ae-701c-471e-b7ac-27a8ab212790",
+    "name": "12: CHATHANKAV SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e34f995c-ee33-4923-8d80-6ef5d7a2e1fc",
+    "name": "13: CHATHANKAV NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fb211dc-7bee-4fa5-941e-2c3178e177be",
+    "name": "14: KUNNAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76a70f96-9ce9-46af-9f6c-8a10ee187b38",
+    "name": "15: CHERINJAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd106443-9441-4e09-8e93-d27843144d63",
+    "name": "16: PAINGOTTUPURAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21e82d7e-0add-49e4-ab59-f69cf4ba351c",
+    "name": "17: PAINGOTTUPURAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c033239e-f6af-44f3-8c1a-8069058206c2",
+    "name": "18: KOLAYITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "50a65861-56c4-4aa9-96c8-f94cf88c35e3",
+    "name": "19: KARANTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf465cc6-4530-4cce-b069-73c65faa730e",
+    "name": "20: KARANTHUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92e11bb8-e85d-4300-9bde-b1b3dab19980",
+    "name": "21: KARANTHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84eded12-a098-4aa7-b67e-74d166f785ad",
+    "name": "22: VELOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06b6fcce-79dd-4fa3-8e1b-5237fd9a0d7a",
+    "name": "23: PANTHEERPADAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e900db4f-2ba3-4d69-b1e4-5a5905832fb7",
+    "name": "1: CHETTIYAL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11b76a5b-a5a4-43b2-bc7c-786635644499",
+    "name": "2: EDATHIRINJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b95a3d2-7ccd-4054-9e3d-1e0bfd26c164",
+    "name": "3: POTHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afa36dc2-d300-459b-8f53-63b3ac2530f1",
+    "name": "4: POTHANI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "474e6a91-f2cb-48fc-b9c5-0728300f4514",
+    "name": "5: SIVAKUMARESARAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "162957f5-3796-4516-8a1b-36bae111c590",
+    "name": "6: KODAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10f2876c-0c6c-439b-9c46-f2f4d78b8c40",
+    "name": "7: PADIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efc48dca-41c1-421b-b23c-e9ec80da06b9",
+    "name": "8: VAIKAAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5bb6d7b-c1b4-471f-a280-eae607e5a4c0",
+    "name": "9: VALAVANANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5142acfc-f662-4b0f-8777-3c86463e4f5a",
+    "name": "10: MARAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e63b7d3-1a3b-449e-b425-cdd98d69e3b1",
+    "name": "11: CHARUMTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bab3d8f-7847-4d3b-b8db-04418196f6d2",
+    "name": "12: SIVAKUMARESARAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2422605-fa59-428d-9e8c-6a5378efac79",
+    "name": "13: CHETTIYAL SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab151f64-ca08-4cf5-9c24-941b5a2f1971",
+    "name": "14: KAKKATHURUTTHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

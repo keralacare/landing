@@ -1,0 +1,65 @@
+[
+  {
+    "id": "c6782858-39d4-41ba-b0a8-14e9c25a3920",
+    "name": "Alakode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5ed05844-f358-4a6e-972f-2ed3d5ce4fb8",
+    "name": "Chapparapadava Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ad4c19c7-4674-403c-ae16-003ea1538ad6",
+    "name": "Chengalayi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3badc5e0-a9e8-4bbb-a6d5-84e4c8f75feb",
+    "name": "Kadannappally Panapuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a8833850-dfef-48bb-8cee-8c509b344005",
+    "name": "Kurumathur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a3c3d1da-b154-450b-bedb-8fdbb95765b6",
+    "name": "Naduvil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3013f5bc-4d0b-418d-8e74-992708d5efa2",
+    "name": "Pariyaram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "92044624-7895-4af3-83c3-9540e617a7cf",
+    "name": "Pattuvam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "315a9813-6f20-4109-ab54-e87b29ebaff3",
+    "name": "Udayagiri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

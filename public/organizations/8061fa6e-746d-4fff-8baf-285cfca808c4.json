@@ -1,0 +1,98 @@
+[
+  {
+    "id": "42711d41-238d-487d-9514-fdf78c4546d2",
+    "name": "1: ODUVANKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78c89ccc-e030-4626-a831-6e8830e58b38",
+    "name": "2: KUNNATHUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30635435-a12e-4bdd-baab-be17e7873b41",
+    "name": "3: MUDUPPULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee1ad0be-0738-4a34-9c7d-87c681339c94",
+    "name": "4: PARUTHIPULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "504caa25-bff5-45fb-b91f-039e87cdeff3",
+    "name": "5: PERUVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6040e271-ba48-4dcd-91b0-94b5e55dc1fb",
+    "name": "6: MANIYAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70862210-da35-46f6-9fed-68387ce52644",
+    "name": "7: NJETTIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1258d3b-6e0b-4531-bace-705acdbbc4be",
+    "name": "8: BEMMANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a916e819-1660-4c6b-b4ce-21a5462f79ad",
+    "name": "9: MANDAPATHINKAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60dff65f-dcab-4f39-822f-15fe241b4509",
+    "name": "10: PILAPPULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38bd3b73-ed0b-423f-9c9a-ae19969094fb",
+    "name": "11: PERINGOTTUKURISSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e766da5-28ab-4d97-81b8-6fddd8d48775",
+    "name": "12: NARANGAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cc80331-3939-425c-9b50-822df4c070f5",
+    "name": "13: CHOOLANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dea9cc7d-bd70-45c1-81a4-2352b92dae87",
+    "name": "14: VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d976b53d-e9f5-40f3-b719-b165d3a5db7d",
+    "name": "15: NADUVATHAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4dcbdf0-4be2-4298-b516-f0bbf0346fad",
+    "name": "16: THOTTUMUKKE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "176e4716-5e65-4f2c-aff8-ef0494f13d55",
+    "name": "1: VANNARKANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "334dcdaa-0efd-4b9a-9cf4-d6cacb8f4d30",
+    "name": "2: VARAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ba30509-964c-4c37-bf4d-54f695390abd",
+    "name": "3: KALLUNIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2da8133d-b111-4aae-8bed-65192d0afaef",
+    "name": "4: PUNCHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d67b25f-653a-47d7-b3ae-2d7ab092e662",
+    "name": "5: CHUZHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d0d9533-4358-494a-9893-ab59dc1b9d6c",
+    "name": "6: NEELAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "468bbe5a-aa05-4a2c-acfc-6bc47e9df894",
+    "name": "7: CHALIYATTU POYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dad11730-e042-430e-a51d-f044f86dc9bd",
+    "name": "8: NIRAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16b3fb8b-e16f-43b8-a2d9-c23aac27ccab",
+    "name": "9: KUTTIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9619022e-8c42-46fa-822e-0247b1d24597",
+    "name": "10: THEEKKUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30f7ac60-2438-42d7-a753-9ee2a0a25a53",
+    "name": "11: ONAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbf1d5e4-e0a7-446d-bb65-e4120139816f",
+    "name": "12: CHERUMOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f6f499e-77e8-4d48-85aa-e4ea394a2a03",
+    "name": "13: MANIYALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6eecf2fc-4478-472b-b27e-01e89c4bef5b",
+    "name": "14: CHEKKOTTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

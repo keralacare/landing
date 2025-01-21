@@ -1,0 +1,122 @@
+[
+  {
+    "id": "07ae0a25-88db-4416-9f1e-a7709ad7f2e2",
+    "name": "1: MAIPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bcd0a30-ff30-481d-bd0f-2e6e9bfe2761",
+    "name": "2: PATLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a63dd2b0-fbc6-4dd3-bc74-9c2b137bb9de",
+    "name": "3: KOLLYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5d4560c-4e4e-40d5-93b8-11daea4892b1",
+    "name": "4: ARANTHOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18677542-403e-4fc1-8eba-c54900dc5374",
+    "name": "5: MADHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6cf09248-f455-4cf0-8c52-878d7744e3a6",
+    "name": "6: HIDAYATH NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84481f1b-0b64-4a45-bc78-b44aacea818f",
+    "name": "7: CHETTUMKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b92147ef-02ca-4ac2-b57a-b4ce27174eb0",
+    "name": "8: UDAYAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d1f0c09-14dc-4c93-9aef-d6561ae030c6",
+    "name": "9: KOTEKANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4537c38d-3446-4809-a809-ec3ddf2ffaea",
+    "name": "10: MEEPUGURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df0ee73f-57ec-4afc-96a4-e509de4703c6",
+    "name": "11: SOORLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "838f787a-e48f-4cad-9b18-2b4e1f33249a",
+    "name": "12: KELUGUDDE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7c5e88c-aa6b-438a-8d01-bcbfa185647e",
+    "name": "13: KALYANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "144d27f5-3e34-44c9-add5-0f2d2e63aff2",
+    "name": "14: RAMDAS NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08d8e1a1-0338-4658-8282-e1830765172a",
+    "name": "15: KUDLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0df0135e-14ea-4a76-93c7-2a5f55688951",
+    "name": "16: MANNIPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4edd416b-904e-4d69-8a11-1f88f5e602a8",
+    "name": "17: ULIYATHADUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fec398da-3cc6-4352-9e61-7222630b1927",
+    "name": "18: ULIYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acd42c75-c572-4a1e-8c99-c6bef09dd77b",
+    "name": "19: BHAGAVATHI NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf2e2395-0971-4673-8cfa-9a0aee3ec7bd",
+    "name": "20: SHIRIBAGILU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

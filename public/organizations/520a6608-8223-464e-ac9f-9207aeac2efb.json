@@ -1,0 +1,116 @@
+[
+  {
+    "id": "888ed3b1-ba90-4dbd-892c-5865b650d31d",
+    "name": "1: VALLUVAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bcb21a3-b6c9-4600-9112-7403263ac76e",
+    "name": "2: HALF VALLUVAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14729286-59a2-4116-af7d-952cf4b1e004",
+    "name": "3: PULLANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dff1c33-ff85-4238-b702-9e0b843b10d7",
+    "name": "4: MOOCHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd41ed04-0abb-4a56-bb13-75a2ece9ad97",
+    "name": "5: PULLARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "485421aa-74cb-48b2-b4a5-74edfad75115",
+    "name": "6: MUTHIRIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6360b40e-2569-4029-9fec-b5c5f1bd045e",
+    "name": "7: PALLIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee7afaba-6313-4ce8-9a02-117fb2cdc0b2",
+    "name": "8: MUNDITHODIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3db82447-5b15-4bec-9f8e-b890002fbfd5",
+    "name": "9: MANIKKAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59d67297-1c2b-4620-8a5e-b535a84e0a1a",
+    "name": "10: POOKKOTTUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "613a6d97-8a8c-4e12-9db7-c393c41c32ef",
+    "name": "11: PALLIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b2269cc-f98f-4461-ae81-eb62769c5e75",
+    "name": "12: ARAVANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb79b6cf-5b59-4a7f-8895-36b72cd1acdd",
+    "name": "13: NEW BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ef942a6-3011-408b-b6fe-22e923c378ee",
+    "name": "14: CHEENIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44a248e1-7dba-4bf1-99d8-14b91ee96c5a",
+    "name": "15: ATHANIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66ae7a13-db2e-4012-8384-53a7e26c000c",
+    "name": "16: VELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79625569-c725-43d1-9d3e-fd16b639b9e2",
+    "name": "17: VELLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64fc67ed-6633-4a83-9cb1-f779a9054223",
+    "name": "18: MUSLIYAR PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2f93d18-3ba5-4436-95dd-25ab21f570b9",
+    "name": "19: ALUNGAPATTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "fbd34803-d0c4-479e-b5a0-24db0c7c3f35",
+    "name": "1: MANJALAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8725fc55-6884-487e-9a52-7cc2d8f6284f",
+    "name": "2: PULINTHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38576ce2-7bfb-48e6-abd8-e3cdc1bffe51",
+    "name": "3: MAVUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5f95fa2-4991-4139-b69a-75725945b12a",
+    "name": "4: POTTANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82a22811-17ca-45ab-ab7d-f75beec823ba",
+    "name": "5: THRIKKEPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94454346-c65f-42ec-82e7-949e61f8db9a",
+    "name": "6: PERUNEER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56a7a242-0578-4a20-a840-d8aa504ff3ed",
+    "name": "7: ERAPPUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fae31e2f-8a08-4b22-8867-43446a07e776",
+    "name": "8: ANATHUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d234438-2ae1-47ca-bf2b-f164eae542f4",
+    "name": "9: POTHANICAD CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df55ff39-bb23-4226-b43a-c75064fbb988",
+    "name": "10: KONNANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37e963c3-c101-4388-bc70-de3a33906b7f",
+    "name": "11: THAYMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b3effcf-d9fb-4fe0-a927-428a2e5097c2",
+    "name": "12: KALLADAPOOTHAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e6aa8c4-b216-4a1b-a2a9-0e2a9e39682d",
+    "name": "13: PARAMBANCHERY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

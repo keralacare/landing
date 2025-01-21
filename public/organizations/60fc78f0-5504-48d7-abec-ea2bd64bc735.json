@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f800c181-2898-4e68-a4a0-61fefa110c38",
+    "name": "1: THRIKOTHAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a979a24e-9dae-4e25-af9a-ab5c743b4fc6",
+    "name": "2: KODOORARVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89bac8f5-2e59-4f79-b157-621df46bbf1e",
+    "name": "3: KADAMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5856a3d-7035-4d94-bd50-39b42604a402",
+    "name": "4: NJALIYAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d60966c-84c6-4a96-9b83-d7c463ad7be9",
+    "name": "5: MARANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d016b942-41b6-4ee9-ac5e-9a90851a5dc2",
+    "name": "6: PARIYARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef87b930-27ec-4897-aeeb-a4120fe8a24a",
+    "name": "7: THOTTAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "edeb6abf-a387-4090-80b9-099af8b48222",
+    "name": "8: AMBALAKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45141efe-083a-4274-b0c2-54d06b15af33",
+    "name": "9: EZHUVANTHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc6ef873-4c49-465e-b451-f50e96af58a4",
+    "name": "10: ERAVUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "334a8ae3-1755-4f2a-8b3e-d376c5a84862",
+    "name": "11: PONGAMTHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "476e0e8f-d67c-463a-8ff9-b2a8653c9382",
+    "name": "12: MUDITHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62e972de-2e5a-4590-8a0b-f057bcee9db2",
+    "name": "13: MANIKANDAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af6583c9-9e5f-43fc-b67d-9d79e8bf15ad",
+    "name": "14: UNNAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ca9fbcf-d81f-48ed-80d1-e3a1bb8653dc",
+    "name": "15: PANDANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f718c9c2-ec09-4aed-85b1-2706132efe1e",
+    "name": "16: NALUNNAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19a2f4bc-fc0f-479c-8d83-6fced7b12f48",
+    "name": "17: PUTHENCHANTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "025c812e-88bb-4875-8ef9-d0d43fd861da",
+    "name": "18: JERUSALEMMOUNT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b5f95f5-e5c9-41b8-beeb-4ce462a9240a",
+    "name": "19: VALLIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a97c53a8-9321-4f3f-a354-4cf98ec0a522",
+    "name": "20: UDHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

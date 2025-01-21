@@ -1,0 +1,98 @@
+[
+  {
+    "id": "b1169a4a-405b-4d1c-8cad-6a1dc91ca577",
+    "name": "1: PALLITHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87c0d6cd-b76d-40d3-8af7-32f7dc955f61",
+    "name": "2: PONPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e43cc1eb-1fb5-4376-8fec-0c029bbc8396",
+    "name": "3: PARAYAKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "380f8e51-2953-4f2e-9744-b345a8204744",
+    "name": "4: PARAYAKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bce9fae-a3aa-4db5-bb42-3e2baffc5c7a",
+    "name": "5: THAZUPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d270138-1e01-48db-96f1-a8e7fccbd5d1",
+    "name": "6: NAALIKATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0b3a975-baca-48c9-b339-85b1c6e08d70",
+    "name": "7: KUTHIATHODE TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc4050cb-fb4b-47e5-8d62-9dc7157cfc2d",
+    "name": "8: OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1e49ece-08e5-4a49-ad5f-1f4502f6aa8e",
+    "name": "9: PATTUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1c613ff-cf7d-45b4-b8f9-dc2502d170dd",
+    "name": "10: THATTAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2afab71a-26bb-4ea0-a30d-d8cad65a139a",
+    "name": "11: HOSPITAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4043496-d7e8-4788-9ffd-400f74b822dd",
+    "name": "12: MUTHUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad65c4d5-fabf-487d-bfc2-ba54170e494c",
+    "name": "13: NALUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "daa0e0eb-f569-4ce4-81c9-fe272b969084",
+    "name": "14: THIRUMALA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31baef46-3f21-4913-8cf7-d76970e1a00d",
+    "name": "15: THIRUMALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb70921e-e681-4bda-b0b7-2834e3f44bda",
+    "name": "16: P H C WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

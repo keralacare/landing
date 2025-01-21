@@ -1,0 +1,104 @@
+[
+  {
+    "id": "04a615f2-3524-46e8-b7b6-a81080647731",
+    "name": "1: MUTHAPPANPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d859855-0d97-43a0-b404-0c7db3acd95b",
+    "name": "2: KAVUKALLEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3ff6793-dc14-421e-9e11-0deb53280131",
+    "name": "3: ANACKAMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb09ed8c-e307-4143-a014-2548b5641d3a",
+    "name": "4: KODAKKATTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4d49320-91a7-4fcc-8e82-2d7408d49222",
+    "name": "5: PONNAMKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d898ac94-ee10-4854-963e-de20f1c38692",
+    "name": "6: URUMI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9f183de-e274-412f-8df3-f62f1cf03001",
+    "name": "7: PUNNAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a0d170a-dc75-4393-be61-11afbb99f93e",
+    "name": "8: PAMBIZHANHAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ed8286f-6629-45a4-972e-e5981fc5b4f0",
+    "name": "9: MARIYAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efe41700-0167-44d4-a710-80de2072d9b5",
+    "name": "10: MARAKKATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d136f178-1e63-440f-bc66-abed3a718f5d",
+    "name": "11: THONDIMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e0d676e-1522-4275-8141-2479b5878949",
+    "name": "12: THAZHETHIRUVAMBADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3cfba4e-2e8d-411d-bb70-2b9dc9551258",
+    "name": "13: AMBALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b07fd1a9-0795-43ca-86ee-7a6d4546d6a2",
+    "name": "14: THIRUVAMBADY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a65a1643-a63b-46d5-9e5d-a9ab6b86f659",
+    "name": "15: PALAKKADAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21fb6243-ca3a-4be8-82f7-443a75a0f70d",
+    "name": "16: THAMBALAMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3516b4b-ac78-4f05-aaf5-7322a340a29d",
+    "name": "17: PULLOORAMPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

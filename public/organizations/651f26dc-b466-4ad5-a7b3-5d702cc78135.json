@@ -1,0 +1,37 @@
+[
+  {
+    "id": "10acdba6-761d-49d3-b8ab-3b9764018c0a",
+    "name": "Ambalapuzha North Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0ac0ecc4-5464-44e8-91a8-c8fc9eda3ed5",
+    "name": "Ambalapuzha South Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6b9eb8d9-89f4-4eb8-b04c-2854723f6193",
+    "name": "Punnapra North Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a6d6f842-a8d3-4a95-99c9-0f42f005ea7c",
+    "name": "Punnapra South Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9bb0776a-5473-4748-81e8-e8247f84fe40",
+    "name": "Purakkad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "60a3152a-fd26-4014-94fe-b78ce69cc8f6",
+    "name": "1: KACHINIKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b272295-2994-417d-8f03-1c0499fd2689",
+    "name": "2: KACHINIKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5164bec-ffc9-4a22-882c-33853b4c626c",
+    "name": "3: VELLATTUPRAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa830f43-63a8-4b3c-8e1e-acf489837075",
+    "name": "4: POTHUKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc59d224-5d92-4e67-9d65-cffa0767d43f",
+    "name": "5: VADAKKANGARA VADAKKEKULAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "083159e5-d484-4fe9-a22d-0ed6ec17b921",
+    "name": "6: VADAKKANGARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a346e004-d0c5-4311-9e99-c48a701a03fe",
+    "name": "7: VADAKKANGARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "414d43f5-d955-40e4-bb42-8bbfa2789f3b",
+    "name": "8: THADATHILKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0640963e-a6f6-4f1d-b8f9-eef350511c7a",
+    "name": "9: KALAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31977c2c-dd84-4224-af4b-bd688dfd4ca5",
+    "name": "10: KOTTAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4416faa-9b96-4f72-b606-b4f0f63a9006",
+    "name": "11: MAKKARAPARAMBA TOWN WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3314cfb0-7d60-480f-96cd-dfae322d63f6",
+    "name": "12: MAKKARAPARAMBA TOWN SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85f97f2b-f5cd-46c0-bb39-5e6eeddea24e",
+    "name": "13: MAKKARAPARAMBA TOWN NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

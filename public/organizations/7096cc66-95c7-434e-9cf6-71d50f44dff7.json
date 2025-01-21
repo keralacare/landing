@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8d2de6fd-e626-4b80-81f8-fb1086cce719",
+    "name": "Pathanapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fea9cc73-252a-401f-9f7a-018097d8d928",
+    "name": "Pattazhi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b9928ca6-ca35-4a2d-a592-7e573940ed88",
+    "name": "Pattazhi Vadakkekara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8247c499-600d-4fc5-8feb-b2a16fa44ec7",
+    "name": "Piravanthoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "237b8b15-7a8f-4355-978d-5bb75d9333e9",
+    "name": "Thalavoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ddc0b320-8ba3-4dc6-889d-08f869e35a1b",
+    "name": "Vilakkudy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

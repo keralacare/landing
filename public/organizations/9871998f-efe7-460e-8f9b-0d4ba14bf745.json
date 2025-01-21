@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3b6ea7ab-ab90-4d4b-8d61-aec217c15bbe",
+    "name": "Kadappuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "75fcc3b9-050f-4868-8c1f-3b7fa2f3a269",
+    "name": "Orumanayur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "eba66fb3-560c-426c-a4fd-2aa06d0bc986",
+    "name": "Punnayur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2e4278e2-972f-48bd-b545-cd101ecd9c8d",
+    "name": "Punnayurkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5dfd9aca-0dad-4df6-b1c0-005726f5c030",
+    "name": "Vadakkekkad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

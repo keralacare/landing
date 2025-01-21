@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3239b915-bea4-4703-b6f2-9098ac7a9750",
+    "name": "Adoor Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "e3136774-dd53-4749-939f-a3bb9a3c8e60",
+    "name": "Elanthur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "2ba5286c-6ba9-4523-81de-c693f9cd896f",
+    "name": "Koipuram Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "162da72b-c9e0-4be5-846c-57f60d4ca896",
+    "name": "Konni Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "690e44d4-96c3-400f-998a-d72d5c08084c",
+    "name": "Mallappally Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "1b33dbc1-a556-49bf-9b5b-d431b0ae54c2",
+    "name": "Pandalam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "19ddf6bc-f611-4e88-8a76-1e198ebeeab1",
+    "name": "Pandalam Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "caefc7f0-3e22-424d-935e-ae3632f99278",
+    "name": "Parakkode Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "e1a61242-c022-4200-984c-1eb5c5bdc455",
+    "name": "Pathanamthitta Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "aa251698-585e-45c6-9595-f3fcf950ecbf",
+    "name": "Pulikeezhu Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "5705a243-8eab-449c-8283-60e187ce7681",
+    "name": "Ranni Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "82b47180-8561-4602-ae40-ebde17d74e25",
+    "name": "Thiruvalla Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  }
+]

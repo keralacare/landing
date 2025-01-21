@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e241648e-01db-4119-b3ae-1867be0c2f1a",
+    "name": "1: CHENGAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0991776-fdf4-43a8-aea4-2675b0490886",
+    "name": "2: KANJIRATHINKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efcdd678-9af8-4c64-80b9-3f71783daa55",
+    "name": "3: MADUKKOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79fef3bc-38ea-41cf-a928-17d3921320af",
+    "name": "4: THUNDIYAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d93bc42-02db-4971-976b-a7cf2b791a11",
+    "name": "5: THURUTHICAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e9acb0e-32da-4b5e-86fe-afe2f870a675",
+    "name": "6: KUMBHAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a24ec3a5-ec28-4665-919d-d261bc713681",
+    "name": "7: AMBATTUBHAGOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee543f94-0f14-438a-a5d9-9eaa5205e865",
+    "name": "8: MADATHUMBHAGOM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78a6342e-4cce-46d6-8a0e-974b2f491819",
+    "name": "9: CHERUMATHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0069e93c-eefa-48c5-a83b-71dc7a5cd96b",
+    "name": "10: KALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "974706b7-2341-45e0-be13-bb4b98ceafba",
+    "name": "11: CHACKOM BHAGOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44a44e02-2e81-4c68-8160-d4eddaead232",
+    "name": "12: KADAMANKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5cf63b5-aae2-435c-899b-22e87fee6f6a",
+    "name": "13: SASTHAMGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0c6bd59-32fa-44fd-8161-75be583ded64",
+    "name": "14: PUTHUSSERRY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

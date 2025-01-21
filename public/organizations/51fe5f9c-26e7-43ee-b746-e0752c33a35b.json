@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a58bf620-690f-45b6-83a5-56d4441597b4",
+    "name": "1: PACHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eac9c06d-05c5-46de-9946-a734de82d4f4",
+    "name": "2: MALAKKUTHAZHE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d91f2afb-8848-43a6-ba83-999954a10209",
+    "name": "3: DHARMAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51200e0b-523d-401f-9df3-1f7662b44125",
+    "name": "4: KANNANVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff6ceb06-187d-49d0-afee-60108bc27233",
+    "name": "5: MAMMAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a50a459-dadf-4ab8-8171-cec63f413b64",
+    "name": "6: THEKKEKUNNUMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b04992a-1ee5-4023-b15e-fcdcb8ddc812",
+    "name": "7: SREEKOORMBAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9488c624-c306-4421-8b33-384599fbd778",
+    "name": "8: SREENARAYANAMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b611cbde-72f2-48e7-96de-6a6143980dff",
+    "name": "9: MULLAPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be40cc56-8734-437f-8488-a29ff559c8ac",
+    "name": "10: KUNHIPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "763d004b-975a-47b4-8b02-dc12ec69d3af",
+    "name": "11: DEEPTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "048b9090-c12e-4722-bc52-c6cbc273c700",
+    "name": "12: SURABHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a34f1d48-9ddd-42af-be77-a5351d574373",
+    "name": "13: NEEROZHUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d66f0ad2-dd8a-4fed-85bc-5cb2f8e15002",
+    "name": "14: KETTINAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66451143-1651-495f-a189-a76bed145145",
+    "name": "15: DISPENSARY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

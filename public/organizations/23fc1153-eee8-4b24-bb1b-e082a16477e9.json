@@ -1,0 +1,86 @@
+[
+  {
+    "id": "03054948-87e0-4fb1-ba35-2d111868bd08",
+    "name": "1: MANKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd06b2d6-1b57-48bb-bc8f-de65ebc96e1c",
+    "name": "2: MANJATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ca2763d-3b3d-4d36-b68c-fd8624629007",
+    "name": "3: MALLAPPALLY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "698b6496-0e7b-431c-8f2d-816080a4d174",
+    "name": "4: MUTTATHUMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "587637f6-d23a-4f11-8a90-25d6d2421442",
+    "name": "5: MURANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f25b194-3969-4c4d-ae06-963a75a72a5a",
+    "name": "6: PARACKATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23753543-30a5-40c5-8f7f-0888e6c9f98b",
+    "name": "7: NARAKATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9282c15-e1de-45ab-b0b7-d985c036ac01",
+    "name": "8: KEEZHVAIPUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d02eb3d5-b0bd-488f-a280-dd0be76b2c37",
+    "name": "9: KIZHAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cc8975a-fdb0-4d09-babe-e6ebeb44db66",
+    "name": "10: KEEZHVAIPUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0a268a2-ffde-4bc2-900b-b40d132a44cf",
+    "name": "11: PUNNAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6dba35b-931d-4fe3-94fc-188bab041e8b",
+    "name": "12: PARIYARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a30de80d-02dc-4499-b6f6-e6ccc99e5798",
+    "name": "13: MALLAPPALLY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd4bccda-179d-4ba2-a54d-6959a69f54ee",
+    "name": "14: NELLIMOODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "c94aa78b-94c2-4304-8362-e9a660e61557",
+    "name": "Kannadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6632ebe0-e6b5-41d1-908d-67192dc39c1f",
+    "name": "Kottayi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8bcd88ff-a9c5-4103-813e-0cce84dabdde",
+    "name": "Kuthanur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dccf5c34-51ed-4768-8fd1-479ed0b0dd0c",
+    "name": "Kuzhalmannam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8fdcb55b-d205-4921-8a35-a065930ffaa5",
+    "name": "Mathur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8061fa6e-746d-4fff-8baf-285cfca808c4",
+    "name": "Peringottukurissi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e5e36f2d-ff67-4ef0-97f8-c2e773a2d815",
+    "name": "Thenkurissi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

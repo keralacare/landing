@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3d0a296e-f67a-4020-b8ce-11c830c97b5e",
+    "name": "1: VALIYODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db022050-ce7f-483d-8ca1-06c2c46a9b2e",
+    "name": "2: PARAMKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfd35792-6b20-475d-95de-4ff1723b7026",
+    "name": "3: PULIKKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5236786a-3786-421c-9a4b-af53117d418f",
+    "name": "4: VENGOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea8f83ba-2fe6-4999-949f-2226a3d365e7",
+    "name": "5: THEVANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fec7866-2e1d-49f4-9bea-c190310e7e18",
+    "name": "6: KULANJIYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9f109c6-150a-44ab-900b-ebe6fb2d7cea",
+    "name": "7: ELAMADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "476b313e-42c6-4512-8065-73049a0d9cf7",
+    "name": "8: AMBALAMMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7da97b1e-f5da-4d62-ad30-9a33b78e42dc",
+    "name": "9: THOTTATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43a3e08a-2912-49a1-bcd8-686deccc6a6d",
+    "name": "10: ARKKANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56d265ec-6f2e-4a59-b29d-65e7c72659e6",
+    "name": "11: KANNAMKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a560229-18f8-427f-a4c6-6d872a310ffc",
+    "name": "12: KARALIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9998bf8-5be5-4b7f-ac7e-03ac3c707e19",
+    "name": "13: POOTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "134c5f2b-0f65-41d9-97d6-80d34a425d07",
+    "name": "14: EDATHARAPPANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09c70c99-b1be-45a6-95bb-5ceb26038065",
+    "name": "15: KOTTAKKAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "424e8cbf-c03e-4cb0-ac6b-f34a726c67fc",
+    "name": "16: CHERUVAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2093b5c4-b757-4a5f-9c78-02a0700bec09",
+    "name": "17: NETTAYAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

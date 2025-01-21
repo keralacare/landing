@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4e834d71-e23b-4333-a7b6-c2f2a1b210b4",
+    "name": "1: CHILAVU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6fd159e-90b3-4ede-a0d3-ac7af0f2d712",
+    "name": "2: CHILAVU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ad10754-d03b-43b6-9df6-2e20227c746d",
+    "name": "3: UPPUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "641268aa-d465-414b-acb8-f426e8276b2a",
+    "name": "4: CHAVARNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54d5e35f-7fa6-4327-afb4-1009abab04b8",
+    "name": "5: KURICHIPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ec9ea50-ed6b-4c6f-958c-a3cdc6508059",
+    "name": "6: PALAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5042db9-14a2-44ef-9cbe-e88448dbe644",
+    "name": "7: THALAYANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3a87b19-a030-4037-8699-b7d9deae11db",
+    "name": "8: MANJAPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0813f365-bfee-43cb-a4fe-0596c03fa9f6",
+    "name": "9: IDIVETTIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cba2d57c-34d6-4054-8ae6-0bd19aec6949",
+    "name": "10: ANCHIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a93a461-0d92-4d34-897a-7e068c81e99c",
+    "name": "11: INCHIYANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96c198b1-7682-4620-ae1a-f477b3dcdff5",
+    "name": "12: ALAKODE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba82747c-17ff-4af3-a4de-995a8a5637c1",
+    "name": "13: ALAKODE NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

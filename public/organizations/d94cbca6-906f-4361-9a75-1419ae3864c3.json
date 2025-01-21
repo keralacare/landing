@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8a64bb50-2581-41cd-bafc-532f56ee9163",
+    "name": "Alappad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "499506f8-f5fd-4528-a85a-caf2ec3db335",
+    "name": "Clappana Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "95ba5582-251d-4cfc-9b3d-53b953aed418",
+    "name": "Kulasekharapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "99b58535-3126-4425-89cf-62c4af3da686",
+    "name": "Oachira Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "01fc3954-6560-4685-b8ae-3b0e31081538",
+    "name": "Thazhava Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8514be8a-7b5b-4ac2-8564-0f69006c385b",
+    "name": "Thodiyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

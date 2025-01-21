@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4585547f-f5be-4f45-b846-6b0c44ea2248",
+    "name": "1: OREKKAR COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86adafd0-6b10-4b29-8b84-20eadf1c66df",
+    "name": "2: MYNAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd8c54ac-b7c0-43c7-a681-b9362ea94288",
+    "name": "3: KOMBUKUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b191b35-5af2-4e29-bf9d-9b2d18e1e791",
+    "name": "4: MUNDAKKAYAM BLOCK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dab8bad3-360d-4b83-b479-68d5ed2bdd05",
+    "name": "5: CHANNAPLAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04d53617-8af8-4eb1-a08a-afea25d070e8",
+    "name": "6: KORUTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9925e5cb-0619-4b9f-892d-b28a419ae716",
+    "name": "7: KUZHIMAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d551e78-2cc3-4639-ae9c-bb98e14b3fc5",
+    "name": "8: PALLIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5645df09-0cdb-4777-a61a-706a4ce70035",
+    "name": "9: 504 I.H.D.P COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fba3afb-6fd5-4739-a10b-6d19a5efa912",
+    "name": "10: MOONNOLI I.H.D.P COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fd98bc0-a674-4e11-b8d1-d4db3ea42fc1",
+    "name": "11: KOSADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e5d62d7-2724-42ce-9b06-3fc4285cc38d",
+    "name": "12: MADUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "807b63bf-5be7-45fa-98a9-28ea9dccb95b",
+    "name": "13: PANACKACHIRA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

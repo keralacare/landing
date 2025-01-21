@@ -1,0 +1,134 @@
+[
+  {
+    "id": "8e5a2844-3ab3-4c83-bfe3-dd6334a89886",
+    "name": "1: IYYANKODE WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "720b8a97-2f7a-460f-86bc-e7f6530a6380",
+    "name": "2: IYYANKODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e924a6eb-30ea-42fb-bc69-71b5e6a9b26f",
+    "name": "3: VISHNUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e5d4ad7-c70a-4675-a93b-bb7efdc8ec06",
+    "name": "4: VISHNUMANGALAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9488f557-fbe1-4a7a-82ce-bf6ac2f63dbd",
+    "name": "5: KUTTIPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41472279-8688-4982-a2a4-46bbf981758d",
+    "name": "6: PERUVANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81b17bad-e58a-4f4b-abdc-238ef6f89050",
+    "name": "7: CHEEYYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83bd2d51-9c1b-488f-9067-a82302dc4f81",
+    "name": "8: CHELAKKAD NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c3b2a91-d497-4eba-bac4-8fa4499aa740",
+    "name": "9: CHELAKKAD SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0432f333-252c-4db6-adcd-a1486dd24b31",
+    "name": "10: KALLACHI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23c1d952-5c0e-46ee-bd18-ec24731fd30b",
+    "name": "11: ONPATH KANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14e6d8e5-27df-4ec1-bc0b-959bbf9e7ebf",
+    "name": "12: NARIKKATTERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf637632-0394-4543-b633-e9d00118399e",
+    "name": "13: VARIKKOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be8ea6cf-dab8-4cdb-99e2-45d88abbc0ee",
+    "name": "14: KUMMAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71f7cfd1-d97e-4e2b-83dd-a6e1478c68e8",
+    "name": "15: KAKKAMVELLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03a52825-aade-4406-a60e-a59985685493",
+    "name": "16: KUMMAMKODE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f12017f4-7d28-4e73-9d3f-827ef16fdf24",
+    "name": "17: KUMMAMKODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8617b69f-0e35-41fd-94e9-bf03f1c08545",
+    "name": "18: KALLACHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c1f3238-73bd-40c5-98b8-54643aaea74c",
+    "name": "19: NADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "babbfa33-5573-4f75-a122-b0e2b5f118bf",
+    "name": "20: PULIKKOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16d3719a-fb74-4a5f-8323-31de258f6e40",
+    "name": "21: NADAPURAM TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94265f41-84bd-437c-af57-beb4b677d7b7",
+    "name": "22: KAKKATTIL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

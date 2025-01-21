@@ -1,0 +1,134 @@
+[
+  {
+    "id": "17c534e8-6945-49aa-a662-7325f5ffeb5d",
+    "name": "1: POOVAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9abb531-0a56-4fd6-bdee-190cac6c8df3",
+    "name": "2: THONDIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "821f2713-f7f9-461d-b3b7-10187c3e3d94",
+    "name": "3: MARUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ab43861-bb72-495f-bee7-777c1d4da815",
+    "name": "4: KALLADIPATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8956fed6-3f7a-4b6c-9dec-598163135e65",
+    "name": "5: THAMANIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83b53ff2-4828-47df-b9f5-64d47307498a",
+    "name": "6: POYLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9ac90a9-034f-4c14-89db-bd3c20822766",
+    "name": "7: VADANAMKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93b956e3-b35f-41f1-9aa4-055293276662",
+    "name": "8: KARKIDAKACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf58b562-49ac-45e2-ae1f-d0cc16492966",
+    "name": "9: KUZHIYANAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e165f4ef-4ed1-40e1-a25b-02a7bf991919",
+    "name": "10: MENCHITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f6ac4c1-e5bb-4344-9cfb-66a3ccf948c9",
+    "name": "11: KARAMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e64270fe-0d57-4841-bcd6-2da921d777be",
+    "name": "12: KARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "577e9ffa-82f0-4c84-85ea-7b7d9bdb4d39",
+    "name": "13: PAZHANCHEERIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d9bacbd-7d44-41e0-a607-091ce848d7c5",
+    "name": "14: ONGALLUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05279427-213f-4e47-90d7-72f5a4d32139",
+    "name": "15: MOLOORKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77ca2eb9-e896-424e-ad4b-13f326460695",
+    "name": "16: PARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20a98bb6-3955-47eb-a057-2c875894f326",
+    "name": "17: KOLLIPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cf4321c-ac1a-4fac-9d78-f32e4afb539b",
+    "name": "18: KONDOORKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07213393-f94f-44b3-875d-33febe01f323",
+    "name": "19: MANJALUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16073ad9-367d-490b-8539-72f71828f270",
+    "name": "20: ONGALLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0da76fc8-82b6-4b85-b817-ae5db6017592",
+    "name": "21: PULASSERIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09cd790e-3885-4737-a6ac-7b65e4518acc",
+    "name": "22: ANDALADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

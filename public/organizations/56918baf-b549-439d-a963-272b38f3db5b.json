@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e8328fcb-1058-4842-a3e5-3b0c3e432040",
+    "name": "1: ST. THRESIAS L.P.S WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c18c2a1a-d59f-4e9e-8ceb-3665fff8cba5",
+    "name": "2: LISSUE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb80b580-f091-44d0-8a08-bc02af00b477",
+    "name": "3: PALEDAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbf04ed9-ef5c-42ea-80e3-ee7819a4e900",
+    "name": "4: PALLIYARAKAVU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07466cea-7442-4e4a-89a7-3f6fa041a050",
+    "name": "5: PARAYANADY WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ddebda5-a3eb-460f-89cd-72cfd2b1afb1",
+    "name": "6: KARIYURMANGALAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc93c2e2-ac1d-44f3-83a9-4ef448b64c66",
+    "name": "7: AMBADKAR WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0cc40bb-765a-4a7a-9626-ddc25bf24f87",
+    "name": "8: KAVALAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f95bd90b-53e6-4754-833d-488023f130c3",
+    "name": "9: KOCHU KAVALAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6311c872-e567-4c5e-ad1f-5caa00af810b",
+    "name": "10: NORTH VELIYANADU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "291b12de-518f-4899-9096-17e8cce38714",
+    "name": "11: THATTASERY WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94cc5269-a7c8-4e7c-8cfe-06b6baae767a",
+    "name": "12: C M S WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1964ef93-ad4c-456c-ba74-1d385932afca",
+    "name": "13: MANGALAM WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

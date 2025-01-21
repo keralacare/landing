@@ -1,0 +1,51 @@
+[
+  {
+    "id": "498ebab6-86e0-4528-8150-c3ce9b95cde4",
+    "name": "Chemmaruthy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "be57c0bf-dd37-4c5c-a90d-b636324722ca",
+    "name": "Cherunniyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2f0f25ab-6933-4f98-9065-766e6e047f25",
+    "name": "Edava Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "db57af9a-c1f1-4839-8b08-1e1a24279929",
+    "name": "Elakamon Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4e1d3c6a-a321-4b50-9f1a-3f776826e9a6",
+    "name": "Manamboor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7fc38dd6-0b98-4d1c-b794-59d3b3262676",
+    "name": "Ottoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ac0d6ccc-7c80-446b-a077-97b02655b056",
+    "name": "Vettoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

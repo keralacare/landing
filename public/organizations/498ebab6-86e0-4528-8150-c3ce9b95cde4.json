@@ -1,0 +1,116 @@
+[
+  {
+    "id": "f20b6330-6811-4dfc-b211-8ed1168cf545",
+    "name": "1: VANDIPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e97eff8f-cee7-4f88-a43b-a5b22accce2e",
+    "name": "2: PALAYAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6b62ac5-2441-4f20-ae51-8749fe8c54ac",
+    "name": "3: KOVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3eed50d0-f2ae-4e58-ac59-699948371d5f",
+    "name": "4: SIVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74c92d6e-9115-4f6e-9c53-aef624e86aa5",
+    "name": "5: MUTHANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab147a82-7187-4ffa-8fef-6533d7b576d5",
+    "name": "6: MAVINMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "496c7e50-5c64-4ede-9a99-eee938792ce8",
+    "name": "7: NJEKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48b4a1ab-b80a-4b05-9905-3c9badc53a73",
+    "name": "8: CHEMMARUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ba6bfde-ec85-4f1f-9ee5-e380c2d410ce",
+    "name": "9: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12566e22-4280-45e4-9ca1-c8851efcf5ba",
+    "name": "10: VALIYAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e779ba4-e875-4713-a376-361d511b5dad",
+    "name": "11: THARATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a7453a7-1f24-494f-90ed-ae2f486859b3",
+    "name": "12: THOKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94389577-0cf2-44b8-a368-1d55d45449e8",
+    "name": "13: PRALEYAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91cb1091-26f1-4069-8fa7-c6c10808c71c",
+    "name": "14: PANAYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65a5d34d-909e-4adc-b526-46148f63f433",
+    "name": "15: THACHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "727d74d7-a8c7-480d-8f74-6f2ef4a060c4",
+    "name": "16: SREENIVASAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8819736-d007-4f46-ba83-a208341bda6f",
+    "name": "17: NADAYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85025adb-e61d-4c1a-858f-122170b73a4d",
+    "name": "18: MUTTAPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31a41a25-884f-48a7-a2ba-20a64adc2698",
+    "name": "19: CHAVADIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

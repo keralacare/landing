@@ -1,0 +1,92 @@
+[
+  {
+    "id": "6243fd88-2752-4934-9090-92efd8c37095",
+    "name": "1: MUZHAPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3540e944-500d-46bc-938e-89cd6197ff4c",
+    "name": "2: KANNADIVELICHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc45cf90-6115-43d8-89c2-2c9e3a7119c8",
+    "name": "3: PARAMBUKKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85909ec1-894b-452b-aee8-36b192611523",
+    "name": "4: AALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08bb55fa-062d-4664-8d97-7545062cc700",
+    "name": "5: MURINGERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1d57871-b33c-47d4-89db-dd28e8ffa1c1",
+    "name": "6: KUZHIMBALODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7dd386cf-4178-49bc-871c-85e139601741",
+    "name": "7: EKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79dad01c-323e-409b-81d7-69d204be6463",
+    "name": "8: KAMETH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6d3c367-1362-4d57-96b2-33d7d5dc0d48",
+    "name": "9: PALAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c60cca90-1b9e-49b5-a196-a268aa8b22bf",
+    "name": "10: PALERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3037e86e-e8fe-4c4e-9784-b7da0e4951d3",
+    "name": "11: KAVINMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96f68172-a9f3-46ca-b62b-4e7ec4cbbde7",
+    "name": "12: ODATHILPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4dbac4d7-908a-4a99-9fe8-6a61d1a100a8",
+    "name": "13: UCHULIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2428470d-3916-49d2-92b8-a67dea86ad46",
+    "name": "14: CHAKKARAKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b47feef2-e231-4955-9119-333e4feca3f2",
+    "name": "15: AANENIMETTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

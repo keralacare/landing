@@ -1,0 +1,44 @@
+[
+  {
+    "id": "656d0b2d-d022-4287-aa57-b48b0d7e45cf",
+    "name": "Aralam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "11b3893d-1481-4f98-b5d3-8ccab8ade4d9",
+    "name": "Ayyankunnu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8199ee83-c3cb-4435-a8be-39c4069fb89b",
+    "name": "Keezhallur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ab513cc3-2bea-4089-969a-1b90379797b4",
+    "name": "Koodali Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "63ee9f20-08ee-4c30-afa4-dcd028a46682",
+    "name": "Payam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "22f5c9fe-4f0c-459e-8aad-8b73118ed94e",
+    "name": "Thillankery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

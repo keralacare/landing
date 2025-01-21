@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f15742ad-1af7-4006-a2d4-d023a48bf892",
+    "name": "1: MANKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "678e2171-2609-4296-a18c-fae2bc2c64ea",
+    "name": "2: CHERANALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21cff7e8-ec02-4083-973e-559f1102dc34",
+    "name": "3: CHERANALLOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1ac940e-f05d-4efc-aa30-6dfcbfbc8be6",
+    "name": "4: THOTTUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bba9f20a-ddf3-47b1-b1d6-78c81c912d42",
+    "name": "5: KODANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfd379ee-40f5-4bc6-a27c-f8ac2af55faf",
+    "name": "6: ALATTUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba4470f7-f310-45fb-8980-28f3d4ef6903",
+    "name": "7: CHETTINADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4ba7f86-e26e-4255-90ed-ef82df78c4b0",
+    "name": "8: KURICHILAKOD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c98adaee-c672-426c-8b2a-e7d70dad3823",
+    "name": "9: KURICHILAKOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7627422-7c80-444c-ad6a-d1683e79814d",
+    "name": "10: KOOVAPPADY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7090ccd0-2e74-4bc4-b00b-830873be6564",
+    "name": "11: AIMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdce8a58-6815-43d3-bd76-e175a0c84159",
+    "name": "12: KAVUMPURAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ac0c6ff-5068-43d7-9b64-a52f3f16ff09",
+    "name": "13: AIMURY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa5ffe58-939e-4ee5-a45d-353061665378",
+    "name": "14: TRIVENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79e69836-1677-4b80-be82-eeb21fe3f8df",
+    "name": "15: KAVUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "594af42d-05f0-4db7-a400-718997a644d1",
+    "name": "16: PADIKKALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35dd4fe3-3a62-4483-8486-4c0f8cb9908a",
+    "name": "17: POOPPANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24fb86e4-8f26-4e46-a075-5116cb8617bc",
+    "name": "18: AYATHUPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bef01262-0466-42fd-8f59-42d6f8e29371",
+    "name": "19: MAVELIPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b00c96d4-640c-4fd3-83b2-8fa8b9858644",
+    "name": "20: KOOVAPPADY NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

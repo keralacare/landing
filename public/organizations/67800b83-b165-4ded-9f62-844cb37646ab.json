@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c4feae73-e251-4901-81aa-bd4f8f6789c2",
+    "name": "Alayamon Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3c5a6c3b-b341-4add-93aa-1d20ba9a4eb0",
+    "name": "Anchal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "06419081-a7aa-42ed-ba09-19b12d109418",
+    "name": "Aryankavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "68ee175e-91e6-4c96-a4e4-12aff851c638",
+    "name": "Edamulackal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cd1f3302-5af0-49ea-ab32-6464af806112",
+    "name": "Karavaloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3da0573b-b278-4e0e-9a0e-c2230f9e6d8b",
+    "name": "Kulathupuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "eac40cb6-9717-4930-a8bb-635097400cfd",
+    "name": "Thenmala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "be19792d-7a97-44ad-8847-cbfb31c33e59",
+    "name": "Yeroor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

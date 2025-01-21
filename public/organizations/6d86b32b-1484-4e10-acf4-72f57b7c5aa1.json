@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4ec41b65-207c-4e92-b414-1fd70a7a0910",
+    "name": "1: MANALAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e841710-99d6-4eda-a9f7-acce09ac2c30",
+    "name": "2: NETHAJIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "751df142-aeb8-4728-99e7-c1ea9cf1752c",
+    "name": "3: THACHAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0f6dea6-af6d-4fa6-b706-b4a2a75677df",
+    "name": "4: VAVARA AMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81725243-9c4d-4a42-bab8-95319b0e1384",
+    "name": "5: PULIVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e44aaff-dda6-47a2-8cd4-b5aa74fcfb12",
+    "name": "6: POTHENCODE TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f257da6e-77c3-4e91-b89b-ca2065c3e775",
+    "name": "7: PLAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9af282f1-fd7b-4aa0-86dc-b89083d3973e",
+    "name": "8: AYIROOPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c26e085-8e2c-4a6a-8c5d-4266134e38ad",
+    "name": "9: MELEVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ace75044-6775-4d55-a0b7-591b2752542a",
+    "name": "10: KATTAYIKKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1e1d8fe-70bd-410b-befa-2662756c3f17",
+    "name": "11: EDATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60273667-b4a5-4598-90ee-e7ac44569279",
+    "name": "12: KAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf72a80c-3348-4694-8e18-908e47669fef",
+    "name": "13: PANIMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3154db0-b714-43d4-88fc-96995d136f88",
+    "name": "14: MANNARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0c2dcc8-b175-4ca0-88e0-5dfc3cd362a9",
+    "name": "15: MANJAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e7958fe-f44e-4e9a-be67-2fde6d60b8e7",
+    "name": "16: KALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f73dcb22-b4e0-4859-a1a4-afb514beb7b7",
+    "name": "17: KALLUVETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "727470cd-e686-4119-8413-f537ce4fbabe",
+    "name": "18: VENGODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "bed01e5d-d090-47ff-9f84-4588c99b677a",
+    "name": "1: FISHLANDING CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc329be0-5339-4202-b6f0-5fc4852d8fbe",
+    "name": "2: THAICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33d46425-2711-44ca-a087-5382a1cf411e",
+    "name": "3: AAYIRAMTHAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c3d2a78-3a33-4d77-bbf8-73eec2500c17",
+    "name": "4: ARAVUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2bba205-d6c6-4370-9c33-b883c2ac7915",
+    "name": "5: PARUTHYAMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4aebeee-acd0-4a20-8a06-160e649db2c9",
+    "name": "6: AMBEDKAR WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b48adac-af94-425d-9b71-db69c9acb379",
+    "name": "7: MADACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2eb8d61-2939-45dd-a96d-341aded8c2b3",
+    "name": "8: MATTAVANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75aa8e9c-7e75-4445-8aa2-2882d27307cb",
+    "name": "9: THRIPPURAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95b033e3-11b8-4755-a157-6aa48bf82bcc",
+    "name": "10: AREEPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51d2d81d-6afa-44c8-a014-83eca6e8301b",
+    "name": "11: PANCHAYATH OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9228b41-2b80-4d94-923e-5c1daee850a3",
+    "name": "12: MAYITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "253e7108-35bb-4995-90ed-df006338d5ec",
+    "name": "13: THIRUVIZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28948abe-3537-4cce-9b1c-37c8f213b06e",
+    "name": "14: PULLAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d961c35-b2da-4989-9c6a-697492950a06",
+    "name": "15: CHAKKANATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66f1b4a8-5804-4dbe-98ff-149444eaca6c",
+    "name": "16: CHENNAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf032815-b88b-48f1-a3f6-0f3a4d7e6ed2",
+    "name": "17: REETHAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c5627da-ded4-4d14-95cd-294a937eb551",
+    "name": "18: KALARICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bad8975-bbf4-405f-8005-e61bc6a4442f",
+    "name": "19: ARTHUNKAL BEACH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d657225-caac-4b34-9a8c-a9eebf0dc322",
+    "name": "20: ARTHUNKAL CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63561b2d-c374-4c6c-b67a-73d5dd197a85",
+    "name": "21: CHAMBAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26192c76-c70e-4ccf-8b64-66fdf6f6397a",
+    "name": "22: ARTHUNKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

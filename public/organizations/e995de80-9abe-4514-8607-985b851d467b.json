@@ -1,0 +1,80 @@
+[
+  {
+    "id": "71a88f5b-3c22-499d-937e-b1a6795d3d0d",
+    "name": "1: THOTTAMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db00bc94-9033-4f77-a71d-e08f3b340c90",
+    "name": "2: MUNDAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3af68d9e-01aa-4da1-8c69-e593365ec65d",
+    "name": "3: VAIKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b9b8e1c-5df8-46b8-aec4-3aff99d9136a",
+    "name": "4: MANDIRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cb9536d-2e15-4980-8e66-3b7b4a6262b6",
+    "name": "5: PALACHUVADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d08d04c7-deaa-4e9c-9c72-6ca711aaee3f",
+    "name": "6: PUTHUSSERIMALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f86cdf0f-8078-4724-9be5-63c69deff22b",
+    "name": "7: PUTHUSSERIMALA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b88d64fd-2d93-45b2-9aef-d6b88c97a587",
+    "name": "8: KARIMKUTTICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c6d4adb-1044-4f4f-90ea-8a449947e12c",
+    "name": "9: INCHOLIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7af69e2-cd4c-4f4d-a495-7cc2b20b5218",
+    "name": "10: UTHIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ec110e3-1248-49af-8fba-26c4e7b2ade4",
+    "name": "11: VALIYA KALUNKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e03cc1e-cfcf-45d2-84d1-5fecdcac3d56",
+    "name": "12: THEKKEPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ab76ba6-3ffc-42c8-bac4-aead00ccba41",
+    "name": "13: BLOCKPADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

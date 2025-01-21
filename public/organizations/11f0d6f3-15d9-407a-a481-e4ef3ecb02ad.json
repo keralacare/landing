@@ -1,0 +1,80 @@
+[
+  {
+    "id": "781cab9e-2fe0-4282-8a29-7ab044057bf5",
+    "name": "1: PARAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65fb5a63-3169-4a26-bd0a-fcf096e0b6a0",
+    "name": "2: KIZHAPARAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bdee59eb-3157-41f0-af25-74d857b1a718",
+    "name": "3: EDAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dbed30e9-b474-4d1b-a38d-a8aee025c9ff",
+    "name": "4: POOVATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4635c1a0-6232-4441-b9ad-c108ded1674b",
+    "name": "5: CHATHAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e0bde27-ede0-45ae-bd05-7560554c4139",
+    "name": "6: VILAKKUMADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab0f52b8-e7be-47e8-b566-23ea2e42a712",
+    "name": "7: PAIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0b0d461-9ec7-40a9-b53a-0b6372f0da19",
+    "name": "8: POOVARANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5022d94-ca95-472e-a941-c83b41bf66c3",
+    "name": "9: MUKALEL PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc63e37e-177a-4536-802c-f6b15fe26e0f",
+    "name": "10: KOCHUKOTTARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ce0829c-0440-4f8e-893d-f372701c8d3f",
+    "name": "11: PALAAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a687e73-b512-4647-9996-b09919ecdd66",
+    "name": "12: VILAKKUMMARUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbfea143-8087-4e9b-8c50-2096304508d4",
+    "name": "13: MEENACHIL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

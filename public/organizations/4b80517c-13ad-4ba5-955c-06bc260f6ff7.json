@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5f5b728c-8a31-4a68-bac1-348182c1b36a",
+    "name": "Kadampazhipuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e0f773b3-e67c-4a43-a331-f1ff87b50c2d",
+    "name": "Karakurussi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3fe65e2c-6076-47fb-9878-894ccddd392e",
+    "name": "Karimpuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3ef6d5c7-9c15-4d28-addd-3607a7c4e61e",
+    "name": "Pookkottukavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e9393fa9-4cfd-4653-ad59-4b5ededfdb67",
+    "name": "Sreekrishnapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9dc94549-afea-4531-94fb-9080ff23f023",
+    "name": "Vellinezhi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

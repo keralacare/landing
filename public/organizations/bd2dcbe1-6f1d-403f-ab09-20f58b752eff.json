@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1c521e63-f5d9-4f8b-9b0f-3d4de9235990",
+    "name": "1: SANTHIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf2f26cf-a8b9-471c-9676-a55b41035167",
+    "name": "2: MARANGOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4a7c1e7-b85d-4ccc-94cc-929d2ea4b5bd",
+    "name": "3: VISWABHARATHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42801e35-10a0-4862-b404-dcd55877c04e",
+    "name": "4: BHAJANAMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3db97987-c7c5-4f31-b754-fb729f0d4904",
+    "name": "5: VADAKKENIRAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f928fccd-6451-4577-ba83-4c96eadb0671",
+    "name": "6: VAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0eaf8e47-1a8a-49bc-8350-e8a54aa8b5da",
+    "name": "7: MUKKAVALAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4c15b3b-61bc-42fe-9561-31da182afe7c",
+    "name": "8: KATTAMPACK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e103656c-e0c8-4a44-ab70-5483e42285ff",
+    "name": "9: CHAYAMMAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "019c5f71-bc74-4325-956f-f3001c2e65e9",
+    "name": "10: THOTTAKKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e1d18a5-c686-4c15-982a-f8dfda7ba7de",
+    "name": "11: THIRUVAMBADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b8dc410-81f0-4ec1-b899-cf07ba575832",
+    "name": "12: MADATHIPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ad076e1-16fb-4f9e-9e5e-42d9dc91ce9c",
+    "name": "13: NJEEZHOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8040b8e3-6ca1-45f4-89c6-ae852b9438b6",
+    "name": "14: NJEEZHOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  }
+]

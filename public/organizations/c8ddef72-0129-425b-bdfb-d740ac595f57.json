@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f49652d5-df56-4320-85c8-7a320b8b2b01",
+    "name": "1: MUNDAKKOTTUKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b12a809-b0ee-459d-b0ec-eef90b007b7e",
+    "name": "2: MUNDAKKOTTUKURUSSI VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "484effcf-1c0a-4a23-9211-fe33dec6df35",
+    "name": "3: PULINTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c044129-c24f-4a9d-b8ff-413d5bf55055",
+    "name": "4: CHALAVARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26e569bf-92d5-4b4b-b072-536c3aca0b6b",
+    "name": "5: CHALAVARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb5b3b96-e188-4905-b1a2-0032a7b62892",
+    "name": "6: PULIYANAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bcd9b1e-6dc0-4c5b-b143-3559f5b7f164",
+    "name": "7: CHALAVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb8c90f1-3311-4d0e-b733-292ec0b44cf0",
+    "name": "8: THEKKARAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a864f63-31d2-4307-91f4-fc1fa5870667",
+    "name": "9: OLD VILLAGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a68ca63-4275-44a4-9af0-6b3c3162cdc7",
+    "name": "10: KAYILIYAD MELMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe37417a-66c6-43ce-9948-1529268df328",
+    "name": "11: VEMBALATHUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6050494f-5ba5-41b2-b42f-1b893d411dcd",
+    "name": "12: VELLACHEERIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "429fa235-dac9-4bbf-8985-4b71a78f8638",
+    "name": "13: KAYILIYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29b7a16f-b0c8-4752-bef4-0e0208534c8b",
+    "name": "14: THRIKKARAMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a158843e-18f4-437c-aa9a-123a9d0871c5",
+    "name": "15: MUNDAKKOTTUKURUSSI  CITY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

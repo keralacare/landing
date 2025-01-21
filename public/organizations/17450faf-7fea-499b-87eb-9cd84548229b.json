@@ -1,0 +1,44 @@
+[
+  {
+    "id": "04273c21-502b-4191-99bb-303fa805e6c4",
+    "name": "Asamannoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c897476b-1fda-424a-8c6b-5272ced5201b",
+    "name": "Koovappady Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "790265ef-a092-4c0f-a8dc-52a6e9c50923",
+    "name": "Mudakuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2d4f32ba-7f51-43f9-9a2d-c831b87f9035",
+    "name": "Okkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "02b676ea-1dce-4515-b4bc-5c75ebea778e",
+    "name": "Rayamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "57e75693-1b5b-46d6-9084-268ac10154ca",
+    "name": "Vengoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

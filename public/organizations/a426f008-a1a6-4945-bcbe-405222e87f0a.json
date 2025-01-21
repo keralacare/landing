@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4eaac206-2747-4fc2-9846-2a8f6b92ef96",
+    "name": "1: VADAYAR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18ba5c19-0291-41f7-a08e-719c72613ad0",
+    "name": "2: MIDAYIKUNNAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1af06139-72a9-4c97-a2f6-1dc397ed790f",
+    "name": "3: VETTIKKATTUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6355b8a8-e9ea-43a1-a62a-6af992e78176",
+    "name": "4: UMMAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f492020-033c-4a88-ba06-082103ae255c",
+    "name": "5: D.B. COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b79f49f9-dbf1-499c-a69a-b1182b9981ef",
+    "name": "6: POTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4d5c4b4-3886-4393-b2e8-133312ede422",
+    "name": "7: THRIKKARAYIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e4e9377-4f66-4249-bf11-892a6f8b5022",
+    "name": "8: THALAYOLAPARAMBU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14a8aaec-b1f2-4f57-b0c9-6ab8ecdb3a96",
+    "name": "9: ILLITHONDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "983ec53d-488e-437f-90be-4843c829f755",
+    "name": "10: THALAYOLAPARAMBU TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78dec85e-bade-46ff-accc-55a4ef57d18e",
+    "name": "11: MATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "911624ab-2c05-4e58-b7de-7eb149a826a8",
+    "name": "12: KORIKKALPAZHAMPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f88d343-3639-4106-a98d-99689528ff33",
+    "name": "13: THEVALAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ceaa4ef9-af5b-44d2-9eef-59c24f9464cc",
+    "name": "14: CHAKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1302ece-92e4-46c4-b68b-bc9ad04c3a10",
+    "name": "15: VADAYAR ILLAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

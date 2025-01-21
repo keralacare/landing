@@ -1,0 +1,58 @@
+[
+  {
+    "id": "f0b26e0d-bca1-444c-801a-a12497ad9305",
+    "name": "Choondal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "67c9bb2e-ebca-4178-8861-c812ee00b6cb",
+    "name": "Chowannur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b6410909-a0d4-4556-b5c8-591a1056c30e",
+    "name": "Kadangode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1c4d2572-efbd-466e-8b8d-43154796eb96",
+    "name": "Kadavallur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "60e77b6a-ecf0-46c4-b9dd-d4fb49aca3c1",
+    "name": "Kandanassery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7dd9985c-8eb2-4ce9-9cdf-2a6ce0a57bdb",
+    "name": "Kattakampal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a28364dd-41d7-4571-9c58-8b8a84d58a2f",
+    "name": "Porkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d48f50f9-1f6f-4894-928e-65058dc80e84",
+    "name": "Velur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

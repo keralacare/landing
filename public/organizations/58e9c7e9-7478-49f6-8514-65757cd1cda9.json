@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2ca17bea-ec3c-4488-9d0d-fcb6665591e4",
+    "name": "1: VALLYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d5808b3-c894-4785-a4ee-4293b6eb283c",
+    "name": "2: VALLYAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3daa6f0e-8e7a-49dc-a2d2-1eb04636bb1c",
+    "name": "3: PAINGOTTAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4262736-11dc-4c2a-8bd9-2ac69a75c7c3",
+    "name": "4: KANNAMBATH KARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d776c65-e827-4ab2-a364-24b6f930a49d",
+    "name": "5: THIRUVALLUR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "250f1b83-6aa6-4d47-a408-fa6cff76d7a2",
+    "name": "6: THIRUVALLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6132764b-4725-4438-a245-80c07659f8dd",
+    "name": "7: THANDOTTI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc9218c9-a116-46e1-952e-78759b6b8a63",
+    "name": "8: KANJIRATTU THARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "630ac73a-bfca-4d54-9bb3-54ec6fe05851",
+    "name": "9: NIDUMBRAMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9ef6397-b84f-4876-bb8f-7bf9ee0e8427",
+    "name": "10: CHANIYAMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "480eb9fd-a1a2-48c1-b1e7-af095021c358",
+    "name": "11: VELLUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aacf2901-febc-4770-af66-43f751524798",
+    "name": "12: THIRUVALLUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93bc3551-69f1-4f00-a1bc-54c91914046d",
+    "name": "13: KANNINADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "023c6636-cc34-4988-87d0-64e0699858ec",
+    "name": "14: THODANNUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c100aa77-703f-413a-a0ee-690e8e44093e",
+    "name": "15: THODANNUR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12cc8d36-826c-421b-abd5-5f9ee42fa05f",
+    "name": "16: ARYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a02f3f02-64e6-46c0-aea9-21e786d96cf1",
+    "name": "17: CHEMMARATHUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99ad8978-cef3-4c6b-95d4-309beca351d9",
+    "name": "18: CHEMMARATHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7e834f6-3aad-4f19-b025-61013c4c9d45",
+    "name": "19: CHEMMARATHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c106f1fd-2be4-4a0a-8e08-02bc10163bd2",
+    "name": "20: KOTTAPPALLI NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

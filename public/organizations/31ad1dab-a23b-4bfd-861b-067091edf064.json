@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7f7ec455-0d98-4cb4-bfb4-89385458c287",
+    "name": "1: KUTTICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e92dfc9-a332-4617-9ae4-9f2ea49c4292",
+    "name": "2: PACHAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9be947b4-0635-4eb1-9f71-551b11b95a23",
+    "name": "3: ARUKIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "948a443f-649d-4fa6-8977-8e05f946f558",
+    "name": "4: UTHARAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a722780a-5911-4efb-92ef-11f0ab2e66fc",
+    "name": "5: KODUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00abc088-c951-4e07-a1ad-b1867e482c0c",
+    "name": "6: ELIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1634d521-6605-42d1-8164-4b431897716b",
+    "name": "7: CHONAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ed67a5f-b05e-4fd3-9f7e-55cb51eb212b",
+    "name": "8: KOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4179a8eb-73bd-4018-9457-2308946f8e8f",
+    "name": "9: KALLIYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea71761b-c8cf-4543-957b-93d280c617e0",
+    "name": "10: MANTHIKKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e8594f4-0519-4582-88c6-5ff8402bc662",
+    "name": "11: THACHANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fcef391-b244-4ad4-be81-39b481be87d4",
+    "name": "12: PARUTHIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5949bda-deac-4c09-b8a6-9821981d2fcb",
+    "name": "13: KAITHACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79828e33-c53b-469f-a714-f7d7d0cb27c8",
+    "name": "14: PEZHUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ae2afa44-93a8-42fb-be53-f819497ce54f",
+    "name": "1: THAZHATHUVADAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c1c4364-1101-41e3-b087-b8580db00583",
+    "name": "2: GOVINDAMADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b691943b-feb9-4b4c-ad08-72d798a99466",
+    "name": "3: CHELIKKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0594212-29e2-4677-801f-b21f32503420",
+    "name": "4: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b876445-a57b-4baf-9d80-19e9074d8cae",
+    "name": "5: MANAYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63106c95-e866-4f29-bee8-31d8be2a6975",
+    "name": "6: MALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebd6a489-5e46-4b5b-881d-1985ff24d29f",
+    "name": "7: KARIMPALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88d75119-0f08-4821-918c-259aa6afb44c",
+    "name": "8: VATTAKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e3f0202-8c1a-4172-a4ec-88dfd2920663",
+    "name": "9: MEENAMVADAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d0b8785-931f-4d35-8c4b-e9e597a023cb",
+    "name": "10: KADUVATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af9e5916-7c1f-4257-af73-ef0b007e346f",
+    "name": "11: ERATHUVADAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86cef7fc-1b0d-48a7-aed2-e6aabd2d7b32",
+    "name": "12: THENGAMANMADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aba3e49c-7383-44f8-9126-9837e7717b5f",
+    "name": "13: METHUKUMMEL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

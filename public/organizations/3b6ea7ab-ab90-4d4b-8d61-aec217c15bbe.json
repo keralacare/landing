@@ -1,0 +1,98 @@
+[
+  {
+    "id": "36e354d8-5f34-4607-81cd-4b57f331d21d",
+    "name": "1: THEERADESAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58959d25-e25a-4dd4-83e7-50a7f3ac04b6",
+    "name": "2: ERATTAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6475975-24aa-468b-89c9-3ad354b61747",
+    "name": "3: BLANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f99333e0-881b-43c1-9310-fe256e456d23",
+    "name": "4: POONTHIRUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ba9d227-1fcc-4943-9463-b4b6bcf01b6c",
+    "name": "5: MATTUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c2341cb-a96d-4fc2-b5fe-b9711aa64f8f",
+    "name": "6: VATTEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b3a1e50-79ff-4ee5-9b04-6fbfed5678cf",
+    "name": "7: ADITHIRUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20f06e56-e7e8-4706-b5d5-d768366bdb8d",
+    "name": "8: KARUKAMAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "737904a6-1916-42f6-b689-e13034ba7bdc",
+    "name": "9: AZHIMUGHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b124ed8-a4ca-4248-9244-9c462127b245",
+    "name": "10: PUTHIYANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "043a7022-91fa-49f6-89e9-38f114b011fd",
+    "name": "11: ANJANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dacc917d-1ee2-47ce-aefa-eba8a9c343e1",
+    "name": "12: KACHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "129c9ee3-1e3e-4a74-93f0-4e8efb5eb068",
+    "name": "13: ASHUPATHRIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b5dc4bf-8812-4333-a0c7-06d957debf8f",
+    "name": "14: THOTTAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbc6365a-4299-4ba5-ade6-70d30c1465f0",
+    "name": "15: FOCUS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efc66d57-484a-4020-ae24-3e343a65fa22",
+    "name": "16: LIGHT HOUSE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

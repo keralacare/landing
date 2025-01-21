@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0841b61e-7fe5-4003-b698-5c5bb4dfe282",
+    "name": "1: IKKARAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "523458ac-9fdc-4239-a579-123d44a3a2c0",
+    "name": "2: KOLOTHUMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f051c40-2f25-4bdf-8948-a378af41c2e7",
+    "name": "3: NADAVARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "938693db-5bea-4888-ab42-d12cdcb3d452",
+    "name": "4: KALLAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b712b72f-562c-4524-ba45-df07774ba934",
+    "name": "5: AVITTATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a750c31f-9076-472f-8a49-52ecea1cfe21",
+    "name": "6: AVITTATHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d6942fc-97d3-45e2-bf61-a5971c24186e",
+    "name": "7: AVITTATHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa35b8f0-1b26-4946-86c9-41c19bb41d99",
+    "name": "8: THOMMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec0e3408-e628-4b9a-b8e2-3293f3cc9a63",
+    "name": "9: KADUPPASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "024693a6-ccf8-4951-b98a-eb680bd138fe",
+    "name": "10: AYYAPPANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c44784f-e484-4b96-b658-9215a5fb8374",
+    "name": "11: THUMBOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d470285-6034-4aef-99da-31e0bb4e810b",
+    "name": "12: THUMBOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91d60808-2901-47cc-8505-073fcc99a7cd",
+    "name": "13: PATTEPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3513ead9-dfb0-42e9-9beb-72f2cf849aea",
+    "name": "14: POOMTHOPE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ea51dc6-0ca3-40d2-b1f1-1455ef8d9c28",
+    "name": "15: SIVAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "399f1126-b43d-4d39-a97e-b67e59e0531d",
+    "name": "16: KOTTANELOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66e2eb07-2cd2-460d-8e62-766212a1961f",
+    "name": "17: MUKUNDAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2f9f2a4-51b2-474f-9b78-75d607c59ab2",
+    "name": "18: VAIKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

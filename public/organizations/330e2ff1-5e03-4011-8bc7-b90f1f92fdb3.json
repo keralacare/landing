@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f3b0f07a-1bf9-4bec-bd2c-6cd3f3737d56",
+    "name": "1: ALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fcc23dfa-cb71-4466-852f-4e0b1ca0a555",
+    "name": "2: UMMATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6357692-aac1-4414-97d3-b4bf4c1f42c4",
+    "name": "3: POOMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7f84f7d-bb50-4e34-8e84-3236802c22b1",
+    "name": "4: MALAMODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fff277b8-4c78-4afe-87b5-0795edff8526",
+    "name": "5: KINARUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0caf539-f011-4ec8-a7bf-90540206e2f4",
+    "name": "6: VALAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d7862cb-9beb-43fd-b4c7-d2352bfbd3be",
+    "name": "7: THEVARACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25c71397-28c7-4aae-83be-7a10caff6ecd",
+    "name": "8: KODUKULANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a5120d2-0c81-439d-9a12-9396824f023a",
+    "name": "9: CHAMMATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e0b8a92-95a8-47cf-9463-6f2b2a3d0fde",
+    "name": "10: PENNUKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0470eecc-cb47-49a8-a3f5-cfb0d7e71c71",
+    "name": "11: PULLAMTHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6104e233-2832-4b89-9b94-41eee3b3af45",
+    "name": "12: UTHARAPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "165d360a-dfad-495f-9c61-92c1bab7a1d7",
+    "name": "13: NEDUVARAMCODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

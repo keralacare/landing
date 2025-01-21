@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c50a93f1-32cb-45da-9c6a-a843f18bbcb5",
+    "name": "1: KAIPATTIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a761d80-53b2-49f4-91d9-a826da94e72a",
+    "name": "2: KALLINMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5969a5ef-5595-4b51-8dce-f9abd83695dc",
+    "name": "3: NELLIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ef81167-47f3-413f-93c8-f49a5c819f6c",
+    "name": "4: VASUDEVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d00964a-3a8f-4ced-bf15-537fbd6c94c8",
+    "name": "5: AYILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e131578e-5522-4f06-80e5-304e0beada65",
+    "name": "6: PALLIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "309c998b-fb77-44c4-8eed-fd1f9d6162f4",
+    "name": "7: VALAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b2b9c13-acf4-464e-b470-01a9e12f741c",
+    "name": "8: PIRAPPANKOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81a823f8-f738-4ffb-81a5-3dd6a5203b6d",
+    "name": "9: PARAYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96f4533b-8115-4ab3-b252-54f70e7eb731",
+    "name": "10: POIKAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36cf8764-ba8c-485d-b5e5-5b7261f279d5",
+    "name": "11: MUDAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "309056e0-52fb-493b-8b47-5c840c44ae73",
+    "name": "12: CHEMPOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5582ec53-29b5-466f-b654-1e7b109d401f",
+    "name": "13: KATTIYADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21b6d75d-b265-4153-a65c-d56129b1969b",
+    "name": "14: KURIKKAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5f6ce0f-d491-4b13-b72e-b2cb9576651c",
+    "name": "15: KAIPPALLIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "988015e5-66b9-4de3-a4a6-749f1bfacd5d",
+    "name": "16: OORUPOIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4502d2b8-09f9-425c-99f2-2426bc057dd9",
+    "name": "17: EDAKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "593ccbc1-b751-4f4f-a8f8-f28242e55c3d",
+    "name": "18: KORANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ac690bc-069f-4258-b6d2-95564a5caaa7",
+    "name": "19: KATTAIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc21fa6e-f54c-4979-93af-158e90af193d",
+    "name": "20: PARUTHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

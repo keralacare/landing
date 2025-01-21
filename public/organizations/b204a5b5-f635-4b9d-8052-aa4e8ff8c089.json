@@ -1,0 +1,51 @@
+[
+  {
+    "id": "64c730b2-924b-446b-b7b8-777d5a8e8788",
+    "name": "Anjarakandy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c9453493-b1ba-4a58-a277-23b32f2fdbff",
+    "name": "Dharmadam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "92218422-2dce-4e54-9787-4429f29e88b4",
+    "name": "Eranholi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "51fe5f9c-26e7-43ee-b746-e0752c33a35b",
+    "name": "Muzhappilangad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c3e4fa08-ee9b-41cd-900a-479ebb7e8bc9",
+    "name": "New Mahe Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9fabf512-8309-497a-837a-1384c9e69211",
+    "name": "Pinarayi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8b4d86d7-93d4-4d82-8c6c-3a58f00eabbc",
+    "name": "Vengad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

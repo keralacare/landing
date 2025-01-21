@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f58942ce-bc0b-45c3-b382-34418f07b859",
+    "name": "1: PALLIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eacea19d-cb1c-4329-9628-481f4e1d7c53",
+    "name": "2: VETTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71f641d2-f211-4c55-827c-5ae846882bc9",
+    "name": "3: VAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5ff892b-648d-44c2-8d92-143f2751cbaa",
+    "name": "4: KUNITHALAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18de42bc-a38e-4847-95ed-c282635e7258",
+    "name": "5: ELANGAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "160413fa-9e72-44f8-8bfd-d2c4daaaba08",
+    "name": "6: PARAPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0630ca66-b69a-4e2c-ac3c-624d6269d104",
+    "name": "7: MUNDAKKAL- EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cc77889-27ae-4f2c-bf20-6570e1d88e20",
+    "name": "8: CHERIYAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d11ee17-cf96-4ea8-9f76-5b52959717a7",
+    "name": "9: CHEACODE-EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bcf7c19-305c-4404-895d-4b12af55330d",
+    "name": "10: CHEACODE-WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dde0222b-df6a-4f61-9e40-a6a766bde5d5",
+    "name": "11: MUNDAKKAL- WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8f51cea-c8de-4dbb-8875-b0f2bce9b17d",
+    "name": "12: OMANOOR-EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55e75eb3-3817-4194-a793-2ace5b391088",
+    "name": "13: PALLIPURAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96bcf7b2-e15c-4d20-8872-b5b712774f96",
+    "name": "14: OMANOOR-WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3553c370-33e9-484f-af0b-da4378d4eae6",
+    "name": "15: KACHERITHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e18fa19-bc40-4d1d-a3fd-c0049afe8d79",
+    "name": "16: PONNAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27b63615-e0c4-405b-8047-3c9d51ef243e",
+    "name": "17: ADOORAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45c26902-f0a6-4576-99fa-f9d412b6c99d",
+    "name": "18: KOLAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

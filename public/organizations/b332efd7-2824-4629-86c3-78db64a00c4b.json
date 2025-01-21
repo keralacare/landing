@@ -1,0 +1,140 @@
+[
+  {
+    "id": "66bd4b3c-bbcf-47d4-ae9a-073f86eeead4",
+    "name": "1: CHENGANDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22288752-e34d-4831-8c5e-971335a5886d",
+    "name": "2: SB PURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c46bd8d-f678-4e96-ad80-259b760f1243",
+    "name": "3: VELLIYAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65faaa70-2714-483c-b6e5-9af77afbc90a",
+    "name": "4: KATTACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ec76424-a064-4603-a8a3-ef6f70987633",
+    "name": "5: SASTHANKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "13fdf0d2-b80c-4efd-aae0-db2bc919181a",
+    "name": "6: THANNEERMUKKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bc616ef-e5c8-451a-8fb1-1277c1ba6dd9",
+    "name": "7: DEVASAMKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "889ead56-429f-43c8-8a48-15689a8d9bfe",
+    "name": "8: VELIAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c37dc598-6f93-4793-a4f3-a7ed0868d51e",
+    "name": "9: ELANJAMKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29e9e902-89aa-43cf-bf00-b8eebc5cc4cd",
+    "name": "10: KANNANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c2371c9-087d-48d3-8d55-af316dab69ac",
+    "name": "11: PUTHANANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "261455ca-8c0d-45da-a586-a3a3701a186e",
+    "name": "12: VARANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c7da1de-587f-45a5-8710-fe8324183ae9",
+    "name": "13: KARIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "186f68ba-c2cf-4b7a-8ac9-09da36fdfd61",
+    "name": "14: NJETTAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e8032d9-4794-4854-bec5-43969c704a5e",
+    "name": "15: MUTTATHIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26690649-9e3f-4f2e-b352-6feda11fbe02",
+    "name": "16: SREEKANDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "149a8a55-6339-439d-9116-b883d83a2ce9",
+    "name": "17: MEKRAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddec9e42-db7e-43e9-9b7b-94afdd7526fb",
+    "name": "18: TAGORE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efbd4039-8804-460e-81a7-62b09a55d0a5",
+    "name": "19: MARUTHORVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6655a4c4-f628-4377-9132-988ae6d80c08",
+    "name": "20: MANAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9018527-8af6-4f79-bbcf-e1cf20b9627b",
+    "name": "21: ENGINEERING COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95cc471e-ec05-43d0-b389-a1fb5b02d8c4",
+    "name": "22: LISSUE NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5994c6c-0222-4e5d-bdab-48cdd088dc86",
+    "name": "23: VERANADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

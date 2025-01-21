@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3c64af7f-7b02-4354-8e26-2fc19ed48ba1",
+    "name": "1: PALLITHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b891dfc-7bf7-45b5-8bd4-ef5de92d8973",
+    "name": "2: ALUNKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6fa83e9-2d15-40d1-9c00-3943d3077cad",
+    "name": "3: KALARIKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2fe6209-aead-4a85-b42f-a883bfa2ae54",
+    "name": "4: THURAVOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62533c3f-4395-448a-b99b-85dd914c954a",
+    "name": "5: S.C.S.H.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40f26e53-a8e2-4044-9747-1fcf0a546594",
+    "name": "6: ALUMVARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "359aea54-6773-45ce-a9a1-dff0538d02a5",
+    "name": "7: VALAMANGALAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e25211b-4958-490e-982d-947b4e4ad395",
+    "name": "8: KADATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d5cacc5-36cb-4dc2-a576-5379676247b6",
+    "name": "9: S.H.CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "294899f3-50e7-43d7-9765-a12f104be5d0",
+    "name": "10: VALAMANGALAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d61694b-a17a-4c4a-b789-fe8d2af721cc",
+    "name": "11: PAZHAMPALLIKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "247de005-1ad6-4621-aa42-4c7c83542848",
+    "name": "12: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0899cdfc-30ca-4478-9bc6-693770779434",
+    "name": "13: MILMA FACTORY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35ba17d7-4c66-4cb3-a265-cb02c28804f5",
+    "name": "14: PUTHANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f560f521-0198-4b67-a6ff-8bb05ab1a650",
+    "name": "15: MANAKKODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f85e5d30-597b-4fe7-8632-95fb18456c61",
+    "name": "16: ILLIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f89f54c6-8e43-439c-825f-7b6f5f993e9c",
+    "name": "17: PADIJARE MANAKKODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17a05f61-3491-4999-b4f0-2586b5d88291",
+    "name": "18: ANNAPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

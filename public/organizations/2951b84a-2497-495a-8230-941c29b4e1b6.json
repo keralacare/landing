@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c0f89f0c-e6ff-4045-8a71-4405e3b6d64b",
+    "name": "1: OTTAMASSERI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8307676b-4e5d-4667-947d-0e31598a0b8a",
+    "name": "2: ILLIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d209a3c-4d07-40e3-afba-bbbbe03d6c12",
+    "name": "3: PANDARATHAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c64c185-c1c6-4103-bc99-3f1d30972e63",
+    "name": "4: THANKI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dae9e990-2bb8-4b80-8fdf-ab119bc24339",
+    "name": "5: KADAKKARAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d65dd04c-4f3a-4aa0-aaf3-6509953df6b2",
+    "name": "6: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "550587fd-1182-4ada-a72b-875140b7335c",
+    "name": "7: KOTTARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7f34e64-e490-4b6c-85a4-16913062a300",
+    "name": "8: KANDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3f47db5-840e-4137-bb2d-336d79d259d6",
+    "name": "9: POWER HOUSE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "633dc1c7-f6f4-481b-976d-56d1393de562",
+    "name": "10: MANJADIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e142af0-c50d-48fc-833d-d972d5ac3047",
+    "name": "11: KUNJITHAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94d8762b-6574-494c-916f-402fb9277d8b",
+    "name": "12: THAIKKAL BEACH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa9aad28-72c9-499f-9beb-09013513541d",
+    "name": "13: VATTAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43887099-77c9-46be-bb3e-4a937f4b748f",
+    "name": "14: OTTAMASSERI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

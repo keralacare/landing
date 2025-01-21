@@ -1,0 +1,212 @@
+[
+  {
+    "id": "6cfc38d3-d9ec-4dc1-be13-b630ac1145c7",
+    "name": "1: SAKTHEESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ee39c7a-dbc2-4a75-844a-d4cd2310e902",
+    "name": "2: MOOLAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "862ca027-80de-4d4b-9437-62a8b72e690c",
+    "name": "3: POWER HOUSE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89a23c59-c9ab-4a82-aa08-42ad07558605",
+    "name": "4: MANNUKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c68bca2-1967-486a-b1af-c032ad5fb0e7",
+    "name": "5: NEDUMBRAKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c22f0e8-8f0f-464b-a014-a651657f1974",
+    "name": "6: PARAPPEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07a31a67-bee6-47d9-b2ac-d22858ceab70",
+    "name": "7: SASTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bac7d1c5-04cb-4f30-8e5a-36c33450f499",
+    "name": "8: KULATHRAKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "441585e6-9db4-4a2a-8961-edebff038e9b",
+    "name": "9: SAVESSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64d9f13e-bea5-42ac-bd2c-609dcfa6bd3a",
+    "name": "10: KALIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39286846-8716-4687-84a0-8c69144ac7e1",
+    "name": "11: MUNICIPAL OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "227adb5e-f313-45af-9df9-f6241aa9a6f0",
+    "name": "12: X RAY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4335021-b906-42a3-9ab3-8aa37aefe704",
+    "name": "13: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dea43cd2-90ff-4fbc-a237-da91e8d59d57",
+    "name": "14: CHAKKARKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4bdf5c2-d2a6-474e-9f95-ce32d8699983",
+    "name": "15: KURIKKACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cd24e16-a44b-4329-bd5d-9ed6bd82033d",
+    "name": "16: POLY TECHNIC",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e890e19-0101-4adc-aac4-840459190a78",
+    "name": "17: CHERAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42a368a4-f5b5-45ed-a69a-c47298f5f305",
+    "name": "18: AMBEDKAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01dbab40-7624-47dc-a6dd-ac648baf33d7",
+    "name": "19: ARATTUVAZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b1fa341-798c-4ad4-940a-22185f1f2435",
+    "name": "20: VATTAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "086ad0fa-02db-463d-a552-d5ab295ad89b",
+    "name": "21: KARUVAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa5f592e-a092-4bc5-ab93-03a983450ead",
+    "name": "22: MINI MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcd2ec86-e8f3-4871-a697-f1ce589a6ad3",
+    "name": "23: KATTANGANATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78c1ecfd-4516-490b-9699-d83498cf0480",
+    "name": "24: ST MARTIN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d794fee-1f1d-4c1d-b67e-1dd70bbad78d",
+    "name": "25: PALLUVALLUVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06d957ab-17bd-4d56-951a-50ff2b6c87b7",
+    "name": "26: VALLAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d063037-7083-42ce-b80b-39a6151b5ebf",
+    "name": "27: EDATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99e546b6-f02f-4f9d-99b7-3161c49781b7",
+    "name": "28: MUNI. BUS STAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb661990-eccd-48b6-b1db-0fe7dd8bb5e4",
+    "name": "29: T D AMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4da40042-8c7c-4ab4-aa46-c50187ce984d",
+    "name": "30: MUTTAM BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c629d9e-4afd-48a3-a1e7-1becd3cffe2d",
+    "name": "31: VELORVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b87906e-2087-44b8-92cf-14d6bf9ad1ca",
+    "name": "32: KUTTIKATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbb49c95-f562-411b-b381-d62785a52b10",
+    "name": "33: KIZHAKKENALPATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71c0e44d-963f-4a81-9592-4bb88baeea4e",
+    "name": "34: RAILWAY STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "955ddecc-12db-4017-8032-f5ae82ad1333",
+    "name": "35: KURUPPANATTUKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

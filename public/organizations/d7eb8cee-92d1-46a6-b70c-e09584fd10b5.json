@@ -1,0 +1,116 @@
+[
+  {
+    "id": "923f6844-0f15-41f3-979a-ff10177aa03a",
+    "name": "1: NERALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65bc914a-7b96-4bfc-b346-cac4504878e2",
+    "name": "2: MAYYERICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe1982d1-4f17-4cc9-a77a-57b1db7e7b2e",
+    "name": "3: KADUNGATHUKUND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2949e927-7ba3-4c7b-8cf2-323342714b64",
+    "name": "4: THEKKATHIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dcd9437-e7df-41d4-bd11-8af9f973d017",
+    "name": "5: KADUNGALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e8867be-490d-407d-8054-108984b46728",
+    "name": "6: THUVAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "473a2c2c-c7f0-4f67-8027-094690aa736d",
+    "name": "7: PARAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0dfc68c0-a8f8-40c9-b7a1-8c12a04f72c1",
+    "name": "8: KURUNGKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8cb036c-be62-4a9e-8a6c-6da50c83cf82",
+    "name": "9: MEDIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cda86f58-ed91-4fda-af44-5033f78e21f5",
+    "name": "10: ALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6894d0f6-682b-488b-9ae5-6c1c2bc34c1f",
+    "name": "11: POTHANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b3258b8-52ec-4026-b418-905e8feda5d6",
+    "name": "12: CHUNKATHAPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8636a714-5225-40fe-8b58-38fda927d7cd",
+    "name": "13: VARANAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4027acc-ae1e-41e6-956d-8af56e26bfe0",
+    "name": "14: NELLAPPARAMP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9b4f424-39b0-42f2-a6fc-eaaae3fac368",
+    "name": "15: PARAMMALANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "262cce38-97ad-4241-ab09-a5a58d8feadd",
+    "name": "16: OTTUKARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80ad6a02-00a9-495c-8203-bf94b93111d0",
+    "name": "17: CHERAVANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "144cb639-77ff-47bf-a893-00d51abe8d78",
+    "name": "18: VARAMBANALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6238ba6-2d1d-4bc1-bb38-0553b4de49bd",
+    "name": "19: PARAKKUDE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

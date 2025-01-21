@@ -1,0 +1,170 @@
+[
+  {
+    "id": "028567ca-2fd5-472c-b90c-d9456cef00ac",
+    "name": "1: MANIANGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c40e5e36-5708-4d79-93ba-13143c8ae37c",
+    "name": "2: PULIYARMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2a0cc5f-0eab-4835-89e0-6b679f69aa50",
+    "name": "3: GOVT.HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bf973b3-9dcb-47bd-a883-5ffafb4a5098",
+    "name": "4: NEDUNGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ecfb579-19a8-4691-973d-dbea52bc2f7e",
+    "name": "5: EMILY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fa00e92-0b4d-4774-9c48-ac0cb2ebffba",
+    "name": "6: KANYAGURUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18114f3b-4025-454a-a537-3780f4977faa",
+    "name": "7: KAINATTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d0bc5c5-6a49-49f4-8137-35d86921f38b",
+    "name": "8: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d14545c7-2a05-4dcc-a186-2535a6434552",
+    "name": "9: CHATHOTHUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a8fabd6-13d3-4659-b473-b62ca1e68b55",
+    "name": "10: MUNICIPAL OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7abda41a-e9cb-4566-ac38-bf96d0c9c371",
+    "name": "11: EMILY THADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ae9d98b-98ec-479c-a23b-1c30c8280878",
+    "name": "12: AMBILERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a75650c1-4162-44b8-a0d1-b831f57f929a",
+    "name": "13: GRAMATHU VAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc6e73a8-444a-42a1-886e-c148ac0decf6",
+    "name": "14: PALLYTHAZHE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20a6154e-9768-4f20-b6e0-0dbce1a0f76a",
+    "name": "15: PUTHIYA BUS STAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "15ed1069-8824-4c6e-87dd-1bed085da8ba",
+    "name": "16: PULPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79f7e4bd-d871-4030-bdca-36dccaa62e47",
+    "name": "17: RATTAKOLLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3aeedb42-fd88-42fb-ba42-cf6a69bb15e2",
+    "name": "18: PUTHOORVAYAL QUARRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b86a31e2-213d-42a6-82b7-9664cde086b5",
+    "name": "19: PUTHOORVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47e9d51c-9be9-4913-9605-cd3dcd28d84b",
+    "name": "20: MADIYOORKUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53a0430d-553d-4e25-a437-3189d1e52ae5",
+    "name": "21: PERUMTHATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66b7dcd2-6622-4c7b-8c77-52492efb11f2",
+    "name": "22: VELLARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ca60f58-9038-4685-82eb-b34d40f16dec",
+    "name": "23: ADLAYED",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59eb21f3-19f7-4f70-a0cb-909bbbbd673c",
+    "name": "24: ONIVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c611bd4-da3f-458f-87c6-0befa9791c79",
+    "name": "25: TURKEY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "410535d5-563d-4912-be8b-303ce2e7b90b",
+    "name": "26: EDAGUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c58101ad-34e6-49f1-bf67-2174f7a4d274",
+    "name": "27: MUNDERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07db2c20-6940-4ac9-8460-2bee667ff4f6",
+    "name": "28: MARAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

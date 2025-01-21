@@ -1,0 +1,116 @@
+[
+  {
+    "id": "06ec74cf-6a22-44ae-b9de-1f36b7655868",
+    "name": "1: THOTTINTAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "169d01ec-7d08-42cc-95d9-703580d3539a",
+    "name": "2: ORAVAMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f30dedd-5b96-4a2d-80e3-76995963faa5",
+    "name": "3: CHEMMANTHATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63b16b99-8f72-42d8-92fc-b4905a489a73",
+    "name": "4: KARYAMAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77eb4582-c262-43a4-bf83-c6a2db7fc5fd",
+    "name": "5: KONDIPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5610ecb1-fd9f-4131-9f01-9466b9199716",
+    "name": "6: KEEZHATTUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "793af27d-e20b-45ae-b79d-e3900734a31b",
+    "name": "7: POONTHAVANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "077fc5c9-bf5c-4384-9ebc-0c36f9010177",
+    "name": "8: ANAPPAMKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d009f9e6-b96d-4b5a-98fd-a2526b7aee96",
+    "name": "9: KANYALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9e8171d-7b42-4013-803f-0900375cd46f",
+    "name": "10: MUKHAMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85825704-3291-497e-81e9-dc4267e8faee",
+    "name": "11: PATTIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b6ef60e-7489-4f68-acb4-dc86dffb1622",
+    "name": "12: MULLIAKURSSI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86ad34df-a24d-44ba-97aa-196d540ae777",
+    "name": "13: MULLIAKURSSI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4f90403-6d00-4853-9348-70b95dc48bb7",
+    "name": "14: PARAMBOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f4ce97b-02db-46a6-baa1-bdedf5cf231b",
+    "name": "15: NENMINI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8a99823-dad6-4252-89b5-8526b9193203",
+    "name": "16: NENMINI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5f24c89-6f13-4d4b-8062-89e71bb1c26d",
+    "name": "17: NALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "464900b1-f204-4ef7-adf7-90d23ebf83d7",
+    "name": "18: THACHINGANADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36f8b404-3cae-4484-afab-2f2b71f38436",
+    "name": "19: AREECHOLA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

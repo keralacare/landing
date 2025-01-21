@@ -1,0 +1,86 @@
+[
+  {
+    "id": "375a5808-feb7-43cc-bcae-4901273fa8c5",
+    "name": "1: CHERUKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0046c1d-d7c1-4c33-944f-f40b0935b16d",
+    "name": "2: PUNNAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca109820-6040-4bab-850e-96dfab9e2cc9",
+    "name": "3: ASAMANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff6b6626-3268-4089-89bc-11dbb0124fd6",
+    "name": "4: PAYYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db775829-8feb-4d7c-a0df-2d1749da22a1",
+    "name": "5: PANICHAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "243f359b-998c-4c98-8e0b-2c1351c3262a",
+    "name": "6: NOOLELY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ee387da-b190-42d6-9cda-89d39d763144",
+    "name": "7: NOOLELY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d26bdf70-05e8-4f93-a061-6b726665d55f",
+    "name": "8: EKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3eea53f7-87f1-465f-ace3-105a8491e523",
+    "name": "9: METHALA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c92109c-a05b-41d0-8402-3685d0052e4b",
+    "name": "10: METHALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cbb3a1e-77bf-4309-ae1b-d0490414b3ae",
+    "name": "11: KALLIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a27c226a-65e6-4592-977c-a8f6bebd1990",
+    "name": "12: THALAPUNCHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30fcdf08-4293-4a04-9a78-e48ff803a78b",
+    "name": "13: POOMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5755f75-283c-4017-bc6f-352bc576eaba",
+    "name": "14: ODAKKALI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

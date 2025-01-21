@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cef03b66-9234-40c9-9f80-07ba152303d6",
+    "name": "1: CHALODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a96dfcb1-4317-4d70-90a7-4a895c66fa79",
+    "name": "2: EDAYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07872637-38bc-4550-9134-63a1d7699e8d",
+    "name": "3: THERUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a8d9ca5-8313-4447-b932-d370f70da879",
+    "name": "4: THERUR-PALAYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9699feb8-e0ac-492c-9355-273e38cdb6b8",
+    "name": "5: ELAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f7acc22-d55d-49c8-ae1b-57d28cfe26ee",
+    "name": "6: VELLIYAMPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11bb49ef-7638-4876-9c13-424e2b2ad8ee",
+    "name": "7: VAYAMTHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66f78081-8f3c-412e-a018-dbfd7d081574",
+    "name": "8: KOTHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f25a8d39-07b0-456b-a37b-d8a3c640f265",
+    "name": "9: PERAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "742eb595-8e7c-48f2-a38f-09f2a07d3337",
+    "name": "10: PALAYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "365d0eed-2b79-4074-8d38-a8fdf0b7f683",
+    "name": "11: KEEZHALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a439a0ad-0ca5-4575-a73d-6020d211d364",
+    "name": "12: KEEZHALLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba706d0d-59f6-4bc0-9077-e25a7f444f30",
+    "name": "13: KANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "379a244e-b25b-4bad-ad3d-185018e1cc48",
+    "name": "14: PANAYATHAM PARAMBA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

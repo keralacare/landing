@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1e38d95b-627b-4e4c-9bd7-86b95e7059eb",
+    "name": "1: MOONGALAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10257962-bdd8-4058-98bc-e54ba02e3fe9",
+    "name": "2: DYMOCK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8e16c39-58cf-4384-9f81-a9fe02211122",
+    "name": "3: KANNIMARCHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b93eddff-e270-429d-af76-3793c75c29e0",
+    "name": "4: WALLARDIE ESTATE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58735d46-b31e-4ea3-bfbe-395277e4670f",
+    "name": "5: NELLIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b75aeab-5e15-4ba9-aae6-48473702cd80",
+    "name": "6: WALLARDIE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "643db707-76e8-4c92-833d-b14316c76eb7",
+    "name": "7: VANDIPERIYAR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc087a20-1d0f-4ba2-a5d8-71fd4bc53c25",
+    "name": "8: WALLARDIE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acd6520e-d7f1-4c02-84aa-a4bc11779a4a",
+    "name": "9: INCHIKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9417ebd9-215f-4ca1-bae9-8a66f81b5b56",
+    "name": "10: THANKAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ebc6765-856f-4da6-8ed1-b3b461a261d0",
+    "name": "11: VALLAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56287667-88ce-434f-9f63-f68cfd31c59d",
+    "name": "12: MOUNT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80924d67-c9d7-45d5-beb6-6007cfef6303",
+    "name": "13: DEEPDEEN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95d3c800-4e02-403b-876c-d4ff223de345",
+    "name": "14: ARANAKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1756c09-64e8-4feb-b40a-ff7681f72490",
+    "name": "15: GRAMBY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ff7e192-bd9b-4b76-ab50-b4f794d09316",
+    "name": "16: MANJUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66b955a4-08f4-4058-ba93-6cf0b795fd76",
+    "name": "17: RAJAMUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "258a80a4-5b1d-4965-96a7-73e56a36dfb0",
+    "name": "18: VANDIPERIYAR TOWN WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae07d39f-64d4-4fb8-95bb-d28c08480acc",
+    "name": "19: CHURAKULAM UPPER DIVISION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f527439e-76ac-45a6-bc1b-d0c97b923c2b",
+    "name": "20: PASUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "345bef4b-9271-4db7-9e0f-8c002b117336",
+    "name": "21: KEERIKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed12aaec-c4e7-4f1e-b1c4-807332d6ac80",
+    "name": "22: PALLIKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92415eb6-520d-4164-beae-b61cf220a1ca",
+    "name": "23: THENGAKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "facafbbf-1270-43d5-82ef-a31818fe1e59",
+    "name": "1: KANYARUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74c9972a-168f-4f10-ab50-d173aa1ea988",
+    "name": "2: KOTTAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b19d3433-c00f-43b0-802e-f7ca0f842c2d",
+    "name": "3: KIDANGUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "598c1484-5bfa-404e-a6da-e91a4a94bda5",
+    "name": "4: VELIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c390711e-a67b-415f-a129-0ed04ba542e7",
+    "name": "5: CHANGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29ec4415-0232-4f56-9b61-1cf343e54786",
+    "name": "6: CHERUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3b9ec68-e72f-4283-87ff-c67f228eef11",
+    "name": "7: PUTHUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e90556a3-b0ef-4f2c-bb32-f9fed8252fe4",
+    "name": "8: PUNALAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b05c1bc-4368-45ba-ba94-60ee935cf3cf",
+    "name": "9: URIYACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cb48d6a-bf85-4d52-a187-ba88d2b821b6",
+    "name": "10: COMPANIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "587e1005-30c6-4ce3-b49f-bcf2c9d4752b",
+    "name": "11: KULAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "777b43bd-d601-4719-86aa-979696477c27",
+    "name": "12: VELLANAD TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4ddeb6a-381d-484a-b770-98732ea767ce",
+    "name": "13: KANNAMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a1a7fab-d427-462f-8ae6-d9b496d31b72",
+    "name": "14: KADUKKAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c56e48e-8198-4054-a4af-f7346ce55645",
+    "name": "15: KUTHIRAKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53d65289-f0b2-41f7-abbd-a8b4347ee3b3",
+    "name": "16: VALIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8710373f-2bb2-4a80-8be6-1b2ee8dccbb1",
+    "name": "17: MELAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d18ac5d4-f4c6-4a32-b820-efa1a3dca63b",
+    "name": "18: KONGANAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

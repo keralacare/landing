@@ -1,0 +1,110 @@
+[
+  {
+    "id": "734c52c8-ba65-482d-b910-1d0b768a56f7",
+    "name": "1: MALAPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dd88ab5-cab5-4c61-b118-7e5464eef166",
+    "name": "2: VALAYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68460f14-a5b9-45fc-8839-70cae4e2d2f5",
+    "name": "3: CHERUPPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0e23859-2419-4aba-bfb6-110387fe919a",
+    "name": "4: KUTTIKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa54fc7e-1a85-4fd1-ad02-52e7054503d5",
+    "name": "5: THENGILAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a225559-56ff-4cd8-b50e-b45ac5e64788",
+    "name": "6: MECHERIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ad2ca13-a1b4-4158-a130-e47740ea4a3c",
+    "name": "7: KANNIPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9b52228-6d71-4e82-b0bc-5f66b96eac8d",
+    "name": "8: ADUVAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24666793-f39a-4429-aa5d-db0913fd85f5",
+    "name": "9: KOTAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51d074c4-4606-4ac8-968c-4c6e570009e3",
+    "name": "10: KANIYATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e785ed1-b367-43ed-8e09-17233936137e",
+    "name": "11: THATHOORPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27f1cbdb-a442-43e6-bfb8-420982bc27c6",
+    "name": "12: MAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56bc4e31-d060-42c1-8859-6ef7291c9afa",
+    "name": "13: PARAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6dc10e4-68cc-48fb-9dd5-7f1839ecfd85",
+    "name": "14: KACHERIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0aab9f0-8010-4f2a-8d5b-f9a4357f6fc2",
+    "name": "15: KALPALLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "372d4cb5-a157-4d23-a547-eb1b82d04e26",
+    "name": "16: AYAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27235da5-cf2f-4a53-973f-5cfc7dba6df2",
+    "name": "17: KIZHAKKE KAYALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60705875-d734-4449-874f-bb26ecf6ab98",
+    "name": "18: MANAKKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

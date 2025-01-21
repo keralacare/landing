@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e2567678-0c16-41a0-873e-7193f0b8c802",
+    "name": "1: KAZHIVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "779e7a81-0445-4246-b9ca-a7cf10760273",
+    "name": "2: KAIVANVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "332a8703-1cf3-4f93-b9ef-f7978fff0479",
+    "name": "3: THADATHIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76d7cdef-2ada-4ac4-85d6-6bae2520c539",
+    "name": "4: MOONUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59c91360-ba9b-4e94-956e-3562ed4b5849",
+    "name": "5: KANJIRAMKULAM TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f949c82c-6781-4ce0-aec9-853ebbfc1df8",
+    "name": "6: CHEENIVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78edf50d-be85-4856-a5c8-54c918377cc0",
+    "name": "7: NELLIKKAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8995e71c-e21f-47ec-86c6-4759f8035141",
+    "name": "8: MUZHAKKOLKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d8e4521-bbe8-4341-9a13-fcd3ddebfb0d",
+    "name": "9: CHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f719e38c-c11a-4b79-808e-4249d242f834",
+    "name": "10: LOURDEPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "618c5c04-7fc9-4db2-8fcc-d64fe4a7819c",
+    "name": "11: MAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26070e25-e68b-41a4-9419-40ee4420adcc",
+    "name": "12: NEDIYAKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21d41a2a-8397-4559-bdd1-09c30fd4bbde",
+    "name": "13: KARICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21dbe690-871c-4f40-b422-6d6448c31445",
+    "name": "14: OOTTARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

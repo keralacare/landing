@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c8532a67-7fbd-4130-92e3-df1ae0ee6233",
+    "name": "1: MAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea11da89-e96f-444f-89b6-03fe3ce915ce",
+    "name": "2: PANCHAYAT OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67c861fd-8f96-4990-b59b-d83c82454df0",
+    "name": "3: THODUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0215382-dc7d-4602-a475-597d53a5738c",
+    "name": "4: AMBOORI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d4c1b80-0b31-49da-adfe-cdeebef379fa",
+    "name": "5: KOOTTAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0e42624-741f-4000-abc6-33e80fa8ab8a",
+    "name": "6: THEKKUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1cc32ff-8460-450a-bbac-343ed02a39e4",
+    "name": "7: KANNANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afc6a83a-8dfd-454d-a2e1-029c7e90c87d",
+    "name": "8: KUDAPPANAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3116af15-5069-419b-bfaa-30342afc3b2f",
+    "name": "9: THUDIYAMKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "732bd312-3b68-43cc-a49a-174b5afb9952",
+    "name": "10: PURUTHIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "679d9dc5-6735-4ff7-93fc-b70bf8b731cb",
+    "name": "11: CHIRAYAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad4e6d09-b79a-4e80-a999-1a6bcd1d5cd7",
+    "name": "12: KUTTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0acb171-2618-480b-ba25-f632330c85e2",
+    "name": "13: KANDAMTHITTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "58863bd6-5a85-432e-9df4-045bf4023d26",
+    "name": "1: CHIRAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afd6539c-a3f3-4f1b-b598-803b72c70849",
+    "name": "2: PAYYOLI ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cd4ac76-e166-43fc-b370-87b3722deb89",
+    "name": "3: THOLERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e51f449-8e7a-49be-84f1-fe541c5ea802",
+    "name": "4: KULUPPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b42f8933-590a-4017-8528-3f4e4fb04eea",
+    "name": "5: IRINGATH NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c923f387-44ad-4382-856d-7c659ba64a22",
+    "name": "6: IRINGATH KULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ab80cdb-dd40-47b6-b4d5-1d5ea4f6b359",
+    "name": "7: IRINGATH TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44a3fecc-43ce-4e71-b1b7-85ee314a0dc8",
+    "name": "8: MUKAPPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81551021-6763-4eab-be03-8e8887c7927c",
+    "name": "9: CHOORAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1f951db-8935-4b29-a437-308fc2ba5833",
+    "name": "10: AKKOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6ce5264-41ca-4c8e-9b32-4005c2bcc6c7",
+    "name": "11: KUNNAM VAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10268f90-dfb0-417d-8099-704a31df2e71",
+    "name": "12: MALOL THAZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c56209c-aa42-44f0-a8fe-25c1c37c4a15",
+    "name": "13: KEERAN KAI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

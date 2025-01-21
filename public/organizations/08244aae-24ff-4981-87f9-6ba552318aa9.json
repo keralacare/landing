@@ -1,0 +1,188 @@
+[
+  {
+    "id": "ebd07dd8-352c-4ea5-9138-b543613bd5d2",
+    "name": "1: THANKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fc4abcf-104c-402d-9c98-e3aaff2b4121",
+    "name": "2: BLOCK OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc368b11-0518-4a89-ae54-c804d5dfd3a0",
+    "name": "3: RAMALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c3619f3-fdd2-4e35-9ac6-4e5a691f0e81",
+    "name": "4: KARINGAZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "667d4008-c554-4907-9a69-92dfde9e8d6e",
+    "name": "5: CHELAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e867cc3-faf1-484c-9dc3-660589631259",
+    "name": "6: KALLAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e8031e8-4b69-44fb-b69b-41944515076f",
+    "name": "7: ELAVUMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59c3659f-7736-427e-ae06-4dc5ccf9b86c",
+    "name": "8: VALADITHANDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85d0d6d3-eae4-404e-a731-115d01c5a419",
+    "name": "9: KOMENTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f081ca3-d76f-4d15-897c-417ff41777ad",
+    "name": "10: MALIKAKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37fbd4f1-294e-4329-a529-501489b7c99b",
+    "name": "11: PARAYITHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "390bb11c-330a-4ae4-bfb6-71a5ed002ab8",
+    "name": "12: KUTHUKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c8f796e-99e3-4bc8-859e-dcaee65dbd99",
+    "name": "13: MARAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8eb91a1-fe4d-4985-b618-1ce759896d6c",
+    "name": "14: ELAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae6bdaaf-5feb-40b6-920d-f32b93271451",
+    "name": "15: VALIYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66e6d4e0-5705-4b20-ab5a-e8f8ea1782ee",
+    "name": "16: AMBALAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3999826-2918-4de7-9070-758bd05c5801",
+    "name": "17: CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c6a9930-26fe-40da-baa2-ebbf014bc232",
+    "name": "18: KOLLIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "095fec0b-0082-4f4b-9e2e-2c59ae541c66",
+    "name": "19: COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91c9c58e-a1d3-47f1-b270-17bc0f9b7e63",
+    "name": "20: MATHIRAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd35ff69-38da-4f94-8b0c-419f6ec38fd7",
+    "name": "21: PUTHUPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1e6828c-451e-4880-9f5d-9151b2216a8e",
+    "name": "22: KARAKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17870504-3657-47bb-97f0-26d47803fba9",
+    "name": "23: CHIRAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "363afcfd-1b4a-4ec3-9648-36484c2ca80e",
+    "name": "24: AMBALAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bfd1dc6-dae3-4cc2-9115-e2a6838ebc32",
+    "name": "25: VENDUVAZHY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ae255ae-6e7f-47db-a809-1572d8885ed6",
+    "name": "26: KARUKADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae188131-7944-4e71-ac15-bc70ac39441f",
+    "name": "27: VILAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7352f62-e0d0-4443-a53f-480fe4938703",
+    "name": "28: VENDUVAZHY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d448952-544d-4a81-bfca-0213850c265a",
+    "name": "29: KORIYAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a018c70d-e070-4afb-b190-2f0f10e3077c",
+    "name": "30: TOWN SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44a850a8-c17f-4a46-9e06-5e15779f6b0a",
+    "name": "31: TOWN NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

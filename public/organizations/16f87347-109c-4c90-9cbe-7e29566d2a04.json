@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4d4774e0-c703-4e3b-932c-0ec1dff16303",
+    "name": "1: CHANDANAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f9326fc-3cef-4554-ac60-4e6eeed8277f",
+    "name": "2: ANTHICHANTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ee8ae27-a23a-4ae3-9a4a-84011b2d516c",
+    "name": "3: ANGADICAL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76d1121f-cbae-4d2a-802c-defef4f69d5f",
+    "name": "4: ATTUVASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bba80c5a-94f0-42c6-bd5b-a9cccbe27d06",
+    "name": "5: OTTATHEKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "216598a5-179f-4da5-a22e-f084d1a3d8dc",
+    "name": "6: VAYANAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1d83c76-7e97-4b7b-81dd-4e45fd7c52dd",
+    "name": "7: ANGADICAL HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca0ca5c5-2a64-4d52-8fbf-97aa1178a4ab",
+    "name": "8: MANAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "470f8e34-c93a-4abb-a013-913d15c2a688",
+    "name": "9: KODUMONCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "540395db-1e13-4f21-85c3-58f34f756eb7",
+    "name": "10: KODUMON EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b4c10e3-bf96-4c19-b52c-aedaeb206a74",
+    "name": "11: ERUTHUVAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63aa68f3-116f-4856-8d22-3cc304ad5f4a",
+    "name": "12: CHIRANIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d9d9f13-1770-4625-bb4d-b3137f5d8571",
+    "name": "13: KODUMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41939928-a910-47a7-a469-761973a4c082",
+    "name": "14: AICKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25c9b3b5-a3f3-440d-a152-5973307386c3",
+    "name": "15: AICKADU PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2606f69d-ec70-4ff9-900b-01a17b0b10ee",
+    "name": "16: AICKADU VADAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dd8153b-9ab9-4b71-9a86-9e9a71b67df4",
+    "name": "17: PATTOMTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f208a54a-d1d6-4980-bfdb-8d3109323897",
+    "name": "18: EDATHITTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

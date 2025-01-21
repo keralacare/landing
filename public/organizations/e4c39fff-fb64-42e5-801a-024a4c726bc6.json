@@ -1,0 +1,104 @@
+[
+  {
+    "id": "b7c9a135-ff01-456e-9376-bcdf944270e3",
+    "name": "1: THOOKKUPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44378926-123c-4860-a35b-21c1f283a4c6",
+    "name": "2: PRAKASHGRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b491467d-798f-47b3-9cac-27be511010df",
+    "name": "3: CHOTTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9380025-eea4-4f4b-a6d4-8646da20b15d",
+    "name": "4: CHAKKAKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "647490e5-7ef9-4e72-b34d-92781293c43e",
+    "name": "5: RAMAKKALMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1150a4f4-3e5c-4293-8cf7-034f74613ff4",
+    "name": "6: KURUVIKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9aad8f8e-677a-4438-bf25-dad1cdf3b91a",
+    "name": "7: KATTEKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "598d2496-62c3-4072-9788-a9f83caccd58",
+    "name": "8: KARUNAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d7e8565-460e-47aa-9aa6-23c882642512",
+    "name": "9: CHENNAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33b9eb33-c2be-451b-a16e-b5df742d93fa",
+    "name": "10: CUMBAMMETTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "936cb0df-1b59-4476-9516-2339190d9061",
+    "name": "11: SULTHANMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "faf7a582-7f09-4f3c-9441-345791145302",
+    "name": "12: CHALAKKUDIMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "882f397e-0aba-4777-9944-fb628d2f24c2",
+    "name": "13: KULATHUMMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "daea0241-b5d7-414e-8c79-fec2d4d89e2a",
+    "name": "14: POTHINKANDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e4af417-e63f-4778-b0b6-a49eda6e5224",
+    "name": "15: KUZHITHOLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8719fcd7-48ac-43eb-b5ac-6b7b57e06a88",
+    "name": "16: KUZHIKKANDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0065abc-16ed-4b55-83c2-b05975c8324c",
+    "name": "17: KOOTTAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

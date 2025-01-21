@@ -1,0 +1,104 @@
+[
+  {
+    "id": "5014cbab-0586-4d96-9bb2-7e16983ff21e",
+    "name": "1: SANTHIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8da58a83-d690-4583-b00e-e12772d13444",
+    "name": "2: KALLUKUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19e3df16-82ea-4832-9ec8-9196c0aa1a3c",
+    "name": "3: POOLANI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c85548a8-c752-4f48-a57f-986a5f1815a7",
+    "name": "4: KURUPPAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2ef48d6-84d5-4a97-a5e6-05df464fbb21",
+    "name": "5: POOLANI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "667cc5cb-0b4b-4a5f-9997-fb03cf645171",
+    "name": "6: KUNNAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49fd173c-9a21-4313-90ff-a11f256885a4",
+    "name": "7: ADICHILY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20521bcc-8f2f-41a8-9a5e-5f7a05ae279b",
+    "name": "8: PUSHPAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc1b8503-99c7-423c-86a3-774b1c0454a5",
+    "name": "9: PALAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab38bd9e-3cfc-44e1-a2bb-55a5cd3f5cf8",
+    "name": "10: MULLANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a2f9894-d147-47df-bb8a-0e884ebd6109",
+    "name": "11: MELOOR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc412807-5360-43ce-9175-00f151b1d8ea",
+    "name": "12: KOOVAKKATTUKUNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cc52e7d-223c-4d27-9b37-1dc15cc83c04",
+    "name": "13: NADUTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "707d224e-e02c-4b03-a02b-1fa24c51d0c1",
+    "name": "14: MURINGOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "523d2915-6cc9-495d-8ea1-fa2c26ba5f46",
+    "name": "15: MURINGOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30aa1bac-6f15-48cc-b237-92452e67ccdb",
+    "name": "16: MANDIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44784823-b8d6-4989-901b-84c8dde7e921",
+    "name": "17: KALADY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dc0465dd-c240-43fe-be03-4ca6d189299e",
+    "name": "1: SLEEVAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24aff55d-cd0b-4548-8b73-8b27afbfad09",
+    "name": "2: PAMPUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "067bfae2-4d00-410f-94d0-c2a9236c3601",
+    "name": "3: CHEMMANNAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cd6fc9d-8884-4ef8-ad9e-21f74a6d5325",
+    "name": "4: UDUMBANCHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d7458a8-3110-4482-9eb3-c67bd214081c",
+    "name": "5: MANATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "482a0b5a-7a46-4401-b62f-802886888ee3",
+    "name": "6: KALLUPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f35bce60-fc72-4e59-913b-66546b57822c",
+    "name": "7: PAPPANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51f05a33-5405-478c-8d38-0a9a419aeec8",
+    "name": "8: PARATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c18e030c-52c0-432a-b4a6-c48d40b90073",
+    "name": "9: VALPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "692047af-d4e2-4319-b21b-0f357a47f023",
+    "name": "10: MAVADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2db212c4-c34f-4a1d-bd61-cf09078c8b83",
+    "name": "11: POTHAKKALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e39b175-8fd9-4dd7-a99f-4fd557907761",
+    "name": "12: MYLADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cdb2f9d-4caa-4e0d-b256-004bb732ef92",
+    "name": "13: VALLARAKKANPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6bf9627-495c-4863-9480-9069444fceab",
+    "name": "14: THINGALKKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

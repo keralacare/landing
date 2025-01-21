@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cf317fbe-e1fd-4ba6-8dfc-794f43094055",
+    "name": "Kallara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1fc01c66-47c2-4afe-86c2-803ee1db76be",
+    "name": "Manickal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9fe6f898-2584-4789-b70c-fb6041f62d7c",
+    "name": "Nanniyode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4039506e-ab72-4b5a-b858-3073d652c6b6",
+    "name": "Nellanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "22e4f5e4-46dd-4a25-ba55-a169609cedd7",
+    "name": "Pangode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dead98fd-e71c-44f4-9933-ae9288385236",
+    "name": "Peringammala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a5a3661e-8406-4512-8375-951343315403",
+    "name": "Pullampara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "268215e6-a080-4a04-a59e-40da6d54418a",
+    "name": "Vamanapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

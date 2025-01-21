@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9ce9cddd-4faa-4134-9a3a-f0cc434d223b",
+    "name": "1: POOZHANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b79515e6-bdd4-4c16-ae26-44d684145da9",
+    "name": "2: ALACHALKKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b0cc51d-caac-4952-9491-545b6559df70",
+    "name": "3: MANAKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9623e26d-18cd-4620-94a4-70d9e6c97833",
+    "name": "4: PEREKKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e6dc67b-0324-4601-bd6a-b2f1417a5cfd",
+    "name": "5: KALIVILAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f26592e-09f6-4eeb-b539-b8d608e8e26f",
+    "name": "6: VAZHICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3703c9ff-638f-4529-8b31-1170ef649d20",
+    "name": "7: PLAMPAZHINJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "971035f6-7d32-4531-b9a7-c590921cadc7",
+    "name": "8: VATTAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4994c08a-5523-416c-a69c-1d00b7438624",
+    "name": "9: OTTASEKHARAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39be1364-9599-4b88-834c-36cd83bfcfa5",
+    "name": "10: KURAVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "144faab9-220c-42b4-9638-4fd2082ee7c6",
+    "name": "11: VALIKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6a67560-b29b-455f-8d7a-d163082685a9",
+    "name": "12: MANDAPATHINKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f33eabc2-24af-405a-8cf7-c67f9571378b",
+    "name": "13: KUNNANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c42ad9b-fe29-455d-9db7-86d4a1658046",
+    "name": "14: KADAMPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "657ef0b4-8cbb-4c85-9317-fb3383f31d6e",
+    "name": "1: MALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b75da0e-eaf8-46b2-b61b-d5ae01d4a183",
+    "name": "2: PANAPPAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc5ef77d-4ca3-4ba6-94fc-d3a255262445",
+    "name": "3: VILANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ce6ec9e-e00b-42cb-815f-3ef97a91cd3c",
+    "name": "4: PUTHUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "853a70d6-05a7-4115-bd48-f2404763a8c7",
+    "name": "5: MULAKKALATHUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d0448e7-c116-4864-9aed-470fc6015f37",
+    "name": "6: AROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd604d5b-cf50-4205-89b1-733fde3a9e5b",
+    "name": "7: PULIMBALLIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed05f4ec-bcf8-4df1-af4b-5f45ff1d040f",
+    "name": "8: MALAYAMADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af2dc5e7-19e8-4258-b65f-681dc8a22c6e",
+    "name": "9: R.R.V",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5849a720-feeb-4bdb-a534-cd2fe2d7fff6",
+    "name": "10: CHOOTTAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c6b0a27-84e3-4524-9cb2-73e541dae2e1",
+    "name": "11: KOTTARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45688434-2ad7-4ee9-af41-2695e7b6c9c2",
+    "name": "12: DEVESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "819f28d0-2fa2-4888-963a-4e051ea1af74",
+    "name": "13: ALATHUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a8da6bf-7ef6-4b50-be1e-06cb6dc70e40",
+    "name": "14: PONGANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d88f4160-fbb9-4cd7-9e44-d2b546fea7b0",
+    "name": "15: VARINJOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

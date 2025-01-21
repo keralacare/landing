@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f918ee23-1417-40c8-a487-0ec9caba6641",
+    "name": "1: SANTHIGRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8344dfc1-36f1-42f3-91e6-572bdf012c8b",
+    "name": "2: THAMBURATTIKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cf3dcfe-c16c-4a3e-bd43-63a6af9ac24c",
+    "name": "3: MUNDERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "018131dc-32ce-4cf6-a35f-785ba5a0d365",
+    "name": "4: MURAMTHOOKKI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d801524a-fb89-4536-aadb-ce31da43e05f",
+    "name": "5: VELUMBIYAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5fba53f-3a3f-40ca-9301-977c66e529fe",
+    "name": "6: AMBITTAMPOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "750ef2b5-e16d-4300-9fc8-878e59d99a19",
+    "name": "7: POTHUKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb448f72-89dc-455e-b4a7-7929176f3c34",
+    "name": "8: MUTHUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ca6b365-d50d-49c2-b780-483895c06e4f",
+    "name": "9: KODALIPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aadf3c90-0d25-4209-845e-6775ed91ae4b",
+    "name": "10: ANAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8794927a-c008-4504-8a8a-c31b60f7cec7",
+    "name": "11: NETTIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7205ff15-5369-400f-a7ed-d392579bc0c5",
+    "name": "12: UPPADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59c73264-9b19-4fd1-a35a-4b32d34043eb",
+    "name": "13: VELLIMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dbd0c44-c25b-48e3-abd3-f730242818eb",
+    "name": "14: PATHAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11aa9d83-1f78-410a-b383-bd36929f2e05",
+    "name": "15: POOLAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "194a78dc-e1f2-4a46-ad9c-570966ad7078",
+    "name": "16: PANAMKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d6b1c66-9bc0-40e1-b466-04c21e87055f",
+    "name": "17: BHOODANAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

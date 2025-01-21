@@ -1,0 +1,98 @@
+[
+  {
+    "id": "32efeca6-f66e-476e-8d57-be9ec0ce9667",
+    "name": "1: VENGANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8f15bd8-879d-4c0e-b439-c9cd312425ad",
+    "name": "2: PARAKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11016ef1-8a14-4ec3-ab92-7e4d0f78b989",
+    "name": "3: BANK ROAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d197a4c3-b7c7-4975-a387-550d791fab8e",
+    "name": "4: KUMBALAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11c22c97-77d0-48db-a307-32501e5e90cf",
+    "name": "5: THRIPPALUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "628a04ab-82f1-48d5-9b24-2c3791b4a5a4",
+    "name": "6: GANDHI JUNCTION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ef52457-0c12-4745-8863-0c16497eb3f6",
+    "name": "7: PUTHIYANGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "891778c1-ee08-4ccf-ba98-fe0214dcc12f",
+    "name": "8: PERUNGULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c669372a-241e-4f73-ad3d-64562a6b6903",
+    "name": "9: THEKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7b7255a-9723-4010-973c-768196c078e1",
+    "name": "10: KATTUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5a18843-12fd-4ec3-b16a-5b310791c8c0",
+    "name": "11: KUNNAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7403d2d7-e148-4800-9fa9-602586faeadd",
+    "name": "12: MARUTHANGADE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4372d9f0-5073-4e48-8814-f8fc60c89621",
+    "name": "13: ERATTAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbd8c66d-2088-4fa9-9706-0a3f153dd37e",
+    "name": "14: KEEZHPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bd99bf9-f588-44da-bbb3-a1b85fb8c22a",
+    "name": "15: CHANDHAPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "011596bb-d10c-4317-9ce1-4a67abb1e176",
+    "name": "16: ALATHUR TOWN",
+    "has_children": false,
+    "type": "ward"
+  }
+]

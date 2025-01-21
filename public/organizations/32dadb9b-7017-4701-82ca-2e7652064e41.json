@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fd4f633a-6499-4c25-b136-689973196786",
+    "name": "1: THALORE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bd3a98a-0ac1-4825-9eea-2443bc28f8a3",
+    "name": "2: THALORE PARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc5dbdd2-094b-43de-9fc2-b1df99262bfa",
+    "name": "3: PALIAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5cd4bfe-7215-4e9e-8a78-25f5771a253d",
+    "name": "4: PULAKKATTUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f364b0bd-69db-4902-aa8e-71a1a6618b1b",
+    "name": "5: NENMANIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a25d55a-1b6f-4ea2-8c44-7a8c1bef6869",
+    "name": "6: PAZHAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24f2b8ab-9079-4fd5-8fd8-0ee05e4addc0",
+    "name": "7: CHERUVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d43c993d-32a4-4cb7-a954-6774b97931e0",
+    "name": "8: PAZHAYI CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f687ec0e-81c6-4358-97ec-02d2547b32dd",
+    "name": "9: PAZHAYI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "201dc6a5-e4cc-428f-ad18-b7932247192a",
+    "name": "10: MADAVAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c37fb037-fcc4-46da-a0a2-0bc602b95e57",
+    "name": "11: CHITTISSERY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7196661-c3ef-4f83-97a1-2aba4049e75c",
+    "name": "12: ERAVAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ca97e84-2fb7-49a9-8ddd-9e536195de54",
+    "name": "13: CHITTISSERY CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8392d0b0-3672-45c2-bd97-d33428c9f4de",
+    "name": "14: KUNNISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5aed2828-c45a-4d79-be9b-dcf28c8ddd98",
+    "name": "15: CHITTISSERY NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

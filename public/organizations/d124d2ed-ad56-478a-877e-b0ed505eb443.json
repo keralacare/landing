@@ -1,0 +1,86 @@
+[
+  {
+    "id": "bb311d4f-d9ae-43fd-8db0-80dcc4176b29",
+    "name": "1: MANIYARANKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eef11538-bfa9-4112-b9d0-33d4e8bbe757",
+    "name": "2: MULAKUVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34db50cb-7534-4f29-a256-43b2d9eb9c5c",
+    "name": "3: MANJAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f9b6259-f2ff-4fdc-bea6-34a4f70baba0",
+    "name": "4: KARIMBAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf9fb024-9cfd-4cc1-aaa8-1991c79e5cdd",
+    "name": "5: THADIYAMPADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18f4e01d-7c4f-4548-b6ff-d0478c93fc75",
+    "name": "6: KESAMUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba769a5a-0dd8-4db1-9213-b120a4c61562",
+    "name": "7: VAZHATHOPE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e01cd26-b16f-40e1-ab0c-fd100dced732",
+    "name": "8: PEPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cb2bbde-f1b1-4ac6-9c4e-1fae837cc002",
+    "name": "9: THANNIKKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92a25f37-319e-48cb-90b3-97613a9d0758",
+    "name": "10: CHERUTHONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d6bc834-975b-4629-ac63-41dbf9a47f2e",
+    "name": "11: GANDHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e350d70-c138-454a-a8b8-cd17a57bb20f",
+    "name": "12: PAINAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6183d37c-26e6-4e0e-8172-38b4a6fec59b",
+    "name": "13: MUKKANNANKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ad12f48-23d9-4103-ae3c-ce58c77f570b",
+    "name": "14: PERUMKALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

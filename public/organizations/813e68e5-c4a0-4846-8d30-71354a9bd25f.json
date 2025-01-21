@@ -1,0 +1,128 @@
+[
+  {
+    "id": "7348c848-6b86-4cd9-a48b-8824222409f2",
+    "name": "Alappuzha Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "651f26dc-b466-4ad5-a7b3-5d702cc78135",
+    "name": "Ambalapuzha Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "1fc65fe4-c4fd-4508-80d8-85bbaa668958",
+    "name": "Aryad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "cbc7f215-2a5a-4743-a7d5-322228401812",
+    "name": "Bharanikkavu Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "48d9b0f2-4ee6-45c0-b419-b77043f58386",
+    "name": "Champakkulam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "fe694c66-c474-44f5-8d75-2d55940079c9",
+    "name": "Chengannur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "71385b67-bc22-468a-9f42-86017cb63a65",
+    "name": "Chengannur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "40ec9a97-fe2f-4e26-9372-c001388fa224",
+    "name": "Cherthala Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "8c2c6cf3-c5c4-49b0-85c4-66a78c8d7bb8",
+    "name": "Haripad Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "c8e1b82b-03e4-4411-8787-f8d7c1945e95",
+    "name": "Harippad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "f8876724-9eaf-4cd5-ad37-c569885f1916",
+    "name": "Kanjikuzhi Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "ab33b6a2-8096-471b-864b-373562e2064b",
+    "name": "Kayamkulam Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "de7545da-9ff7-4609-aead-995d5725103a",
+    "name": "Mavelikara Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "e4d91648-18bb-47be-9f76-fe5fc1231cda",
+    "name": "Mavelikkara Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "dc99e177-118d-46b7-99f1-0f97d36441b9",
+    "name": "Muthukulam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "28f1b631-5f94-405d-a3dc-d43a171d8423",
+    "name": "Pattanakkad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "50de5cad-257c-4671-bf31-7e73076f66d2",
+    "name": "Thycattussery Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "6a122761-671c-405f-9bbc-6d15c51fd1c5",
+    "name": "Veliyanad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  }
+]

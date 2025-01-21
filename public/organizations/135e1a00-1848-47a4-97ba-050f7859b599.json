@@ -1,0 +1,140 @@
+[
+  {
+    "id": "6d9f1603-3e37-4903-a57a-ca3de1f476ed",
+    "name": "1: THANNIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c18ca06-7582-41e5-bc86-a9517d2257e2",
+    "name": "2: MADHALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68a207d7-3193-4bce-9e92-ad76c8ac91ed",
+    "name": "3: MARUTHA VENGAPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a84fe110-e443-4946-9ecd-b3b1b4c6e9f9",
+    "name": "4: VENDEKKUMPOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ca8adad-3ecd-41ee-b96a-6f4596d73a2d",
+    "name": "5: MAMANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5600d106-3d3d-40a0-8296-b82e3ea9d985",
+    "name": "6: KAMBLAKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4c9d4ac-a542-46ce-a44b-7e5f23984c22",
+    "name": "7: MANALPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "046b04d5-992b-4fdc-8982-e4857d51e2aa",
+    "name": "8: KARAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be14efa6-26db-4c40-b73a-268d02806332",
+    "name": "9: VELLAKKATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c2f0832-ddaa-4276-8d28-ccf9c1dfbc9b",
+    "name": "10: VAZHIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c175608-c0e9-4396-8d5e-3cdc2fd1755e",
+    "name": "11: POOVATHIPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4fb4e5e-63f7-4b59-b26d-d84123bd9f78",
+    "name": "12: PANCHAYATANGHADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9662dc99-ba22-4351-8831-aae16d018e68",
+    "name": "13: VALLIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f1bc1a7-7c3a-4e2d-9940-cb3806189af5",
+    "name": "14: ALAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17aec9bf-b391-4ed4-b794-5dfa70f28aa9",
+    "name": "15: MANIMOOLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a32d05cd-54c7-4a63-a41d-3600d129291d",
+    "name": "16: VARAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5614a0d-3155-4bc1-84a3-a7a95078c3e4",
+    "name": "17: PALAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5b05007-ac65-4ffe-a36e-4774a732023d",
+    "name": "18: MUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cd82ade-71c2-4031-910c-c7c5a4de1a78",
+    "name": "19: MODAPOYIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c5f293d-3d61-4a25-b6d2-d960d58882c8",
+    "name": "20: NARIVALAMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6ec7e8e-bca7-4c27-9e1f-b3f02bb7d3f5",
+    "name": "21: NAROKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd7a1f4b-1255-457e-9433-dc9352d7b6b3",
+    "name": "22: MEKKORAVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f494a331-54bf-40c5-afaf-eff37014ec24",
+    "name": "23: KUNNUMMALPOTTI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

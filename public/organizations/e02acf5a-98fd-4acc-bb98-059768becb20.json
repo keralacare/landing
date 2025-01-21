@@ -1,0 +1,128 @@
+[
+  {
+    "id": "876a8c56-f642-4c97-862a-180de3df97ca",
+    "name": "1: KALAMTHIRUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88d0f77f-4397-41c9-b29e-1ca56631e719",
+    "name": "2: KUROOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6436d657-8a44-4287-9e9e-da4429c8dad0",
+    "name": "3: KADUVALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f42cd93a-c491-482c-b690-54fde60d8689",
+    "name": "4: CHERUMUKK WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c49e64fd-1ce9-40e0-86b8-b5ee32e197c7",
+    "name": "5: ADRIKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e42642ef-1605-43e8-b82b-dd5da84bb7bc",
+    "name": "6: CHERUMUKK TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d36b183-cb21-454c-87f1-110547e9ad46",
+    "name": "7: KUNDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fb88377-c907-49d1-9f98-d4bd4bef98f1",
+    "name": "8: KUNDOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ed2f98a-2fc1-48d3-9925-9d20812548fb",
+    "name": "9: ATHANIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11b20bf6-3354-448d-9021-d4f53e7e6268",
+    "name": "10: MOOLAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e801cb60-c9fb-4cea-9ade-3782fefaca71",
+    "name": "11: THEYYALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bd3f98c-bd95-4b28-98a0-9e5870761bd3",
+    "name": "12: PANDIMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29816f56-d431-4579-89b6-9076ec711e39",
+    "name": "13: VELLIYAMBURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b6de273-c877-4e7a-929a-e4252426bd16",
+    "name": "14: CHOOLANKUNN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "179b8985-56f7-4e9b-a6c4-bc1daf725dc7",
+    "name": "15: MELEPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11779025-4e73-476d-99c9-eb58208f4add",
+    "name": "16: THATTATHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f13eda1-b6cd-4f30-a3ca-bf556124f003",
+    "name": "17: PANAKKATHAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "675fb7c8-1ab3-4c94-8ebf-fd0924056912",
+    "name": "18: MACHINGATHAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f840b56-f1b3-4573-aa10-15180afa234e",
+    "name": "19: KOTATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1638a6ed-548a-4fe2-b9e2-16105223dea6",
+    "name": "20: KODINHI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df0a0df4-69dc-4400-9a1b-331357c59758",
+    "name": "21: THIRUTHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

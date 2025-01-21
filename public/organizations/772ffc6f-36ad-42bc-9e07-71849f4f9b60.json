@@ -1,0 +1,200 @@
+[
+  {
+    "id": "087ec7b6-04a7-47ec-9d3d-72c313cd5307",
+    "name": "1: NADUKIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fdaa7f9-6ef4-4115-9cc5-b856995723b2",
+    "name": "2: THECHYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fec66c5b-784b-4198-927b-250e75a2775e",
+    "name": "3: KALLURUTTY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cc11ffa-3ce4-4101-b525-1cbae68e6cc2",
+    "name": "4: KALLURUTTY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e029a33-139d-46a0-af39-045f593b9064",
+    "name": "5: THOTTATHIN KADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f8f5dee-9d31-41e7-8a38-b0428fc554ff",
+    "name": "6: NELLIKAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7e8552d-fb84-4a79-81a5-2a54debaac52",
+    "name": "7: KANHIRAMUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "809b6ba2-92c2-42f3-b70a-e7b552d9ba50",
+    "name": "8: NEELESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f006896-4b07-43f7-a1f0-b485b4a433ad",
+    "name": "9: MANGAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70663371-b39e-42c9-a797-8a70f6873ac1",
+    "name": "10: MUTHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "959fa199-9ba7-4972-8f86-b61d10de1066",
+    "name": "11: NEDUMANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7b726aa-7e9c-49f5-a1b3-c58359648fd4",
+    "name": "12: AGUSTIANMUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60e43c13-2987-47c4-abaa-84ab823cfde6",
+    "name": "13: KUTTYPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d77256f7-bbc4-4c19-9ceb-b1adcb20ee42",
+    "name": "14: MUKKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab48f516-afd4-4065-8c0d-c00a0fa2a773",
+    "name": "15: KAYYITTAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fe67f1a-d7cf-49f6-96eb-adbf22691590",
+    "name": "16: WEST MAMPETTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d94a79d-aa8d-4e87-9fdc-5f6b40487418",
+    "name": "17: KACHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "705b7cd9-cfc5-4c1e-9fae-80164c136831",
+    "name": "18: KANAKUPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bfb5f01-a2fb-4523-a90b-07461d74806a",
+    "name": "19: MANGALASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bf2f786-90b6-4118-8e01-abb0cee74952",
+    "name": "20: PULPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "651e3f6a-ceee-4d4b-ab98-a7cab1adb0f5",
+    "name": "21: WEST CHENNAMANGALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89750e1c-cb8c-41c3-a344-fe9324bfaacf",
+    "name": "22: POTTASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "376f375c-387d-4366-be26-02c857ddaaf6",
+    "name": "23: KUTTYERIMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ca968d6-d873-4915-8a63-6ac74fe07cf7",
+    "name": "24: MANASSERI TWON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab2f3d13-4a90-4ff6-9577-4deac7fef40a",
+    "name": "25: WEST MANASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce33351b-97b2-44c7-a48c-b7d08c6e2e9e",
+    "name": "26: KARIYAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69674efa-fdd4-405d-b825-fc7f5d545081",
+    "name": "27: THOONGUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "968577b9-48cd-492b-ae7a-03ec31cef2a5",
+    "name": "28: MUTHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb1484f5-3404-4d17-acda-dac18de593b9",
+    "name": "29: VENNAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71c9ee00-9ffc-4628-a7b8-db749f2a08dd",
+    "name": "30: IRATTAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b95cc8a0-cca6-449a-917c-442a69ac780d",
+    "name": "31: MUNDUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41bd99e6-0d03-46f5-ac37-3118ed61985c",
+    "name": "32: POOLAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41725734-7636-4c28-ae73-2ecd7fb20e3b",
+    "name": "33: KATHIYODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

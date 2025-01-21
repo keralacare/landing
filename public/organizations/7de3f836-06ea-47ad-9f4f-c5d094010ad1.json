@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fd452c95-341e-439f-8102-4aae29a3ad4c",
+    "name": "1: ITTIYAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47875e41-ef68-4c72-a608-2293b60425f5",
+    "name": "2: KADAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1147b91c-206c-4ad1-b5f0-4500793acf75",
+    "name": "3: VELLIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93cdee80-701a-4749-a788-c3c0374eacf1",
+    "name": "4: PANNIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02a81e1f-02c7-455b-844d-e6ff0b3fda91",
+    "name": "5: PODIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "15f807ce-89f5-4dc1-a06e-daeca0fa8665",
+    "name": "6: PLANKAMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afafe95f-4113-4d82-95ee-6287e74f04a0",
+    "name": "7: PEROORCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dbde819-8314-4865-a20e-8033d1918f94",
+    "name": "8: EDAPPAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3db0074-de52-4a55-a7f9-fb6d42f7812a",
+    "name": "9: KAITHAKODY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a65f01c1-5bb9-4966-8196-f899d3a3e4b2",
+    "name": "10: KOTTATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae59c526-e6c6-4d91-baf1-b4d58edbce95",
+    "name": "11: NJUZHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33e9ed81-39fb-4118-bed1-94d889b5528e",
+    "name": "12: AYROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af8dab3a-249c-40b4-93dc-48622413fbb4",
+    "name": "13: CHERUKOLPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c620f47-d4d4-4056-b8f0-072724130c64",
+    "name": "14: PUTHEZHUM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3636017c-2ad6-4784-86ac-c2bb7b61efd4",
+    "name": "15: KANJEETUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd5fee48-55a3-4736-b36c-a25b17c9c87b",
+    "name": "16: THADIYOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

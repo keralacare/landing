@@ -1,0 +1,58 @@
+[
+  {
+    "id": "84a7ab45-7819-402a-9c27-fe2d270e4e7b",
+    "name": "Chathamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f2dd11c4-7f0b-47ac-839b-0a308c946add",
+    "name": "Karassery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "88267bc5-16d6-4f24-a8df-9098ad96b159",
+    "name": "Kodiyathur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "bfa528cf-560b-4dc8-bbe0-567e04f3e54a",
+    "name": "Kunnamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9ed2398a-ace8-4111-a1d3-25415f796ae2",
+    "name": "Kuruvattoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "106ab53a-fa8c-431e-b773-493a9abcf198",
+    "name": "Mavoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2a61428f-b312-4ee3-ba3b-01c47f16f279",
+    "name": "Perumanna Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "10306a8c-a9b8-4f48-a347-8cb27cee6c39",
+    "name": "Peruvayal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8477bbac-9867-4ac7-baf6-5f6c4deda1a5",
+    "name": "2: CHENGAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de874a86-782d-4e50-9108-f2fe87ec0a7b",
+    "name": "3: CHENGAL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e85ec1d8-f41c-4fcf-b911-6266e84afb87",
+    "name": "4: KANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f8cff17-f9d2-4d8e-b0cc-33640ba15c95",
+    "name": "5: EAST ANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0e5f4f9-a2e9-487c-95d3-ed912cdfa11b",
+    "name": "6: PUTHIYEDAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1fe7be4-7328-4a58-a20e-12bb873cc745",
+    "name": "7: AARAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aeb0753a-bf9c-41ba-899d-337084d5a39a",
+    "name": "8: VALLAM KADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d2af37e-5e54-4666-b1c1-4be03acdd4d0",
+    "name": "9: PARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb01df57-3920-4bcd-8734-aaff7131ef17",
+    "name": "10: THIRUNARAYANAPURM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bab23047-5fea-4014-9619-9ba69c98cd06",
+    "name": "11: PUTHIYEDAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5fd79ce-a284-43d2-8e53-3c29ad921ba6",
+    "name": "12: BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ded3477b-29d3-4eed-8c5b-7cb9765abb73",
+    "name": "13: PADINJARUMBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f85007e-34e9-42e0-89ac-4d1a74723245",
+    "name": "14: KANJOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95b1e21c-ef96-4ae1-b603-ae5a87677f6e",
+    "name": "15: KOOLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d8166d6a-857c-4b09-9960-b7b1a934e950",
+    "name": "1: VAYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42929c3c-7e6c-42f8-a18c-7e12b5d8c4de",
+    "name": "2: THIRUVATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9daa14f4-48d9-4906-a7a0-30c0bef791fc",
+    "name": "3: PACHENI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f18c5f35-8892-48de-b10b-9c6667f9d2c1",
+    "name": "4: CHERIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3366937-1282-4818-a4f8-a16585c58d7f",
+    "name": "5: KANHIRANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb651d2a-c5b6-4f79-9613-f02e52050038",
+    "name": "6: THALORA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac95a984-f54e-440a-afc6-b864c7e10052",
+    "name": "7: MAVICHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f160056a-86cf-4e02-9b8b-f40e0fb397c1",
+    "name": "8: PANANGATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7c25284-dbd2-43cd-9990-0833bce33f63",
+    "name": "9: KUTTIYERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06761c59-5e19-4b79-9ba5-8fc3b6ff5393",
+    "name": "10: VELLAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "202a842c-a52b-4b3f-bdf8-f3b4f587e8f9",
+    "name": "11: KUPPAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84b16eca-2f1a-4b94-9f59-e64b2b5b4eb8",
+    "name": "12: MUKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25f58118-2a06-445c-bbe1-614e03ed5a18",
+    "name": "13: IRINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0aa73dc0-084d-434a-ae9e-962eadb45add",
+    "name": "14: CHITHAPPILE POYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0837f956-9185-4c1d-9774-0a6feb595656",
+    "name": "15: PARIYARAM CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ed2b3d5-8010-4e10-a402-566e2a8f56c8",
+    "name": "16: EMBETT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b138f090-e20d-4187-8cf4-17ba99e38c1b",
+    "name": "17: MUDIKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57c9cb63-ab77-4143-98ea-a74fe8f7bc28",
+    "name": "18: AMMANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "7d4a8d09-9861-474c-8113-d228cf009507",
+    "name": "1: CHERUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e813d4d-8dab-4dc2-84f4-bdc1b8796489",
+    "name": "2: BADIROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1da45ce4-8ee4-48af-9913-945281b417a5",
+    "name": "3: KOTTUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7c7d8f1-0750-4e2f-95fe-5226b927f373",
+    "name": "4: THEKKANNITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "636b6bdf-44e5-4433-848e-c7f8a99412f8",
+    "name": "5: CHELAPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ee3fac7-6609-4e0b-a2f1-ea97c7d9de79",
+    "name": "6: KOTTAKKAL THAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69e354e9-197a-4bf0-b620-671cbc9e7811",
+    "name": "7: KOODATHUMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2391ece6-3a9f-46af-aaad-eb78f7c90b88",
+    "name": "8: PERINJILAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad24f98b-bf8d-4df3-a017-fcb532614cf5",
+    "name": "9: KANNADICHALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8655274-32ce-4ca1-8878-3cb6d7e83c35",
+    "name": "10: PADINHATTUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5cd575f-d908-400e-a95f-e7302161d43d",
+    "name": "11: KANIYARAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f95b824-a7dd-4eb2-930d-a66757424ceb",
+    "name": "12: VALAPPIL THAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f64a9bd5-4e1d-4078-b927-8555ab04407c",
+    "name": "13: KIZHAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b3c072e-5b8f-4bd8-ab6c-2ff00ae63dcc",
+    "name": "14: KAKKATTUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5202a866-f180-4ef0-98f9-7205315ebfeb",
+    "name": "15: KIRALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8d36046-f728-4883-925c-26cbbdf30926",
+    "name": "16: KAKKODI BAZAR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c48e5a8d-d018-4a7d-9409-922b0e704378",
+    "name": "17: KAKKODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f690c9a7-abe5-4492-a70e-f37519bbc97f",
+    "name": "18: MORIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb366d01-ed27-44d8-9bf4-3fb82b810840",
+    "name": "19: MORIKKARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cdb15db-42e9-4720-ac05-f4637e4b3c8d",
+    "name": "20: OTTATHENGU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8610b847-33b6-48a8-8160-5ee7bfa99d85",
+    "name": "21: OTTATHENGU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

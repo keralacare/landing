@@ -1,0 +1,104 @@
+[
+  {
+    "id": "cf464b52-c509-4c83-a6e9-17d86fbb67e3",
+    "name": "1: KANHIKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a68af122-59bb-4aa9-8cba-8598eeec7f75",
+    "name": "2: THURUTHIYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca5a61b8-7f77-46a2-bbc9-5d20bcae533e",
+    "name": "3: MULLOLITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58849313-37da-437e-b613-8df413a5161b",
+    "name": "4: THATHAMBATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ece8f8f0-bc1e-4f2e-a23c-a0a9d6c3d538",
+    "name": "5: PUTHOORVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a0b7674-417b-4dd7-afbb-579fe2fba5fd",
+    "name": "6: BALUSSERY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62fb0c82-1e08-4a3d-a752-fd1ba6f43c25",
+    "name": "7: BALUSSERY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb0acea1-d92a-4c89-81db-a252a4a14175",
+    "name": "8: BALUSSERY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c188c11-b6c7-4c9f-b638-6428f4064617",
+    "name": "9: PANAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5a18fc1-14b3-42c5-bd05-fb413819fa18",
+    "name": "10: MANNAMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d731ac81-1274-4eda-a9c1-c03f963cb772",
+    "name": "11: PANAYI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d7a03a4-f2b6-4410-96aa-4e948985d3fc",
+    "name": "12: KOKKALLUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6079bfe-4fd1-44e7-a680-6930fe00fecc",
+    "name": "13: ERAMANGALAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "052af7b0-7f05-4269-afcc-3994b08dd858",
+    "name": "14: ERAMANGALAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33589a41-e6f0-4d2f-9ae1-f04909bd9f7e",
+    "name": "15: KUNNAKKODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bc61459-1716-4688-859a-4b3859cbe72c",
+    "name": "16: KOONANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc59dcad-33b0-4c84-9389-ca1a20d5e0bb",
+    "name": "17: KOKKALLUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

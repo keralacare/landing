@@ -1,0 +1,122 @@
+[
+  {
+    "id": "674ded97-ca20-43fb-b2e7-865034de750c",
+    "name": "1: CHEMANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6988d941-673e-4275-887f-588e64ee0492",
+    "name": "2: CHEMANCHERY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "292e3fca-4b9a-4606-afde-b23d602db2c8",
+    "name": "3: KANHILASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "916bb18b-2123-45bc-ba46-48f014c9f2be",
+    "name": "4: THUVVAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f612d5b-b013-4ae0-89d9-72bc6ca22024",
+    "name": "5: KOLAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa7ec84a-8554-488e-8e80-c458c3f483dd",
+    "name": "6: POOKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc39a4da-13d1-44f4-9772-9d811fb54f5f",
+    "name": "7: POOKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c1e25a8-9949-4b66-b1ad-94463c70e466",
+    "name": "8: VETTILAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49261f04-33f2-4aad-9330-4aa0f43918c8",
+    "name": "9: THIRUVANGOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "50498363-ad28-4617-9f76-22b13a3ac1cd",
+    "name": "10: VENGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1581902c-b1b2-4f70-bccb-a7ae49ef2c11",
+    "name": "11: KORAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "409ee540-cd32-4a6f-8692-7018425dc72e",
+    "name": "12: KATTILAPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a08099a9-ecbd-47a4-84f0-645635f5a996",
+    "name": "13: KANNANKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6532cbe3-3c0e-46f2-bd65-35c0283e6e3f",
+    "name": "14: VENGALAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df71f1ea-a4b4-4949-91bf-e9fdef98c183",
+    "name": "15: CHEENICHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f914c55a-b5c2-4aa8-9509-3ecb3804fab5",
+    "name": "16: VIKAS NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2dde385f-0c9e-4d79-a91c-84be830e841c",
+    "name": "17: KAPPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a533b42-56bb-4891-baee-07130bef1b24",
+    "name": "18: KAPPAD NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61514c57-9cb2-45f5-98ab-18c14e9f3667",
+    "name": "19: POOKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68832903-c0c8-4fb9-afe3-c721537ab997",
+    "name": "20: THUVVAPPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

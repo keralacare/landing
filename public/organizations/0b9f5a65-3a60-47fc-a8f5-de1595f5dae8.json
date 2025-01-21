@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c61bc57f-209e-4db6-9bac-15cb2bbcba6f",
+    "name": "ARNagar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c55a50d4-8f03-49d1-857e-e92b21e4036a",
+    "name": "Edarikode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8b1bf1cd-fcac-4c8f-b8da-3ba4e12a7598",
+    "name": "Kannamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3eb5d974-9ae4-4ff7-a57e-d5d6e3c8857e",
+    "name": "Oorakam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ea2d9301-db8b-4fc8-86b5-65f11df9f6f5",
+    "name": "Othukkungal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4526fd36-d8cb-4307-a837-a3ffdc5139a6",
+    "name": "Parappur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "031d13c3-dcfd-4767-9e1e-a2d382103411",
+    "name": "Thennala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c717682e-95fa-4f4e-99ec-dbc392800eb2",
+    "name": "Vengara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

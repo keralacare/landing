@@ -1,0 +1,92 @@
+[
+  {
+    "id": "7fdfa17d-feb5-4eca-a59c-ec715f8b8d2a",
+    "name": "1: PONNIYAMPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3d53e78-e65c-44fa-b610-20b524263d72",
+    "name": "2: MANAYATHVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9264481-bb21-40e1-9c72-703bf1dd9527",
+    "name": "3: THAZHE CHAMPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f95901b3-7484-408b-b522-89b5c09549f5",
+    "name": "4: ARAYAKOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "338c39d4-4da9-4074-b8da-b66f2c37df55",
+    "name": "5: KIZHAKKE CHAMPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d39fceda-a5c6-42a5-8b51-ad0aa7325c44",
+    "name": "6: KOTTAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d3e9e93-a551-420c-a81a-3c33d653ad23",
+    "name": "7: VADAKKE PANNIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc7f9a66-6bf8-4daf-a353-006feac03c8e",
+    "name": "8: KIZHAKKE PANNIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c71e901e-33a5-4c64-9bd1-4d98b26c356a",
+    "name": "9: THEKKE PANNIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c5ea9d6-b661-4177-8592-3525979a87fd",
+    "name": "10: PANNIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "009bc677-8fcc-48be-b39a-5796b32ef431",
+    "name": "11: KUNDUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6457d76-3d40-4949-949a-b8e120a0cad8",
+    "name": "12: CENTRAL MANEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db2ccb79-b13b-400e-9990-8b82de6e9dcf",
+    "name": "13: MANEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61aa986f-f90a-4bad-9f1d-71255a5b1a73",
+    "name": "14: PUNCHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65078db2-6ac2-479a-b18a-a87b618f2386",
+    "name": "15: MEETHALE CHAMPAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

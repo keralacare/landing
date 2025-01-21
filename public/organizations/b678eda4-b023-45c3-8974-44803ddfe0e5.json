@@ -1,0 +1,72 @@
+[
+  {
+    "id": "42f46929-cb6f-42cd-be27-9a311c7e25a3",
+    "name": "Kavalangad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1899fdcd-03d5-47f2-8c20-e14eb1b1fad4",
+    "name": "Keerampara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e18ee20a-97bb-4bde-84f1-d11ffdd264a6",
+    "name": "Kottappady Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ed5e49ca-6ed1-4a90-a60d-423b238bf147",
+    "name": "Kuttampuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c03056fb-3881-4293-aef2-e872f972bb6e",
+    "name": "Nellikuzhi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4859c61b-cd37-4b9c-b01e-84e5b9b6a500",
+    "name": "Paingottoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d1a32ba9-3bf1-42c8-9e10-95b6e3b4016a",
+    "name": "Pallarimangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "355ee6f5-d660-42cf-a9b6-51b3e40b09a3",
+    "name": "Pindimana Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "34ec62ba-e119-46f5-b420-a7321690cc77",
+    "name": "Pothanicad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5c64552e-0a0d-44d8-b85e-68f43cbd4ca8",
+    "name": "Varappetty Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

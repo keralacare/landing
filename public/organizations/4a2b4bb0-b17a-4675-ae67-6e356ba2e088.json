@@ -1,0 +1,116 @@
+[
+  {
+    "id": "c60f2fa0-9bc6-4ef5-ba2b-1746d9e5d545",
+    "name": "1: AMBUNADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3284aa4-4353-4295-a1eb-048a27ad84ba",
+    "name": "2: MALAYIDAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a1fc7ca-5d29-4f2e-816f-274dc2279131",
+    "name": "3: MAKKINIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b214f87-596f-452b-bee3-4aeeedfc3173",
+    "name": "4: KARUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3e26f2a-3fb0-40ba-be94-18f40f97ce83",
+    "name": "5: KAVUNGAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9faf77c3-0534-430c-b799-58558166a437",
+    "name": "6: CHELAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efa08192-d95e-484d-93ff-5cda29a676d0",
+    "name": "7: KUMMANODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "641c1e24-8c61-4ae6-ba46-889a1bcec99d",
+    "name": "8: CHOORAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11794028-a8a8-48d5-a1cb-3664c7985dc7",
+    "name": "9: NJARALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39ecb9f0-8409-4ea3-978f-9b252c6271ac",
+    "name": "10: KUNNATHUKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79c0c29a-138c-4cac-b8a7-d8c072f0fa02",
+    "name": "11: VILANGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dfd67164-288c-4834-b508-ce9825831e1b",
+    "name": "12: POYYAKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b27e469-294a-405b-84b1-d0df22fd21d9",
+    "name": "13: KIZHAKKAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bdf3c86-63f2-4230-b35b-7ab008dce83e",
+    "name": "14: THAMARACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1c01d0a-2916-42f2-82c7-0a4573874792",
+    "name": "15: PAZHANGANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95e46833-2282-47ef-9428-afc5e34861a3",
+    "name": "16: MALEKKAMOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a24171ff-f289-431d-8aad-951ca0838214",
+    "name": "17: KANAMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ff5b0d0-cf80-4db3-b7b8-b03d52db21a9",
+    "name": "18: OORAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d137f8dd-0c7d-4d7d-b590-befa0a0cd5ad",
+    "name": "19: PUKKATTUPADY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

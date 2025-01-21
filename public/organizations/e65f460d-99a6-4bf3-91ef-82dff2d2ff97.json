@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6fa530c5-10ef-4b32-9994-1750de265fe5",
+    "name": "1: THUDUKKI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52045a85-c47d-49dd-acef-bb3aa72f0d39",
+    "name": "2: PALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc82d9bf-0864-41eb-8cfc-ea46c1e20ecf",
+    "name": "3: KOLAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f9a1af7-9c29-4d34-92d3-bc79917e06c5",
+    "name": "4: SWARNNAGADHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ea10640-a0e5-42fd-a157-36cee6719d65",
+    "name": "5: UMMATHAMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d232fe97-4368-4240-ac66-6d5be8b36bd7",
+    "name": "6: PUDUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c67a0f0d-fefb-440e-a26f-342981dc305d",
+    "name": "7: CHAVADIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a3dc3fd-8dc6-4484-ae70-155e612e5811",
+    "name": "8: CHALAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d993142-27d4-49f0-a7ed-391cdc7054ea",
+    "name": "9: MULLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f658863-f1c4-4a53-b484-e77ab4d2cbf6",
+    "name": "10: ELACHIVAZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4464a57-8a1c-4931-9180-4bda284fa2a0",
+    "name": "11: CHEERAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6689af6f-5c4d-4e1a-b424-ccde3a5fff65",
+    "name": "12: PADAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2c2b104-1d4e-48a5-a3f9-8335ec4e90f9",
+    "name": "13: ANAKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

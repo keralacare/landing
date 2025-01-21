@@ -1,0 +1,92 @@
+[
+  {
+    "id": "5dd7b747-dfe7-46a9-a88b-2878daa9dd07",
+    "name": "1: CHOORIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00828e69-5f5f-4abb-bed5-5fa3e484bf48",
+    "name": "2: KOOTAMBADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bb3819e-73a0-4835-ba39-01fed2d2bdb2",
+    "name": "3: VALANJAPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c419f0a4-41ab-4451-9aa3-65b81ba1c8b1",
+    "name": "4: KOZHIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "831415e2-02e9-4fbe-8eee-d418126a2bdd",
+    "name": "5: MUNDAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "740ac86f-7431-47a2-801f-fc0fc97f3074",
+    "name": "6: PICHALAMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa41e0c9-da32-4620-b418-dbe504853d37",
+    "name": "7: PALAKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85bb2ff8-8449-43a9-921e-1331e440ab3f",
+    "name": "8: CHEENIKKAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd1fdf55-d4c0-4e92-a1b2-f757f78f45e3",
+    "name": "9: IRUMBAMUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63338d65-196e-4a92-92a8-0716dbc0509c",
+    "name": "10: VAKKODAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d11fdba-ed29-49cb-b751-dcf0107132dd",
+    "name": "11: CHENDHANDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4407f32b-0bbd-4d53-ae5c-cc95812eb085",
+    "name": "12: PONNAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8550e80a-895c-443b-a1f4-7288f9da63e8",
+    "name": "13: THACHAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27f3dcf6-bda1-4499-a444-5a5bb7681a91",
+    "name": "14: NEDUMANNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec0243d0-b7c6-45e4-bacd-68043820ab27",
+    "name": "15: MATTOM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

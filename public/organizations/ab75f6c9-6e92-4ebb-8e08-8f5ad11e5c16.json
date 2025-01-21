@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e28eda16-e0c6-48c1-bfe1-4de8ec20edfc",
+    "name": "1: GYALAXI NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "047372b0-5626-4a32-b61b-166502c6f885",
+    "name": "2: KAVUNGUMPRAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c662791-d0e6-441c-aa9e-8aea8abd66a1",
+    "name": "3: VENNIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a31fb9fc-9c1b-401b-8534-35ae623de980",
+    "name": "4: VALANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f9948be-f3a4-4ca0-988d-5e135925dcd5",
+    "name": "5: PADUTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61fa24c3-280e-4928-a7d4-e36baa5f4c83",
+    "name": "6: MUTHUPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52a193bf-8761-46ee-beab-6f2336c57801",
+    "name": "7: VELLARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9c7923e-e079-4c38-9d90-0027cdbf97ae",
+    "name": "8: KOTHAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "748ceac6-4ff0-47da-84ae-7d2fe36816ac",
+    "name": "9: MEMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac375ec1-b354-454a-9700-99e820ddd4c1",
+    "name": "10: MUNDAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51472e6e-1df7-4e62-8635-41d664f2eba9",
+    "name": "11: NEELAVATHUKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb5f20c1-e9e0-4a6d-90a4-71ef03275a54",
+    "name": "12: PURAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dac0e13d-d8e7-41fe-ae24-21b0b9b7739d",
+    "name": "13: UMIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

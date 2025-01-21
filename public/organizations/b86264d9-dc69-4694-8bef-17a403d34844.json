@@ -1,0 +1,116 @@
+[
+  {
+    "id": "0c02ed7a-e053-4479-9bd8-432dfe49e081",
+    "name": "1: KODAKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2609cde-3e6b-445c-8ede-880dc11c1cd5",
+    "name": "2: KAVUMTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ea665ea-ef77-4cfd-8fea-df56e911d31c",
+    "name": "3: KODAKARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "346a542e-19ea-4d07-b8af-bf1c9eb3f3ce",
+    "name": "4: AZHAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acc9ea30-c83e-43c3-923b-8d4f58f126cc",
+    "name": "5: VALLAPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db3451b1-f219-4d36-be20-7ea3256509a9",
+    "name": "6: PERAMBRA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5872903-de94-42ea-b7ee-141a1ff8813e",
+    "name": "7: KANAKAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "849a257a-fee6-41ee-8a79-f4e37464e08d",
+    "name": "8: THESSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e920433-5a34-437c-8575-ec8ba065e126",
+    "name": "9: PAZHAMPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a606cb7-ec4a-40c5-aac3-70551126cd4a",
+    "name": "10: PERAMBRA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1566fdc2-2165-46d9-ac7f-3322fafb0b85",
+    "name": "11: NADUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40fb7e57-975f-423c-a05f-c419f4d89964",
+    "name": "12: PERMABRA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32a14e59-c8a8-4eee-ad9a-7c05350c0a8e",
+    "name": "13: MARATAHMPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fca04465-2db8-4c94-8462-7e6fd5ca961d",
+    "name": "14: SHAKTHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44d97f75-73e8-4851-ab7c-62a7b86bee3f",
+    "name": "15: ANATHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea53d1f6-4673-4ae6-b4d1-a551f6f8b71f",
+    "name": "16: PULIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa769b34-4f97-4e33-ba48-e210cfe95116",
+    "name": "17: KAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cea60c7-d0e8-4cf0-af4e-e2112fdc99db",
+    "name": "18: MANAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc90c880-151e-4723-90c3-b353935697ce",
+    "name": "19: VAZHIYAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

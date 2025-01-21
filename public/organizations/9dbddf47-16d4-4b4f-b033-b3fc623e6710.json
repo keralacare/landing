@@ -1,0 +1,140 @@
+[
+  {
+    "id": "4020eef2-0a24-4889-9a0d-c3887c6a970f",
+    "name": "1: MUNAMBAM KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4af92f20-051e-4afd-badd-e70f5fca18c8",
+    "name": "2: MUNAMBAM JANAHITHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfb543e5-6597-4565-bd23-137e650c4724",
+    "name": "3: MUNAMBAM HARBOUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd4501a2-a38a-4980-8905-78902cdfca4f",
+    "name": "4: PALLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23226b4d-347a-46d2-b877-f63f798e8656",
+    "name": "5: KOVILAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ca15269-e4be-4e9d-a155-810dd1e08e0a",
+    "name": "6: KOVILAKAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f903cdf0-bc4e-4dba-b4ad-8b7e236401be",
+    "name": "7: SAHODARABHAVAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95a568e6-9638-4e56-9208-8a27d0fd1bb1",
+    "name": "8: THRIKKADAKKAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1a76961-6a4f-40ac-91df-ba67461c8ab2",
+    "name": "9: CHAKKARAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05f6b93e-48b6-4017-b283-a760ddf2a5cc",
+    "name": "10: PANCHAYAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a466168d-a45c-4c23-99c2-a3c5c8ebb222",
+    "name": "11: KOMARANTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39cf09ef-a60c-4616-b1af-ca1d296ada01",
+    "name": "12: MANAYATHUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fd351f7-eac6-443a-a41a-b59ded214dc6",
+    "name": "13: GOWREESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "103edbff-a344-4d3a-8471-227fa5e94df3",
+    "name": "14: REKTHESWARY KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eea6d0f1-d6e1-474a-b41d-e3e0598b4388",
+    "name": "15: SAMOOHYA SEVASANGHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25ba3c69-4789-44ef-8917-ec695980e21b",
+    "name": "16: PUBLIC LIBRARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58271965-2106-4490-b3a7-9b9edef67b98",
+    "name": "17: NEDIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37f42681-045b-4f27-b14a-ca2bf0c45f06",
+    "name": "18: S M H S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5da17b09-78dd-4d8e-bcd4-3fb8d47b986d",
+    "name": "19: VADEYKKAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f81474ac-d3d1-4d76-b859-b6172081b090",
+    "name": "20: JANATHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30b4d046-ee3f-4080-aabf-eca887522562",
+    "name": "21: CONVENT KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0037e681-7e7d-46ad-9961-10b63414e05d",
+    "name": "22: MOSQE ROAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de279c8f-2303-4e8c-992a-860561cc67dc",
+    "name": "23: BEACH WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

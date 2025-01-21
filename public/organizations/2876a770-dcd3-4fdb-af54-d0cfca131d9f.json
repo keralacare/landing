@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1f799ad1-a3e2-42e6-b473-7ec26cbd7f34",
+    "name": "1: KANJIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3cb1632-3e15-4cae-8a4b-ddbd9727cebf",
+    "name": "2: VELIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61a4faa1-2149-4c95-a020-b86a4e374ac2",
+    "name": "3: CHALIRKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6eb0d81-a20c-4f9d-bb72-12e725171e6c",
+    "name": "4: VALIYAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a17ea89-d613-41cb-8bfe-1c6fe12f5419",
+    "name": "5: ODUVANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc6928cb-3c3f-41dd-86d5-949ca8d9a1b3",
+    "name": "6: KAYARAMKODAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cba1368c-0552-459a-87a6-3afc93b1c9cb",
+    "name": "7: OTTATHEKK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82d6b575-344b-40bc-b797-f02a851e34f6",
+    "name": "8: PALAKKEZH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8d8fa27-cfc3-40b3-85ba-408d8171f6f1",
+    "name": "9: PORIYANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0736b537-6422-43dd-b7a1-2b15e1fced89",
+    "name": "10: KUTTUPATHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1837e997-9798-421d-af2d-94c4fe8461b9",
+    "name": "11: MOOTHEDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0b13b7b-f32d-4bb9-b067-fb757911cdbf",
+    "name": "12: KEEZHPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5f874c5-5777-44b6-b62c-1f1ab3de9027",
+    "name": "13: NAMPULLIPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76de7c6a-f010-4b47-81a7-218ce37b0395",
+    "name": "14: PUNATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42fc73cc-f508-4498-a419-a99ab2eaefbb",
+    "name": "15: PUTHANUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3826ae05-64a8-4d1e-bf69-babbe3c5a801",
+    "name": "16: VADAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47c21771-c8bf-4be0-a239-78cc70e2146c",
+    "name": "17: EZHAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fb3ca62-acbe-46f7-8f89-81049d80dc82",
+    "name": "18: THEKKUMKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

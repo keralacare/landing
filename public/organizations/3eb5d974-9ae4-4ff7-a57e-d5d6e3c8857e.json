@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ce501acc-50b7-4f5e-a66a-4d57614cfbe5",
+    "name": "1: NEDUMPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55e1eac3-bf2a-42ba-bd05-19792c52bcf6",
+    "name": "2: KUTTALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e2dafad-6b58-472d-8d9a-74afe865f9be",
+    "name": "3: O.K.M. NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9eeb927d-732f-4746-a3eb-5c6f2bbe99ea",
+    "name": "4: KARIMBILI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c519e994-0852-4255-977a-c21878e1d182",
+    "name": "5: KODALIKKUND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62bbef0b-1e15-4d5f-8ea9-3d4b71cc2318",
+    "name": "6: YARAMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ca825e4-40a6-4673-a7ad-b733ea90f970",
+    "name": "7: PULLANCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14efadf9-f9db-4767-8406-dd7143547639",
+    "name": "8: OORAKAM MALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7be96a6b-3bed-4fce-99e5-54f64657e523",
+    "name": "9: PUTHAN PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9264c48c-2ffa-4a10-b4a7-c6b7bbf5d76e",
+    "name": "10: KARATHOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df270f30-610f-4a78-8ddd-48e3954c5c28",
+    "name": "11: VENKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1a6ed0e-40f9-46bf-a727-53b32110e438",
+    "name": "12: KOTTUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0335760d-be70-4c6c-a56e-9540d5b60dc3",
+    "name": "13: PANCHAYATH PADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d390de45-ac43-49e0-b190-2204ae7c84f6",
+    "name": "14: VADAKKE KUND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8366730c-ff2f-477c-aa4e-9e881d10995a",
+    "name": "15: NELLIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ce72a63-8adb-4d1a-a87a-25671d732a7d",
+    "name": "16: THAZHE CHALILKUND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46a3147c-b4b5-469a-8db3-0fd556e6104d",
+    "name": "17: MELE CHALILKUND",
+    "has_children": false,
+    "type": "ward"
+  }
+]

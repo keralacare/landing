@@ -1,0 +1,37 @@
+[
+  {
+    "id": "349281f7-c052-4666-acf2-2e28d3caf040",
+    "name": "Kaniyambetta Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f049eb82-b98f-41d7-9274-ff93d1274db1",
+    "name": "Mullankolly Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "da1d4d1c-b476-4651-ba64-2e09be557b8b",
+    "name": "Panamaram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b24ed859-b8cf-4af9-8d88-902763a6e9da",
+    "name": "Poothadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3526f171-6992-4440-8147-81b1e6de5036",
+    "name": "Pulpally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

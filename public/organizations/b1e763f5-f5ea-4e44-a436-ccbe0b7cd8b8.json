@@ -1,0 +1,104 @@
+[
+  {
+    "id": "5898be06-abb4-4db5-b9e7-ea0eca853b2e",
+    "name": "1: BRAHMAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "babbd773-98a8-4e00-ab1f-6fe123a8d245",
+    "name": "2: KARIMUKAL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ccd1c88-e27c-4495-8ad8-0ddc978b23c0",
+    "name": "3: PEECHINGACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e81beee-0d1c-4ae2-8e6c-596929439b19",
+    "name": "4: RAMALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35fec4fa-f081-4d20-8790-4f32274fd82b",
+    "name": "5: KANINADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "239afaf2-accd-4716-a53d-a3a951abb4dc",
+    "name": "6: RAJARSHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7343276-d7f6-4a13-8871-57464e2484af",
+    "name": "7: VADAVUCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98f4841c-5cbf-41c6-8096-b289c56f48a8",
+    "name": "8: PUTHENCRUZ",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12b5a7aa-d505-425e-a022-dd9c7c7fe319",
+    "name": "9: VADAYAMPATHUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a31c3989-c287-4989-ac70-0cc070a7b240",
+    "name": "10: VARIKOLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b93dc71-bcc5-462e-b5a2-2abcdce89d54",
+    "name": "11: PUTTUMANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8919bc74-597c-4246-b53c-9efda64a0a5c",
+    "name": "12: KARIMUKAL SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab718f42-76fc-4f7a-89fe-c84905ea33d6",
+    "name": "13: VELOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8b96059-c04f-4c6a-a0b4-83819c64c0c9",
+    "name": "14: AMBALAMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9133df8e-fbfd-4d92-ad95-140de1c97514",
+    "name": "15: PULIYAMPLLIMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27173739-fc97-4d66-9a09-2de3383dabaf",
+    "name": "16: ADOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6cff80a-766e-4bb4-aa2c-1ea34cc6ef90",
+    "name": "17: FACT",
+    "has_children": false,
+    "type": "ward"
+  }
+]

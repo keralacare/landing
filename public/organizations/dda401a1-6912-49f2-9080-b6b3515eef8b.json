@@ -1,0 +1,110 @@
+[
+  {
+    "id": "993214a7-8c08-45c6-ad52-42bc2a807fd1",
+    "name": "1: PAINOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e851063-4f30-4709-808e-f2ee4dc5c822",
+    "name": "2: KUTTAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "353122b0-7850-47bb-9594-d85b56f7d738",
+    "name": "3: MUNAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "374025f2-a046-4681-aff6-859d30f442b6",
+    "name": "4: EDATHIRUTHY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d96e189e-437e-458b-a56a-8f350b2fda19",
+    "name": "5: CHENTHRAPPINNI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e818be50-18a9-4df7-816d-dcf769e52b3e",
+    "name": "6: KOZHITHUMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3d1e3fc-ee78-4372-918f-2abe30c4dddf",
+    "name": "7: CHIRAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c41c0740-739f-4f22-956f-3fd6a968cc64",
+    "name": "8: MANDALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abff2b0b-4662-429f-9ca2-e1307d966161",
+    "name": "9: CHAMAKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8a437da-21b6-4085-9ebe-715ad61c62b2",
+    "name": "10: THALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "603be85b-1007-4145-b7eb-276bc15ff627",
+    "name": "11: CHENTHRAPPINNI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ae37afd-7ffe-4c37-b10b-48475c5210a9",
+    "name": "12: CHENTHRAPPINNI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0cfd550-f566-4c2d-9959-d736b9a41771",
+    "name": "13: KANNAMPULLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5a49636-75b0-4178-8eca-6a21c96f03cb",
+    "name": "14: EDATHIRUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9459479b-aa40-4a5e-9760-7f3967742b5d",
+    "name": "15: PERUMPADAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da11d452-bd7e-436b-8e59-333aa1379297",
+    "name": "16: BALABODHINI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d7aee29-bbc8-4cb7-81c6-3c568612ff66",
+    "name": "17: EDATHIRUTHY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c8c58dd-53ae-4c14-8219-b8f7662ec427",
+    "name": "18: CHULOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

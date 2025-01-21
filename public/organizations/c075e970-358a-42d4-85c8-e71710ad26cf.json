@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66d44493-ec56-408e-b505-5d137f7d718f",
+    "name": "1: KAVANATTINKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbb50bc3-f867-40ca-809b-7164ac0ecb21",
+    "name": "2: CSI CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68edf7ed-29e3-451c-aecf-5357e2592fb5",
+    "name": "3: MANKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1c90128-64a6-46d3-94f8-d6be96bb7dcd",
+    "name": "4: VADAKKUMKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "549e51ea-363f-41c5-a4d6-8d3f4b7900a6",
+    "name": "5: KOLLAKERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "071dca7b-587e-4172-a686-f39384db2ff0",
+    "name": "6: IDAVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8729512-9610-4d56-9f4e-1f1ba26bd544",
+    "name": "7: THEKKUMKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c75bc40-0c3f-4367-ad7d-e33e86ce929f",
+    "name": "8: ATTIPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfa3f6ac-48fd-4593-8645-b892a22e0fd9",
+    "name": "9: NASRETH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cee4244d-6fd0-4171-b6b4-fe7bc177a301",
+    "name": "10: BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbfb0de8-23ec-4dc8-a1b5-663d0f827bc3",
+    "name": "11: MELEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46cf92c0-be90-4b28-8346-f37f70cbc41f",
+    "name": "12: MARCKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a63e571-8e85-49ed-bd1e-0f356588f3c0",
+    "name": "13: SBT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8558e291-dac0-4616-b461-45a3fc382340",
+    "name": "14: AMMANKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14ec3040-1bfc-4ca2-a5a9-280385ca4652",
+    "name": "15: SREE KUMARAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce023de4-6cea-435a-9ce1-136b9c45da36",
+    "name": "16: CHEPPANNUKARI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "6d7fa9ca-2f2c-4831-9be7-7ffb80e48bc3",
+    "name": "1: ARAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccb5874b-00df-4e5f-afca-b6c774fb088b",
+    "name": "2: KAVUMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da6dce97-888c-4f1c-aea6-69d8b3591c26",
+    "name": "3: KARIPPALANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c08de72-4615-40ea-8121-69c5ad01ef76",
+    "name": "4: KULAMAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65f68bea-5fee-4098-9f5d-dcf81b5835c0",
+    "name": "5: URUMBULLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "898f22f1-5686-4b6b-97b3-4fc4026cc3ff",
+    "name": "6: JALANDHAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84a1c891-3306-46da-abbf-103e091760e4",
+    "name": "7: PATHIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4eec071a-98e5-4d43-8152-272636f93fa2",
+    "name": "8: EDADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "753460af-5da0-4fdc-9b16-7f16d0c6d9f8",
+    "name": "9: ELAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4029bab0-cf67-463f-a32d-fca6595223a0",
+    "name": "10: KANNICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a5a6e9a-68e0-4fdf-9cba-7431af47b20d",
+    "name": "11: K.S.E.B COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dffdaf46-d06b-4e13-8e3e-99acbe60b781",
+    "name": "12: MOOLAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29aba981-911c-442d-a6f4-2d14f1472f7c",
+    "name": "13: A.K.G NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ade70414-8553-4beb-a485-a2bad500a50b",
+    "name": "14: 12TH MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f43b851-418c-480c-b337-6a4a629dcfdd",
+    "name": "15: MOONNUKAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

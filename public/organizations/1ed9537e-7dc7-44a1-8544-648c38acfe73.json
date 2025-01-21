@@ -1,0 +1,116 @@
+[
+  {
+    "id": "dd12b186-5622-4559-b4f1-c963c3ebb667",
+    "name": "1: PARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c184ac67-ec8b-4c48-a11e-8ec24fc6945e",
+    "name": "2: VARIYATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e743acda-629a-40b6-9a8c-463f61a93613",
+    "name": "3: RANDATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1931af4d-6910-4b61-a2c9-7eee27bf7c32",
+    "name": "4: KIZHAKKEPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7101879f-675d-472c-97fc-2612e70f09a0",
+    "name": "5: THARALAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6972543e-5345-4c48-9660-af4b7238a3e1",
+    "name": "6: MANJACHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77e4110c-d134-438b-9155-f861213460c0",
+    "name": "7: KALLINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5985205-b40e-42d6-bc52-240f79260f11",
+    "name": "8: PARAVANNURCHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e867c71f-2cb5-4152-b0a7-6f5dee2c30cf",
+    "name": "9: PADATHEPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "905b29bd-ea41-4b2e-975d-b4e8be4a87f1",
+    "name": "10: PARAVANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66cd265f-a84f-4f25-b598-2c16bcada30e",
+    "name": "11: AYIRANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b244a25-f3ae-437c-9e6c-ae121791e059",
+    "name": "12: KADUGATHUKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9a5ef19-30b3-4af4-9924-8e61ac8b5549",
+    "name": "13: KALPAKANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ee6e969-3fff-49b9-b9e9-190e503d3e0a",
+    "name": "14: THOTTAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2927da6-0eec-4b37-86cb-a38e1ab22e12",
+    "name": "15: KANANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bda2f34-5044-4dbc-848b-5929b480a81b",
+    "name": "16: PALETH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b67d1d3-3a75-4b4f-808e-523cf9e1fad8",
+    "name": "17: VARAMBINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cccaa2a-a4bd-4944-94d4-535b908b73e0",
+    "name": "18: KALLINGALPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b7a080a-3adc-44cc-b04b-5a459c9c3dab",
+    "name": "19: KUNDAMCHINA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

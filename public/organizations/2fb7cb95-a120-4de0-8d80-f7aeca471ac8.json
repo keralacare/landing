@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ba048114-df17-48cb-a7a4-a84baa1b019b",
+    "name": "1: AMBEDKAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acd611df-193b-43aa-9f6f-0def1071bf35",
+    "name": "2: VESHNAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4e83a95-ed88-4d25-9faf-eb433706672a",
+    "name": "3: NALUKODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3b64e94-940d-4ccb-b253-b0a162e7df40",
+    "name": "4: P.H.C",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04772575-cfd5-4dee-9a9b-131f6db965d3",
+    "name": "5: HOMEO HOSPITAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a58fc564-db8c-47a7-b641-e0b647990cb3",
+    "name": "6: VALLAVANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52854582-1bdd-4519-a9fe-9445014e495d",
+    "name": "7: MACHIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b85a131-9ce4-47a0-9f63-85b94ce059c0",
+    "name": "8: PALLICKACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63804b87-a859-4bb2-a17c-56fe8344493c",
+    "name": "9: BIBLE COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8758bda-0b80-43e2-bd9d-3bf97831ccde",
+    "name": "10: PAIPPAD TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88249570-c588-4fde-be46-a0ddad1b88ac",
+    "name": "11: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c71b326-f535-4d98-8193-9e15d467c236",
+    "name": "12: THURUTHIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41ff9920-be9d-488e-aff3-dbb1b35b0ba1",
+    "name": "13: U.P SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09c2f0ec-324c-4b1c-9e38-8131faaba427",
+    "name": "14: CONVENT WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bd711b1-fcb4-43b4-b8db-c7b531a0b99a",
+    "name": "15: LAYIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e95c8de-9d66-44b3-ac9d-8e7a06b1b5c0",
+    "name": "16: POOVAM CONSTITUENCY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

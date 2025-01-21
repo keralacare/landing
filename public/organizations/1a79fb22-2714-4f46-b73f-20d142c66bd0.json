@@ -1,0 +1,116 @@
+[
+  {
+    "id": "4e8d5cd6-aada-4f92-a2c3-63f544063abe",
+    "name": "1: KOLATHUR-PALAKAPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d67dfaaf-883f-44e5-bf6e-fa3cc0af39e3",
+    "name": "2: KOLATHUR KURUPPATHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b780a8f2-6a57-458e-8ad8-2b9ca2c6a0e8",
+    "name": "3: KOLATHUR VADEKKEKULAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bde9432-f481-4b92-b5fd-049d86e043d2",
+    "name": "4: KOLATHUR CHANDAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3928e65-bec9-4396-ad97-e0dae7c07375",
+    "name": "5: KOLATHUR ONAPPUDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3c46212-7753-44f8-b8f9-6ce56f8009cb",
+    "name": "6: KOLATHUR STATIONPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "169d25fb-f13a-45af-b9e6-f08239eac7e5",
+    "name": "7: KOLATHUR AMBALAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1f4c3e0-1002-464f-8b0e-1ddd691f2660",
+    "name": "8: KOLATHUR ALINKOOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6070ec41-dec0-44f5-be38-f89a2dc219e3",
+    "name": "9: PUNNAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c510b3e-9744-4099-a4a2-56aa0a3cd06c",
+    "name": "10: MOORKKANAD KIZHAKKUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "936e876f-260b-4482-a24e-248ea2667035",
+    "name": "11: MOORKKANAD KALLUVETTUKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9cb931b-ed30-4778-9096-eaaa7848d956",
+    "name": "12: MOORKKANAD PADINCHATUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "150d9e3c-a3c1-4446-a3a8-b54d0724ba6c",
+    "name": "13: VENGAD KIZHEKKEKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bc7a282-9f37-4177-8e3b-49318d17f973",
+    "name": "14: VENGAD KIZHMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb60db70-b532-481b-97e2-2d6ed19e3db7",
+    "name": "15: VENGAD TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0eda10d-174e-48bc-a82f-56d765c966f0",
+    "name": "16: VENGAD PALLIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ada9b541-dcfb-407a-a9ee-0e46aa0a2d30",
+    "name": "17: VENGAD MELMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5508d5a9-7df2-40a1-9dc5-9c7cf367aa2c",
+    "name": "18: KOLATHUR THEKKEKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d8a0453-a32b-4604-a869-cf550cf6c7dc",
+    "name": "19: KOLATHUR PADINCHARE KULAMB",
+    "has_children": false,
+    "type": "ward"
+  }
+]

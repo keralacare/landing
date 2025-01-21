@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6923adca-6b20-493b-bb92-0111f62174bf",
+    "name": "1: PARAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56e42d77-c29a-4c9a-a259-d820e750a231",
+    "name": "2: THENNATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9804ae8e-7973-4f1a-8689-76a934dccaff",
+    "name": "3: KALIYAR ESTATE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "870cc9e3-0939-400c-93dd-b1ec966e69b6",
+    "name": "4: KODUVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0711c06b-508f-41c3-bfc7-991a80f6e397",
+    "name": "5: KODIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26324fcf-4981-4b2c-8715-9d248260766f",
+    "name": "6: CHERIYANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abebd7f0-804b-469a-8b1d-575fcebccd35",
+    "name": "7: VELLAMCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0feef884-bdfa-4806-8bc8-a32c5a39e74f",
+    "name": "8: NEDUMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a54d3bb7-2433-49d3-abb1-af3f16351852",
+    "name": "9: VANDAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6b82638-5c67-422c-837b-00f2c71d34b6",
+    "name": "10: IRAMPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88521bc8-be12-4537-8479-2987f7763d4a",
+    "name": "11: CHERUTHOTTINKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a6a2249-d9d1-46d1-9b95-405036b7a3c7",
+    "name": "12: IRAMPILLY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "071fd6c8-a238-4be5-9002-7582e60b5b6e",
+    "name": "13: WEST KODIKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

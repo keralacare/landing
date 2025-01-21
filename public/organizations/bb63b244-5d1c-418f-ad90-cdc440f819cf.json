@@ -1,0 +1,170 @@
+[
+  {
+    "id": "20ceb86b-c9bc-4d67-be31-154954dc6c7d",
+    "name": "Anthikkad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "f33bab0c-88aa-4fa6-a18e-c1a284fda40a",
+    "name": "Chalakkudy Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "5145bc12-a1ae-4e0c-bd89-0eadde0775ec",
+    "name": "Chalakudy Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "9871998f-efe7-460e-8f9b-0d4ba14bf745",
+    "name": "Chavakkad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "95af7d83-45bb-4ca7-8460-a53c2e7865d6",
+    "name": "Chavakkad Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "985388a0-00f6-4215-a4d8-bb7db41048d4",
+    "name": "Cherpu Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "bae42bf3-8589-4d3e-9d3e-ba0df92904fc",
+    "name": "Chowwannur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "7b0710db-68d2-4e3b-8ce4-acc6e4fc0f58",
+    "name": "Guruvayur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "a9a9eef5-1b41-4713-81b3-069f80c1c285",
+    "name": "Irinjalakkuda Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "eaa4180c-5fdc-4d1b-b289-f2c537ac5189",
+    "name": "Irinjalakuda Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "81663887-6d08-419c-96d8-c23a0e76063b",
+    "name": "Kodakara Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "66cc620b-998b-4c04-a16d-d897dbbfa6e9",
+    "name": "Kodungallur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "a7c4a71a-290c-4875-8ece-d7f11b0bc947",
+    "name": "Kunnamkulam Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "81b8c06a-3e18-48ec-babe-9e940fe2759a",
+    "name": "Mala Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "2becb86e-f814-47ee-ae6d-339b9f848df5",
+    "name": "Mathilakam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "c27fae7b-e770-4066-9317-13f6aeab4ee5",
+    "name": "Mullassery Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "a1068973-3ce5-4da5-bb83-caf656865474",
+    "name": "Ollukkara Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "8f58cdb1-a8ae-4bb5-b350-df6262c8a265",
+    "name": "Pazhayannur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "e47ed908-c5c4-4925-a1f4-10de41f6b194",
+    "name": "Puzhakkal Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "34e53499-dd98-4144-b997-5a0d060ea4d6",
+    "name": "Talikkulam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "0ddca58e-a141-4353-889a-a131ec55b10d",
+    "name": "Thrissur Corporation",
+    "has_children": true,
+    "type": "corporation",
+    "children_type": "ward"
+  },
+  {
+    "id": "486d9bb5-571b-4ef1-a004-98d775d2a8d5",
+    "name": "Vellangallur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "1455595b-06da-4109-bd17-53ae136b94da",
+    "name": "Wadakanchery Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "d0d4fbee-9286-485a-a949-477b7efdb376",
+    "name": "Wadakkanchery Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  }
+]

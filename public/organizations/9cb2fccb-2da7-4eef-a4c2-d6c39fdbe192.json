@@ -1,0 +1,37 @@
+[
+  {
+    "id": "54cc5f31-2fc1-41f2-a57b-52b5973aaa7d",
+    "name": "Chendamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3aeee82d-bc9a-41bc-b06a-ef18e5dc5558",
+    "name": "Chittattukara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "73b4623f-ee6a-47ac-aa83-f0aefa70db38",
+    "name": "Ezhikkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "85d573ab-72df-4577-b90b-846701199092",
+    "name": "Kottuvally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9bd65e15-d84a-4374-93e2-7740c8755925",
+    "name": "Vadakkekkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

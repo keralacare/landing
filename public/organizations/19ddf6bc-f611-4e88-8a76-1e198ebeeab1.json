@@ -1,0 +1,200 @@
+[
+  {
+    "id": "41e615ed-c9dc-4231-bd8b-ed703be05848",
+    "name": "1: THOTTAKONAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc90e405-4472-4155-8edd-7af21903abc2",
+    "name": "2: THOTTAKONAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffe94497-4d3b-4b58-9fbc-1bedf330cf15",
+    "name": "3: MULAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0712bf6-9f73-4365-85a7-b390c38e583f",
+    "name": "4: MULAMPUZHA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0a79dfd-7dcf-4940-a94a-0cb06fefe317",
+    "name": "5: MANGARAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffcd6ca0-7687-4d28-95c7-46f48b485dbf",
+    "name": "6: MANGARAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a4ec006-7725-4453-b179-49fce336230c",
+    "name": "7: THONNALLOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6c83201-d4d7-4029-a6c7-b87be05429df",
+    "name": "8: THONNALLOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fe1150a-e356-4b19-b770-ed75bdfeb414",
+    "name": "9: ULAMAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59166371-b9ed-493d-bafd-b6324a09aa12",
+    "name": "10: KADAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30067c26-fc2f-47fb-af57-79427f97a7d0",
+    "name": "11: KADAKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80694fc8-7d40-4fa2-a76f-025756aeac45",
+    "name": "12: KURAMPALA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e71c78c1-7fe9-4d29-940b-97c3c02f398a",
+    "name": "13: KURAMPALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39713689-f864-43ed-8c2a-26df1db11de0",
+    "name": "14: KURAMPALA TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cbcdb55-6ab0-4512-8276-fca99a2e518b",
+    "name": "15: KURAMPALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69e6c6f6-382e-4044-bcc0-161a00a8f315",
+    "name": "16: ATHIRAMALA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "271ce90a-b030-4970-8937-3b63da89563c",
+    "name": "17: ATHIRAMALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3de2014-e94c-43fa-9b39-43055991df7b",
+    "name": "18: IDAYADI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c4ed2b3-81eb-4388-b4b8-c8a7bcc4d54f",
+    "name": "19: IDAYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0f7c5cd-79e1-4806-a899-dc8cec96bab7",
+    "name": "20: THAVALAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2db4b4b-2a2d-42f6-a682-e2cc48bb29d7",
+    "name": "21: THAVALAMKULAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c32e036-6ea4-46ea-a8a8-e76709de903e",
+    "name": "22: CHIRAMUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71726cec-491f-4562-97c3-6997bd91de25",
+    "name": "23: CHIRAMUDI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0da96aee-1ce0-4b19-9161-ca9b7c9af98d",
+    "name": "24: POOZHIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47a6e3c4-478e-485d-b74d-fc60c7d0c137",
+    "name": "25: MEDICAL MISSION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03404fe7-de00-4b70-85b2-47260a90217a",
+    "name": "26: PANDALAM TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b4c1171-3018-448c-8813-ad6e2c797fc8",
+    "name": "27: PANDALAM TOWN WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bf89857-844b-4f89-ad12-97e692492c12",
+    "name": "28: MUTTAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d798f065-ed45-4cbe-abcf-131164c9d3ea",
+    "name": "29: POOZHIKKADU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74f48628-bccd-4f96-9c5b-08ad8f8e3db4",
+    "name": "30: M.S.M",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fdd3fc6-ce62-4bbb-9303-d6ef36248b9f",
+    "name": "31: CHERIKKAL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "977de424-14a5-4096-9d5c-48dc0394cb3d",
+    "name": "32: CHERIKKAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "690ce697-ce5b-4e41-82e4-3001d03fa391",
+    "name": "33: MUDIYOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

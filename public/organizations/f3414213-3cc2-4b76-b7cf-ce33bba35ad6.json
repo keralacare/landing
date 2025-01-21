@@ -1,0 +1,104 @@
+[
+  {
+    "id": "cc1f9b2f-4ffa-4518-a2f7-ed83457d4340",
+    "name": "1: EZHAMMILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11213d08-8dca-4a7c-8765-e56992606343",
+    "name": "2: MANAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53daa657-ab89-4bd3-bc85-e6f9c2b0d517",
+    "name": "3: NILACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e067684b-5fb1-44f6-ad33-fed21a8b7005",
+    "name": "4: THALAYATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dbd81e42-00fb-471d-9928-3c999040def7",
+    "name": "5: THETTIMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "964b36ae-a7fa-48b2-8129-5c340415b3e4",
+    "name": "6: KEECHAPPALLIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1c15188-1f69-48da-b974-82233d10722b",
+    "name": "7: IVERKALA NADUVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1873db47-f1a2-4576-9613-f382c3415456",
+    "name": "8: PUTHANAMPALAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bb05077-5397-4277-bec3-b2d63264ac24",
+    "name": "9: PUTHANAMPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "13b4816e-b02f-4a27-a764-af1300f4f3ff",
+    "name": "10: NATTISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5d0f5e5-c3dd-4546-b52f-cada38963f49",
+    "name": "11: NEDIYAVILA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55ffb20a-5a2f-4ebf-be46-0af961a705e8",
+    "name": "12: AATTUKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ad46bcd-1cdd-4210-9421-312e0c20fe66",
+    "name": "13: NEDIYAVILA TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe606f72-bea2-46f3-a26d-6852b3334788",
+    "name": "14: THURUTHIKKARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d377eae0-6f01-483f-a0de-b91606159a73",
+    "name": "15: THURUTHIKKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8d4fcbd-3cde-4c0c-8dc8-4ffca4a0bc0b",
+    "name": "16: KUNNATHOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85c0fb76-1925-4b87-b018-a50ac32bf052",
+    "name": "17: BHOOTHAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

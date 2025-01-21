@@ -1,0 +1,92 @@
+[
+  {
+    "id": "138f00b3-cb16-4ef1-a2ab-156b0d7fbf30",
+    "name": "1: THOTTAKOM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "845596ee-bbc0-43ff-bdef-c61e1e437246",
+    "name": "2: THOTTAKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "535ef269-92fe-4b43-b82a-9b12b6d31fb2",
+    "name": "3: THOTTAKOM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3dd73e8-3749-4e75-8dfe-fb0fa4ca67eb",
+    "name": "4: KOOVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce27ca6d-e420-448e-9fa1-bc113c2aa1bf",
+    "name": "5: ULLALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3cabf05-6dad-4e48-9ea2-23422a3e1c22",
+    "name": "6: ULLALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc0b0e6c-6059-4326-9390-43a7d6cd7071",
+    "name": "7: PALLIYADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efbf9902-c40a-47d0-9ffb-8b74a52b9c36",
+    "name": "8: PUNNAPPUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa71780d-61c5-4b1a-aec3-46b39a2f6df6",
+    "name": "9: THALAYAZHAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0690320-3aec-40af-ae65-0572bc4d4133",
+    "name": "10: THRIPPAKKUDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "097cab18-338a-41aa-8c92-da403a36837f",
+    "name": "11: PUTHENPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc73dead-ef05-4460-9d59-86f48d63d8f8",
+    "name": "12: MADAPALLY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1be1cf7-ce12-4436-8e9d-06e118f26705",
+    "name": "13: KOTHAVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2eabc39-7655-482a-b291-2063fc860233",
+    "name": "14: KOTHAVARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "151f346c-306f-47a3-a309-4d31927afdb3",
+    "name": "15: EDA ULLALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "a7948216-7c8f-4d0a-ad7f-ad1efe960060",
+    "name": "1: NIDUMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "763024e2-bda8-4920-8ecc-7198c0d92ba3",
+    "name": "2: NIDUMBRAM VAYLIL PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b9e1f70-df02-4e45-a6d4-f23918dc74b3",
+    "name": "3: REGISTRAR OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bae7ef55-8ca3-4808-8452-adfa746fa580",
+    "name": "4: MARANKANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6acc59ae-44cf-48ff-b806-50cb6e0abc74",
+    "name": "5: ANDIPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2770b495-a2a5-41ef-bd4b-bcfbde836585",
+    "name": "6: KURUNTHALIPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1aaf8627-1805-4f68-b779-87a050ccfe05",
+    "name": "7: KUTTIYILPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b11ad6d-3668-4574-9007-5bc768941f2d",
+    "name": "8: MEKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cb7cd74-d9fc-43d2-b336-c44d329b0728",
+    "name": "9: KANHIRATHIN KEEZHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddffd3b3-fb39-4b05-83ff-84bb1a369827",
+    "name": "10: MATHIPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "559ba705-3b3b-4284-8672-f6a49f341f2c",
+    "name": "11: NARAYANAN PARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c372dca-bac2-459f-b74b-d8718417973c",
+    "name": "12: OLAVILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb4bc7f3-8579-41c5-a8bb-d53dcd718566",
+    "name": "13: MEKKARAVEETIL THAZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87b44e25-1a48-4302-9949-dd0030069db1",
+    "name": "14: KAVIYYOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a17cec27-1cf9-4fd9-a91a-840a0fce054e",
+    "name": "15: KAVIYYOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11127a9d-e537-4292-bd41-d1901e920dd0",
+    "name": "16: CHOKLI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ed3a4a4-0522-4c66-9557-25c25ad2f7f6",
+    "name": "17: NIDUMBRAM ILLATH PEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

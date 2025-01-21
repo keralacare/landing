@@ -1,0 +1,191 @@
+[
+  {
+    "id": "8455af5d-19fe-4501-8104-e9d31c3fc999",
+    "name": "Areekkode Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "16c8dc4c-f6ee-4a59-bc05-28b03a73a994",
+    "name": "Kalikavu Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "d3512443-40d3-4ee2-a66d-aff7579d9a6b",
+    "name": "Kondotty Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "6349deef-a02d-4702-a4b8-ea6f9c4be4d9",
+    "name": "Kondotty Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "96258d07-d3d3-4054-b467-371c8a6b1f84",
+    "name": "Kottakkal Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "7e5d661e-e0b5-43cb-9708-defccbf59881",
+    "name": "Kuttipuram Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "ee00d5ac-ac84-4a5c-adb4-8b7b312e0f0c",
+    "name": "Malappuram Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "a9059270-24f9-4db1-9865-a4091add0f4e",
+    "name": "Malappuram Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "37374903-03e7-4629-8553-2c24a175efdb",
+    "name": "Manjeri Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "0b84b02e-541d-4b0e-af45-c129de107e5e",
+    "name": "Mankada Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "26812ef2-1740-4b6f-8f21-1aee7f69218f",
+    "name": "Nilambur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "71c2f7ca-2caa-42c6-a010-db8814d1dcee",
+    "name": "Nilambur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "77f9d02f-d86a-4726-a3f6-50d7c729850d",
+    "name": "Parappanangadi Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "0608ed31-4e2e-4635-9bd3-c166d333d4a9",
+    "name": "Perinthalmanna Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "6d3755f8-5172-44d5-97b4-aeaa51daa913",
+    "name": "Perinthalmanna Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "5937bbb4-3da5-475e-ba0d-c01358281ac2",
+    "name": "Perumpadappu Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "8a5ec28a-d146-4065-9564-ebe49d3edb32",
+    "name": "Ponnani Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "17a1561a-88d1-48a1-80aa-725864b0b009",
+    "name": "Ponnani Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "7e73bcc7-1e18-4a8e-ad81-11a2c119429a",
+    "name": "Tanur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "3c0f82e3-8d71-4ba5-bd69-aaaae27b782d",
+    "name": "Thanur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "c507cde5-253c-44d4-87f1-413cfb3dcf26",
+    "name": "Tirur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "f5c188c4-c497-4d05-aca4-565016c178aa",
+    "name": "Tirur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "35274d6f-5758-4279-978c-d18cf391316e",
+    "name": "Tirurangadi Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "b8bac3bc-9d9c-497c-849b-00eff57af0d9",
+    "name": "Tirurangady Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "b02d1343-3a91-4899-b521-7a2f528a5f69",
+    "name": "Valanchery Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "0b9f5a65-3a60-47fc-a8f5-de1595f5dae8",
+    "name": "Vengara Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "40ed5b7a-26ab-47ca-8178-2adddcef2796",
+    "name": "Wandoor Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  }
+]

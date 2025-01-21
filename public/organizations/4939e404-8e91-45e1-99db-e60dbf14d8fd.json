@@ -1,0 +1,104 @@
+[
+  {
+    "id": "804f4cd2-b63d-477e-a00a-342b178f029e",
+    "name": "1: ANDIKKADENKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3780633f-562b-4ec0-a9a0-c8c6bae34c26",
+    "name": "2: AZHINHILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89b9db90-1a77-4a89-8887-1a3a9454c82a",
+    "name": "3: KARAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2a5bba3-40b8-4e88-ac66-96e36b26768d",
+    "name": "4: PONNEMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61657ff7-4fbc-4b96-bc4b-a1999d16f08a",
+    "name": "5: THIRUTHIYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0b4e8a2-646b-4089-9aca-e7a374da5eee",
+    "name": "6: PUNCHAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6038510-4aad-4858-81b0-d9805d24d5fd",
+    "name": "7: MUNDAKASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81535167-e590-407a-9fcc-0778dbe8c37e",
+    "name": "8: VAZHAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "706ba362-90d2-4e15-b650-7e88f02571d8",
+    "name": "9: ALUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e056ff0c-6c07-4d9b-af8c-f097a28c45b2",
+    "name": "10: KAKKOVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b96eba8-14f6-4599-89f4-4e5e4229fbc2",
+    "name": "11: KOTTUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3752fb43-d02b-4c49-910c-2bca74608594",
+    "name": "12: CHARALODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8da8e22a-c765-43fd-8e1c-b6d773dd621c",
+    "name": "13: EAST KARAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9777586-5fbf-4ecf-a04a-4666ef7f09fd",
+    "name": "14: PUTHUKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07bcbdaf-94d9-439f-8dd0-b1a3e2a06a68",
+    "name": "15: AREEKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d77261f7-c618-499f-a7d2-e030642d733d",
+    "name": "16: PARAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89adfe75-304e-44ea-9ea1-b59267e28ed8",
+    "name": "17: KALIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  }
+]

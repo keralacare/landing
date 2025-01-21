@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1ab3f081-8392-4811-80fd-99664001c0f3",
+    "name": "1: MULAKUKODITHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1aeb454-e4d7-4231-851d-bcda57713d3e",
+    "name": "2: KUMMANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8fce295-c082-42c9-8e82-9622c875bcf3",
+    "name": "3: KOKKATHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31641853-97a9-401f-9a69-51ac7ac1e69f",
+    "name": "4: NELLIKKAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38adef3f-409b-41d2-bc0a-51311eeb4a43",
+    "name": "5: KALLEITHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb3cff8f-d55e-4593-8151-95f7a9dbe288",
+    "name": "6: KALLELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52883b93-13ab-4445-892f-d1df784b5f0f",
+    "name": "7: MUTHUPEZHUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1ea14ed-554f-49e9-a501-ce1fc51c763f",
+    "name": "8: ATHIRUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d8a3930-c0f3-44a3-ab81-09657eaa963d",
+    "name": "9: MLANTHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4bd4774d-2187-4f5e-93ac-c23f602e07a4",
+    "name": "10: PADAPPACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "732adbad-f2af-47e7-b41d-ce90723f81cc",
+    "name": "11: OOTTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47759eaa-f9ab-440a-bcd5-4feaefe8b23a",
+    "name": "12: PULINCHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87573454-efb0-43ee-83e7-279af98e2e99",
+    "name": "13: ARUVAPPULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a15db93-a864-468f-a604-98d46997ccf7",
+    "name": "14: MAVANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4be57dff-2cf9-4f2d-b5a1-d75ffd5ec8aa",
+    "name": "15: AIRAVON",
+    "has_children": false,
+    "type": "ward"
+  }
+]

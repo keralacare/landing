@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e342a6c2-8e7e-4516-b1e2-53f21349ba2f",
+    "name": "1: KOTTARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58dd0f8d-8b4c-432f-b07f-9da602a8319d",
+    "name": "2: KUNNUMVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7d456d3-6c74-47dd-b977-26716373da7f",
+    "name": "3: THACHAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e055eb4-f4ba-4e57-8592-bd0c335b0ba5",
+    "name": "4: POOYAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "335f2e03-19b8-4294-8d9f-440fd40607ea",
+    "name": "5: KANJIRAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6a2cc90-b45f-4b18-b5d3-e2b1aac43a77",
+    "name": "6: MYLODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f011e6d1-ae2d-4bd8-b565-da474518c8ec",
+    "name": "7: NELLIPARAMPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b198e85e-6024-4fba-b1b4-ca6ad416ffc1",
+    "name": "8: VENKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6eb4c55-c8f0-4e19-8874-e1f9d66e7f74",
+    "name": "9: KOZHIKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e22a5a6-ad77-4a26-b1f9-6f469da328f2",
+    "name": "10: KATTADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8ccf2ab-3edf-425c-84eb-c58411d20b02",
+    "name": "11: PAYYAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82bb6068-4daa-46f8-81ba-e960b6a3e1af",
+    "name": "12: KURISUMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdc929f9-b4f8-4a19-9230-f0eac266840f",
+    "name": "13: CHENKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b2bb6ad-c235-4c72-ab2d-a7511059908c",
+    "name": "14: MARUTHAMONPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da4ae0b9-0d16-4200-86cd-ff400562a7e2",
+    "name": "15: PUNNAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5fd5b14c-74ca-49c0-9abf-51969e3fbc3f",
+    "name": "16: NALKAVALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

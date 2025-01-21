@@ -1,0 +1,86 @@
+[
+  {
+    "id": "850cd36f-2ffb-43a8-8592-7bcbe80ec1d1",
+    "name": "1: NEYYASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b1105db-dec9-4c6e-8755-b62d9b7effe2",
+    "name": "2: ANIKKUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7785b90-980d-4c88-a358-a20a1340143f",
+    "name": "3: THOMMANKUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a117e53f-e885-4ece-9a7a-21619ed35263",
+    "name": "4: MULAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bb04a71-d921-4b33-9883-2b9ce08ebda4",
+    "name": "5: KOTTAKKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e579ec72-d575-4542-a58d-012c133b1dad",
+    "name": "6: NELLIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c33e0e8-4e0a-4ce3-980f-3da8bbe087df",
+    "name": "7: PAZHOOKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f506a3f6-316e-4444-b48a-6687de4e143e",
+    "name": "8: PALLICKAMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61f48247-2810-4698-a6dd-01f2170533c7",
+    "name": "9: PANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "559ff95e-5d1c-48b4-8f72-396c7caab4a7",
+    "name": "10: CHERADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58b28757-5be8-4f11-a2c6-cfb62202c412",
+    "name": "11: KARIMANOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6649c0ea-3997-4389-ab3d-a3253b93747b",
+    "name": "12: KILIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00b9e72c-a667-42f2-beee-adf4891ca0b6",
+    "name": "13: EZHUMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b8ed0d5-8c58-43c5-a2ee-089a9ea6573d",
+    "name": "14: KURUMPALAMATTAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

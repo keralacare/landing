@@ -1,0 +1,104 @@
+[
+  {
+    "id": "bb911a6e-72c9-4e80-8c0d-7d19c8b67758",
+    "name": "1: PALAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41e0efaa-6852-40f7-a601-93a6f5de69bb",
+    "name": "2: RAVIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d653e5fd-8a7b-40d6-9224-c469ff9ad6de",
+    "name": "3: MELANNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8a856e6-953b-46d3-b59e-5eab49e28161",
+    "name": "4: CHERUKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f03f1fb2-eb4f-4ade-a4fe-6406f0edc9c8",
+    "name": "5: PULIYAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a1fd1d8-2d4d-4ee0-b3d5-4fd887221ecf",
+    "name": "6: KOTTAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08d4b99f-ebfa-46b4-8496-1163c0c08c90",
+    "name": "7: PORUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb0a83df-0f31-4672-aac9-81cd6256620b",
+    "name": "8: PALLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60af6fd7-065c-42c7-929d-52730df14717",
+    "name": "9: POOTHRAKKOVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5187f8d8-cdee-44a9-8dbf-98c77d168df5",
+    "name": "10: THODIKAPPULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9f12c75-b26e-4d40-9df8-dd98b98ac36e",
+    "name": "11: THALIYAMKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "583ad5e3-708b-44a1-8c20-526b1c561c03",
+    "name": "12: AYANIKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "439f2314-8c91-4000-9f4b-96e430d8f56c",
+    "name": "13: VEETHANASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "941be68d-2b28-4788-92e8-3367159c2a38",
+    "name": "14: PATTANAMKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab3a04d9-4add-4c53-80d1-a984f3304e56",
+    "name": "15: ERANHIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8108562a-a684-4f23-8a8a-6e7414a6e40c",
+    "name": "16: NIRANNAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4a6c7fb-89ab-401d-825e-523a47e6956e",
+    "name": "17: THALAPPOLIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

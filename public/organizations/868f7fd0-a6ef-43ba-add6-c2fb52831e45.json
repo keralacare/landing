@@ -1,0 +1,104 @@
+[
+  {
+    "id": "0beb0f64-fb75-473d-ac99-d10f5c33154d",
+    "name": "1: CHAYOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f661f822-329b-4b4f-9df4-503b7d7f7ab4",
+    "name": "2: KOOVATTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "040f443e-ed40-4baa-aed4-d91c74860324",
+    "name": "3: NELLIYADUKKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e00980fd-2cf3-460d-a8c7-51e2c50479b7",
+    "name": "4: PUTHUKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b343adb-3d96-4671-9883-e271b97f0daa",
+    "name": "5: KARALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "047c1009-c582-430c-a70d-4287eb68899b",
+    "name": "6: BIRIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "573413fd-5c82-495a-9ae9-681f2c640421",
+    "name": "7: KAMMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90cabf08-f509-4bb7-909a-0572fc85238b",
+    "name": "8: PARAPPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a27f98dc-f66c-4e59-ba0e-4c9ce47182f4",
+    "name": "9: KARATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d75befb8-7cab-47d8-bc10-72241184f6e4",
+    "name": "10: KOORAMKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd32d586-4467-46ab-99ad-d59bd17fefce",
+    "name": "11: KOLAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75395ee3-b7fe-4343-a33a-728b96c362c5",
+    "name": "12: PERIYANGANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdf461a2-2eeb-4b06-8209-8eb42e545101",
+    "name": "13: KUMBALAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "50428145-6194-47dd-8848-9318cada295f",
+    "name": "14: PULIYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fde404af-81c8-4fce-bb95-d0b76dddee4f",
+    "name": "15: KARINTHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56a4eb65-e8c4-4d69-8aff-8ff255924ab0",
+    "name": "16: KOLLAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "273d9d09-a437-400d-9512-7fa900aedf23",
+    "name": "17: KINANOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2b6179d2-8b41-4329-9c0c-06ac8ae76c19",
+    "name": "1: PULICHAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0efbc398-4b24-4ab0-a96e-321d2f77b3b1",
+    "name": "2: PARAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7382d38-b571-43d6-bb1b-d4b38bbabbf9",
+    "name": "3: CHAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aad3ca85-683d-4809-8226-622f32309a0c",
+    "name": "4: THOTTUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3fe1cbf-157b-4418-9cc0-8619f1a49b09",
+    "name": "5: PULIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d271aee2-b7ce-478c-b7e3-8c4ca94e6f98",
+    "name": "6: MALAYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "152caa01-0b2a-46b8-8cbf-4245efec56b2",
+    "name": "7: VINOBANIKETHAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8af6fe4-5a56-4cb9-ac7a-2fdd67796e7d",
+    "name": "8: CHETTIYAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65d158b6-a1c3-49f0-b64c-067bc066a46e",
+    "name": "9: THACHANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12bd5340-5a5d-4673-8481-9686caaf85df",
+    "name": "10: KANIYARAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31b2dea3-2eed-433e-a5ef-7fe335f98071",
+    "name": "11: PANACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82dd06fe-5c14-4e5c-8714-e2c528e26799",
+    "name": "12: THOLICODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd992652-0c44-4674-a708-c7137102452c",
+    "name": "13: THOLICODE TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "863e97dc-f86d-4d97-9b31-93900cf440ef",
+    "name": "14: ANAPPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "089f8b10-a11a-43c2-923c-8662374f20e0",
+    "name": "15: THEVANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41802729-9490-4255-8e88-76a74f2f003e",
+    "name": "16: THURUTHY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

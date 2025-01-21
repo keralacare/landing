@@ -1,0 +1,104 @@
+[
+  {
+    "id": "e76786a4-0d7c-45cc-878e-30c7e9f738ee",
+    "name": "1: KONIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "638c8937-8098-48b0-971a-8d5636dd0d36",
+    "name": "2: THRIKKUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04a6806d-3ddd-4510-a09a-e329c710558f",
+    "name": "3: ATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1bcd385-2642-45d0-998b-fbb61b627b3b",
+    "name": "4: PALLIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e5a5e45-d78c-45b4-a47a-6222d1b18e28",
+    "name": "5: MATHIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "066bb50d-5eda-4191-956b-4de36059b8dd",
+    "name": "6: PARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a5a9478-c415-4512-b311-253162e652da",
+    "name": "7: KOTTAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8bb4286-1b19-47c9-a6be-ef1500cc2992",
+    "name": "8: MAVINCHUVADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aeae930c-0781-4939-966e-3abb06bcd219",
+    "name": "9: ALENGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "844b6700-02be-4a31-8531-5888975ea16b",
+    "name": "10: MUTTITHADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c2764e3-73ff-411a-bfcf-d7728244095c",
+    "name": "11: KALLAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac1d5bea-6302-4404-9e19-a24f081d0a6e",
+    "name": "12: KAVALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f5fe112-2cad-44f1-bdcc-b82f4e4cb1a4",
+    "name": "13: ATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8592fdc-fe0a-4f48-b706-7ffcd58956cf",
+    "name": "14: PALAKKAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03ee9bcb-c5e8-4cad-b395-0c06e63b0b01",
+    "name": "15: NJELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d72dbe9-692b-43f8-9f8d-d272f805aed3",
+    "name": "16: NAYARANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26600af6-f366-4b77-920e-1b557ea76de7",
+    "name": "17: KALLUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

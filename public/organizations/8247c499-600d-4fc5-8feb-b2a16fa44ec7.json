@@ -1,0 +1,128 @@
+[
+  {
+    "id": "86f76a93-d724-4bca-9792-dd5386c0ec77",
+    "name": "1: KADASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db1bddf3-702b-4403-a06d-c905e54d6b60",
+    "name": "2: PUNNALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0556f931-6908-4c27-84f6-f44b51359f47",
+    "name": "3: CHEMPANARUVI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0646dda4-cadc-4be5-b28b-dae16761992d",
+    "name": "4: MAICKAMONE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4dbb0760-8a43-4e53-afb7-92390f73cc84",
+    "name": "5: PERUNTHOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51f800f1-8fa2-4d7d-8ceb-b82cd02b9b98",
+    "name": "6: VAZHANGODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20fbe775-7053-4f3f-8f25-75fe98eb283e",
+    "name": "7: KARAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf3e91ce-c2d6-403d-a092-e853a5d8fe82",
+    "name": "8: VANMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9d0dd09-6c3e-4786-b937-1b062736dae7",
+    "name": "9: ALIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "888c7b8e-f953-4358-93cc-e662105b243f",
+    "name": "10: MUKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f4a2512-1e13-44e8-9892-d57777ba8ff7",
+    "name": "11: CHEEVODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "645b5215-6b46-434f-8ba6-94b6317f1152",
+    "name": "12: PIRAVANTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7588c27f-a08a-423a-81ad-1ceb6936ff3d",
+    "name": "13: PAVUMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61829387-7f43-4eb2-8f69-dd138efc2dd8",
+    "name": "14: ELIKKATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f2b0909-70c8-4985-8c82-a7343967a51c",
+    "name": "15: KAMUKUMCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "837dbf05-6e66-4478-8683-09cdade6e94b",
+    "name": "16: CHEKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3426d90-a61d-4feb-9a36-d7a3c9c21651",
+    "name": "17: KIZHAKEMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76c7c5e6-8878-4d24-a479-000ebb65392c",
+    "name": "18: KADACKAMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe1c25fa-24be-4425-8a7b-3c2d43400958",
+    "name": "19: KARIMPALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04ef78da-e840-4e4b-b1b9-6c21edc951f2",
+    "name": "20: KANIYAMPADICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24f1b54f-1789-4d6b-a4cb-566458bda57f",
+    "name": "21: CHACHIPUNNA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3ea524aa-7e7b-452e-93d3-5312bb67a38d",
+    "name": "1: MOGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04ffd706-dd6c-4754-b6fb-32160bae01b3",
+    "name": "2: BALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e65d1b61-4f3d-46ac-a90f-7d91f8174c80",
+    "name": "3: KOTTAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1898786-1e27-47b1-8b7f-939c1f5f1e49",
+    "name": "4: KAMBAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0422f8e0-96bf-4274-a4d9-216bd5dad644",
+    "name": "5: UJIRKARA SHASTHA NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4faf785e-8cf9-419e-9784-aedb460bf420",
+    "name": "6: MAJAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91057c39-8ba3-4983-a0e2-722fdc0d2a50",
+    "name": "7: AZAD NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8948198-fe05-4dc5-8241-53b4444bb318",
+    "name": "8: PERNADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9c5e86b-0377-46c3-9f4d-6d44b5e404ea",
+    "name": "9: KELUGUDDE BALLIMOGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17a6d7ad-9926-4331-81dd-e8d724c58def",
+    "name": "10: ERIYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "646161ba-115c-45ba-b828-eb5609a8d95c",
+    "name": "11: KULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11e3c78a-f158-4bce-a3c2-9d561edd0526",
+    "name": "12: CHOWKI KUNNIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfabd03f-3b24-4889-9c3f-7ba57f349f4c",
+    "name": "13: KAVUGOLI KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff4c9d9f-810d-4f61-8168-a24032ee6abb",
+    "name": "14: KALLANGAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e4a86a0-da63-424e-8973-905e8b483a7f",
+    "name": "15: MOGRAL PUTHUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

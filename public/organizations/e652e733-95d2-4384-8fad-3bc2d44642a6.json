@@ -1,0 +1,98 @@
+[
+  {
+    "id": "69355c21-37b8-4e3a-a5fd-d661e2e34197",
+    "name": "1: KARUVELIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55a93894-1e11-4b0c-a48b-224a33e36f21",
+    "name": "2: CHITTACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c588210e-0a01-499f-8431-41ce8431d784",
+    "name": "3: IRUMPANANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b26fccb4-2c80-4936-95a9-8e8b2d332f7a",
+    "name": "4: AMBALATHUMKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "561649f7-46f0-4a54-ba46-edd94b83619c",
+    "name": "5: KAKKAKOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab236387-44d2-4272-9dbb-4c19e244b12b",
+    "name": "6: VALAYICODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77952bed-8675-4740-9239-065e683324f4",
+    "name": "7: POCHAMKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5b534ed-bd33-4762-a326-99b9324077a6",
+    "name": "8: PANCHAYATH OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fcdc9ae1-6843-4f58-ab16-5f82decacc80",
+    "name": "9: KOCHANJILIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5c49ede-0db1-4b4e-a3ad-c40433f5de53",
+    "name": "10: EDAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad625bf1-d82e-41da-8d90-38d926e70c0a",
+    "name": "11: NEDUMPAIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "975d9e3b-466b-473a-a2be-4b51023149be",
+    "name": "12: E S I WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7d1d726-28e0-4098-89eb-7022b5ff1556",
+    "name": "13: IRUMPANANGADU H S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1cc73fb5-6d4f-42b9-9a5f-193b806b15ef",
+    "name": "14: EZHUKONE H S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d69618e1-d494-4fa9-b2c8-f00bfabf3cac",
+    "name": "15: CHEERANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d6421ec-5267-44a4-97bb-d966cb110e31",
+    "name": "16: PARUTHUMPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

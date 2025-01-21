@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3e350d2f-fd10-4bfa-a8c1-1542121ab687",
+    "name": "1: KALANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7539592a-11d7-48f8-9e69-3a8516498dfb",
+    "name": "2: KUNNATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68af7ebc-debd-4ee8-9676-79bb9a893a6a",
+    "name": "3: KALLAMTHOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b8e05d2-7a52-47f5-a15f-bdb9d361ed4c",
+    "name": "4: VILAKKATTUPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9988f875-0d1f-4c42-92fa-26445a89c1dc",
+    "name": "5: MANAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e37d502c-082a-49f6-9624-2bc5a6177a7e",
+    "name": "6: KANNANTHRIKKOVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8a18b8f-7368-4ac3-b006-cabb763a6a41",
+    "name": "7: PERINGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "003ef91b-1203-44c7-9815-7a8280cdf0dd",
+    "name": "8: PUTHANAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa99f553-066c-46dc-b3aa-37f33d2944cb",
+    "name": "9: KAITHAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94d41c0d-e7f0-474b-a557-580a20f09246",
+    "name": "10: THATHAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06bdb255-4fd5-4835-8ba6-eada79b7a379",
+    "name": "11: KONNANBAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5280e35a-62da-4990-b52a-c3fe427d5ecf",
+    "name": "12: MARUTHAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fecab306-c207-4f57-a828-333bfc1f5a27",
+    "name": "13: VETTIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bda41ba-1476-4e05-910e-98a21064c848",
+    "name": "14: PAVARATTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc275b3e-f1d0-4f09-839d-cdf6bf6aa4a9",
+    "name": "15: PUTHUMANASSERY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

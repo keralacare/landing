@@ -1,0 +1,110 @@
+[
+  {
+    "id": "31fad0db-5278-476e-b737-5b52ddd1e215",
+    "name": "1: POTHUVACHERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9dda5c51-cc8e-44f2-8e2c-2dec1296ba3f",
+    "name": "2: MUNDAYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ee81cd3-051b-4b6d-a412-d45e45604335",
+    "name": "3: KUZHIKKILAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81c79d58-2277-42ab-9840-b268a6d2e922",
+    "name": "4: MAKRERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75542c0e-34c7-479c-b2a2-737abc1ec586",
+    "name": "5: BAVODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b910db2-b742-4a13-b1ef-1789a5d66247",
+    "name": "6: BAVODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da7da8d4-39c4-4cb0-9f85-070e501e22bb",
+    "name": "7: KILALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "531b7679-1794-4063-a7e4-2178153ef130",
+    "name": "8: VADAKKUMBAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "147bbe02-8e40-4341-ad65-359957a86a6d",
+    "name": "9: PERALASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10108d55-4b4b-42b7-b1b4-db7f0d25b040",
+    "name": "10: KOTTAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc1d127e-d61f-42b5-b79a-19bb485f2938",
+    "name": "11: KOTTAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "196b907f-7bce-4d6f-9038-21792068af57",
+    "name": "12: MUNDALUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "164f4ee0-5831-461a-8f65-13ceb69363dc",
+    "name": "13: MUNDALUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bff57df1-06ed-4955-8f17-3de5f0e93275",
+    "name": "14: CHERUMAVILAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75671b39-50c8-450d-b8ed-84aacac89598",
+    "name": "15: MOCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0c57365-994c-4432-9d3b-b1b852f35083",
+    "name": "16: ODUNGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06d2fe2d-d1f9-4573-a7ce-1fb20f6724e0",
+    "name": "17: MAVILAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a66cd3c2-27e7-4a7f-bd15-4416be2c00ea",
+    "name": "18: KEEZHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

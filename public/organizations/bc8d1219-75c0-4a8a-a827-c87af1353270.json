@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2bc7468c-38ac-4a3a-a8d4-d07c66fcf8a2",
+    "name": "Chokli Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2d131d3c-d3d1-4e08-9df1-b53b8fee85e9",
+    "name": "Kadirur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ace55567-f61b-4bc9-a2cb-918d43161834",
+    "name": "Mokeri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8493e64d-8bee-476a-b5bf-4049284ea6a3",
+    "name": "Panniyannur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

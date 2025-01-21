@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e14352fe-8b91-4da0-878b-b746272077cd",
+    "name": "1: NADOORKOLLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ac341cb-87a8-47ac-a7a9-3a37f5a1fd1a",
+    "name": "2: PERUMBOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69f66898-58de-4408-97f0-749286ae57f4",
+    "name": "3: MANKOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef61989d-fe6a-4949-8d9d-84158a0f146e",
+    "name": "4: MALAYILKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68ce088c-7f42-4221-94a9-347dbe25967b",
+    "name": "5: PANKOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34811184-5bec-41bc-ba32-8c6c56d65b6e",
+    "name": "6: MANCHAVILAKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59fd5f3b-642d-4e22-9a70-e111ec020496",
+    "name": "7: POOVATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b4e6cb9-c444-4d47-b2ec-8e879f1165e7",
+    "name": "8: CHARUVILAKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e33fa55-94c6-4279-a627-bf71cd691431",
+    "name": "9: MEKOLLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09f093e0-74e8-48bf-b826-9491f7e11209",
+    "name": "10: DHANUVACHAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e299fcf9-d92b-4ee9-9217-abb07c39cf26",
+    "name": "11: KOTTAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36371f45-a0b5-49c7-87ec-df959bed87f3",
+    "name": "12: PUTHUSSERIMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90419492-fe68-4f2b-a79b-615e86c1458f",
+    "name": "13: EAITHUKONDAKANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bac5ca7-5fab-457e-a415-2df8979f8643",
+    "name": "14: UDIYANKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5c6bb71-e966-4834-8149-8a805572e7fd",
+    "name": "15: DEVESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "256d9f3c-83c2-4d03-b8a5-c0773893dffd",
+    "name": "16: PANAYAMMOOLA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

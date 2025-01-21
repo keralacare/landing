@@ -1,0 +1,248 @@
+[
+  {
+    "id": "90ac0762-687b-4ef0-985d-2e30cba06f39",
+    "name": "1: PUTHURUTHY SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e964f5d0-1d26-4e8c-8f60-d7dd29e0e220",
+    "name": "2: PUTHURUTHY CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6d258a3-940a-4069-9ee4-0785fa85621f",
+    "name": "3: PUTHURUTHY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65351393-5f09-422a-8af7-20eaa547a009",
+    "name": "4: PADINJAREKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "322da22e-bcc6-48ad-a96b-fdb1d0114244",
+    "name": "5: KUMBLAGAD CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6cf5f14-4e25-460e-a045-4a956e6fc135",
+    "name": "6: CHALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "305d8c5b-8ffe-4c80-b8e6-76bc28b4aabc",
+    "name": "7: AKAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2eea554-f53c-4ded-8394-928770e9ee6f",
+    "name": "8: RAILWAY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c30bab7-af1d-4a6c-910d-71f5d856eb52",
+    "name": "9: ERATTAKULAGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac63e37a-9af8-4caa-bc21-e154dc475db3",
+    "name": "10: OTTUPARA TOWN WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab437a79-ac13-4896-b122-492924d4053d",
+    "name": "11: CHULLIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b68af700-ceb5-40b9-a2dc-66172d60263f",
+    "name": "12: KUMARANELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ec3eec0-dcea-481c-85e8-0425863592a9",
+    "name": "13: ONNAMKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8043f8e8-99fa-417c-b136-a94f21500552",
+    "name": "14: PARUTHIPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b2ecb19-58ae-46b2-9e81-52c8bbefebd4",
+    "name": "15: BLOCK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b11e2c3e-1def-4a85-80a4-a46b126cac68",
+    "name": "16: AKAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3202c76e-865f-479a-86e0-ebd62b4ec246",
+    "name": "17: MARATHKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "459b01f3-17a0-458f-9074-0d3c8bfe710d",
+    "name": "18: MANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bdd7e63-6469-480c-9235-6c3a3b1a9266",
+    "name": "19: ENKAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8ad444d-d5e2-4148-96ae-0f6cd6022fdf",
+    "name": "20: OTTUPARA TOWN EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45a58311-a0d8-442d-8436-1c86ff2a2e0a",
+    "name": "21: WADAKKANCHERY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4ab861d-0b08-418f-93ef-974c14a36f72",
+    "name": "22: PULLANIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed162583-9f6e-4640-9364-44ae8c83d9d9",
+    "name": "23: MANGALAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c0a5007-6828-49e2-9647-4947b80679d1",
+    "name": "24: MANGALAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6a39661-decb-4313-91de-1a5145dc06b1",
+    "name": "25: KARUTHAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94413d7e-27c0-4b9d-81e7-18c9de6e54a5",
+    "name": "26: PATHAMKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fad4c5dc-b9af-45ac-abf4-bc4f2afc02d9",
+    "name": "27: MINALOOR BAIPASS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5492167e-c75f-4565-bff9-60881953fed9",
+    "name": "28: PARLIKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e5f8378-2844-4416-a493-7d6b7483c920",
+    "name": "29: THIRUTHIPARAMBU CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61cab667-7997-48f8-8775-06229337cf29",
+    "name": "30: MINALOOR VADAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0118329c-e8a4-4217-bc0a-4d29f438acb5",
+    "name": "31: MINALOOR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa3dc0b3-80c3-4dea-9e94-73fc74da7a7d",
+    "name": "32: ATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fcdeda6e-b940-47dd-aafe-96066ee349b6",
+    "name": "33: AMBALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bd759b4-ef02-473d-bf62-0075b9076082",
+    "name": "34: ARYAMPADAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e10dbe2-46b7-4d53-be1e-d866c264cf5a",
+    "name": "35: ARYAMPADAM CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60afe015-b1c4-409a-9d45-863256cff43d",
+    "name": "36: SILK NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcf434ba-1689-4f6a-b913-ad78093ee66d",
+    "name": "37: MEDICAL COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4844c48f-3f74-4727-99d1-e4a646f45485",
+    "name": "38: MUNDATHIKODE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "142c92e2-e04a-48b3-a9af-ca3c9235c2e5",
+    "name": "39: KOTTAPARMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a38771b7-a0ab-4bb5-abb3-0b0f9674ca60",
+    "name": "40: KODASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "788f6d07-7615-4b67-bb69-038446c27ed1",
+    "name": "41: MUNDATHIKODE CENTRE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

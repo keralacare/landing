@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a09f625c-5bc3-448a-9b47-e5ddeef4b8f5",
+    "name": "Amboori Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9b8a1055-9283-43a0-a1f7-d59998904913",
+    "name": "Aryancode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "33d8b5d0-ad26-44c5-a295-961001198595",
+    "name": "Kallikkadu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7243b488-0667-40a9-b7e3-4c983bb6476c",
+    "name": "Kollayil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dfc96eb6-4da5-4f66-bc86-70f020be5ece",
+    "name": "Kunnathukal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "afe205e1-4379-4086-a146-13712fc2210a",
+    "name": "Ottasekharamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3b70356c-e0e3-4023-98e2-efc4124732bb",
+    "name": "Perumkadavila Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c0ebceef-c48b-4b67-98a9-a59d5ab5434e",
+    "name": "Vellarada Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

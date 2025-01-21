@@ -1,0 +1,110 @@
+[
+  {
+    "id": "040378a5-3546-40ae-bb67-c29053386850",
+    "name": "1: PULLYODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6e7c73f-0c03-46a6-b149-86435d35a776",
+    "name": "2: PULLYODU C.H  NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de13bdbb-afa3-4cb4-937a-cdf918471add",
+    "name": "3: KADIRUR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9bddfb4-40ad-41b5-9698-572c3bda4db5",
+    "name": "4: KADIRUR THERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94639479-2255-4203-a7af-a0e3b10add47",
+    "name": "5: AANIKKAMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2fec6e3-e3d3-4c33-af6a-2ca99141793c",
+    "name": "6: CHUNDANGAPPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4d5aa03-fa11-45d7-8ab0-9faf9e67488e",
+    "name": "7: KAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7377a5e7-008f-4e7c-9d4f-78c7ac71bae5",
+    "name": "8: PONNYAM PALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad01cb59-ac66-472a-9380-4ea901ddbaa2",
+    "name": "9: PONNYAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04c296ee-4e3a-427d-9e79-7feabc4ae706",
+    "name": "10: KUNDUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "184d4f5f-19f0-42b0-9fbc-2f9c2d30de14",
+    "name": "11: PARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e3a6dfa-a2d4-4a0e-bb1f-e518cfbd3ee8",
+    "name": "12: PONNYAM SRAMBI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "734ec96d-5fd0-45a0-a32d-335a39cf69f7",
+    "name": "13: PULLODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6549d588-a8f6-4ec2-b463-7e672449eab1",
+    "name": "14: CHOYYADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed2c6007-3645-47e5-be8d-ea3c13535493",
+    "name": "15: KADIRUR  TEMPLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3565566-4b8c-4b6d-8dd9-3842ba10a5cb",
+    "name": "16: KUTTYERICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52e06db9-985e-4a6d-a766-fee62c21c7ae",
+    "name": "17: 4 TH - MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0465954e-d27e-46ac-ac95-0432f14bca27",
+    "name": "18: PULLYOD EAST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

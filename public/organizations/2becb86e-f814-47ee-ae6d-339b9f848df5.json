@@ -1,0 +1,51 @@
+[
+  {
+    "id": "dda401a1-6912-49f2-9080-b6b3515eef8b",
+    "name": "Edathiruthy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a60fea50-2cd3-4807-8dd3-da583f2f0a2b",
+    "name": "Edavilangu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "04b8325c-3b7a-4d18-9fbe-5a38053e219a",
+    "name": "Eriyad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c29502ce-4945-43f6-a93e-06db022b0ac1",
+    "name": "Kaipamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7092a17c-0528-4ca8-b815-442db3ef09c5",
+    "name": "Mathilakam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5e88df97-7544-45d8-b462-2fe74fe6058c",
+    "name": "Perinjanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0b9a4442-8b73-4a38-9307-0384cb3eb36b",
+    "name": "Sreenarayanapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

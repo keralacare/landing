@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1376f71d-4af2-421a-b63e-3c5467e4dd69",
+    "name": "1: RAMAPURAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97456865-de19-48da-b819-40f396648ced",
+    "name": "2: RAMAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18a38d89-0d67-45b6-bb95-9efc3d554579",
+    "name": "3: PANANGAGARA 38",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3602dd39-9c89-4001-95bd-44f67c0c9092",
+    "name": "4: PANANGAGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa104736-5a17-40b2-a917-2e1efbb4961c",
+    "name": "5: RAMAPURAM UDUMBANASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41ab6725-e4c8-4248-b63c-5027382bb0e1",
+    "name": "6: PATHIRAMANNA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2cffabe-dbe2-4020-9072-756c54c8d29a",
+    "name": "7: PATHIRAMANNA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90c94239-8079-4bfd-b2ca-7284ea7badef",
+    "name": "8: MANNUMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67d18828-0e3e-44ee-a851-844671931e1b",
+    "name": "9: KOTTUVADU WEST PALLIYAAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cd4ce2b-e278-40f9-b478-712d0b4587a9",
+    "name": "10: PUZHAKKATTIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c8c9169-4e60-4c01-a660-eaf06a633ab8",
+    "name": "11: KADUNGAPURAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8d41db7-0fba-45c4-a0e1-492c838d5b79",
+    "name": "12: KADUNGAPURAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3ee6497-ce96-4769-a6f8-97a95764bcf3",
+    "name": "13: POTTIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "763d3e0d-b048-4861-8905-18f411bfcb1a",
+    "name": "14: PARAVAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18403b03-2d11-42a5-8356-4937be998265",
+    "name": "15: PADAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d212657-4e36-4069-8727-3df25c829b49",
+    "name": "16: KATTILASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b08e77a6-eb00-4e9f-942a-7d55ba2ea0f4",
+    "name": "17: RAMAPURAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

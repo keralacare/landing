@@ -1,0 +1,224 @@
+[
+  {
+    "id": "a98c8dc2-052e-4dd9-9b21-e75e857bde94",
+    "name": "1: MUTHUVAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68ec8a99-6f59-40df-b404-7773b357fdb5",
+    "name": "2: KIZHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbce3c5f-f838-4362-84d2-a85caae0ce6d",
+    "name": "3: KIZHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e94abb34-eec9-451a-b4fc-de082ab59f15",
+    "name": "4: KIZHUR CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcbfd8c8-1cd6-446a-9b4d-c5236dca2062",
+    "name": "5: VAISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ac5f796-9b05-45ee-8283-614ebf7a7b2f",
+    "name": "6: NADUPANTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecabf9f7-d62f-456c-988b-cb59a1c5df97",
+    "name": "7: KAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c68e0c0c-85fa-42f0-935b-8d3bff3e5827",
+    "name": "8: MUNIMADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b8d463b-0a6d-42f1-a9c4-85dbeb5c8ddf",
+    "name": "9: AYYAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a12d85a-6d68-49e0-8329-95ad6853f72d",
+    "name": "10: AYYAPPATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "143d98cf-df3d-4b89-94f6-d19a5441bf3d",
+    "name": "11: CHERUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f907c8d-8e13-4cb7-aaad-f86e5b269984",
+    "name": "12: URULIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7acaabf1-c55e-445d-b4ab-7c4e33c50f20",
+    "name": "13: CHOWANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03f2f617-358d-4b47-9232-ce8e8a1e1a30",
+    "name": "14: MALANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2e6413a-6b0b-4fdf-ac99-b9be3f14074e",
+    "name": "15: TOWN WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4218a5f5-03fa-4fb0-812f-2a8010fd8eae",
+    "name": "16: KANIPAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c504574-3c96-41f7-986a-8989084fc68e",
+    "name": "17: ANAIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b309dff0-ae83-4269-8f40-bf859a1d54be",
+    "name": "18: KANIYAMBAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e95fc89e-c6c5-4321-acd5-e5bfa4f6af73",
+    "name": "19: NEHRU NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1dcae989-e37a-45d9-ba60-2e0584d1706e",
+    "name": "20: SANTHI NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "790f9d5d-390a-4687-8201-39eeffb18ccf",
+    "name": "21: THEKKEPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f15df84-edde-4d75-a153-efc1edab1792",
+    "name": "22: KURUKKANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3c5aeab-2d67-4202-95f7-70767ef92101",
+    "name": "23: ARTHAT EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94495e46-9f5c-4f0f-b6d2-fb88f898ce45",
+    "name": "24: CHEERAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0461b54d-3e41-4c37-8a87-88521df7dd36",
+    "name": "25: PORKALENGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ed915de-df5e-4ecf-a811-ec052605b3ca",
+    "name": "26: INJIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2a82527-7e52-4082-ae3f-821a454aab61",
+    "name": "27: CHEMMANNUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f09073bb-2834-408b-b385-5bb177560429",
+    "name": "28: CHEMMANNUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "173d80f3-c6bc-44b9-ab0b-ed1d487a1058",
+    "name": "29: ARTHAT SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cf0afe4-026a-4b40-bb72-310c40e4980b",
+    "name": "30: THEKKAN CHITTANJUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "553dd270-4a64-4cbd-b854-6c4549d6e21b",
+    "name": "31: ANJOORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4083b5b-1b3b-4254-8564-d5790b74f0c7",
+    "name": "32: ANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfbbb278-8132-4cfe-8c0a-0c7c81874d01",
+    "name": "33: KAVILAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "122e38b4-7310-4b15-a786-13e3eccee97b",
+    "name": "34: CHITTANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdbfde96-ff3e-4dd6-9b26-25b7ef0496f7",
+    "name": "35: ALATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af1985b8-5389-4b50-9dd7-9bdd313b3317",
+    "name": "36: ANJOOR PALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01d606ab-cd49-4540-9b99-3913a5a8a3ec",
+    "name": "37: VADUTHALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

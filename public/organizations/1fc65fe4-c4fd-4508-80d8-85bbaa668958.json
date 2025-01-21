@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ea2b6a46-1101-4140-9342-75081ad64491",
+    "name": "Aryad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "7f814307-6aa5-4a4b-a386-95c5c4f64b16",
+    "name": "Mannancherry Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d8e9d16e-4844-4e5d-a359-d1faef1c7384",
+    "name": "Mararikulam South Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "bb644a13-e174-4897-91da-045d7bd68ce5",
+    "name": "Muhamma Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

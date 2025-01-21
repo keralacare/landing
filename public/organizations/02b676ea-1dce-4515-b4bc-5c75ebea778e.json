@@ -1,0 +1,122 @@
+[
+  {
+    "id": "84a5efda-590c-4a4d-bff9-abae1219b43b",
+    "name": "1: IRINGOLE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "917b7cb0-a929-443f-9889-e80298f37308",
+    "name": "2: IRINGOLE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9720beb5-8a34-48be-9840-e2247599e775",
+    "name": "3: MUDAKKIRAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88a40423-b3cc-4bf1-84ad-8f14747b3a92",
+    "name": "4: RAYAMANGALAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7012362-42d7-484e-bb67-36b710cf9aca",
+    "name": "5: VAIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7edee5bb-e292-49b6-bbb8-b3a3036e06e5",
+    "name": "6: ATTUPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b99dffe-95c9-4c2c-b641-b692a6bb78ef",
+    "name": "7: ARUNNOTTY AARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c58b711-b6f2-4680-a768-ddf1344e44c5",
+    "name": "8: KEEZHILLAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73a969d1-1364-4a27-bdd7-75b6fafd2aad",
+    "name": "9: KEEZHILLAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "632f32d8-ed87-4102-8cac-f4ae782ae28d",
+    "name": "10: KEEZHILLAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b41320b1-13a9-4ae9-825f-2a740b212be3",
+    "name": "11: NELLIMOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42da097d-d2ba-4a03-a565-0e51ace6aa35",
+    "name": "12: PULLUVAZHI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b9928a8-100c-4c9d-992e-4003dcb407c4",
+    "name": "13: VALAYANCHIRANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbdfd10f-2259-43af-b656-253eda1886d8",
+    "name": "14: PULLUVAZHI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2602823-12bc-4896-a6af-4dd74d814da2",
+    "name": "15: MALAMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88ba4618-b5e1-44a9-bcec-c033185fb715",
+    "name": "16: PULLUVAZHI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e83cf9a2-2474-4bda-b7e7-12724d1b9260",
+    "name": "17: PEECHANAMMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c905aa5-9c66-4c5e-8f97-2964974bd81d",
+    "name": "18: KURUPPAMPADY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a034c0c9-eb87-49fd-bc4e-84a87b62bd2d",
+    "name": "19: VATTACKATTUPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69422438-10bd-47c9-9e7f-1f56b93dc7d1",
+    "name": "20: PATTASERIMANAPADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

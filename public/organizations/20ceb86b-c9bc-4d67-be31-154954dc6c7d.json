@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d9e03d37-36eb-4b12-b3c5-bcb32d32c52d",
+    "name": "Anthikad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b7487874-7cb1-44f0-9016-fcc9ff2a01d1",
+    "name": "Arimpur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dd4d7bf7-5fa1-4808-aa7a-349c34c4c518",
+    "name": "Chazhur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "10cdc23f-842f-442f-ab0e-52fbbf7414e1",
+    "name": "Manalur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5840bd51-ed99-4e80-8a99-97c15b9aa434",
+    "name": "Thanniyam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

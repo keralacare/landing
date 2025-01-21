@@ -1,0 +1,51 @@
+[
+  {
+    "id": "88d075d5-9893-49da-8151-e0e3c42d58db",
+    "name": "Balal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6795e1af-73ff-4d4c-a9a7-1bed07916c28",
+    "name": "East Eleri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5116d850-0cda-488e-aa7e-96bbb458fdb4",
+    "name": "Kallar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "868f7fd0-a6ef-43ba-add6-c2fb52831e45",
+    "name": "Kinanoor - Karinthalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "adf978fb-dd8e-4afb-ae0a-9760b586fdf7",
+    "name": "KodomBelur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0275ed4a-48a0-4252-8b04-203f5ee4f042",
+    "name": "Panathady Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "bbd6bb1b-72ea-4fad-a6f7-8a940a9466df",
+    "name": "WestEleri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

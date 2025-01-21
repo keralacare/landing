@@ -1,0 +1,116 @@
+[
+  {
+    "id": "0afa1b36-288e-42ad-8af8-3df0e603c339",
+    "name": "1: NELLIKKURUSSI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d830c70a-8dfb-4f80-9f4b-c6d928805768",
+    "name": "2: MULAJUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c4ab9b2-344e-4cf3-9d30-03b5bcde3582",
+    "name": "3: MULAJUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d17e962f-d865-4777-af89-2a57dc2e98f9",
+    "name": "4: THEKKUMCHERODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e57dd7a-d4b3-42df-9b2e-ad8b41c6184b",
+    "name": "5: PAZHAYAKLAKKIDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e052cbd6-bec7-4bbc-9755-0722a955da0f",
+    "name": "6: PATHIRIPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af5b5f5a-aee8-43e8-9ca2-aeb0c37a3984",
+    "name": "7: ATHIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d5bb8e0-d616-4a2e-9d5b-64e015f526f8",
+    "name": "8: POOKATTUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ed8c0d3-2e3e-4654-b6f5-bebce05be324",
+    "name": "9: PERUMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39e893ce-c9c7-4b5b-b043-6bbc0524f3da",
+    "name": "10: AKALUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e0f44a4-6e0a-4b68-b721-cd36111c31be",
+    "name": "11: AKALUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b57d9c9-4c06-431f-9a85-6434a3eb8b7b",
+    "name": "12: PUTHUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5069b89-0a79-41c2-afac-0574c732b5e1",
+    "name": "13: PUTHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61faec6b-94d7-4f3e-a03c-335821f3fb38",
+    "name": "14: VADAKKUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a51d791-bacc-48ab-9cdb-7350e822e691",
+    "name": "15: KILLIKKURUSSI MANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18bd81ba-2f2b-4a7e-9cc8-a65992749ac4",
+    "name": "16: LAKKIDI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "985a9319-4d15-4828-b468-ba60ec0db6d4",
+    "name": "17: LAKKDID NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "578b6f95-418c-4e5a-ba42-2973b26550ad",
+    "name": "18: THEKKUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8df2ccfa-31b9-435f-aaf1-b24b41ee8b31",
+    "name": "19: NELLIKKURUSSI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f0eaf0d4-efed-4c67-8187-2439e33d0971",
+    "name": "1: KOLATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afc193c0-c9bc-4f84-a0f9-6ea5a318290f",
+    "name": "2: KARIYANIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa0183de-0448-4d56-ab50-1f6fd63c7b8f",
+    "name": "3: KOLIYOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27a184e7-54b9-4226-bb7c-41683797024c",
+    "name": "4: ARAYANAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ec75868-2ec2-4ff0-9e91-eedcdd0d4add",
+    "name": "5: THIYYAKKOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcd6b105-da1d-49ec-9eb9-5c4e17ae744f",
+    "name": "6: KUNNATHERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9de36ec1-76f1-443a-a8a3-53754c3d7647",
+    "name": "7: NANMINDA 14",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "331f6343-169e-4dea-a19f-3c659ffb0275",
+    "name": "8: THALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d53ee38e-064d-4113-a01b-a8fae6caa509",
+    "name": "9: NANMINDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "724181c5-19f2-4440-bae1-b929f5460999",
+    "name": "10: EHZUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64ef5e17-57fc-413f-99a4-e6f39f57edb0",
+    "name": "11: NATIONAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2f5ca40-a9da-4a19-b923-75478014ca25",
+    "name": "12: NANMINDA 12",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0ffdfe9-30ea-4278-be71-465c5507a666",
+    "name": "13: NARAKASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67cbb5fe-61c6-42ce-8b14-22998bda2883",
+    "name": "14: POOKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32d4589b-c8a2-4a5b-bb2f-add90071a177",
+    "name": "15: KARINKALIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ef2f36e-7a84-4ccd-ad57-3c664d1a8414",
+    "name": "16: MUNNOORKKAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9cef57b-6ef0-42da-ba44-96f8b207ff49",
+    "name": "17: CHEEKKILODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

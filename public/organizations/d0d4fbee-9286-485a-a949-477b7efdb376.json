@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f656e8f6-391b-420e-85e0-188e75c19b3f",
+    "name": "Desamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5c2c2beb-3d16-4e92-bb40-88a3757cb910",
+    "name": "Erumapetty Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d61cfc6a-3ed3-416f-b7be-275384add6f5",
+    "name": "Mullurkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b4c6bf4a-960a-418d-821b-af3f62afa74c",
+    "name": "Thekkumkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2610782d-831f-4f23-8248-80e8fcc678fc",
+    "name": "Varavoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

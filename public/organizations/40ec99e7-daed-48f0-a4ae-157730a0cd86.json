@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7d84ecdf-360d-4a32-b34d-ff75bbfe13ec",
+    "name": "1: MALLAPPUZHASSERY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "465f49b7-8f1f-4df9-bdda-7d106bab1ee9",
+    "name": "2: PERAPPURE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b90c55b3-903f-433a-8ea7-3a69fdf0f314",
+    "name": "3: ONTHEKKADU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecd31f84-8ad3-4eda-a756-c510171a9164",
+    "name": "4: ONTHEKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2dc78bc0-b623-4290-86e5-991003d40188",
+    "name": "5: KARTHAVYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8007f089-4df3-4606-9471-37d9c3331552",
+    "name": "6: KARAMVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07691439-de35-41bc-b2a8-4d3556da9a60",
+    "name": "7: NELLIKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba38c0f3-3d13-4946-988b-a43dfdcb0375",
+    "name": "8: PUNNAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ef8bd07-fd92-4c89-8696-303f594a1678",
+    "name": "9: KUZHIKKALA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45de5336-d213-43ec-bc8b-8001c35b5304",
+    "name": "10: KUZHIKALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "680aefea-5933-4292-994e-a1b92a30db3c",
+    "name": "11: KURUNTHAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fcbb890-9c29-4795-9355-cdc2d6bf2faf",
+    "name": "12: KANJIRAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c7e07c6-dfbc-4f58-ae83-632951ca24a0",
+    "name": "13: MALLAPPUZHASSERY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

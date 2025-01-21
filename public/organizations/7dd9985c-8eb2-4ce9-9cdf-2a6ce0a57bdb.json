@@ -1,0 +1,98 @@
+[
+  {
+    "id": "122ce1a5-f33e-4a67-b7c9-ded47301ac42",
+    "name": "1: SRAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae90c6a1-d677-4216-892f-96ef91cef5d6",
+    "name": "2: RAMAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e446f85-2341-4107-975b-efd3d5e3cbc4",
+    "name": "3: KARIYAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff1b3c93-c8a5-4d07-95fb-eeef7ecca5cc",
+    "name": "4: PERUNTHURUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74227890-698f-449b-a819-36b11eeb6a4a",
+    "name": "5: CHERUTHURUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6fc66f7-ce31-416e-9838-87e0ed650009",
+    "name": "6: AYINOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59a2a4a5-677e-4c08-b216-c5f7b1e9bb63",
+    "name": "7: AYINOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de910fd5-143e-4ebc-8b77-ec856fe06c41",
+    "name": "8: KOTTOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ffd32b1-3b06-4b15-b7af-99b81a5a690a",
+    "name": "9: PAZHANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a66e973e-22a4-45da-a0d2-035651b43fd7",
+    "name": "10: JERUSALEM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49b5b8bf-0617-44ca-b7d8-723a9dc0bf52",
+    "name": "11: PATTITHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a65bc082-f4b8-4fb2-aca3-2f227e682226",
+    "name": "12: MOOLEPPATT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5a2445f-8d37-470c-9490-fc39ffb6df6f",
+    "name": "13: PENGAMUCK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1dc2e690-068a-46ee-8641-cbdf86f9e6f9",
+    "name": "14: KANJIRATHINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7c41c7e-7a3a-4865-b71b-c0bb7fba892b",
+    "name": "15: CHIRAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fba9cc1-f53e-4eb6-9b12-0fb51d6980f2",
+    "name": "16: PALATTUMURY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

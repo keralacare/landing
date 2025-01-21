@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e6f4315b-a74b-40b1-8492-5bd281b159ef",
+    "name": "1: PANTHUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d295a49-59fb-4812-873e-09e4fd1e0ba8",
+    "name": "2: ANACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9c5951b-cc2f-4734-9fd2-e34d7b26307d",
+    "name": "3: VAZHVELIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6ea3f65-3833-41b7-8eed-138eb111ee57",
+    "name": "4: VAMANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1605839f-4c69-4526-96a8-98720b363d95",
+    "name": "5: KARUVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba6a6a52-ee03-45ce-9626-7e331402f3ab",
+    "name": "6: ANAKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddbce921-209c-470f-9b90-89adc6feda92",
+    "name": "7: KANJIRAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d20b3be1-88da-45ac-ab1f-730a1656e8c8",
+    "name": "8: KUTTIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c35e02f-1a29-4dc8-9369-fbb030032ccb",
+    "name": "9: MEETHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47c0c6ea-32fc-4930-af18-c28e52a206b3",
+    "name": "10: THOONGAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4103b22d-acf6-4d16-babc-3192325d2a69",
+    "name": "11: IRULOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca4fe7bc-2c60-430c-aa7d-8bbbddf7e9df",
+    "name": "12: POOVATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecd7d088-d6cc-4e22-aacf-daa416fb0ba3",
+    "name": "13: MELATTUMOOZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f4dcec6-d55a-481e-bfe4-3175f41dd7b0",
+    "name": "14: EETTIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7343c15d-b04f-4177-81f8-1d26a0e17d74",
+    "name": "15: KALAMACHAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

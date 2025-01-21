@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d5b64f63-306e-4ea6-8cf1-8c4b356cac79",
+    "name": "1: CHEMPAKAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d666c66-a6fb-4554-b21b-a01cfa08a93a",
+    "name": "2: EATTITHOPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed6fbc54-c9d0-4eb0-92d8-e2cac30aa49c",
+    "name": "3: PALLICKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b46d536-e5f0-4ee9-9fc8-f024102ec287",
+    "name": "4: ERATTAYAR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59ccdc13-b186-4a40-83d1-430e619f8bf7",
+    "name": "5: EZHUKUMVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d826d8ac-dc74-42f0-ab43-3fa4dcc0f6dc",
+    "name": "6: KATTADIKKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "287178e1-4ad4-40f6-83ac-f4df322f8a80",
+    "name": "7: ERATTAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90c4c87f-dd6d-48a0-9686-004d6b429fda",
+    "name": "8: SANTHIGRAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11533d2a-7d15-48a2-946b-be8298de5918",
+    "name": "9: UPPUKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65b08cd6-e2bb-4a95-bee9-21fe590af606",
+    "name": "10: THULASIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79e4b8b8-ad4d-46d6-9ce0-122536e97a4d",
+    "name": "11: VAZHAVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "541266ad-536c-4d12-9cc0-376cee86234f",
+    "name": "12: NALUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6d60ea1-3c66-4694-b31c-93bc681d0d9c",
+    "name": "13: SANTHIGRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6774707d-141d-4957-87d0-32907655042f",
+    "name": "14: EDINJAMALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

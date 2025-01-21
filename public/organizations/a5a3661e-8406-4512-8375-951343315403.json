@@ -1,0 +1,92 @@
+[
+  {
+    "id": "d93c401f-5d99-43b5-a0e1-ed6c0835529d",
+    "name": "1: PANTHAPLAVIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6087a58-9ebb-4d77-8579-b158dc4dc238",
+    "name": "2: VELLUMANNADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57e942b0-4aa4-4a8c-8684-135549d40245",
+    "name": "3: PERUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "178bf83f-d317-481e-9c9b-a71265f22fc6",
+    "name": "4: MUTHIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9e58206-2895-4df2-bb9c-fae1b79767e9",
+    "name": "5: PULLAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e4cc661-f603-4024-aea9-f2f38f7ac891",
+    "name": "6: KOONANVENGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba60a791-bef4-409a-9ddd-15e6dd06988d",
+    "name": "7: PANAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be9f5eef-ea7e-40b7-a801-4fcd0511f765",
+    "name": "8: CHULLALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8174b241-5885-4b81-bae3-1f1d680ddc4e",
+    "name": "9: MUKKUDIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad3f4188-bce0-4c32-aef3-d18759f48dfd",
+    "name": "10: MANKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73094d2d-4eea-43ed-8465-a601ce23a0af",
+    "name": "11: THEMPAMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb11e19b-cf40-4b1c-8f35-5c8d2f1c241e",
+    "name": "12: ATTUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4218c6c9-1247-4afa-a6e0-90840a9f9521",
+    "name": "13: PALAMKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb92251b-c7f8-4f17-8d30-cd565e2e5254",
+    "name": "14: NAGARUKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fcf0b7c1-c5de-49e5-9637-a220a2712b75",
+    "name": "15: KUTTIMMOODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bba6b6a5-af77-4586-9f33-a918626c4178",
+    "name": "Koduvayur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cc1edea3-d237-45b3-a77b-de4710299e93",
+    "name": "Kollengode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "27827591-a5b6-44ed-b2d6-e1e3d4a8d6c8",
+    "name": "Muthalamada Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cf9c5c2b-5673-408a-808a-06289212e14b",
+    "name": "Pattanchery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2b7f8e21-264a-4814-a393-68c275d6a244",
+    "name": "Peruvemba Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1ca9ace7-a4aa-4d3f-b3fc-4062f7675cdd",
+    "name": "Pudunagaram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dc273b64-660f-4a47-9e32-26267d0b1fa6",
+    "name": "Vadavannur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "22b2f7c5-228a-43e2-9729-41a06f464e3d",
+    "name": "Alakode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "85e0fd25-94e1-4781-89eb-b1e74f59d947",
+    "name": "Karimannoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "787d67a5-a76b-427f-8545-dd80fd3221fc",
+    "name": "Kodikulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a9536730-4480-4b53-81c6-a825d94aa7a7",
+    "name": "Kudayathoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "41ab7953-037e-4bb4-8d16-b34efeccb81b",
+    "name": "Udumbanoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3401fc40-9635-440d-be54-2266ea199a13",
+    "name": "Vannappuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c19673a0-3b2a-43fa-9236-1acbf8411df5",
+    "name": "Velliyamattom Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

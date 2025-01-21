@@ -1,0 +1,104 @@
+[
+  {
+    "id": "d920bd5e-6429-4923-86d7-55ac95cee3be",
+    "name": "1: KOOLIMUTTAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "708c643b-6bd9-4822-bdba-c278f700b2a6",
+    "name": "2: NEDUMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "271a5f0f-32a1-4116-ab71-0f39dbf6fd45",
+    "name": "3: KATHIKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e5db582-794b-4825-9fbd-ee00ea41f546",
+    "name": "4: PUTHIYAKAVU EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d60eeb6-7134-4308-b9c5-b2e412e62655",
+    "name": "5: PUNNAKKABASAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "955b4a83-132e-40e8-a719-a83e318d2068",
+    "name": "6: PALLIVALAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb8c65ac-19c6-4515-ab9b-837a34fd7cf0",
+    "name": "7: MATHILAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9feca6da-5303-47ad-9465-dc413ddfda81",
+    "name": "8: POOVATHUMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae802ba7-eaec-4472-8b15-d27f81ac2ac5",
+    "name": "9: ONCHAMMAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "195ee113-278b-492f-b934-aee36329e2f6",
+    "name": "10: HIGHSCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "049ea1de-616c-443b-a361-dbfa3cfcdca5",
+    "name": "11: KALARIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ede17786-8993-41ef-99c4-5d011722afb5",
+    "name": "12: PUTHIYAKAVU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f50dd3f-2d1f-4e72-b608-8295d2d11042",
+    "name": "13: KAZHUVILANGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59c0c0f6-b426-4d17-a2f9-4f640f58eb61",
+    "name": "14: THATTUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d030907-7d52-4538-ba10-babd7209c92b",
+    "name": "15: EMMAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ed01181-7f40-4e76-8a91-ae15d07e9f66",
+    "name": "16: POKLAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "234867d3-70c3-433e-864f-41d1a5cc278e",
+    "name": "17: KOOLIMUTTAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

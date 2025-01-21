@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3894c7ab-82cf-4a47-87cf-08d9bc087b9a",
+    "name": "1: NORTH PALAKUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "397984f3-b3ef-40be-801c-32810f1aea32",
+    "name": "2: PALAKUZHA KAVUM BHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "209faa27-847e-40c5-ac94-96c403c16b75",
+    "name": "3: ILLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f830c8dc-c2db-4ef0-940f-379ea8623717",
+    "name": "4: MARIKA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ae615ba-697f-46a2-b7c2-f4a18fee890a",
+    "name": "5: MARIKA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f49faa09-3bf6-4a7f-ae11-fab71bfafee9",
+    "name": "6: MANGALASSERITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f89e333-9afa-4fcb-8706-1ef5f21fd193",
+    "name": "7: KARAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee585df6-a529-4de9-b63d-662f8afa3abf",
+    "name": "8: KOZHIPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f347c23d-feb6-433c-9b6c-222ec20a4f89",
+    "name": "9: PALAKUZHA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "608900b5-200d-4490-8c30-184358a2e36d",
+    "name": "10: PALAKUZHA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6c6e068-8a3f-4ba2-9056-a3aadf66acc3",
+    "name": "11: PALAKUZHA CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3c7a601-a28d-4bf5-a919-93acc5fd4d07",
+    "name": "12: UPPUKANDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4358774e-15cf-45ec-9f80-dd8d6599f8db",
+    "name": "13: KARIMPANA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

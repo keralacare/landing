@@ -1,0 +1,92 @@
+[
+  {
+    "id": "51985ff6-c81b-46bd-b4d1-0a1c284f2567",
+    "name": "1: ELEMDESOM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87a8e080-33f3-4a5c-b699-728cc690c261",
+    "name": "2: ELEMDESOM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4691c62-9548-4621-8dfa-f966167ef45b",
+    "name": "3: ELAMDESOM THOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4aba4910-362d-4871-a2d3-c91acd6860b4",
+    "name": "4: PANNIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "130e5ec9-4ee5-48a9-93df-1343bd66cf23",
+    "name": "5: KURUVAKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d671de00-a22c-4ea9-8735-bf5ce2a11b8d",
+    "name": "6: METHOTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c95c4fc4-bf5e-4ae4-ba81-90e9f2b6c81b",
+    "name": "7: POOMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf8618ab-6848-40e2-b172-2fc8106ac27d",
+    "name": "8: KOOVAKANDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bd6203c-dbc2-4946-93a9-2ae842682934",
+    "name": "9: KOZHIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59da4b9e-c1d2-42f6-91d0-68bbf1dd4ac0",
+    "name": "10: KOLAPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5933c797-3cdd-41f4-a95f-95f7aa93d8ab",
+    "name": "11: POOCHAPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "645538c1-a798-4036-8aa3-e29a6d78d628",
+    "name": "12: VELLIYAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e46e9637-f7a9-400c-80b7-cb390ccf2e62",
+    "name": "13: KARUKAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "880a19e0-21c2-4d09-8596-6fbaeabb54b1",
+    "name": "14: NJARALAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "799a6893-a7c3-48d4-94a9-e083570909f5",
+    "name": "15: VETTIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

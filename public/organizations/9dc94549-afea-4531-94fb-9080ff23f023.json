@@ -1,0 +1,80 @@
+[
+  {
+    "id": "0e6929a1-a2be-4c19-8228-7b2ac8a705ff",
+    "name": "1: KANTHALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aadc95c2-effa-478f-b224-8431542ce7ec",
+    "name": "2: CHAMAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04b2bea7-a53b-4426-a7cf-4c1a0a48f66d",
+    "name": "3: VADAKKEN VELLINEZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d232fcd-76cb-4e89-9212-ea58ae07fa93",
+    "name": "4: KURUVATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ce73ec3-3130-4306-a6e6-67c1e4217fe1",
+    "name": "5: KUTTANASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6491b831-19a1-4f65-98f3-c141506f3d0f",
+    "name": "6: KALLUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40c3a83c-4fec-4664-bd76-7cd0b1bdc359",
+    "name": "7: THIRUNARAYANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e36acff-22c4-4fa8-b124-5a5975c5754d",
+    "name": "8: THIRUVAZHIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfeb594d-6d50-43da-aa8c-4ba74706fb0a",
+    "name": "9: ANGADIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0503bed0-0af1-4161-8284-fe955af59ba8",
+    "name": "10: KULAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f773e35a-fdef-4c4b-8db0-471275c5d6a6",
+    "name": "11: ADAKKAPUTHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23bb0b9c-8c26-4963-ba8e-6fb136abf89e",
+    "name": "12: NJALAKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61898f48-128a-4d53-a649-e717605b3ab5",
+    "name": "13: VELLINEZHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

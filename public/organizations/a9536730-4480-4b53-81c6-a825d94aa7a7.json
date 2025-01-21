@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3ee4437c-b0c6-4aee-bae0-22294a877579",
+    "name": "1: KUDAYATHOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e93f6010-3733-4a35-bc7c-bc556ff6afe5",
+    "name": "2: KAIPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01ca1080-87c7-4f9d-a2df-bd0d8da11df2",
+    "name": "3: NJARALAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a16162b8-1666-4d78-85de-f4ae636388e6",
+    "name": "4: KANJAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffca8b86-2da6-4092-a913-380d35050ff0",
+    "name": "5: KOOVAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6f02992-0577-4c45-aece-9fced2fefb33",
+    "name": "6: CHAKKIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0710d121-286c-40f4-acd0-7042af64c8ee",
+    "name": "7: MORKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de4b3424-3e3a-43fe-b940-31cb41906375",
+    "name": "8: KUDAYATHOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cae01c6a-f255-48cc-bd19-d4470f59f344",
+    "name": "9: KUDAYATHOOR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79da893d-ea41-4851-adeb-3a2af35e681a",
+    "name": "10: KUDAYATHOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b0f4052-0ddc-433d-ae8e-98a8646f2833",
+    "name": "11: ADOORMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "410e15d8-3c51-4fe2-a9dd-41aea1e16d62",
+    "name": "12: KOLAPRA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a8a55db-4a5f-4d27-b17b-c50dbe2a67f9",
+    "name": "13: KOLAPRA THALAYANADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

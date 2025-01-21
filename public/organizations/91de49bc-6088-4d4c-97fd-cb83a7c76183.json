@@ -1,0 +1,266 @@
+[
+  {
+    "id": "18b59c5f-8c71-4f02-86ce-bdf423a2b5be",
+    "name": "1: ARALUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a1b59aa-3644-40a0-a370-fe5983941c6d",
+    "name": "2: PUTHANAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b41f7a0-b526-48c6-9941-5cdaa3f93147",
+    "name": "3: MOONNUKALLINMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "873d8478-7cf4-4082-ab6f-60c66fb1a30e",
+    "name": "4: KOOTTAPPANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae29a74c-1aed-4d25-aab3-065390019a4c",
+    "name": "5: PALLIVILAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bb346b6-929a-4e11-916e-e9a9a6c2751f",
+    "name": "6: PUNNAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3e4be90-ee47-4d51-8867-79efdfd68ce0",
+    "name": "7: KALATHUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4afaa611-c9d5-4089-9a28-e2da2285db9e",
+    "name": "8: VADAKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82d0b85f-7a39-4691-846d-3d0934e88f6a",
+    "name": "9: MUTTAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb751875-a073-4d0e-89f0-59cd19c63ee4",
+    "name": "10: ELAVANIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fdc9fa9e-9894-4933-89bf-f61cb6f689b5",
+    "name": "11: MAMPAZHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9d43630-8e15-40cf-972d-135949de5e02",
+    "name": "12: MULLARAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e66ad6e6-3815-44f5-9c97-a3f61f0dbc60",
+    "name": "13: PERUMPAZHUTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3f105f3-df12-41d8-b277-ad006caea37e",
+    "name": "14: ALAMPOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dee7640-b43c-47da-9568-ddc5a8274286",
+    "name": "15: PLAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f66b9b5a-ed85-4a96-a01f-ae34cbc8269b",
+    "name": "16: THOZHUKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c7f3eab-b741-4687-aeff-48fea9c477fb",
+    "name": "17: VAZHUTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd6043a6-cf2d-4e11-b44a-7098a1922873",
+    "name": "18: KOLLAVAMVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fee9c547-c6cb-4f31-b217-77e2ff3c93c4",
+    "name": "19: THAVARAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6db76b6-934a-4148-8f25-a9c599aba931",
+    "name": "20: KULATHAMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4df3a3c0-01ce-48c2-a899-58821f06fdcf",
+    "name": "21: CHAIKOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d6daf61-d885-4668-98d5-b537c646e363",
+    "name": "22: MARUTHATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8efde175-1e0b-4f08-b19c-4e2caed10178",
+    "name": "23: IRUMPIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2124652-2f79-4d21-844d-47ec8520cb71",
+    "name": "24: FORT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bd3ea52-165e-47f8-9ca0-05ac42b59c14",
+    "name": "25: VLANGAMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1b48f66-81fc-45a9-8219-623e680adc4f",
+    "name": "26: KRISHNAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8303de19-b733-4383-b249-843bd263d6de",
+    "name": "27: RAMESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ac23a53-12fd-42aa-853a-5a1a4e6affb9",
+    "name": "28: NARAYANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3beea82e-a876-466d-8024-b280b97cfe97",
+    "name": "29: AMARAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6e9caa5-88fb-4ae6-aeb6-0af3efa4d2e8",
+    "name": "30: PULLAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95e275ed-7938-4ece-a37c-bc80a52aaf8e",
+    "name": "31: PIRAYUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d39d910-4a47-4f90-8410-fb9e31c414c1",
+    "name": "32: OLATHANNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "72abe91d-3312-424c-ab44-0720dbc3c5dc",
+    "name": "33: CHUNDAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d641d35-7622-419d-b53d-c1cd74777ff1",
+    "name": "34: ATHAZHAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0ce4ce1-9042-4665-b16d-9a1226992483",
+    "name": "35: KAVALAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ea07109-ff11-4e8f-95cc-e38d193536b1",
+    "name": "36: PANAGATTUKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e45f687c-d027-4652-bbaa-a87a7c130645",
+    "name": "37: NILAMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b15b4ae-be5e-4b54-86d7-87ff545691a9",
+    "name": "38: MANALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee836285-26a7-48b6-9be0-6da7920bf9d8",
+    "name": "39: OORUTTUKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e232aa5d-b884-456d-a847-d0b2a9ff4b6e",
+    "name": "40: ALUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2294a4d6-343e-443b-9989-4451f15f635b",
+    "name": "41: TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79f771ba-6d22-433e-8526-083ab2fb58f4",
+    "name": "42: BRAHMAMKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da959761-f7d6-48d8-bbf3-3a491d305203",
+    "name": "43: ATHIYANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d5035a9-5e68-4791-bd5c-920023b401ea",
+    "name": "44: VAZHIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

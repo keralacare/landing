@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7192a600-5da0-4e01-b26b-8e1ca595b2b6",
+    "name": "1: NARIANGANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b9432cf-d290-443f-9ca8-d30e512eb43a",
+    "name": "2: ANJOOTTIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34cdde21-f179-4d18-a72d-80db8d294296",
+    "name": "3: POOVATHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c138359f-09ae-46e9-81fb-d0bdcb226dd0",
+    "name": "4: KALATHUKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1b0704c-32d8-497e-b136-78a5564d870c",
+    "name": "5: ILAPPUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37c5e01a-33ea-400a-9ebd-c0f90d2cea19",
+    "name": "6: THALAPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55c1a105-7c80-4c5a-b1a0-075657b53a44",
+    "name": "7: INCHOLIKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f2520ff-946a-4eda-b1ea-9767be3fe1f8",
+    "name": "8: PANACKAPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2289331-0352-4edd-9ae3-82b91835084c",
+    "name": "9: PLASSANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e69fea09-e784-4909-8a28-ce948028aae9",
+    "name": "10: MELAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29a73cc7-025b-4dd9-bab2-ab2014a7c738",
+    "name": "11: KEEZHAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a044e7bd-0b53-4a0d-a1f9-84896317a831",
+    "name": "12: KANJIRAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e7758a2-f2ae-436f-ad46-9db5ee3c9bd9",
+    "name": "13: EETTAKKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

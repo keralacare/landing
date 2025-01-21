@@ -1,0 +1,212 @@
+[
+  {
+    "id": "25ade783-91c8-4c2d-b989-888e9514451b",
+    "name": "1: VENGALLOOR WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce2d7c9b-6173-490d-a16b-cd34c7abd264",
+    "name": "2: GURU ITC WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "13641c20-c65c-42b3-bf00-48b5b26b55e4",
+    "name": "3: VENGATHANAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c1dc536-913f-4b1e-90f7-c4590b882ce6",
+    "name": "4: MADATHIKANDAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94168c9c-7a4c-44e1-8cc1-ce40c1ddd9be",
+    "name": "5: MUNICIPAL UP SCHOOL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bdbb2abe-a2b0-49c1-a42f-94f2e1cdb260",
+    "name": "6: AMBALAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3cebd3e-06a3-444d-8e38-80adce7d4ca2",
+    "name": "7: BHS WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80ed54d7-331e-4b1e-857d-72659015e755",
+    "name": "8: VADAKKUMURRY WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f274c65b-14ad-435a-be93-2c64294ba1ff",
+    "name": "9: PETTENADU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3ccf6ec-905d-4ca9-9c72-966558a485ab",
+    "name": "10: HOLY FAMILY HOSPITAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f416763-544d-4332-9b6b-ca5214af360d",
+    "name": "11: KALLUMARRY WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0ccb4c1-d406-43a2-981b-fda63a1aaaad",
+    "name": "12: KAROOPPARA WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28f7c17b-7674-4db8-b91a-86f83c3e4490",
+    "name": "13: PATTAYAMKAVALA WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55d78b2b-eff4-4738-80f0-644c3556fed1",
+    "name": "14: MUTHALAKODAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c91428d5-a59c-484a-8608-865c93ae7044",
+    "name": "15: UNDAPLAVU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a495838-d1a0-4a58-a1a1-c18e12984fb1",
+    "name": "16: BTM SCHOOL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bca7db27-419d-42ee-94f2-15cf0d1a4ebe",
+    "name": "17: KUMMAMKALLU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb882585-9778-4573-a537-e4758afd094f",
+    "name": "18: MALEPPARAMBU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97a7e239-5c8c-4f46-885d-7272c1a9ab06",
+    "name": "19: KEERIKODE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4bc038a2-ae47-49e4-94c6-ff68dd83a903",
+    "name": "20: MUTHALIYARMADOM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80810cae-8a73-4947-9c5d-8783e9faf492",
+    "name": "21: COLLEGE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b3b5deb-67a4-46f7-b3df-56b6f09d11c2",
+    "name": "22: MARAMKUNNU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "074e75c5-5dd4-45ad-9267-307425428b62",
+    "name": "23: MUNICIPAL OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0dabe802-5a03-4b8d-9c92-67a9ba98ac2e",
+    "name": "24: KANJIRAMATTOM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d69aefbc-7a0c-49d9-a4ce-9308dc102988",
+    "name": "25: OLAMATTOM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38ff97fd-d450-42cc-9dcc-61b6319148c0",
+    "name": "26: ARACKAPPARA WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d1a0390-50fd-4380-8204-f276067551bb",
+    "name": "27: KOTHAIKUNNU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a8a76a8-1977-46ea-9c0f-d3a515d15c54",
+    "name": "28: CHUNKOM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d2d897f-43a5-44ac-8a0f-608b633ee71b",
+    "name": "29: KOLANI WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3145b893-5a87-4d55-af27-2947d45dcc7e",
+    "name": "30: NADUKKANDOM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2393c692-49db-44a3-8d6e-cb6661925b60",
+    "name": "31: PARAKKADAVU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c1cea0a-77e5-4df6-a466-f6def57b2e9b",
+    "name": "32: AMARAMKAVU WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aeddf0b5-85fe-4b01-86ea-b78f975ae8d2",
+    "name": "33: CO-OPERATIVE HOSPITAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5341015-8ab9-4ec5-ac38-ce223d8a7023",
+    "name": "34: RIVER VIEW WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3d6d7a0-3f6e-48a4-9a62-77cba77eceda",
+    "name": "35: MANAKKAD WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

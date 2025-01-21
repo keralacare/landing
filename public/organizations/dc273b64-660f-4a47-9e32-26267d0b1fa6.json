@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c04ce955-5a70-4602-8728-9e7d80169cb8",
+    "name": "1: MAZHOORKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eda8924d-511a-4ffd-b8a5-ae7705b9f0cc",
+    "name": "2: PILAPULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1be6194-86c0-41cc-9130-7efdc4ddf95d",
+    "name": "3: MULLAKKALKULAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29dd8c64-cac9-482c-a93a-a106272613ec",
+    "name": "4: POKKUNNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9b68ae2-9c2b-41e7-8788-71a103129804",
+    "name": "5: THANKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00045f56-f920-4781-923d-048e82f1ebd8",
+    "name": "6: KOOTHAMPAKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca84e208-e3f3-45f1-a429-49b0013970ba",
+    "name": "7: MENANGATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6dee24d0-1829-4ae5-a536-5be4747c30de",
+    "name": "8: MADATHANARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7348e206-c298-41b6-825a-907e765ac08e",
+    "name": "9: V P THARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abe6c4e0-9dda-4260-b280-fc3882abb947",
+    "name": "10: PALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39ddf63b-32a4-46ed-a442-8b8b5f790f6b",
+    "name": "11: KEEZHACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0027938a-194a-4ebd-b241-2f735867579c",
+    "name": "12: PATTATHALACHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19fb4a78-8685-4453-af5f-a0a1c6221d34",
+    "name": "13: KAKKARAKALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

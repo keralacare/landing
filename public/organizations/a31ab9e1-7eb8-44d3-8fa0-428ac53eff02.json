@@ -1,0 +1,188 @@
+[
+  {
+    "id": "bd781788-0cc2-4c8b-8469-d4df74b61f91",
+    "name": "1: KOCHUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "136c285b-ad2f-4ff7-b57f-dcadf40b6b5f",
+    "name": "2: ALAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b9303d2-1bd5-471f-9171-27c4d912e0f4",
+    "name": "3: POOVANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78d19528-cc24-4abb-b121-aa7f8de09ffc",
+    "name": "4: L M S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "269c564d-9f03-4e46-9105-82c4feb146b7",
+    "name": "5: KARICHIYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1eb5333c-b3f3-4227-8d2e-f3d137a2c4e8",
+    "name": "6: THACHOORKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4ce5a65-d208-460d-8f8e-efc0d35bc568",
+    "name": "7: ARATTUKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a6f88e5-da2c-49af-824d-021d4278e11e",
+    "name": "8: AVANAVANCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f85e9a5-48e5-4d4d-a5b3-bea5fa8ee839",
+    "name": "9: GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4149dfb-63fe-402e-b75f-234a270197d0",
+    "name": "10: VELAMKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fae58eb-eef7-4b55-a1db-feff98b690f6",
+    "name": "11: KACHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef11f299-f5a6-42e1-9b07-f22cfef0c0b6",
+    "name": "12: MANOMOHANAVILASAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44e2acfd-8f68-4bb3-be6d-61df168918bf",
+    "name": "13: AMBALAMMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da08f670-5b0c-494a-9b0c-98fb0be76d33",
+    "name": "14: CHITTATTINKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f508ee28-7522-4b36-bcea-612b3404583b",
+    "name": "15: VALIYAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a914d25-bffb-4cab-b2fe-a0862cab4e26",
+    "name": "16: SEEVELIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5727fc65-bc4e-434f-96ab-b5eb135a0e21",
+    "name": "17: MUNNUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c590cbf9-2c3e-491d-bdf9-6303c16926be",
+    "name": "18: ATTAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a71e8dbe-bc86-4ff0-a6ef-2cddf812eab5",
+    "name": "19: PARVATHYPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b00dc518-1bec-4847-96d2-d66e5a887935",
+    "name": "20: KANJIRAMKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64efa33a-82fa-4f09-8fe8-9c44b95228b0",
+    "name": "21: RAMACHAMVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53df1f51-3399-4bae-b2c3-0bc756d48883",
+    "name": "22: CHERUVALLIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2021722-89a4-4bd2-9a04-263e6c9d1b68",
+    "name": "23: KODUMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4710cf92-7102-46d7-b683-b70919d08c16",
+    "name": "24: PALACE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85ceb83c-741a-4892-a7d0-19aef6cac42c",
+    "name": "25: KUNNATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49a9be4d-c582-4dab-a91e-98db182aec25",
+    "name": "26: TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d3108e6-9641-41b9-99d4-e718693f6729",
+    "name": "27: PACHAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a1616b6-3580-44b0-939c-901a70392068",
+    "name": "28: THOTTAVARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32911599-6cc5-4566-861a-5009664edc14",
+    "name": "29: KOTTIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f14d676d-0518-4c2b-b49e-a082014ed655",
+    "name": "30: TOWNHALL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e149c801-1406-473a-abc8-9ea3225e9c72",
+    "name": "31: MELATTINGAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

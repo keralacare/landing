@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2bee533b-2ca0-4542-abfe-55e88f7faa7e",
+    "name": "1: KAKKAZHAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6d0ea99-2956-4710-b9df-005737325657",
+    "name": "2: KAKKAZHAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3893ad7d-cad0-4fc4-a7e7-64c17186d425",
+    "name": "3: KATTAKKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f57853f-d1f8-4e6e-96db-96dcfc7f36ed",
+    "name": "4: KANJIPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "964df5d1-f9c0-4af6-87e8-2619c3b412a0",
+    "name": "5: SAKTHISWARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5de875b7-c651-4a7c-b086-3e4f810484a3",
+    "name": "6: KARUMADY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10ed5a5a-11a1-4021-824c-eee0dcb333c7",
+    "name": "7: KARUMADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b23f5fa-f5e2-401f-8df0-8d15bf075f0c",
+    "name": "8: AMAYIDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a9e89bb-af66-4294-99a9-df45d51cca45",
+    "name": "9: AMAYIDA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6782912d-c788-4fc3-a2de-63f79400950a",
+    "name": "10: AMBALAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fb04f85-75de-4559-a015-3fe66c1f97fd",
+    "name": "11: KOMANA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7b19f6d-16e4-4ff1-b102-d4019113cd57",
+    "name": "12: KOMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "191a4c9e-ed2f-4e0c-a814-1343e0d53ed0",
+    "name": "13: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f57ddbf4-4ee8-4ebf-a18a-3245506c3cb8",
+    "name": "14: KOMANA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ee734a1-dc45-4db0-af54-b9ef223b1842",
+    "name": "15: KOMANA WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

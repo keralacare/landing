@@ -1,0 +1,80 @@
+[
+  {
+    "id": "93ebe8f6-8e88-42da-a43f-5ce57f858a38",
+    "name": "1: ORIYARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbd747cb-49f7-4aa4-8c42-a4d2f780b6c9",
+    "name": "2: EDAYILEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1828572c-a197-41b3-a6fd-92b245c55a40",
+    "name": "3: MADAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76d5b46d-3d76-47c1-8e16-b7cc291d6207",
+    "name": "4: THAYYIL KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2329cf8-320a-4931-8deb-5a1f0439a337",
+    "name": "5: KANNUVEEDU KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53fb9400-9778-4f8b-979e-7cb6f11baffc",
+    "name": "6: UDINUR KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c267f30-9c4d-4b79-b5d1-3b1ed9d54836",
+    "name": "7: VALIYAPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a428a16-0995-46c2-998e-623bf52ab483",
+    "name": "8: PATEL KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d442b7c7-a9cd-478e-a811-cec3b5f19b46",
+    "name": "9: PADANNA KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffb206dd-c749-4a50-bf5a-1ed0fcda98f7",
+    "name": "10: BEECHARA KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "145c7271-689e-4313-8df3-3d47cccd9153",
+    "name": "11: PANDRANDIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3ac0d26-e4f3-4e99-a00d-7eef4d64c35c",
+    "name": "12: VELUTHAPOYYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "208b6879-753b-4243-8305-8170584ad589",
+    "name": "13: MAVILA KADAPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

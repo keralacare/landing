@@ -1,0 +1,51 @@
+[
+  {
+    "id": "f3414213-3cc2-4b76-b7cf-ce33bba35ad6",
+    "name": "Kunnathoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1dce34b4-f1d2-43d4-b6a4-1a66f557c5b5",
+    "name": "Mynagappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "62149e7f-fd91-4f89-8396-35abf05b25d9",
+    "name": "Poruvazhy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "182f8baa-8966-463f-b299-7699f052b3bf",
+    "name": "Sasthamcotta Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "feb686d0-d988-478f-bfe0-a96f87da8d4a",
+    "name": "Sooranad North Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "359d86b2-d0a5-407a-b379-6e6bfa0a183c",
+    "name": "Sooranad South Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d41b97fa-7bbd-4cde-82fa-bc921a790d0d",
+    "name": "West Kallada Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

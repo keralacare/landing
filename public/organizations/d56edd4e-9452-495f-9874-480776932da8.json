@@ -1,0 +1,104 @@
+[
+  {
+    "id": "37cd9264-d977-4134-8636-d8ff92dc1be2",
+    "name": "1: THATTATHUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0de4ecd4-2974-44fe-96c2-e92140e13f28",
+    "name": "2: PARANDAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d65cc3f-eb98-4598-b535-9a5cce46829c",
+    "name": "3: CHEMPAKASSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35a1b169-4b55-4d0f-8828-109f2c115a17",
+    "name": "4: KULAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2532a1c4-2572-4865-8989-6167feba6c7d",
+    "name": "5: SHEDDILKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99ead617-fb43-4a9a-af75-923285716aad",
+    "name": "6: CHERUNARAKAMCODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f28066f7-30a5-42b7-a339-fef403c59ebc",
+    "name": "7: THOLIKKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f9b5028-bc13-4a88-b280-ef781c83c4a8",
+    "name": "8: ADAYAMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26c42b94-0967-443f-8024-c6bf8dc5c628",
+    "name": "9: VANDANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84950d0e-cc41-4789-b535-a87443d59bfe",
+    "name": "10: KANARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a4575a2-4fa3-46c9-8b03-a4b7c08e0522",
+    "name": "11: MAHADEVESWARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba34ff81-e1f9-4223-a676-60cc3d7cdcfb",
+    "name": "12: MANJAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aabf7f9c-4f86-4aec-8775-a476be764dea",
+    "name": "13: KUNNUMMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e05ef80d-34f9-4ff7-8769-03ad5270a860",
+    "name": "14: PUTHIYAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f41cef59-7a47-45a3-8f47-57470984f064",
+    "name": "15: PAZHAYAKUNNUMMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b484ef4a-c4d4-438e-bc3e-244014a9624d",
+    "name": "16: PAPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7204938-7269-44c4-8a86-e93e6519ba80",
+    "name": "17: MANALETHUPACHA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

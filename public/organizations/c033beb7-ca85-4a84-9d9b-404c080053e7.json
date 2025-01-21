@@ -1,0 +1,51 @@
+[
+  {
+    "id": "e4c39fff-fb64-42e5-801a-024a4c726bc6",
+    "name": "Karunapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "938228a7-d510-4122-bd8a-5f13491450eb",
+    "name": "Nedumkandam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0fc4b7f0-14d2-453c-8b59-421d19a46652",
+    "name": "Pampadumpara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2fc04ee2-ffef-4ed1-a532-e1eca153b99e",
+    "name": "Rajakkad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "72782926-2847-4ffe-8ab0-622bf9e1ff0d",
+    "name": "Rajakumary Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a37f31b6-d1c6-43c1-8302-def3de2bbdbd",
+    "name": "Senapathy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6b05a514-65c0-498d-9763-9d1e3acdee0d",
+    "name": "Udumbanchola Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

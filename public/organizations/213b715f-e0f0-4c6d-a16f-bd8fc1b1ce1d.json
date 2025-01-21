@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5e82240a-741c-483c-893f-c5ffbb29971a",
+    "name": "1: MALECRUZ",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5194a4f5-a8f0-4a82-ac43-46ad2fcee76f",
+    "name": "2: VADAYAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ae1c6e7-c1b2-4f71-a135-d5f85b935781",
+    "name": "3: PATHAMMILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a43c1f4-3335-4169-8b60-79a46086704d",
+    "name": "4: PUTHUPPANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d9ae5c0-320b-4d6f-8cfc-987fd388324d",
+    "name": "5: KOLENCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26beffbe-741f-4b48-864e-71692171f40d",
+    "name": "6: KARUKAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c19646e-af17-4001-b02a-8a51aff6e475",
+    "name": "7: THAMMANIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d950083d-5b6c-4be0-bdd0-1b01251785d6",
+    "name": "8: KINGINIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5a05f5c-b495-48fc-b933-c904ceda26f2",
+    "name": "9: PALACKAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05a241a0-dc28-4c82-b191-730754565da1",
+    "name": "10: POOTHRIKKA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e52437a2-d64d-41f6-a14e-47b1e939c444",
+    "name": "11: POOTHRIKKA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5fe4f656-42fb-4e5e-8153-e0a38d0ac1d5",
+    "name": "12: CHOONDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d96d8739-5b16-434e-abfe-6883352b66f3",
+    "name": "13: MEEMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "456e0972-a548-4571-bda2-a3e0303b7c06",
+    "name": "14: KURINJI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

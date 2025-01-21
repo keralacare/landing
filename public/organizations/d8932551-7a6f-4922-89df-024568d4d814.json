@@ -1,0 +1,116 @@
+[
+  {
+    "id": "a50ad280-4e3c-4ab9-8c53-1f7cc444d6a6",
+    "name": "1: MANNOTTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36b1df8c-684f-4c1b-999a-fd5ae13aae81",
+    "name": "2: AVANAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "222cd995-22a8-40cc-b35f-bcd832765d06",
+    "name": "3: MANNAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eebcc8cc-0757-4fe2-8bab-5c6bd8db4e42",
+    "name": "4: KOLLAKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e921ee6e-037d-4bc1-9ea6-10913ea17a0d",
+    "name": "5: KUZHIVILAKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ce88259-aac9-46cc-a2d6-d69874f4e6d9",
+    "name": "6: SREENARAYANAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d2ff297-0c3c-405c-b95a-a356d2ad42d0",
+    "name": "7: MOOLAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef3a84b2-941f-425e-a353-00af4e3c0528",
+    "name": "8: CHOWARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "adad0154-2975-47fc-8b6b-04b4c434550f",
+    "name": "9: AMBALATHUMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "960682b0-b8d9-4c9b-ab2a-d296a096c719",
+    "name": "10: ADIMALATHURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c8051cf-2fce-49a9-84ba-54b3ef65f2a2",
+    "name": "11: PULINKUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "631ca9fa-3de9-4c92-b738-a27dfaf75ab8",
+    "name": "12: CHAPPATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "232adc54-b59b-47a0-bbce-48d23a5cc486",
+    "name": "13: THEKKEKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d467ec9-7d49-41d9-8b99-a04b96fcc1b2",
+    "name": "14: PUNNAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f52f130-67ea-47b4-b78e-45a58b683403",
+    "name": "15: OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b92fd1f-0ce8-4212-8a15-ba5c384590c2",
+    "name": "16: MARUTHOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11e020c7-c8eb-44e2-93d3-f0952c34b112",
+    "name": "17: PAYATTUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "505a3a0a-d87a-4bc5-8f3b-1c4d92871da8",
+    "name": "18: PULIYOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fec8debb-2b38-4c43-9871-962b71beeb2b",
+    "name": "19: PULIVILA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c91c1da0-9daa-4143-bd9c-c3010a32c6fd",
+    "name": "1: EDATHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc3a3b54-13f4-40fe-9a6e-e7f0b59f1aee",
+    "name": "2: ATHIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92171527-6731-475c-b40b-c75dc0152073",
+    "name": "3: BALAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0352b958-569c-459a-a70c-71807027cf84",
+    "name": "4: MARUTHUMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ca3b9fd-5796-45f7-82eb-60c32be7bcd3",
+    "name": "5: CHULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5929a13d-09c5-41c1-bce4-7bd74914e544",
+    "name": "6: DARKKAS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51764f3a-42ef-41a3-b7f5-c40d0f5baca2",
+    "name": "7: PUNCHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef49a970-b413-497b-915d-110935ae1273",
+    "name": "8: MAIKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "420fd235-65df-4658-8726-05a09e4d0ef9",
+    "name": "9: KONNAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea6a42da-1dd7-46cf-9db1-df1dcf49b8b1",
+    "name": "10: MUTTOMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6684d781-0931-44a5-b3e7-021a53416ae1",
+    "name": "11: MALOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f50318e-0d6b-4be7-98d1-27c63ebac852",
+    "name": "12: KARIYOTCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d21c3ba1-4499-4411-8049-3a96c5cd9995",
+    "name": "13: ANAMANJAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0459222-bb60-44c6-a299-e93baf004f64",
+    "name": "14: VELLARIKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9c221c5-abbf-4673-bbce-48c6630f1224",
+    "name": "15: KALLANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16423eda-d09a-4788-af29-27cb9834b16d",
+    "name": "16: KANAKAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

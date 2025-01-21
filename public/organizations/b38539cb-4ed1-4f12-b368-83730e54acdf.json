@@ -1,0 +1,86 @@
+[
+  {
+    "id": "82c98f26-d152-4a5c-88e5-13661dd6d643",
+    "name": "1: KADUNGAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7af3df7-9d48-4559-8467-87ca4284627d",
+    "name": "2: PALLIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43790bb8-fcb9-4650-816d-5c3fe813d4e3",
+    "name": "3: AMBADIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5dbb23e3-71e1-4559-b537-b708d50fd52d",
+    "name": "4: CHOTTANIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef9bd332-fff1-463d-b558-9118affaaf01",
+    "name": "5: THEKKINETHUNIRAPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12713ac3-cc64-4dd8-81d1-00501db16796",
+    "name": "6: KIDANGAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24bda3e4-b66f-4f2d-94a9-62c4c55a9df5",
+    "name": "7: THALACODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb5ff1d1-f827-48dc-9ee0-6c87b75ccbe3",
+    "name": "8: PALACE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7858ae3c-6313-40a5-90d3-4fa7cf0b693a",
+    "name": "9: ERUVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e86dcc8d-e2ad-434f-9900-180d3afe091d",
+    "name": "10: VATTUKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb2525cf-8ce1-4656-9ef4-3d5736178994",
+    "name": "11: MANJAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ba6a4f8-8b2e-4c7a-9b35-11abd05bea25",
+    "name": "12: KANICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "167094b0-ec16-49bb-ac80-d0568378c572",
+    "name": "13: CHANTHAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "838e8aca-9109-4655-8d29-0404eddf34d5",
+    "name": "14: KUREEKKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

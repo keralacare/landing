@@ -1,0 +1,140 @@
+[
+  {
+    "id": "5802a0b1-59d3-47e2-981f-7e2786c41135",
+    "name": "1: PAZHAYIDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6753a3e3-c211-48ed-a139-223f26a030c6",
+    "name": "2: CHENAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0a915ad-6d5d-4840-b74a-f1fa27db5761",
+    "name": "3: KIZHAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5af8554-38c6-48df-a10b-62acb01d95ee",
+    "name": "4: CHERUVALLY ESTATE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed7659bd-f618-4001-ab62-0e9792b1e385",
+    "name": "5: OZHAKKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a6e28bd-7351-494d-ac2f-67796f5f4d7b",
+    "name": "6: VAZHAKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31ba99dd-3157-4c2f-b312-a8b09e342226",
+    "name": "7: NERCHAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b44364d4-4807-4b9c-a5ef-ac9d03b9398a",
+    "name": "8: KARISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c927695b-34b9-4423-8d02-9ad843153bf6",
+    "name": "9: IRUMPOONNIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5d5da4e-d15d-4349-8b4f-56089205c5a7",
+    "name": "10: THUMARAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f7719b4-ec97-407d-95ec-75dffb1b2fcb",
+    "name": "11: PAMPAVALLEY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b5432c8-0d45-4139-ab5c-b1ff90bbdb3c",
+    "name": "12: ANGELVALLEY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e24b9d63-c59b-47ca-8479-b10df42c925d",
+    "name": "13: MOOKKENPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55e797f8-eee2-4f2b-ab1b-7785496bfa63",
+    "name": "14: KANAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95a708b8-e427-4466-ba54-66936b539e56",
+    "name": "15: UMIKUPPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "918a2ae5-c049-430b-9dee-93ab842796c4",
+    "name": "16: MUKKOOTTUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02dd4d2b-ff3a-4da6-b7c8-53fdf49ab6c3",
+    "name": "17: MUTTAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5e2e187-dbbc-4011-ace0-828bc23d966a",
+    "name": "18: ELIVALIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7b7e061-69c7-410b-b1e3-1316b2a3d5a2",
+    "name": "19: PRAPOSE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30b8ec30-72c6-47dd-a779-56dcb381bc0e",
+    "name": "20: ERUMELY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "523487aa-9b5d-4895-9e9b-9bb8b340e1bb",
+    "name": "21: PORIYANMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d39f16b-7687-413b-a7ef-2411bbd19d67",
+    "name": "22: KANAKAPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca859fc4-b026-4457-a784-2acd654e81c1",
+    "name": "23: SREENIPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

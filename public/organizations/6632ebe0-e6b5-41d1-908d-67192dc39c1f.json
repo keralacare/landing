@@ -1,0 +1,92 @@
+[
+  {
+    "id": "98b894f3-1d91-45bb-9135-ff7dc8f5b80e",
+    "name": "1: KOTTAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c90b139f-cf29-48a3-b93e-34d3e74e95c7",
+    "name": "2: AYYAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e62c6223-fd44-4d17-adf1-6fc074f92b49",
+    "name": "3: MADATHUMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0638513-4a72-493f-a7d8-4ace8d09177b",
+    "name": "4: THUVARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c32449aa-dbd9-4f23-ae13-ae5b0e56e67b",
+    "name": "5: KARIYAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb695411-5446-4155-8805-6ae5748ae7c1",
+    "name": "6: KANNACHIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53cf2c1f-b31b-4dbb-9b94-55df8d10ed11",
+    "name": "7: THEKKAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2664b2b-5e55-4b04-846b-365e51df1f09",
+    "name": "8: PULINELLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31f9ea3e-3eb1-40ea-8913-aa4359a05c89",
+    "name": "9: KALLEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ea178ff-f7ea-4ccf-a5f8-6054981e17a7",
+    "name": "10: SASTHAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80c45244-7caa-454b-867f-f540cd6be367",
+    "name": "11: CHEMBAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5581eb1f-7f4b-4490-b945-5c227401a274",
+    "name": "12: THEKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d031a958-44b4-47d8-8ee7-da11582ff297",
+    "name": "13: MANDALAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ea10a46-c231-472b-9f2f-37246cc9c1e4",
+    "name": "14: CHENNANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2969290-4acb-44b4-bdeb-652b3dd50084",
+    "name": "15: KOOTHALAKKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

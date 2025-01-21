@@ -1,0 +1,80 @@
+[
+  {
+    "id": "58309777-154f-4ed9-b587-db5d91170ed5",
+    "name": "1: PULLAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a9de86d-8a9e-4bc1-96d0-8b9069f5ee74",
+    "name": "2: NEELAMPEROOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6009646-329c-40ed-b431-2de17387ba4a",
+    "name": "3: NEELAMPEROOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb06ec44-a895-4e48-9b28-a4dcc9a07499",
+    "name": "4: EARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5be19d41-8e69-49d0-89b0-b6140e4eb883",
+    "name": "5: CHAKKACHAMPAKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cda34c08-91d2-46a2-aaeb-d7ccc96a0821",
+    "name": "6: EARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca183de6-037e-4794-8ca0-10e8f91fee1b",
+    "name": "7: PAYATTUPAKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4eebd6c9-d537-44f0-846a-d9d8daf2c2cf",
+    "name": "8: VALADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93976dd9-acf7-4ac3-b5e7-e025d70f1b2c",
+    "name": "9: NARAKATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "548adcae-cce2-4017-8cb4-9a1e9bc1b37b",
+    "name": "10: EAST CHENNAMKARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86939f92-6a46-4ea9-9b78-d5323064204c",
+    "name": "11: CHERUKARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cf49599-e7fd-4f49-b375-befa6ea783fa",
+    "name": "12: CHERUKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c1c3d12-29dc-48f5-a175-cc1ccd0bf765",
+    "name": "13: KAINADY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

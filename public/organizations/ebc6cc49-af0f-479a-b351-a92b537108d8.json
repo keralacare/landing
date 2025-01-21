@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3b54b186-a4b3-4972-9e03-51e79df9dc40",
+    "name": "1: THIRUVADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b36bb139-43ab-424f-bc23-9cd1453cb2b6",
+    "name": "2: KANAKKANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c078316-9ba0-4ff5-80d6-80861207b493",
+    "name": "3: PATTOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b1f2c71-79a7-4ae9-8b96-71b2271ffca1",
+    "name": "4: CHANDHAPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cb865df-a552-40a6-89cc-642d933a5a87",
+    "name": "5: MANAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "641c2577-c10d-497d-abcf-ba942a2f90a1",
+    "name": "6: THERUVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26858198-4f15-43cb-b8b1-e700b4b3ab3d",
+    "name": "7: THACHANADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ac32fa9-0d48-4c97-af8d-decffa141a61",
+    "name": "8: ANJUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c64578f-fd85-4db0-a595-80f06e78f336",
+    "name": "9: GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9ee82e7-9d3b-475c-8f80-9eac4c932a44",
+    "name": "10: APPAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ac6ce7a-bdcd-4625-8319-a7341cee1f44",
+    "name": "11: KEEZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "834acd0b-a49d-4a5b-b115-2f0703feff5b",
+    "name": "12: VALAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99081e06-4c19-43dc-ac97-43b7f06cf721",
+    "name": "13: KOTTARASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad8c7d43-f329-46c0-a42d-0132d66f9d94",
+    "name": "14: THEKKEPPOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f409dbd5-0d4e-4c67-b74c-7288c2d9f016",
+    "name": "15: AYYAPPANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

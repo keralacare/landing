@@ -1,0 +1,110 @@
+[
+  {
+    "id": "49756faa-43fe-4d83-8c23-077110544f2c",
+    "name": "1: BENMORE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60d698d4-578e-431d-af67-cf649190330d",
+    "name": "2: KUNDALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35392396-0fa2-454d-a8e9-7cc867d85036",
+    "name": "3: CHENDUVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f78f12c-524f-4bc2-9b9f-cf0233b302fe",
+    "name": "4: CHITTIVARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bd0533a-04fa-47b6-94f9-92e591f380c6",
+    "name": "5: THEERTHAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea5a8126-20eb-4c44-810f-0f3d8ae597a8",
+    "name": "6: YELLAPPATTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b667bff-a9e7-4c1a-85a8-ee40cd90662a",
+    "name": "7: ARIVIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3805d608-65c5-4048-8383-7096ee008b1c",
+    "name": "8: SILENTVALLEY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9f981e3-9d3e-4c10-aed9-9040d32282f6",
+    "name": "9: GUDARVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e06aedf8-d8d2-4381-b59d-a971fe287d3e",
+    "name": "10: MANILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1ad2a86-5c5c-4478-8e35-58fb2227101f",
+    "name": "11: LOCKHART",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ad595b8-33fd-4d4a-a4ac-696f74d2baa3",
+    "name": "12: DEVIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "712e08ee-f8fc-484f-a81f-6c97610633f2",
+    "name": "13: CHOKKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25c8e6ce-07ea-466c-906c-97f00c968ca3",
+    "name": "14: NETTIKKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc3d2a92-93cc-43f4-8554-c098abf8827c",
+    "name": "15: GRAHAMSLAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d66ffd95-1e97-471b-8069-e71ccf69c5df",
+    "name": "16: MATTUPPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56d7e3da-2324-44aa-932e-e5e061e1019c",
+    "name": "17: THENMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6131db56-d105-4415-b970-6f52bc7ce017",
+    "name": "18: GUNDUMALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

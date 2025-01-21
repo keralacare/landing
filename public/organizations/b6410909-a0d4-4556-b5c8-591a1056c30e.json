@@ -1,0 +1,110 @@
+[
+  {
+    "id": "84fa3cee-e3f7-4745-bb54-d4e0df48bedc",
+    "name": "1: CHIRAMANENGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53e1520f-873a-448c-9351-6778a622b848",
+    "name": "2: PARAPPU NELLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb5fb75e-a96e-415f-b47b-0cff689c57fc",
+    "name": "3: KADANGODE PARAPPURRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a89efb1-baed-415a-bbb5-fd87476c629b",
+    "name": "4: KADANGODE RICE MILL THEKKUMURRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10465beb-6367-49e2-9bf3-edef86eb229e",
+    "name": "5: KADANGODE KIZHAKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ae50b9f8-2109-461c-9147-ac9fe44f1601",
+    "name": "6: MANDAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83462ec5-fc26-4c0c-bae6-a530f3119b7a",
+    "name": "7: PAZHIYOTTUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5f1c871-9bea-44c5-8c27-21a9f27229a0",
+    "name": "8: VELLARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3015758-21bb-4fd2-9b0c-f1b9bcb9f0fb",
+    "name": "9: PENGATTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f034861-80f3-45ef-a51c-66779a5ce494",
+    "name": "10: VELLATHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba8b54c1-40b1-42c2-9259-cd0c503f4b10",
+    "name": "11: ADHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51b5632c-e9be-4222-9919-633bc2d6c816",
+    "name": "12: EYYAL PARAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d233311-8e3a-4f11-a416-c0cb2e45d2ce",
+    "name": "13: EYYAL AMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36b08a64-c00a-48ee-9b2e-ae976e2735ad",
+    "name": "14: CHITTILENGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bce5e87c-04c9-4d56-ac37-f71c895dc44b",
+    "name": "15: NEENDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "624de62b-8d26-49bb-9b1c-d7375fa68e36",
+    "name": "16: MARATHAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a99ba833-f723-4f2f-9d7c-4229a53e2777",
+    "name": "17: KIDANGOOR A.K.G.NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "691ef6c5-afb3-4992-b1c3-86473d1ce92d",
+    "name": "18: PANNITHADAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

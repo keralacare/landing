@@ -1,0 +1,86 @@
+[
+  {
+    "id": "fd5ec44b-6d0f-4379-865b-984296603274",
+    "name": "1: JAIGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07c67468-8b76-4c8f-a8c8-0d824391498b",
+    "name": "2: ASUPATHRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "388496d3-ea89-47de-9a81-7b830b727d1b",
+    "name": "3: KANJIRAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "751975e2-0cd4-4801-a58e-519116cb756c",
+    "name": "4: SUBSTATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe1cf6fa-2f8c-4e2b-b985-9aee25b5388d",
+    "name": "5: KOZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22ae5795-3dca-4611-ba51-4b366c575822",
+    "name": "6: COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bdab1146-ba76-49c4-a05c-e8fa472b6746",
+    "name": "7: CLARATBHAVAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62df5a79-cee8-4c5e-9dd1-e78112603c5c",
+    "name": "8: KALIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a53915e8-b7fe-4e2e-a79d-c4e1593962aa",
+    "name": "9: GOVINDAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "144b8a4b-0101-418b-a0c3-8655957afcbd",
+    "name": "10: KALATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10cbe20d-ab75-4ccd-89ad-19825a7218af",
+    "name": "11: NAZRATH HILL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32299166-8675-42db-be91-ea15397284d7",
+    "name": "12: PAKALOMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91988df4-e66d-4002-8d58-91552ea83e8c",
+    "name": "13: INDIRAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7630018-3b91-4cbb-aed4-5fd922e4b2e9",
+    "name": "14: THOTTUVA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

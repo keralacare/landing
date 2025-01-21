@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0d70bed9-f9ff-413e-841e-790f62b3a9b2",
+    "name": "1: UMMERGHASI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e72ffa87-5a3e-4d29-97ea-2d9413fa75f9",
+    "name": "2: THAVALAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b656685b-f9c5-4f96-a36a-6321d5189a5f",
+    "name": "3: VELIYANCODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b8f644c-70e3-4cd6-a7ec-d594962cb74d",
+    "name": "4: PAZHANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7c3bafa-0581-4d4a-b556-52cb9057f258",
+    "name": "5: MULAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afb18ffc-6d88-4953-be60-051c3b7eb724",
+    "name": "6: PERUMUDISSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b54fe38-33a0-400d-ae95-35b006549b16",
+    "name": "7: ERAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91fa47b1-eb52-4e82-8152-6d300e35ae0f",
+    "name": "8: THAZHATHELPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9096307-700e-4269-8445-9da69035c1f9",
+    "name": "9: CHERIKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1be95925-c630-4530-ab26-96015a14f3c1",
+    "name": "10: NAKKOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d00d7ea-787c-4348-90b0-5ed9c823f1e8",
+    "name": "11: ERAMANGALAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f0a890b-e9f9-4211-b80e-17afaad72fc5",
+    "name": "12: KOTHAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05d97b92-add3-4871-bf18-5e6de0eb86cf",
+    "name": "13: GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd32dc20-6382-46cb-a2e9-bfbc06433560",
+    "name": "14: AYYOTTICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65182226-922d-4d0a-a653-d8c3ac4ba330",
+    "name": "15: THANNITHURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35804a49-b065-48dd-8434-4f9184e1f452",
+    "name": "16: VELIYANCODE TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9270b24f-fe46-43be-8099-e99264eaca04",
+    "name": "17: PATHUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d31f5fc-3ab5-4e16-97e4-e22b7de42632",
+    "name": "18: MATTUMMAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

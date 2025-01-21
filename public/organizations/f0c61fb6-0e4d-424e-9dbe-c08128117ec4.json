@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8c6fd979-f47f-4003-8fe8-de24b515e9b2",
+    "name": "1: ANAKKULAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a3c4446-cc99-40a5-b949-7e109985a8e2",
+    "name": "2: SEVALKUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf533066-eca6-4be8-872f-ac6373c70103",
+    "name": "3: 50TH MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "921325d9-722f-47e1-a502-9e17186eb90a",
+    "name": "4: 6TH MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cac1f80-5082-43e6-9001-fa4de2b246b6",
+    "name": "5: MANKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a0809cf-8f1e-4c96-a20a-191ebee23510",
+    "name": "6: MUNIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b210828-f630-433b-b8a4-ae3a773d08a9",
+    "name": "7: VIRIPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1acbf57b-de3b-441d-8458-3b1faaee8eb0",
+    "name": "8: PAMBUMKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c19253af-cb48-4387-8534-ca0454db319c",
+    "name": "9: THALUMKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1234d8e-64dd-4a60-8b12-2f4fd5574539",
+    "name": "10: VELIYAMAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d3c121d-6e26-4303-91f2-4ee507bf5e2c",
+    "name": "11: VIRINJAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb721925-42b7-4069-b4f3-cd6b2fea81f0",
+    "name": "12: PERUMBANKUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7957a7e1-fa25-4e71-9e61-6353c16a5d0c",
+    "name": "13: ANAKKULAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

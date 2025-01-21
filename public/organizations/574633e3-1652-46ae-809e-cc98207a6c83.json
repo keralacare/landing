@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4856ce93-fd66-410c-894b-f64777e9522d",
+    "name": "Amballoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b38539cb-4ed1-4f12-b368-83730e54acdf",
+    "name": "Chottanikkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fbc51bab-3f71-4302-b89a-f3ad0c318879",
+    "name": "Edakkattuvayal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "71897376-7934-49e7-b423-e8c41e508f1d",
+    "name": "Maneed Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6ee23c50-55fe-4933-96a2-581a308f510c",
+    "name": "Mulanthuruthy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "03680418-3302-4de9-92b3-5dfbf20544dc",
+    "name": "Udayamperoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

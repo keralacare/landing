@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ed85c3d4-4fed-4d9d-9e54-86c89ca0a6f8",
+    "name": "Arattupuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6c5d7a3c-aba0-45fd-b1ea-a2bf3e703b45",
+    "name": "Cheppad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5cb9106c-33a1-453c-8fe3-682bc23db325",
+    "name": "Chingoli Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2103f6c3-ec08-4890-a9bd-0d2a2094feb8",
+    "name": "Devikulangara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4058dbda-e467-45fc-a55a-7144709e9c09",
+    "name": "Kandalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "07b1ba48-cda1-4d26-a0bb-e336c92a0d3b",
+    "name": "Krishnapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8bb92b53-0ecd-4c96-9ac0-91329ad5dac5",
+    "name": "Muthukulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a67f9c3c-4052-4348-8145-33f60a9935c2",
+    "name": "Pathiyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

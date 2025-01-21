@@ -1,0 +1,122 @@
+[
+  {
+    "id": "e41de5c2-a4ad-4cd2-9c2a-92239701c200",
+    "name": "1: ERUTHAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd46a090-9d8f-411c-b3f8-3324b1eb34f3",
+    "name": "2: RUSSELPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccaddce3-cf1f-4674-9616-228442d76234",
+    "name": "3: PARAKKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f9b00fe-e60a-4e38-bfd6-0e55572bbb63",
+    "name": "4: PUNNAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d01cfa0-a575-4d16-9e41-23787c380a12",
+    "name": "5: THALAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01a9a1fe-f0d9-4f1c-9b2e-2013ba390d9a",
+    "name": "6: PULLIYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19cecc6a-3248-4569-af9b-fe21e6aac8b3",
+    "name": "7: TOWN WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfd4dbe3-f406-43c3-aacf-2fe440e1ba47",
+    "name": "8: THOPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66c93acb-fe30-4c41-8dca-19f756335eee",
+    "name": "9: ANTHIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dbfc56d9-e89b-4085-a88d-1a6d291c04f1",
+    "name": "10: RAMAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee17c08f-b6e5-4373-b813-3c9adb4fa635",
+    "name": "11: KOTTUKALKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "141fb586-74ab-4c37-8052-3b15e80131f7",
+    "name": "12: PALACHALKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a27c7bba-b827-479a-be33-44040d15bd1f",
+    "name": "13: PANAYARAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8f16fac-04aa-4f31-b031-cc6a9d396102",
+    "name": "14: NELLIVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b78d37c8-a188-4b89-9e90-7c8550a125fd",
+    "name": "15: EDAMANAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc63821e-6cff-4267-9033-447f8c4b2952",
+    "name": "16: R C STREET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "276b7be2-d1b2-434a-a44e-16cea1eaa0df",
+    "name": "17: CHAMAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da40cab6-d201-4d6c-8a41-43aa54f9c082",
+    "name": "18: ITHIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6b066d4-85c9-4aca-8568-f6a95fba6fe0",
+    "name": "19: MANALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cfcda94-9d87-4ed2-8b9c-4a85f465e6de",
+    "name": "20: OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

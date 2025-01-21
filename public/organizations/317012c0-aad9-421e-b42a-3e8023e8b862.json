@@ -1,0 +1,116 @@
+[
+  {
+    "id": "7dcd421e-6b95-48de-b707-01312b514f33",
+    "name": "1: KAKKANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43fc1649-086c-4b29-b0c5-2da2b6c0fc29",
+    "name": "2: KOYAKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c84b9b5-73e8-48c3-951a-71044c641dd7",
+    "name": "3: THERUVATH KADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc9654e1-84e1-472e-8764-5ee44c96e3ea",
+    "name": "4: ULLIYERI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "898e02a5-2662-49b2-acad-bbd06d608668",
+    "name": "5: ORAVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26848938-2213-4bff-8444-0090299ca5ff",
+    "name": "6: ULLIYERI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e1a5c29-c4d0-44ed-864e-0259b2a77c9f",
+    "name": "7: MAMBOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39950f1f-3441-4e6c-a66e-b65153e8c011",
+    "name": "8: ULLIYERI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76dc7ecd-cd48-4cc9-80b1-2136d4673a44",
+    "name": "9: MUNDOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8648847b-f56c-4da4-93a0-e30edb8ff4e8",
+    "name": "10: NARATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd8f6ac2-af41-4cdc-8c35-44b801fb2b8e",
+    "name": "11: KUNNATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36ffb50f-f6f3-4a37-b326-7a83810a5ba1",
+    "name": "12: PUTHANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16f8484a-10c4-4057-afa2-744f78a043b1",
+    "name": "13: PUTHOORVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9f4d5b3-de3a-4584-b5ed-3b18e23cba35",
+    "name": "14: OLLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24f861bc-7090-4ac6-b7b2-4b5e5029faee",
+    "name": "15: OLLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "958b5289-1c5a-47c1-8827-17f2af57fd2b",
+    "name": "16: KANAYANKOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd49d419-a1c2-4a61-a394-d2e308664851",
+    "name": "17: ANAVATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91f9ebda-eb5b-4602-9b8f-34fa59559e0a",
+    "name": "18: KANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c019155e-25d8-4944-993b-83a16fd426fa",
+    "name": "19: MANAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

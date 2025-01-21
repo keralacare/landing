@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cc00ba0d-076d-4584-9f93-a4a46e04eefe",
+    "name": "Arpookara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "1c9a99ea-fe09-497e-a81e-1d194ea26e2a",
+    "name": "Athirampuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "da84a96f-8990-42b9-9d63-6dbb9f0133fc",
+    "name": "Aymanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c075e970-358a-42d4-85c8-e71710ad26cf",
+    "name": "Kumarakom Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "96772c9a-f5a6-4213-8c84-19281050eb1f",
+    "name": "Neendoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "62aee456-67c0-4e0c-9217-e689e9078dc0",
+    "name": "Thiruvarppu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4acaafc1-57d5-4f50-80b1-dd857f1987ca",
+    "name": "1: ORAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fc8afbb-2aad-4c19-b6e8-b4fe3183f5c1",
+    "name": "2: KANDAKKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51b83465-1555-4666-a129-9f94e6b32686",
+    "name": "3: KOTTAYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "962954ac-e7e9-41a8-8927-f7ff9c382fa9",
+    "name": "4: IRUVAPPUZHA NAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1faf1d0b-2bb4-4183-b956-74d8f982c1cc",
+    "name": "5: PERUVANGHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9cc8dec-b5e0-4b9c-ad85-ce0fc71111ed",
+    "name": "6: VELAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aee8f2bb-a98d-4d7e-b9c4-522f9d39029b",
+    "name": "7: MAYYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "730758bd-e550-4895-aa91-498a3c54af0e",
+    "name": "8: VALLIYOTTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4914865-742a-4bd8-a41d-28cb1c8d717b",
+    "name": "9: THAYAMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98caea89-2e13-4908-821a-4adbd6c91863",
+    "name": "10: NIRANTHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6aba699-6d2b-47be-9b4a-3dc9f20d278f",
+    "name": "11: ARAYIDATHUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "374fd028-040e-4289-90c5-a7d2dd72266b",
+    "name": "12: CHERUPAZHASSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "13b74950-b89f-4fa0-ba8a-6ec40c864709",
+    "name": "13: PERUMACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00b62e93-653a-4057-a6c1-c53fc35c5aed",
+    "name": "14: MECHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0983147f-0c6d-4df9-bcd8-1c7433cbf928",
+    "name": "15: KAYARALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d47b3a2-788f-4780-a2ff-999703ca4d4f",
+    "name": "16: NANIYOOR NAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ed7edbe-d6f6-4072-917f-87ffd4fbbca0",
+    "name": "17: ARIMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42b7ac77-2a47-4b87-815b-1579e5144fb5",
+    "name": "18: MULLAKKODI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

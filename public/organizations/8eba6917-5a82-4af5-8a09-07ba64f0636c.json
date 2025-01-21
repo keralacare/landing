@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c0cdf7a6-3f85-4ac9-9ef9-9b1272e54589",
+    "name": "1: PADINJARE KADUNGALLOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf42b397-a202-420b-a85d-c1ecea116506",
+    "name": "2: KIZHAKKE KADUNGALLOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c17a6438-c198-4c8e-a9f5-a75c167161e7",
+    "name": "3: KADAYAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e80650f-4fd0-46f3-a53e-58ab6811b234",
+    "name": "4: KANIYAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41ef216d-5b2e-4565-97af-4fd04fdf8394",
+    "name": "5: KIZHAKKE KADUNGALLOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a7ae2a4-afa5-498b-801a-1fd8d70487f9",
+    "name": "6: ELOOKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "13e16307-521b-4d14-80b0-86d0b946e498",
+    "name": "7: KUNJUNNIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8eecd973-cbe4-4ced-9faa-52e10c32faa3",
+    "name": "8: ULIYANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0cb7893-e455-4e89-b6af-a1cd8305ee9b",
+    "name": "9: ELOOKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93a33f5a-d6ed-4abe-a787-f6b9ed6a9209",
+    "name": "10: PADINJARE KADUNGALLOOR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bedfd1b-47e2-46b6-a34b-4f80adfd562a",
+    "name": "11: MUPPATHADOM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a60a4b26-4117-4c82-b8fc-828009d02d2b",
+    "name": "12: MUPPATHADAM CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2260115c-bdee-4d96-b932-39f99737c289",
+    "name": "13: KAYANTIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cea6ff95-86be-4716-a840-811cdad4003c",
+    "name": "14: MUPPATHADAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e14f149c-ba48-422f-bf3d-0240a6b36730",
+    "name": "15: KAYANTIKKARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74a94da4-f255-46e0-807c-f023f3cef53e",
+    "name": "16: MUPPATHADAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e35e6ca0-ce81-43af-9616-4f33daab2fbc",
+    "name": "17: MUPPATHADAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3c655e1-7aa0-418c-b249-9912a5c1f3c6",
+    "name": "18: EDAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "266d2df0-7cb8-4177-bd23-2726ca7045f2",
+    "name": "19: ERAMOM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "687bf00d-2fc9-45bf-8185-56c0a9393645",
+    "name": "20: ERAMOM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bae142b9-61a3-41f5-82c8-7d6a669f0653",
+    "name": "21: PADINJARE KADUNGALLOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

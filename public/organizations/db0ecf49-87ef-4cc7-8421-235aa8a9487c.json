@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2f2dd145-cded-4a4d-b5c9-bdc981585ae1",
+    "name": "1: PULICKALKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f6331d9-24cb-4171-8e20-c53a59249e5d",
+    "name": "2: NEDUMAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ea62aaf-af10-4d7d-a751-5ebcfc06e47d",
+    "name": "3: VAIRAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c7a7d42-9222-489f-9278-7f9f418644b5",
+    "name": "4: CHENKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b73fde66-d6f4-401a-afab-51c83be11f05",
+    "name": "5: THEKKANIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e19cea8-847a-46c1-a617-f07b8fa75875",
+    "name": "6: SASTHAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6aac4112-44fb-43d0-b51b-a6bf6df41ab1",
+    "name": "7: AREECKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa8466a1-9f7d-4593-acd5-ae0fc83ac749",
+    "name": "8: KODUNGOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0adc3b54-7c83-46e6-aff3-82ccb70a3f69",
+    "name": "9: T P PURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af3d1d94-303d-463a-96f2-14b74be6d995",
+    "name": "10: ILANGOI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f27c0cc1-61d4-4b6d-a0d8-c9c596205520",
+    "name": "11: CHAMAMPATHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1104b035-6a51-448d-872e-36350d0aea38",
+    "name": "12: KANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f1f5120-576f-4de9-976d-8644f59a60ca",
+    "name": "13: KANDRACHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37d366d1-993b-43f8-9374-342c50e3e6da",
+    "name": "14: KAPPUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3628841f-1293-48db-be2e-dfae083007d5",
+    "name": "15: CHELLIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2016fece-7aae-4da3-98ae-6bf5d6f5fd3c",
+    "name": "16: ERUMATHALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

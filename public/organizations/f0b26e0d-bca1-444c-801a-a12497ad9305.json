@@ -1,0 +1,110 @@
+[
+  {
+    "id": "069c3a89-cb4c-4d0d-ac79-e66bc0c9284b",
+    "name": "1: PELAKKATTUPAYYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fbf53aa-92b9-4ce2-911d-8d67338e9d0a",
+    "name": "2: CHOONDAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ebe8f07-74d3-4ba3-9714-86c8d9243574",
+    "name": "3: PARANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea06d550-a8f8-40b8-9766-6b9de7f9c154",
+    "name": "4: PARAPPUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a105d04b-3654-411a-8043-ec1142edb4f3",
+    "name": "5: PATTIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60ad7660-9f62-49c6-804e-17cfb6c364e0",
+    "name": "6: CHIRANELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a6fd045-d1c4-4b54-ab84-6e045812601d",
+    "name": "7: AYAMMUK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d8e6697-566d-4757-8957-0dbe926de46e",
+    "name": "8: MANALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ada32262-4a62-429a-a369-7121eb57f6fa",
+    "name": "9: THALAKKOTUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bb26f59-9e0b-45f8-8b3b-635b555bef16",
+    "name": "10: MAZHUVANCHERY CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "634cef03-fbe9-4673-890f-1cb81d82c18e",
+    "name": "11: MAZHUVANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4ad42aa-f82e-472c-b232-dbf489383505",
+    "name": "12: ERANELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c6e96f9-d144-411d-9355-4f38f435e9a3",
+    "name": "13: PERUMANNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a81f2ff8-6707-49bb-b2de-9e4dfae6ad45",
+    "name": "14: KECHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07f23b33-9322-49e5-8e7f-33da860ad71b",
+    "name": "15: THUVANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf8c6255-954b-4401-874c-277247f92e12",
+    "name": "16: VETTUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e7c44e5-b75d-40a8-8bbc-05eb1dfa29d1",
+    "name": "17: THAYANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e03d4c31-f835-42c5-a19b-21027366bc23",
+    "name": "18: PAYYOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

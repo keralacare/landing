@@ -1,0 +1,92 @@
+[
+  {
+    "id": "64370f66-b478-4d84-b372-b96d026f98ea",
+    "name": "1: ANAVILASAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e583a0e-ea3b-41d9-a34a-5871d3af6cfe",
+    "name": "2: NADUPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5defd92-29d8-4db7-98cd-09ff995b5395",
+    "name": "3: AMBALAMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f11870cb-207e-48e3-bb83-6deed74b437e",
+    "name": "4: CHAKKUPALLAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "405d5334-8947-453e-8625-f70d0e919ef6",
+    "name": "5: SULTHANKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84ce5749-5eb8-4898-9c75-20c4f03cc556",
+    "name": "6: ANAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac15cb31-4a73-4ecc-b6e5-17c88d18632d",
+    "name": "7: MYLADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83a7d673-f4f3-4eab-8b9a-b99442beac43",
+    "name": "8: CHELLARCOVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f47e6a08-2867-450c-a42c-afd598edd495",
+    "name": "9: UDHAYAGIRIMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81b50455-ac1f-4a98-b4d0-8d83b76a2ff3",
+    "name": "10: MATHAIKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83b2a3e6-903d-4fba-acfe-3c8e7b2def7a",
+    "name": "11: VALIYAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "797b18c5-069a-412f-853f-03bed33e0383",
+    "name": "12: MENONMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29ee27f9-75c2-4eec-af3c-934dfc0f3d81",
+    "name": "13: CHAKKUPALLAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b678736-47fc-4a75-9af8-0fab2a75f94d",
+    "name": "14: MELCHAKKUPALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f215cf53-05b2-4604-bb82-0bb50f69ae1c",
+    "name": "15: NEDUMTHOTTY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

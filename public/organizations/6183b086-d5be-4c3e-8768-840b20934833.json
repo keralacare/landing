@@ -1,0 +1,104 @@
+[
+  {
+    "id": "84b8ab9c-c3f8-4f52-bf50-7d9daa88844d",
+    "name": "1: ATTUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "429c7651-607d-49fb-87eb-611b689ca866",
+    "name": "2: CHERUMUKHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60f6e4f7-b502-43a5-b4e9-b043694737cb",
+    "name": "3: EDAPPON EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5bfbfeaa-6b31-46b9-b935-1f2794a9b692",
+    "name": "4: PATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8befa5f9-557d-4c30-8c9d-6505dd866d27",
+    "name": "5: PAZHANJIYOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bf63cb9-fa82-4ae0-8e2e-578bfc41b052",
+    "name": "6: KIDANGAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22b18e1f-f571-4de8-aa0a-56e43c25d3f7",
+    "name": "7: PALAMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e426392-0e74-4670-9ddf-eeeeddc1229d",
+    "name": "8: NEDUKULANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c7fe207-0450-482c-b3ae-25d510207f08",
+    "name": "9: THATHAMMUNNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fd6b24e-2342-4a0b-9645-e2a13c1228ac",
+    "name": "10: PUTHUPPALLIKUNNAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5154f580-0931-46ff-bb64-50c54bbae9a6",
+    "name": "11: PUTHUPPALLIKUNNAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16f886ab-456d-4201-b5d9-95c95e39840d",
+    "name": "12: EDAKKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ed8d14d-e761-404a-a6e9-616a837779a4",
+    "name": "13: NADUVILEMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49830176-172b-4104-8fd7-43051f5ca290",
+    "name": "14: PADANILAM TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4add8661-27a7-436c-b707-5254f4b97979",
+    "name": "15: PULIMEL SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6fe605e2-6e75-4976-9809-b55e67cd40df",
+    "name": "16: PULIMEL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70c27579-6801-408e-a24b-072f67d4018b",
+    "name": "17: EDAPPON WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

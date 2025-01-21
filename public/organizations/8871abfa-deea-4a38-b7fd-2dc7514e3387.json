@@ -1,0 +1,110 @@
+[
+  {
+    "id": "36628f09-5490-4ec3-856a-522ac0855f1b",
+    "name": "1: CHOONAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bfdcbf95-349a-4aa5-8024-e849b2417188",
+    "name": "2: ELIPPAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "469a28c6-5bca-47ce-9097-72f20bfc5f1d",
+    "name": "3: VALLIKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fcf0230-2130-4800-a1fe-bb57cee394e5",
+    "name": "4: PUTHENCHANTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20f4d84d-0556-4ea5-a3d8-60d1a5b893e3",
+    "name": "5: PADAYANIVETTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef4b6e71-404b-45dc-b7cd-e8022be5e250",
+    "name": "6: PARIYARATHKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5b12487-1b32-4bf8-aa68-7e1488d5b94a",
+    "name": "7: MALAMELCHANTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c6d866b-4453-4e6d-8833-9f0ca9c84b18",
+    "name": "8: KADUVINAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bc62963-3475-4e12-bf2a-55218d9725b1",
+    "name": "9: KANJIRATHINMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba4788fe-2f4b-4b48-8dc8-569cf6b89be9",
+    "name": "10: THALIRADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6bcbd3e1-e1cc-4727-8572-4f9f4a3d20be",
+    "name": "11: KONDODIMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "170965b8-7155-4e84-a9eb-1f420017694f",
+    "name": "12: KAMBISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aad742fc-9f8e-4f20-ab32-4230e40c168a",
+    "name": "13: THEKKEMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "32b7c83b-8832-460b-b939-aa64c29d7f7d",
+    "name": "14: KANNIMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e541bbc2-897c-4b58-bb2a-d4161c7dbaa3",
+    "name": "15: VALACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eecb5141-3079-4a65-8738-400d9f07b583",
+    "name": "16: KADUVUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "647ab608-aa73-439d-a2c0-25f1a04fb70d",
+    "name": "17: KARAZHMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3781e47f-3d37-424b-9af6-cc819d98214f",
+    "name": "18: VATTAKKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

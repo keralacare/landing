@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f2ad1f81-ed52-4e2f-bf3f-b8c861de1e81",
+    "name": "1: ONAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43cd1b11-b7e1-4826-a86c-e22935b6555c",
+    "name": "2: ERANELLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a4332ca-3251-48cb-a2bd-431f5a2fa34b",
+    "name": "3: KURUVATTISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a17f50b2-52ed-4473-8299-0a1db7569c6b",
+    "name": "4: KORAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a0e5483-4ed7-49b1-af7f-d63c4b052d1d",
+    "name": "5: OMACHAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fb9d698-6dc1-4837-91f2-24a6fda841e5",
+    "name": "6: VARIKKOTTUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d613c6d6-536f-4bb0-b4aa-d93f593f4d1f",
+    "name": "7: MANALIPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01475c45-9aa3-4cd5-8782-4b93c0e84036",
+    "name": "8: ESTATEPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d502bab4-c35d-436c-841f-9bc81cd9d542",
+    "name": "9: KARINGAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18c93a3c-604e-4636-acd4-2e18d0fd59cd",
+    "name": "10: PARAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ed6e785-af98-47e0-8761-108a22e8b85f",
+    "name": "11: PERINCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d6bd3c3-111a-46e6-9386-407149d2490e",
+    "name": "12: MELMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4200e0e5-4669-4c64-8a11-bd1dbfd7d9f6",
+    "name": "13: AYYAYA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bb144a5-0582-4cfb-b67a-28d1e9bf30f8",
+    "name": "14: AYYAYA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38b8e8bf-2f5d-4367-b271-4a38acec7b8c",
+    "name": "15: THALAKKATTUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee9dc7f5-6db4-4f43-b65b-eefdfc9598e6",
+    "name": "16: OZHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2f9cf49-1b5b-4741-81fb-b5028637d0fa",
+    "name": "17: KATHIRKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb7fe618-38c5-46bb-8287-9be5eacf993c",
+    "name": "18: VETTUKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

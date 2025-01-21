@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dcac8f99-1735-4762-a5a4-24e758e3d9f3",
+    "name": "1: CHOVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbcf9e83-7f3a-4b49-9c18-e8c554385416",
+    "name": "2: THALANAD CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66f28f5a-de81-49d8-94ac-575ca2dfd0e0",
+    "name": "3: CHONAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c84784d-3f76-40ac-b805-00b279cedb73",
+    "name": "4: MELADUKKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e84efedc-ef58-4f94-95c2-1c7b1f517e69",
+    "name": "5: ADUKKOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18c9d10f-df2d-4490-ac03-ea69fc4296ce",
+    "name": "6: PERYAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6f887f8-6676-4d7f-858b-10d53229a48e",
+    "name": "7: VELLANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cb71667-5eff-4f32-a8e6-c23ab89daeb5",
+    "name": "8: ATTIKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2695c782-7cb4-4fdf-88a3-b80b6ae79554",
+    "name": "9: TEEKOY ESTATE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e698c424-af38-4bde-86aa-03946326f02e",
+    "name": "10: MARAVIKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07812ebf-8d38-47f8-96c1-61ac3fa9ea51",
+    "name": "11: PANCHAYAT OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c22ba265-5744-40aa-b967-4d31b7cf59c1",
+    "name": "12: AYYAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b79e95c2-bd6d-47b5-b6d2-b34339ffab54",
+    "name": "13: VADAKKUMBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

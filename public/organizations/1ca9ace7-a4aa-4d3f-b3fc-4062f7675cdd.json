@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f0f70f58-60bc-44ec-bdd9-6eae780a9c2e",
+    "name": "1: KARUMANCHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "624c9573-c62f-40e7-8084-863c84d5f6bf",
+    "name": "2: THEKKATHIVATTARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0faaa5e2-eb73-4c3a-b457-9e3177a69f41",
+    "name": "3: PUDUNAGARAM TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85d66d1b-3802-4099-a150-5d818d5f44a5",
+    "name": "4: KOSAKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d227296-c254-4930-90c8-82057704cb70",
+    "name": "5: CHANDAPETTAVATTARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "699e4671-4d47-433e-8c23-a5ed1b633f73",
+    "name": "6: PALLIBASAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c557fe7-8cd6-44ce-854c-3b72df9c25ca",
+    "name": "7: KATTUTHERUVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c85ea675-2d5d-44a9-9986-41b849b5ed8c",
+    "name": "8: KULATHUMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f05bf16d-8309-44b3-b289-efc5d355076b",
+    "name": "9: ADICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7027c25-df94-4321-9fdd-ee51423fde72",
+    "name": "10: VARIYATHUKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b57c33a-79f2-419f-85a2-16d374aba4b3",
+    "name": "11: KARIPODE THARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6621eb9e-a755-4052-8954-089721341c26",
+    "name": "12: VEETIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c055727-fb50-46b7-9f06-538f1051f490",
+    "name": "13: MANGODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

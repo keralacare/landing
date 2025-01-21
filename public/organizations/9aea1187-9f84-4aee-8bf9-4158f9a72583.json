@@ -1,0 +1,122 @@
+[
+  {
+    "id": "91b396b1-8a47-4f00-bf63-4e7f4499ba72",
+    "name": "1: ASHANPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec07d981-fff2-4818-aff6-a3b823ea3c68",
+    "name": "2: PULLUNI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5a09d6e-af91-4763-adef-d27595e2c10d",
+    "name": "3: PULLUNI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77c9573b-0099-43a3-9bec-c142e886f899",
+    "name": "4: THOTTIYILANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c0ab60a-bbc7-4424-b349-419a159eb953",
+    "name": "5: MANGALAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffd13b3a-1490-4ef3-be6a-aed8e9c94d7c",
+    "name": "6: PUNNAMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24b6bddb-f25b-4332-92de-86da0d9e62ba",
+    "name": "7: CHENNARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da52effc-0deb-4cd5-ba0c-6817812944f6",
+    "name": "8: CHENNARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75020c78-72c9-4d85-bf06-e23052d180f6",
+    "name": "9: VALAMARUTHUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eead30c6-536c-4546-a0af-eed989bdd828",
+    "name": "10: VALAMARUTHUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "385ee5e1-b390-4b7f-aead-8059fbf66f7f",
+    "name": "11: KAVANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10c21325-2c2d-4eb7-b4dc-cd4b33255585",
+    "name": "12: KURUMBADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a76fb635-bfed-49e1-8e0a-6c8d4a3e27e2",
+    "name": "13: PERUNTHIRUTHI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45807a8f-5d31-4b12-b04e-a687c12b6ed6",
+    "name": "14: PERUNTHIRUTHI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e1f6f8d-9545-45cb-a9d3-2b5a2a4d3364",
+    "name": "15: KUTTAYI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b4a0cd6b-ca2e-4fde-9a76-2e9add8f1cfc",
+    "name": "16: KUTTAYI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e21dc6b0-035c-4a58-ae95-765720a5cb1e",
+    "name": "17: KUTTAYI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e83db963-400c-4d52-9cf0-58d2d596c353",
+    "name": "18: ARAYAN KADAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6613f002-7480-4b02-a49e-c199f0eb8dd5",
+    "name": "19: KUTTAYI PARIS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7581647d-af71-4f78-a3c6-ad102031900f",
+    "name": "20: KUTTAYI NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

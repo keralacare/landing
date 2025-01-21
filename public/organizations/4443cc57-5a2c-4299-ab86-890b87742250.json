@@ -1,0 +1,110 @@
+[
+  {
+    "id": "65d36d7b-fb31-427a-aa70-9753618132eb",
+    "name": "1: METTUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d486b1e-8ab8-4250-a6c6-32dc131bb007",
+    "name": "2: ERAVIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7adf4657-c122-4db1-bcb2-8662de80770d",
+    "name": "3: KURRUPANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "605d81c7-8fac-452f-9e49-25e04127dcc8",
+    "name": "4: KANJIRATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38dc0841-cacb-4bcc-80b6-6819db6cdc4d",
+    "name": "5: SLEEVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9482dc9-7691-4797-b0dd-d31db606ff14",
+    "name": "6: OMALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c4ffde14-b078-46a5-9cf8-d17cbe7637f4",
+    "name": "7: SOCIALWELFARE CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b56b9786-1c47-4ad4-b5ad-1bff5af1e049",
+    "name": "8: NAMBYAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1e263d6-16cc-4452-93a4-a124c012d812",
+    "name": "9: KOTHANALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1f046c7-7049-4ed4-a120-1b60f84a8f92",
+    "name": "10: MANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b39f4a1-4791-40e1-bcff-9f667a8064b4",
+    "name": "11: RAILWAY STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fa003ac-32e9-4b77-b574-2fff24a709b8",
+    "name": "12: MANJOOR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3570309c-f161-4b66-a157-9fa82774311f",
+    "name": "13: CHAMAKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9592153d-d857-4962-bf51-2f418dcc2e6a",
+    "name": "14: MANJOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11fc0b10-12f8-4fa8-8998-82c10962501f",
+    "name": "15: MEMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5bae6f5-f163-43e8-b2fa-9ce30522b6db",
+    "name": "16: MANVETTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d58a4dbb-0e75-4e49-b50a-5b5fdb373105",
+    "name": "17: VIJAYA LIBRARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b75f55ef-2333-4cdd-b58e-abd63d476aab",
+    "name": "18: KAKKATHUMALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

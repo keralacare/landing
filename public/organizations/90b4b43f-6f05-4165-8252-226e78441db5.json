@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e8f27649-15af-44c1-9c08-0b7d39593688",
+    "name": "1: KUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6a3bde3-eec0-4404-b9c1-511b759267b6",
+    "name": "2: 800TH VAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b957d052-9c81-4bf7-89a2-a431ca811a09",
+    "name": "3: NOOROKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8b39736-3bb5-4108-a41c-9506619f1c61",
+    "name": "4: VENKURINJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7b3d924-3c18-4fda-af5a-f7025e6b6ef1",
+    "name": "5: OLAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b03d2be7-6f94-4c32-b3f9-8906a1f329d9",
+    "name": "6: MUKKOOTTUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8debe4f5-1131-4b92-9755-7a7f6cd63b5b",
+    "name": "7: EDAKADATHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c014266-dbc5-42fb-842a-6fe087bb16da",
+    "name": "8: CHATHANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0efa3997-b997-468c-a3aa-b7a8a2b0bbf8",
+    "name": "9: EDATHYKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd739b81-6d73-4dea-a287-a6b79c22d22b",
+    "name": "10: PERUMTHENARUVI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9031ef85-3367-4d4b-885d-969d84de32b5",
+    "name": "11: KAKKUDUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f04c246-eb10-420c-80a1-e0a26d6d84f6",
+    "name": "12: MANNADISALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f113206-e014-454e-a9cd-577b71fb9e3a",
+    "name": "13: KUMBHITHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f613b599-9036-4965-bbbc-b0cfa2eb9a11",
+    "name": "14: KOOTHATTUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c4a30e7-9d99-4ee6-bec7-d6837d9d97a7",
+    "name": "15: VAHAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

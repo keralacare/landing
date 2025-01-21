@@ -1,0 +1,116 @@
+[
+  {
+    "id": "985ed1d2-3707-4be9-9849-29ac6a0eb4a6",
+    "name": "1: VAYAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92c2b562-3253-4a37-9bea-bf8a6c0dbe6a",
+    "name": "2: PODAVADUKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ecba20df-024b-4670-9a58-e83745fe323d",
+    "name": "3: UDAYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3f4a0d1-e334-4ce7-a0df-3b641973a7e3",
+    "name": "4: KODOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8cd58d6-4bc6-4cdb-8a82-47acfd67f3ba",
+    "name": "5: AYAROTT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1680fd7-de74-4381-8c75-2d6e7a94a32d",
+    "name": "6: CHULLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b4fe6a5-8c89-48a7-a67e-f8bc2b31414b",
+    "name": "7: CHAKKITTADUKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "470766ad-d996-4ad7-b2d1-8b2c8f54d814",
+    "name": "8: BELUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8926e9b2-d813-4e0e-b4be-5be3d46e4ff3",
+    "name": "9: ATTAKKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd9cd5cf-ee4b-42a3-9801-d3bba7ed7880",
+    "name": "10: BANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d43dc4f-d9ca-44e2-8c84-416c6ab8e581",
+    "name": "11: ANAPPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d233997-56c6-4d5d-be0a-99d85cd06027",
+    "name": "12: MYANGANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "325efdee-678b-4c3c-85f3-5180f8b35996",
+    "name": "13: KALICHANADUKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddeccc84-47e2-4a64-ba33-1b963126459b",
+    "name": "14: CHERALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e37e0ad-156e-4239-a10f-919ffbdabaa8",
+    "name": "15: THAYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b2a8592-74dd-4f69-a04f-ad1683f8e43b",
+    "name": "16: ENNAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75709164-5df6-4a76-829d-dc8a0e1cb60d",
+    "name": "17: AYYANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8470a25-3a1f-4739-b44b-a3fcf6e43716",
+    "name": "18: PARAKLAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e730c9e-68a3-4a72-9f20-34d4797ec841",
+    "name": "19: ANAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

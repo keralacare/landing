@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9d9416aa-65c6-4dbc-981c-f822b9f8c1a7",
+    "name": "1: ALUKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a537945f-058b-42a3-8cf2-d7b9818a9461",
+    "name": "2: UGRAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9dc8ed70-c42e-41af-8f18-e2b89a4a9c6b",
+    "name": "3: PERUMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b634a652-c3dd-4972-a97c-cb20fa23f131",
+    "name": "4: NORTH KOZHAKKOTTOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "278e5f67-3bd7-4e2c-93c9-32feebd24b36",
+    "name": "5: THAZHATHANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0029a781-fd5b-4fe8-b4c0-16553639524c",
+    "name": "6: AREACODE WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9cb2e7b2-3d86-47cc-a8df-7ccd4aab3423",
+    "name": "7: AREACODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e47d759-04da-4175-a79d-bd07ab253bf3",
+    "name": "8: PUTHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c29b62ff-88db-4b34-a392-9c04abbfde55",
+    "name": "9: SOUTH PUTHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "782d31c7-bf9a-456c-861b-7e438cf98451",
+    "name": "10: KOZHAKKOTTOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e560465-f1fe-4746-b9db-30d669291f8a",
+    "name": "11: MATHAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea97cde0-ab09-493f-bb96-370d242cf631",
+    "name": "12: CHEMRAKKATTOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ac8b570-00d2-4e48-99f7-3cf1bc863fe0",
+    "name": "13: VELLERI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0c6a12d-1ae1-4023-8792-c18444d8ba87",
+    "name": "14: VELLERI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a0dc4d0-ffaf-4048-bf64-90b3cf4ed830",
+    "name": "15: THAZHATHUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46e02280-6654-4718-ab26-9f2a9f97bf25",
+    "name": "16: MUNDAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c804c6c-feee-4ee1-8208-552fd06d1f29",
+    "name": "17: VALIYAKALLUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c11d0779-13a3-46b4-8c42-dcefb49265bd",
+    "name": "18: KARIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

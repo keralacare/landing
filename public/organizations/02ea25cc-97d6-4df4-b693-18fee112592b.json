@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f0f95b0d-c56a-427e-b042-0724679422b9",
+    "name": "1: ASHTAMUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63d12036-4f05-4a35-ab04-291d0e6ff935",
+    "name": "2: VADAKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bce35057-b963-4835-ba90-d6a241c4b153",
+    "name": "3: NADUVILACHERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af13ca6f-8363-4f2c-8f78-612722d25470",
+    "name": "4: INCHAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "034f2a17-2fd8-41d6-bd21-930905807ac8",
+    "name": "5: STADIUM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7088e0ed-fe57-4005-b1bc-69b24411cd56",
+    "name": "6: KANJIRAMKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebb08a63-d217-46c2-a1e2-8f5ec0a810fa",
+    "name": "7: NJARACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e35a56a-4297-4b5d-a075-ec6b3026b845",
+    "name": "8: VANMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dae364bf-38bf-431a-8d04-e552d3790ddc",
+    "name": "9: KANJAVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c89940bf-4258-4f1f-814a-b0337a6e0741",
+    "name": "10: MADURASSERRIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "653188c8-2c68-4381-997c-908b795b89f7",
+    "name": "11: SAMBRANNIKKODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3cfdb0f7-58a2-4f64-aa71-d28984a82190",
+    "name": "12: FRIENDS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "840c822a-3f7c-43d6-96a5-30ccbb5d61a8",
+    "name": "13: PRAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01e4f234-58aa-4d74-93f9-8a3e16539add",
+    "name": "14: THEKKECHERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9563af62-112d-48db-a145-e10be1166bba",
+    "name": "15: MANALIKKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b83028ff-b92a-4ad6-b788-02108fa88a2d",
+    "name": "16: HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

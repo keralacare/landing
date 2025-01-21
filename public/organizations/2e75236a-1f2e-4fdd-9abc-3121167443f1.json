@@ -1,0 +1,104 @@
+[
+  {
+    "id": "42952a39-8e7f-4d62-8075-e4b65e808a28",
+    "name": "1: VADAKKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "989e761d-2860-4293-8d8c-472d192d5e71",
+    "name": "2: KARIPPOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41f04965-4cc7-4d2b-98b5-05f50eaaee45",
+    "name": "3: VALLUVADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95e5c918-7bd5-4e73-b0de-aca9d680a28a",
+    "name": "4: KOTTANODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca270932-4fc8-4833-a420-a80669493759",
+    "name": "5: PILAKKAVE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c6b0cd1-dd16-480c-a876-9b5de931940f",
+    "name": "6: KALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1241b194-b495-4876-be81-9b10711bb742",
+    "name": "7: KALLUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40120998-1b27-4557-b1aa-3c46e7b84e98",
+    "name": "8: MUTHANGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04900444-4030-4d25-922f-7478743b92ed",
+    "name": "9: PONKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28ff0700-c36b-4b09-a960-32d5ecd123aa",
+    "name": "10: NENMENIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80fd24ea-9112-4cdf-a76b-b0562601ea8b",
+    "name": "11: THIRUVANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38227004-8c22-458d-acc6-71a7520ceb90",
+    "name": "12: CHETTYALATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fb5e449-b7bd-44d6-bb64-be08f6f55f96",
+    "name": "13: NAMBIKOLLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "534bb279-9a68-4e47-b0a0-e7a38a9e4b06",
+    "name": "14: NAGARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "347ca503-614e-479a-b36c-28948280ce3e",
+    "name": "15: THELAMPATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec867295-6a76-4386-864c-663a2b762d7f",
+    "name": "16: NAIKETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3afe18c-61ac-4af1-a1cc-9ea7ee845873",
+    "name": "17: MOOLANKAVE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

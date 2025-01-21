@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0d187b3d-ee60-49f1-a045-db32e6503a89",
+    "name": "1: UMMATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0b25d8b-48f1-43df-b764-b881a106aba3",
+    "name": "2: THOTTAZHIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff0e63a4-26d8-40f4-a66e-1ef5a36c8f6c",
+    "name": "3: MANNIYAMPERUMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8445b43-8936-4b98-8edb-31252251604c",
+    "name": "4: MUTHUVILAYUMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "359a82e9-fd5f-4020-af07-c6b79ad7423b",
+    "name": "5: KUTTAKADAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa2a369d-4ba3-4e95-aa55-10df71fec449",
+    "name": "6: KUDALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "333cb497-8b1b-4279-9149-a2ff8efc38e5",
+    "name": "7: MALAMAKKAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b45cd443-611f-41ce-9215-4027d49eb974",
+    "name": "8: KURINJIKKAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9ebaad3-764b-46d6-a7b1-00fe9ac0edf9",
+    "name": "9: NAYYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa1ccf19-f160-4c3b-936d-bcbe475987dc",
+    "name": "10: PANNIYYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96d1f62e-7ec7-4932-b2f3-0b746922e1a2",
+    "name": "11: PURAMATHILSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "edb2aa37-800f-450e-9f75-8f767d616a84",
+    "name": "12: MUNDRAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20f7ddde-d610-4682-85b4-5e491c26fa7f",
+    "name": "13: ANAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cc6f3dd-8afd-4960-a7a1-db09b332ff7e",
+    "name": "14: MELEZHIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b6540b4-a2f6-43fa-808e-eabc68cce440",
+    "name": "15: KUMBIDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c61e7733-1c44-4b2d-b991-8d89bf7506eb",
+    "name": "16: PERUMBALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

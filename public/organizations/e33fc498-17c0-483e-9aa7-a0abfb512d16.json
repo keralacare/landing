@@ -1,0 +1,218 @@
+[
+  {
+    "id": "055d831d-e213-4ea1-9e26-ee08cb764bbe",
+    "name": "1: PANCHARAKOLLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78505512-5996-4e9c-b5ba-2b2c9d1e0ea2",
+    "name": "2: PILAKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "875c4877-ac39-4145-93a2-6cdd66f345da",
+    "name": "3: JESSY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04cae914-41f9-409a-88fe-e47820d7d51f",
+    "name": "4: KALLIYOTTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06d360cf-2609-4777-b565-7d08eed2e429",
+    "name": "5: KALLUMOTTAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc650fb4-4ba7-4815-a6eb-b553c50b4576",
+    "name": "6: AMBUKUTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00df6010-9e34-4522-92ee-b1a4376d6cb5",
+    "name": "7: CHOYIMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85488405-916c-43eb-9c06-7f1edb1d1758",
+    "name": "8: VINCENTGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "68af686b-0bd8-4d1e-b589-2d8b01e94fba",
+    "name": "9: ONDAYANGADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e9b4184-c29d-4243-92cd-bb508dc32cba",
+    "name": "10: MUDRAMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1599c7b2-d3cf-4ce1-8b2c-3328f6744442",
+    "name": "11: CHEROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2897efc-6eeb-4cef-b709-9e98bc1161f6",
+    "name": "12: KURUKKANMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "feb9b0bb-f5eb-4bd6-9d24-5a3c50ea1574",
+    "name": "13: KURUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f0920ba-f6c7-46e7-adc6-499724bf83ed",
+    "name": "14: KADANKOLLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ab75bbd-1f2f-46cd-ac70-960de9b68f18",
+    "name": "15: PAYYAMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84e9fb91-421f-4202-85eb-b74338de4b3b",
+    "name": "16: PUTHIYIDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d82f353-eeb8-4c09-960c-24f2f35460f0",
+    "name": "17: KOILERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cccc490e-62b4-4b12-88ae-5504dc16b967",
+    "name": "18: THANNIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ebb512d-34d9-42f1-a170-5e95edcfecb7",
+    "name": "19: VALLIYOORKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f79f9592-efd1-4c44-bffc-538cdcd25609",
+    "name": "20: VARADIMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14d49a49-1fbd-484a-b4c3-7fa4357fdd72",
+    "name": "21: MYTHRINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "845f2ffc-3bc8-4c7e-92ae-f892b087ce3d",
+    "name": "22: CHETTAPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2943db57-2d6b-4371-8be6-d27402e3865b",
+    "name": "23: ARATTUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1935fe2-8161-40c4-83d2-d99d38bb3c9b",
+    "name": "24: PERUVAKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26c38b8b-7855-49f7-8efb-c27db53f791f",
+    "name": "25: MANANTHAVADY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fd0664d-0b3c-4bf0-abe8-3292b61de4dd",
+    "name": "26: THAZHEYANGADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "575afc28-6249-4966-ad58-5923dea7d68b",
+    "name": "27: ERUMATHERVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b00ad1c1-3e70-4d0f-a146-32d3eec99331",
+    "name": "28: GORIMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "805cec7f-9b49-4bf0-b811-5ca0cee1c287",
+    "name": "29: PARIYARAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bd9a752-174f-433e-8d7d-b882cbdc48a0",
+    "name": "30: OZHAKKODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b364717b-7c50-4731-9ccf-fee5cd3e28b2",
+    "name": "31: PALAKKULI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef163973-7396-4c53-9373-b741fb921e13",
+    "name": "32: KUZHINILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ece3844-a38a-46b4-b3c9-1dec2afe920d",
+    "name": "33: KANIYARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76ad8b0b-239e-4416-b3bb-9e252f8dedd9",
+    "name": "34: PUTHANPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b7ceb19-c424-4a2e-b53e-67349b4a259c",
+    "name": "35: KUTTIMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1ac0dcef-8675-436a-b778-f81d7f61a385",
+    "name": "36: CHIRAKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

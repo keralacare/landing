@@ -1,0 +1,140 @@
+[
+  {
+    "id": "94365792-0750-4766-a1a3-2a531140a00b",
+    "name": "1: KADALUNDI NAGARAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c5cd145-0e71-40b5-b939-18a1d64206b8",
+    "name": "2: KEEZHAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e684946-bd91-400c-b43f-eb440e5aa7df",
+    "name": "3: NAVAJEEVAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e0444e6-e0a2-475a-bc0f-4bd83f54517e",
+    "name": "4: BALATHIRUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6620b924-abc2-40ad-9b5f-09c09b221706",
+    "name": "5: ANAYARANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbd66c79-ea18-4bb6-85cb-31cd56c12dd2",
+    "name": "6: MADATHIL PURAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02fd1f97-bd2d-42a4-b1d3-936df9d014e9",
+    "name": "7: KIZHAKKEMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7914b34a-a639-41b0-9af3-df9ddfdef300",
+    "name": "8: OLIPRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb274820-f422-4949-81eb-dfb6d2e12461",
+    "name": "9: PARUTHIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8856aaa6-75dc-4a0c-9423-7756606c53d7",
+    "name": "10: POTTANKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a14336d-5a0b-4026-8b4a-dd375da72116",
+    "name": "11: KACHERIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c5343cb-e196-443b-a401-f24f3e59d431",
+    "name": "12: KARUMARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57266847-a659-4eb2-acd6-713f64ce8fcf",
+    "name": "13: KODAKKAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e55d305-4fff-4b36-9fe3-1d02eaa8b520",
+    "name": "14: KODAKKAD SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "952da8f2-e802-4705-870a-832e3d2ab5ef",
+    "name": "15: KODAKKAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eab89302-3a16-438c-90ef-07a2a793a522",
+    "name": "16: ARIYALLOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f514aef-e41b-4bcf-b9bb-649bb1094192",
+    "name": "17: MADAVANANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bad5167a-8450-4937-9864-a0b2217a22dd",
+    "name": "18: ARIYALLUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da2f519c-68a9-407a-8edf-7a5b2930bd24",
+    "name": "19: ARIYALLUR BEACH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31e78a3d-62cf-4857-a391-13a3b7a5634d",
+    "name": "20: ARIYALLUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2c1caf8-8304-40b7-b3ec-9e1e7e068568",
+    "name": "21: ANANGADI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ecf62e2-4497-4d38-9301-31f7712b1d8d",
+    "name": "22: ANANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c13bdcf5-5852-48fa-ac26-a2f09e9e6c25",
+    "name": "23: KADALUNDINAGARAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

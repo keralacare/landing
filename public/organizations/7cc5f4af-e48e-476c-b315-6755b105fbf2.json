@@ -1,0 +1,92 @@
+[
+  {
+    "id": "74d7969e-2cf7-43fc-9c4e-4e167171ceb2",
+    "name": "1: MUDAPPATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19ef8be4-42ae-497e-8c5e-45dd034f6bfc",
+    "name": "2: VATTOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12eeb06b-bc24-4143-b223-f25296f9e34c",
+    "name": "3: EDUMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebe0e927-94ef-45d8-89d8-0acf699afd71",
+    "name": "4: MODOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22fb841e-6329-476d-8cf3-57da3183cb7c",
+    "name": "5: THODEEKKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49461c80-15dd-4c67-be0f-f9293268df9f",
+    "name": "6: POOZHIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93967615-83c7-4693-855f-f98802d273aa",
+    "name": "7: KANNAVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c16de9e4-2537-48fd-84c0-d615587e3c78",
+    "name": "8: POOVATHINKEEZHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa807dad-c2ba-47a9-8ef8-36d97b6553ba",
+    "name": "9: CHITTARIPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a4e2c1e-e589-45f5-87e7-2437f372b42b",
+    "name": "10: MANNANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9648077f-8222-4ad0-8c89-9b3a1ed1e10a",
+    "name": "11: AREEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8464e580-6aab-4e0b-93e1-1715d8b04759",
+    "name": "12: NHALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc537326-0975-4c3b-8dc6-6c5075d51917",
+    "name": "13: VANNATHIMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ef03b91-501f-4e2f-ac88-203ed1dc74dc",
+    "name": "14: MANANTHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f497decf-735b-4cc0-84c4-b96885e442b2",
+    "name": "15: AMBAYAKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

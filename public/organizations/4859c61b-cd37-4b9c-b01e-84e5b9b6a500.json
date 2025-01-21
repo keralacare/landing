@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f59c5ae6-f1c9-42bc-8363-8134c0e01d2b",
+    "name": "1: AYANAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "558dd8ea-5115-428e-8214-725dc6fa0fde",
+    "name": "2: PAINGOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12532634-8815-4e65-b698-bc42d8ed93d7",
+    "name": "3: NEDUVAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62e1408d-b1a2-4ac9-8c3b-fc75efc79934",
+    "name": "4: CHATHAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4b144f9-293a-4d67-9cf0-9294a1b93351",
+    "name": "5: OTTAKKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f72da60-3c37-4032-bf57-5e4e45885b36",
+    "name": "6: KADAVOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51bfa593-966d-489b-bdd4-b90c65b57d70",
+    "name": "7: PUTHAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3748a820-8219-430a-8d13-45896ca3b33b",
+    "name": "8: MANIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1719db81-12f1-4966-86a7-c603fa142fbb",
+    "name": "9: NJARAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba930211-6d27-46e8-b6ad-3167082b8abe",
+    "name": "10: PANANKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "088ab18b-f628-4e56-ab86-b898ec76a58c",
+    "name": "11: KADAVOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74f2585c-4110-42f9-82ef-162cb7a73991",
+    "name": "12: SOUTH PUNNAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "96e9f38a-17a9-4f87-ad4b-9299721082b3",
+    "name": "13: KULAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

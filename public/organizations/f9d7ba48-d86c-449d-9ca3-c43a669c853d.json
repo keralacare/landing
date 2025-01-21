@@ -1,0 +1,80 @@
+[
+  {
+    "id": "710358f6-654d-4cd7-b87d-70ac9e0562ba",
+    "name": "1: ELAVANTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43e86a03-c129-4f36-b68f-ed172571749b",
+    "name": "2: MARYGIRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d80cf413-e31c-48cf-873c-ac0e60ef4030",
+    "name": "3: VADAKKUMBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1aef4dd-ee62-4fdf-a566-833a65530bbf",
+    "name": "4: PUTHUMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21e854ab-526a-47e5-b29d-24ef2b2c7607",
+    "name": "5: NADUVATTAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5767d96f-8902-490d-adde-6d2a5e4cfaed",
+    "name": "6: NADUVATTAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94500c01-3b66-4428-9ec4-82e3eeb77631",
+    "name": "7: MULARIPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a52f6f84-2163-4864-9ab3-2a04a5192477",
+    "name": "8: KARINGALIKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "253b47dc-0484-4ebe-a4bc-2698a2b948b0",
+    "name": "9: CHANDRAPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89f4a1ef-4624-4c7b-8b7e-9d4ff571e00f",
+    "name": "10: R C CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1c80564-45a3-48d8-9f67-662801cfadfe",
+    "name": "11: NADAMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27c17354-97ad-4a0c-98c9-398019f8deaf",
+    "name": "12: THAVALAPPARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88500343-f6f1-4d3e-ba92-2f64f08b37cf",
+    "name": "13: THAVALAPPARA WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

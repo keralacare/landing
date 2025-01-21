@@ -1,0 +1,80 @@
+[
+  {
+    "id": "eb1f95bb-2856-4681-836f-554a5efd35aa",
+    "name": "1: VETTIKKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19028e04-7321-4a4a-98cc-91bebc0a63a4",
+    "name": "2: CHIKLAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ba16962-9786-4742-8801-259d66296b6a",
+    "name": "3: VYSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93006d9b-924c-4c06-95d7-7a12e52db0f3",
+    "name": "4: AROORMUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99808d69-9c06-4935-8475-5dfd893ea3e7",
+    "name": "5: VETTILAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bc74d489-62a6-4310-be54-43a913b91a34",
+    "name": "6: PILLAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d587227e-2ec2-4c1f-ab6b-43394ac47712",
+    "name": "7: ATHIRAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10fce6b6-ca97-4b65-9cba-5abf470554ad",
+    "name": "8: PERINGALKUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a738e20-a116-4d41-8628-24ee0a6a67aa",
+    "name": "9: PERUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ef62fd1-9dca-48c5-b07a-968a557b5145",
+    "name": "10: PUTHUKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb083f72-a6cd-4236-b64c-36e39f395374",
+    "name": "11: FACTORY DIVISION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca7d2374-7e9e-4c1e-be5b-15236a535295",
+    "name": "12: NADUPERATT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67c21546-b74d-4478-983a-de4ff1e9bdb9",
+    "name": "13: MYLADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

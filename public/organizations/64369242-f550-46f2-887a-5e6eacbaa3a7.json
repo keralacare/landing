@@ -1,0 +1,140 @@
+[
+  {
+    "id": "3ee7d59d-4bad-48ba-97d1-29ef180cfbb9",
+    "name": "1: CHEMNAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cab6f1e7-2059-43a0-a1f7-4d895dfa9a12",
+    "name": "2: ALICHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0574ca99-389f-419f-b534-55699b9342f2",
+    "name": "3: PERUMBALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a5c3cfb-3533-4d30-9295-73f39c08681d",
+    "name": "4: THALAKLAYI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51e1459e-7d52-4844-82ea-292bf46ba9ae",
+    "name": "5: KOLIYADUKKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5741ddfb-408e-4a51-91a4-d42c30c532c8",
+    "name": "6: BANTHAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ac19ebf-18be-42b0-a7f2-2f1ef56a78bc",
+    "name": "7: THEKKIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f211763c-97fa-48d2-a0c7-207e9042723a",
+    "name": "8: PUTHARIYADUKKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbe2b827-150c-4bb1-b37f-2f415615f088",
+    "name": "9: PARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abfbff61-d7ce-4a5e-9c2f-85e602c7292f",
+    "name": "10: POINACHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff28c641-2863-499c-a434-9fc66ec46fb7",
+    "name": "11: BANDICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbf12b71-a6cc-4f64-99fb-17d1486d7f5e",
+    "name": "12: ANINHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efbcb39b-51f2-4de6-9767-48738bc9ca67",
+    "name": "13: DELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d0cf6b9-5856-4d30-a90b-9b6b886ce105",
+    "name": "14: ARAMANGANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f34b0e9-e7b2-4fca-942f-61fdb047d1df",
+    "name": "15: KALANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f1a13af-019e-4595-a380-27e6e2a2a079",
+    "name": "16: KOKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36f19f23-7bac-48aa-97a2-071547b8aad3",
+    "name": "17: CHATHANKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bdd07a16-502a-40b1-bfc0-a38375218996",
+    "name": "18: MELPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf0d5a13-dab4-4e01-b1de-dff1b8074717",
+    "name": "19: CHEMBIRIKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35f61123-4bd1-4d01-b36b-c007776f4b5f",
+    "name": "20: KIZHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c4177a81-2170-486c-b1fb-ccb08d484b2c",
+    "name": "21: CHANDRAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a899134-5003-4255-b0db-00a91423f04a",
+    "name": "22: CHALIYAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66426728-7eb3-4e31-bf51-a76828a70ec5",
+    "name": "23: PARAVANADUKKAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f28fb834-f437-477d-8797-662237e1152c",
+    "name": "1: NECHULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45efd857-9a1d-4815-9ec8-a2a763701b6b",
+    "name": "2: KARAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0029be71-84cb-4942-b765-9f3fcde8ad19",
+    "name": "3: PAYYANADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "984e2699-864b-4b6f-af0f-3c3dbb619436",
+    "name": "4: EDERAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7fc29746-be69-49f8-b5b4-474df34e3fcc",
+    "name": "5: AKKIPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "664feb9b-4c97-43ac-b80a-9ffb09974448",
+    "name": "6: MYLAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48a1c4a0-fcdf-42cc-b5c2-bab6db307ba9",
+    "name": "7: CHUNGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "595fefa0-9b62-4c54-8f5f-dc85b6c6d33f",
+    "name": "8: CHAKKARAKULAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c38fd8fd-929a-4844-90a5-9902f9b7f396",
+    "name": "9: CHANGALEERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dce6ec4d-ee45-45b0-9b11-52af6a9b33fd",
+    "name": "10: MOTHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "674e06d8-6cf3-498f-b268-0868acbc1acb",
+    "name": "11: NJETTARAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cbd84b1-19f7-42da-aadf-3ecb3934375e",
+    "name": "12: VENDAMKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c0b65de-f7c0-4e66-a093-595aa104c873",
+    "name": "13: KULAPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b4b5bc8-b079-4369-9338-fd8f3205d596",
+    "name": "14: OZHUKUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c9c4ee9-033d-47a2-81de-46e05299dbfc",
+    "name": "15: ARIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6123357-2c87-475a-bae9-a66dd4d1ebaa",
+    "name": "16: PALLIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed1a559e-6e20-40a4-a9ab-4cd34f07f527",
+    "name": "17: KUNNATHULLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e3e74cc-4929-460c-aeee-6506e4b4cd2a",
+    "name": "18: PUTHILLAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

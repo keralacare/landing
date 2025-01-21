@@ -1,0 +1,142 @@
+[
+  {
+    "id": "a5865faf-cb46-4a7c-89f6-2df23d03a431",
+    "name": "Alathur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "f379a495-e8fb-44af-8b9d-d216aa23c3b0",
+    "name": "Attappady Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "c8242096-8787-4845-b49d-e562089ffc79",
+    "name": "Cherpulassery Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "29422108-5d79-4a8c-a7b1-e8da300c788c",
+    "name": "Chittur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "c20ea158-6496-46ad-97ac-364c85eab57b",
+    "name": "Chittur Tattamangalam Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "021a7d73-5ca5-4389-8607-b8910be898f4",
+    "name": "Kollamgode Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "7daae417-0f8c-42bf-be7a-3165d905ce63",
+    "name": "Kuzhalmannam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "37c7540f-65ef-4886-9365-370422c3259a",
+    "name": "Malampuzha Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "90157a67-1ce0-42a8-b4ee-b2bd55d416b1",
+    "name": "Mannarkad Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "a3a3852f-bec5-4fcf-8a38-4d615b9f4f74",
+    "name": "Mannarkkad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "a0ef9535-4ed0-4d1e-a650-a2dc1e8e2e4c",
+    "name": "Nenmara Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "4e3e6a4a-e90f-4171-a4ee-b8539d5c2662",
+    "name": "Ottapalam Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "d0abca70-b23d-403e-ae6d-6284ac5162d2",
+    "name": "Ottappalam Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "afa17f0a-5e43-4a21-843e-7a9fb0349e02",
+    "name": "Palakkad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "9e09c625-138f-4caa-bfd4-de9164419186",
+    "name": "Palakkad Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "8615a8bc-018e-448a-bedd-d05115b4436c",
+    "name": "Pattambi Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "005c0b52-aaa0-4eb8-98c2-0e89e0aa34f2",
+    "name": "Pattambi Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "fb016951-9b7c-4266-befa-c08a52efcc7c",
+    "name": "Shoranur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "4b80517c-13ad-4ba5-955c-06bc260f6ff7",
+    "name": "Sreekrishnapuram Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "2bdffb70-da92-4e29-b8fe-fd0466dbb940",
+    "name": "Thrithala Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  }
+]

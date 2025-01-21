@@ -1,0 +1,92 @@
+[
+  {
+    "id": "9c185585-3417-4776-8963-3be39163223e",
+    "name": "1: KOVUPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3338caf1-86a6-45ff-a848-a716c592ebc7",
+    "name": "2: AVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "685e1aff-a3b3-4e58-92bc-2068f658d0e4",
+    "name": "3: MADHATHIL MUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28fc545d-d427-4232-b9b9-0a7dc78d183b",
+    "name": "4: PARAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1928bbe-13db-423f-9fb7-e0b6e80697d2",
+    "name": "5: KUTTOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "223efa9e-b3a5-4e97-934e-985629fed6be",
+    "name": "6: MANIKKOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5eda71da-7cbd-49de-a69a-e4ad5b48a86c",
+    "name": "7: AYOLPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d1236e7-a110-4dcc-9929-881cb64c5594",
+    "name": "8: CHERUVANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a26589f-c834-438a-9f81-22e241a175d1",
+    "name": "9: KANDEETHAZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3069be49-e99f-41ae-9ba8-7788fdf87c9c",
+    "name": "10: EDACHERICHALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ca77cec-34c6-40bc-9487-f3c02345f8c3",
+    "name": "11: VIYYANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4df09027-afbe-46d5-aa85-f61ff36fe470",
+    "name": "12: PADINHARAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8f285cc-f9ea-4f68-98ab-53739929d9d7",
+    "name": "13: MUYIPPOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c119dc8-2be0-4efe-962c-09df71a3555e",
+    "name": "14: VENNARODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb65d14d-a9ed-4109-80c8-ad72cda4562d",
+    "name": "15: KAKKARAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

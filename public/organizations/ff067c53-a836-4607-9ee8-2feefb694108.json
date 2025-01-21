@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d873cc72-e609-4cd9-b0af-242439189492",
+    "name": "1: MEL MURINGODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb04a891-296d-4e42-b9d5-b8132daea618",
+    "name": "2: MURINGODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7422423b-e16e-478d-b3ef-0a0e5058ae10",
+    "name": "3: PUTHUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6121b0d7-bfcd-4525-9497-d92cd51bedee",
+    "name": "4: VALAYANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc9bde46-6687-4513-b982-33624a6f2353",
+    "name": "5: MADAPURACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "142e6d0d-350c-4ce8-958c-504212d33b68",
+    "name": "6: MANATHANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26233708-da20-42f7-adfc-26eae4e837d5",
+    "name": "7: KALLADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4927eaa6-f6b4-4d00-8dd8-a9db1bccd4a7",
+    "name": "8: THONDIYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38334d66-3328-4ae0-b2f7-c8d722b44c97",
+    "name": "9: THETTUVAZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3f0460b-b59a-4e95-be47-5ed284bd690c",
+    "name": "10: MULLERICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69a742fe-9f2d-43dd-bdb2-ab38ed8e56aa",
+    "name": "11: PERAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3a07487-e175-4a9c-a290-929fc7172deb",
+    "name": "12: IRIPRAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7aa2ac5-988f-43ac-83cb-8a9c22cddc8f",
+    "name": "13: KUNITHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91c282a9-182e-46e6-a3f2-235b13942c0c",
+    "name": "14: THERU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1d5b6da-3b1c-47e3-9874-ffe5a3f50618",
+    "name": "15: VELLERVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66b6e6d8-9bc4-4a63-b2a1-743129ab3f66",
+    "name": "16: KOTTUMANGA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

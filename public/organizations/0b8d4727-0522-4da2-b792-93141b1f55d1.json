@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6a7d1549-5cb6-4441-bf67-6df05d4b13e6",
+    "name": "1: KAIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2441cd95-aa70-4956-9ced-e269462cb9f8",
+    "name": "2: KAIPARAMBU KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4381e3af-a588-4eac-94c3-1ddb5b9b9db0",
+    "name": "3: KOLLANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e43977b1-1043-4d87-9a8c-efacc6b93583",
+    "name": "4: PUTTEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0921a987-0f4c-4296-8828-0096b81e6015",
+    "name": "5: SANKARAMKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84cee639-34f8-4fa3-a060-3ece6c25ec00",
+    "name": "6: MUNDUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a5ae572a-5306-4bea-93ca-116307be6960",
+    "name": "7: MAILAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66205148-c890-4fc9-b2df-9ccd069cbb61",
+    "name": "8: MANAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9572b60e-8166-4f28-8cd8-b181dcc5b201",
+    "name": "9: PERAMANGALAM VADAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f1e10e0-d735-4694-8e98-ec4c6a5c1051",
+    "name": "10: PERAMANGALAM CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "924ed2a4-448f-4b55-a1a5-20928f48957c",
+    "name": "11: PERAMANGALAM THEKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aee0af59-a070-46f8-a87b-f80ea3310b77",
+    "name": "12: PERAMANGALAM KIZHAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93ebd186-3391-4ce1-b45f-d314b73aeeca",
+    "name": "13: PERAMANGALAM PADINJARU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f2bf5b6-194e-43fe-860e-c49f641d6a7f",
+    "name": "14: PERINGANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5b72068-42a8-418b-84a8-b747d102b7a2",
+    "name": "15: PAZHAMUCK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9bdf838-eb79-43c1-8d12-8fe285e98b5c",
+    "name": "16: ANDAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10714c62-2422-4b5e-be4e-5692d6eeea77",
+    "name": "17: MUTHUVANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "984aaaa8-6eeb-4cbf-b8a9-fd64090cdf19",
+    "name": "18: PUTHUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

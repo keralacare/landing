@@ -1,0 +1,92 @@
+[
+  {
+    "id": "9ac75fe5-d77c-44b4-be47-6c45ab471e02",
+    "name": "1: MARUTHANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66147a5f-bb81-4591-a026-2e0099c042c5",
+    "name": "2: KOTTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e62796d0-ee4e-44de-8f6d-b8b7834d8d52",
+    "name": "3: NARIYALAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "94c69211-8fd9-4046-a4ac-61c325bc4b29",
+    "name": "4: AMBALAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ebacdd2-d260-4fcb-b7a7-a503dd65fdc5",
+    "name": "5: BHOOMIKUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1bc7106-87af-439f-93fc-275c49ec56bb",
+    "name": "6: MAILAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7ae39aa-584c-45cb-bda6-28bd862fc5a5",
+    "name": "7: MULLAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd1c1305-2a2a-4c9e-a4d3-54012a742fc5",
+    "name": "8: KUTTIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cfd268c-6672-4d5e-90b6-4da72398458c",
+    "name": "9: KALAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b99baa63-fd69-46db-9dfc-510555026536",
+    "name": "10: THEKKINKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5de48a23-f20e-4d46-a582-85d896b35027",
+    "name": "11: KARULAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f767326-4da6-418d-8a65-69b14c90c4cd",
+    "name": "12: CHAKKITTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76fb8457-612e-40ff-8952-de3473f88cfe",
+    "name": "13: VALAMBURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b5462cd-ac12-4a22-8cd2-87824f7e1636",
+    "name": "14: THOTTAPPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e0733b5-204d-4fc4-a6fd-93f96ae5db5a",
+    "name": "15: PILAKKOTTUPADAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

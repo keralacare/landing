@@ -1,0 +1,218 @@
+[
+  {
+    "id": "31c43656-3fc2-4c18-8d1b-8ed393be1a93",
+    "name": "1: PANAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02a43f40-27da-4952-b853-d792def41741",
+    "name": "2: VAVAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45777ccb-3c6f-48c5-8de7-e0614123b6d1",
+    "name": "3: VAVAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4090eac4-c648-41b9-ab95-979b387189da",
+    "name": "4: POYILANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd8a62b0-34c3-4dbf-9885-acda7dec8f18",
+    "name": "5: PORGOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd771dfe-e91d-40fe-955a-25be2e985941",
+    "name": "6: KALARANTHIRI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4aa64a5f-7e5c-47fd-8389-e1e63ab03b46",
+    "name": "7: KALARANTHIRI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29ce170c-2d92-45d6-b42b-8fb97ff6d98f",
+    "name": "8: PATTINIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e182954-b251-4775-9a1d-d703371a2002",
+    "name": "9: ARANGOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62a8edc8-e05c-4aca-8940-9133622eb6d5",
+    "name": "10: MANIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f30abbc-27fd-4242-b98f-1e663ec6f311",
+    "name": "11: KAREETTIPARAMBA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33c051d1-cc8e-413a-8dc1-7eb01964b846",
+    "name": "12: KAREETTIPARAMBA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4b765848-5dfa-451a-bd98-00adae9ce414",
+    "name": "13: MUKKILANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cfa8705-ad6f-4090-9f6d-1750a8985faf",
+    "name": "14: VARIKKUZHITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a107aa27-ae6c-4c74-aec5-b5e34e6f62d5",
+    "name": "15: CHUNDAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e709b08-bd82-4a77-ab7b-bc724de8dd2a",
+    "name": "16: KARUVANPOYIL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f51f8125-360a-44d1-907c-6bed2879e819",
+    "name": "17: CHULLIYATTU MUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82eb5f51-2dee-444d-b906-33467547f384",
+    "name": "18: KARUVANPOYIL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6aafb74-1f1f-418c-a078-29abb1a913a5",
+    "name": "19: THALAPPERUMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6351db2-e9cf-4a78-93d3-699a7c525bd6",
+    "name": "20: PRAVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efc6cac7-f7ab-4205-b0aa-81e8334db449",
+    "name": "21: NEDUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1daa087-d7e6-4eb0-83fd-31ae648e193d",
+    "name": "22: VENNAKKADE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c87d9995-3a26-4462-a00f-42c952bd4fd4",
+    "name": "23: MADRASSA BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53640534-19d2-4c3e-8076-dc576d6af098",
+    "name": "24: SOUTH KODUVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5649082c-1713-4a3c-8cfc-cd3eea650ed0",
+    "name": "25: MODERN BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3606ee2c-e8bc-4837-bd48-39e2e3a62f4f",
+    "name": "26: NAROOKKIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "75fe6db8-ff09-46ff-8296-d4bff727d513",
+    "name": "27: PARAMBATHUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f18c3769-bd32-4889-9141-13c279518cd3",
+    "name": "28: KODUVALLY EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f3ac0ac-cde7-4010-acd8-3d75e45d62c5",
+    "name": "29: KODUVALLY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3e41eb3-3723-40ab-9735-97c6a4538e10",
+    "name": "30: KODUVALLY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04295628-2cc2-4401-b14e-7899b1793bb1",
+    "name": "31: PALAKKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2811c74d-87ba-46bf-9adc-23467a46d889",
+    "name": "32: ANAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a393311c-3c1b-4fd9-bf49-1f6c5273940b",
+    "name": "33: NELLANKANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47f4c87e-04dc-4a66-9587-d179cc250072",
+    "name": "34: VAVAD CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e368dcba-cae0-4d7c-b930-ad8032aa9240",
+    "name": "35: ERUMOTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88e23653-510f-4e0b-b138-f690b2c27422",
+    "name": "36: ERANJONA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

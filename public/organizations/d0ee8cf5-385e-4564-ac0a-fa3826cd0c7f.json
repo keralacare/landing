@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e1c0475a-907b-4a84-a6ae-11058c9faf65",
+    "name": "1: KARAMUTTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "886ff4de-e536-41f6-a996-86c866ea3462",
+    "name": "2: KURICHIKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2940f12e-6c1e-4791-8007-7c58dcddd60a",
+    "name": "3: S.K.V.N.S.S U.P.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4f4b15e-61e3-473f-9cbf-b828d26ddc00",
+    "name": "4: PANCHAYATH OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bab6219-bb0c-4d76-85db-4b36ac0b81db",
+    "name": "5: T.B CLINIC",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28447459-902d-4626-bc8f-2eb59ed0f814",
+    "name": "6: CHAKITTAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9d0dc9c-d09c-4cf8-a355-7862aec5e2c3",
+    "name": "7: N.S.S.H.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5c41fa2-2532-490c-8b6d-008de4aa2008",
+    "name": "8: ST.JAMES.U.P.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7f9db97-64fe-4563-a554-372a19f253e5",
+    "name": "9: SAMUDAYATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e0f283b-a784-494e-a38f-d2f48c38d75e",
+    "name": "10: S.N.D.P.U.P.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc2babe5-bd17-4c70-a13c-208dddc4332a",
+    "name": "11: E.A.L.P.S KUZHIKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3870f5b5-0f69-4c5c-8826-6051356c8dd0",
+    "name": "12: NARAYANAVILASAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff6f249f-70ac-4bd0-ad2f-8239a6fc4984",
+    "name": "13: HASKAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27125fe0-b98a-4bbd-a91b-1fe8ea0aff3b",
+    "name": "14: MANGALABHARATHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0f018ef-53f2-49e9-9d7b-0856ca957e50",
+    "name": "15: VILLEGE OFFICE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

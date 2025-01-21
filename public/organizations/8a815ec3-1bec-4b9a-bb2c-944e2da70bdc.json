@@ -1,0 +1,98 @@
+[
+  {
+    "id": "721f20f0-8d32-486b-bf0d-1494b83e0a47",
+    "name": "1: CHELAMUKK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a36d034-0c1a-41bd-96a8-7e3c919253d1",
+    "name": "2: VAYALPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fa0c46a-b253-4fcc-a181-e46093aa9216",
+    "name": "3: VERKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "915f6bae-e629-41b5-a202-8d2a98d3cfe2",
+    "name": "4: BHOOMIVATHUKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cce2184e-91ea-4f82-b22d-298394d80a7b",
+    "name": "5: VELLIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c45f7de7-4d96-41ec-b1e6-e1bfd4268d53",
+    "name": "6: PUTHUKKUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a68b6f2-5cf0-4daf-883c-587e3f3cf14a",
+    "name": "7: NIDUMPARAMP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "487e9dc4-783b-45a5-8a4c-8dae011e9bd0",
+    "name": "8: CHITTAARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f26b906-bb81-46c3-abbb-0c9620b15feb",
+    "name": "9: PALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "190ed2af-e567-45d3-bb64-c28f2bc3d1d5",
+    "name": "10: VILANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b7084d9-4fe6-43b4-81eb-4b738b6f3f7a",
+    "name": "11: KARUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56a7db0d-8847-4c40-b288-6a119a400e7d",
+    "name": "12: KOMMIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "373f2af5-f1bf-4b1c-8f0e-2ff089cde4b0",
+    "name": "13: PARAPPUPARAA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc4ffd5b-95e6-422f-ad6d-4c15c27c8b46",
+    "name": "14: KODIYURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa265328-7341-44ed-8565-70d7bbd1d6e4",
+    "name": "15: KULAPPARAMP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01b10484-440e-4981-9a21-6920a090c158",
+    "name": "16: VANIMEL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

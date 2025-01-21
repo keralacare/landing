@@ -1,0 +1,80 @@
+[
+  {
+    "id": "99b00b86-1ff5-47f2-a699-2a047997a2b8",
+    "name": "1: NIDUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca33e75f-9de1-45f7-a143-39d5ca91c8bc",
+    "name": "2: DALIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ab33054-19c7-414e-aec2-2a63bf8c0b0f",
+    "name": "3: KUNNANANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45f08b6f-5d03-4a1f-b6b9-6a084d0fe9ab",
+    "name": "4: ODAYAMMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c173e42f-ee08-4382-8bd3-d82c6605150d",
+    "name": "5: KAVINISSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "798a5bcc-8958-43c7-8215-dfd505bfafb1",
+    "name": "6: KAVINISSERI VAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ccd9006-3f1b-45a2-a7a9-c8e01d7d10cb",
+    "name": "7: PALLICHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30752030-80f7-4e72-912f-81f5a193b241",
+    "name": "8: AMBALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9d4bcbb-5a0e-41b3-a178-af11b260a13e",
+    "name": "9: KOVVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cacf2773-c1a7-4795-8478-fb7dbd8285d6",
+    "name": "10: MUNDAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4201622c-eed7-49a6-bfe3-ef8cc75b128b",
+    "name": "11: MUTTIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f243821b-2b69-42dc-97b3-d78a3fbfb007",
+    "name": "12: PALLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61c2fa27-7bb3-4bb5-92e0-fb6eb244553f",
+    "name": "13: THAVAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

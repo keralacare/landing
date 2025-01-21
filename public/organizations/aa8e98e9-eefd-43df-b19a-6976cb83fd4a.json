@@ -1,0 +1,80 @@
+[
+  {
+    "id": "19db5db1-824b-4881-8ed3-19b38c7e7031",
+    "name": "1: PARAKKADAV",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a78cc0b-292d-484b-a168-174c2a806a9f",
+    "name": "2: ARIKUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f36e1db-76b4-4858-be62-8b6aaeb0b2d1",
+    "name": "3: MANNATHAMCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78d172e3-eafe-4f49-9904-34febb79cfb7",
+    "name": "4: ALPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "327e3e88-92c3-4ca1-99b4-e3ace6772fb4",
+    "name": "5: CHITTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf9a39d4-19b7-4a5a-b063-4de3aa8615d9",
+    "name": "6: KUNNATHUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9693c525-2047-482c-927c-fbd92834a534",
+    "name": "7: MANAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d1d5ede-289c-4458-b509-6c22cab32001",
+    "name": "8: MYLADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d7a12d9-8745-4e59-b114-ec66eab05f32",
+    "name": "9: PUTHUPPARIYARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cc52af0-9c22-4b8f-a9ba-f578548e5178",
+    "name": "10: NEDIYASALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84caff37-ce7a-4ff9-a6b6-47c8c886f654",
+    "name": "11: KOLADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b48ada0f-6fb9-4eaa-ae92-20ee4b1ec613",
+    "name": "12: VAZHITHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f6c5fee-2541-45ed-81ac-40a39fc29353",
+    "name": "13: ERUMELIKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

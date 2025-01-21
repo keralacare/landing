@@ -1,0 +1,116 @@
+[
+  {
+    "id": "d7053c7e-d122-40f6-98e7-b2604da43e4d",
+    "name": "1: RAMAPURAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f98f04ba-7000-4397-a25a-3f660fdb3720",
+    "name": "2: EVOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ded10cc0-6b43-432b-92ff-6fb493d7ba0b",
+    "name": "3: S R K V L P S WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "635218b7-4a16-4a04-86e1-6d5d20af2711",
+    "name": "4: PATHIYOORKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aeb8a651-3658-4ce7-b1d3-9b91c5c895bb",
+    "name": "5: PATHIYOOR TEMPLE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20030fe6-fcf4-4e74-8f81-3f32f99a2608",
+    "name": "6: P H C WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce8b3c0e-8cfb-4beb-bbf2-bcaa613b858f",
+    "name": "7: ARATTUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b56348d5-489d-4a34-91e6-81400f1577b0",
+    "name": "8: PATHIYOORTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfc0883a-bb70-49d0-8942-b8a14e5662ab",
+    "name": "9: BHAGAVATHIPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "979534a8-db15-41db-9c4b-6daa9c61e3ba",
+    "name": "10: ERUVA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5906a5db-c6a3-4877-b40b-ca66fb9b5c56",
+    "name": "11: KUTTIKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0023282-322a-4738-a47f-691cb4c1590e",
+    "name": "12: ERUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3e00c8b-ed5a-40ef-a5fa-afe388a02915",
+    "name": "13: PATHIYOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "805c95dd-7592-40a1-958a-5046e903b5a6",
+    "name": "14: SPINNING MILL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7983ec4c-95a1-4378-b87b-ee79cd132252",
+    "name": "15: VERUVALLY BHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1dd5726-fa7f-450c-b535-74e41c7c787f",
+    "name": "16: MALAMELBHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "addbacfb-74e9-4fd9-88f6-92cffe970c90",
+    "name": "17: KARUVATTUMKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1322dfb5-5f07-4766-9891-6ad9a647feee",
+    "name": "18: KALARIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "901b97db-cf3b-4385-b443-6739e339c426",
+    "name": "19: RAMAPURAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

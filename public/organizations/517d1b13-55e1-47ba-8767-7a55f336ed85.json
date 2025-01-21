@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1e74a9ad-9ee9-469f-bdc2-73ec5a74b1de",
+    "name": "Choornikkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9a002f07-61d1-4ca4-a655-90dca9708355",
+    "name": "Edathala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f7995188-ae3e-4fea-9f4d-59ba547b77a2",
+    "name": "Keezhmad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4a2b4bb0-b17a-4675-ae67-6e356ba2e088",
+    "name": "Kizhakkambalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "8d91f809-1470-4716-9ac9-e44b4c694235",
+    "name": "Vazhakulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3597a32a-7771-4672-8972-1a103208a424",
+    "name": "Vengola Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

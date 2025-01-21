@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e8269222-5b2b-46ba-9f14-2f0223cea7f3",
+    "name": "1: SIVAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c845fd7d-8aa3-41af-a38a-b17506481a58",
+    "name": "2: VELLILODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d3a9505-055a-4b36-b9e5-38683ac60c30",
+    "name": "3: ERATTENGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "840e5998-d1d5-477f-ae50-5543931b3362",
+    "name": "4: MALUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ebcd4cd-e8b3-4bc0-bf17-7ab7d1688034",
+    "name": "5: KURUMBOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d12a424-d66f-480a-975b-68b04d4df2cd",
+    "name": "6: PANAMBATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48e1a3d8-c6b4-4c0b-9a75-4f2312692f30",
+    "name": "7: PUZHARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db712fbe-0076-461e-9ac7-0632c01f87e3",
+    "name": "8: THOLAMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa97f15b-44cc-4f2e-9ac6-86b0fae998e0",
+    "name": "9: THATTIAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c3bb86f-c2f6-4fdc-b340-e984d2bf8f64",
+    "name": "10: KUNDERIPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "603ca1ea-46e9-4fb1-af2b-8eaf8764eea5",
+    "name": "11: PATTARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d7d72c13-20ee-4a96-82ee-84b6689b81e1",
+    "name": "12: POOVVAMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04c2d5ac-5fcb-4e13-9d88-46571418e3b1",
+    "name": "13: KANHILERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5aa94463-2d08-499a-b56f-e61d4e8dfb71",
+    "name": "14: KAKKATTUPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "858ea8ca-1ff7-4611-9de3-49c9bcf121e9",
+    "name": "15: MARUVANCHERI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

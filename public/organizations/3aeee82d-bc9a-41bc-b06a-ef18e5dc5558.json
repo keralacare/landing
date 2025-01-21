@@ -1,0 +1,110 @@
+[
+  {
+    "id": "482bc487-b43a-4b18-8e4e-911940ff21fe",
+    "name": "1: MACHAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e40ca2b9-9492-4092-9898-3989ad9cad24",
+    "name": "2: ALAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78a6819c-6e02-4ddf-b4fd-5f0915843c7e",
+    "name": "3: NEENDOOR NORTH(HEAD QUARTERS WARD)",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc1160ff-cf0f-4127-800a-c2b4638c0cd9",
+    "name": "4: PARAYAKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b9426a2-be23-4ae1-8b9c-e6cb2fab6453",
+    "name": "5: VALIYAPALLAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd0a7465-23c7-4012-891d-d1eb1bc22e8a",
+    "name": "6: PARAVOOTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4abb1982-b320-40db-9507-0159bb570d1c",
+    "name": "7: MAKKANAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e21a157-3644-4d63-bb5e-ee029e64dfd5",
+    "name": "8: THOPPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c70544f8-a52c-41d6-9c37-2af575f1cc2a",
+    "name": "9: THANNIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "448eab17-c30f-44ee-abe9-397d902f84db",
+    "name": "10: CHERIYAPALLAMTHURUTH NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2beddd1-4d10-47b2-905b-2dbcbe53a6e7",
+    "name": "11: CHERIYAPALLAMTHURUTH SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2642cded-7a05-4d50-9411-39d92ff5fae4",
+    "name": "12: NEENDOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9dd47b5f-94cf-4267-a0e1-0e66ec921809",
+    "name": "13: CHITTATTUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0311637-bfa0-43a7-9605-33ef8bddd61e",
+    "name": "14: POOYAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "327591d2-05ec-4c52-b336-5f8a82cd47ee",
+    "name": "15: PATTANAM MUSSARIS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "685f098d-81e6-4abe-b90c-44e474375c87",
+    "name": "16: PATTANAM CENTER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59e18f15-c4a4-41a9-bb92-82f9515ce3fa",
+    "name": "17: PATTANAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1f0a756-fafc-49c6-89f4-64fc56245c81",
+    "name": "18: PATTANAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

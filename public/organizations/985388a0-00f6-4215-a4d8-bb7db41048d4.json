@@ -1,0 +1,30 @@
+[
+  {
+    "id": "855535b8-87ae-40a2-a797-5b05549e0c43",
+    "name": "Avinissery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "93c9a581-9c9c-417d-a12e-c4738eebc78a",
+    "name": "Cherpu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e5ee33ca-5ffb-4d8e-aed2-143cee2c983a",
+    "name": "Paralam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "216c2eed-366b-4ac3-9f07-f0342d74b0a0",
+    "name": "Vallachira Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

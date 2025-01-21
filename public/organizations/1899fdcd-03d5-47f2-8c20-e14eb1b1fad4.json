@@ -1,0 +1,80 @@
+[
+  {
+    "id": "03e3d868-44aa-45bd-976e-6cb471ecca7f",
+    "name": "1: CHENKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0f206cb-9385-474c-879a-b1738e49eefa",
+    "name": "2: PUNNEKKAD NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0007ee9-e228-4759-8986-b93463793b44",
+    "name": "3: KOORIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43fa71da-eed7-4b84-ade9-5b7700673cc3",
+    "name": "4: VELIELCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e74a836-1db6-493c-89c6-5c3db984e676",
+    "name": "5: PALAMATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8889fea-e58a-4b86-bc24-0ec195c5c75a",
+    "name": "6: MUTTATHUKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce1e3e49-ecc9-4bd3-adc7-7d6abb626a31",
+    "name": "7: PUNNEKKAD SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76959386-92a1-4edd-97c8-a23bffdb560a",
+    "name": "8: NADUKANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ed8fb6b-b6d1-45d8-bfa0-f571ce60d73d",
+    "name": "9: CHEMBIKKOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0af34430-b178-4108-a715-3fd404a7d619",
+    "name": "10: PARAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db40dc72-e142-4b2d-a332-920d8eeed568",
+    "name": "11: OONJAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da62baeb-5fe3-42c5-9dc4-f42e2467af0f",
+    "name": "12: KEERAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12dbe549-062a-43bb-b2d7-688fd29e8947",
+    "name": "13: KARIYILAPPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

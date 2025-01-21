@@ -1,0 +1,104 @@
+[
+  {
+    "id": "a60014b3-919a-49dc-ad31-a7194a0b9400",
+    "name": "1: PAYIKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "baa54fa8-357a-4e94-80f1-027ab8c991a3",
+    "name": "2: OACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0fddbfa-3038-4c63-a6e7-3b5eba7b2b8e",
+    "name": "3: MEMANA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce839a7c-8f80-46c4-9f36-8c3e8cfca3a2",
+    "name": "4: MEMANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "229c1ddb-4083-4b60-9de7-eeff81f8353b",
+    "name": "5: VAYANAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45d4d1e4-e200-414f-a7a7-e360437292f2",
+    "name": "6: NJAKKANAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a301dd1-8311-4d8c-b839-5079ba84dea2",
+    "name": "7: MADATHILKARAZHMA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4039c96-b05f-408c-9c5c-e4850000c565",
+    "name": "8: MADATHILKARAZHMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d30b9c13-398f-44a3-8f85-2fc0e7764364",
+    "name": "9: KOTTAMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4a88fc1-d2d0-40f2-a86b-bb8f764b0603",
+    "name": "10: MEMANA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5daa551d-ccbd-443e-b534-ce2ff92a0576",
+    "name": "11: CHANGANKULANGARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84ce05d4-f000-47f7-8d9f-148f36cacab1",
+    "name": "12: CHANGANKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2273488-4822-4150-8d1f-3eb1f1a72bfd",
+    "name": "13: CHANGANKULANGARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c949fd2-bdd6-4625-b704-644ec2aa4e11",
+    "name": "14: CHANGANKULANGARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6d838b7-124c-4c9c-8639-0eabda1b417e",
+    "name": "15: VALIYAKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27231943-c304-4db3-9003-744b008d1186",
+    "name": "16: VALIYAKULANGARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ff754ae-d979-4757-b434-c639ce9031b6",
+    "name": "17: PAYIKUZHY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "fd75ac3e-b33f-43cc-ac5a-d640df6a2343",
+    "name": "Balaramapuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "310a88f8-a365-482d-a096-dcc0384e2637",
+    "name": "Kalliyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6dc97f43-6eca-4099-a626-666d38301ee4",
+    "name": "Malayinkeezh Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "91112dd9-407d-4a52-9d9a-061d87d67232",
+    "name": "Maranalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d9a5a090-504b-4052-b3dc-b3cb10e0d394",
+    "name": "Pallichal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ee91621d-9ca6-47da-ba10-032ac52f9eef",
+    "name": "Vilappil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b447310e-3128-46ad-9b39-5da427634aed",
+    "name": "Vilavoorkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

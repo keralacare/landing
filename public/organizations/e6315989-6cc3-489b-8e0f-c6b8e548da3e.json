@@ -1,0 +1,98 @@
+[
+  {
+    "id": "03313daf-a8c9-4229-8459-503c13aca412",
+    "name": "1: CHOLAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd1011dc-e95b-43fa-91d4-0e31c5990739",
+    "name": "2: THARAKKALPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "505f8527-6cea-4391-8188-88f007a5a866",
+    "name": "3: APPAMKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "249d7104-4bab-4ac3-b640-222fe553e041",
+    "name": "4: KALAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f07aa1aa-3390-4d41-88b4-de3f39091edb",
+    "name": "5: MECHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf9fa84b-203f-456f-af9d-b96137d53cf3",
+    "name": "6: CHOONGAPPILAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a087146f-f95f-46f9-92a9-614f4403039a",
+    "name": "7: KIZHAKKEKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30b2e48a-b6cd-4880-9bac-c49374f6ce57",
+    "name": "8: ULLAMBUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a7b5afc-dfaf-4fcf-97d6-24a776f00ff2",
+    "name": "9: MATTAYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9006630f-e19a-4bbc-8f13-549ec0185055",
+    "name": "10: CHERIKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40ce4f3d-d8fd-4584-b319-47d73ff353ae",
+    "name": "11: CHOORAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2adfa9b3-e2ba-4ada-bbc1-fab792ce635b",
+    "name": "12: PANCHARATHUPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d05d942a-1ff6-4f9f-b91f-afef752574cc",
+    "name": "13: RAILWAY STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1adcd55-2621-4b54-99e7-27a2bab4c7c9",
+    "name": "14: YARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7a2c83f-e376-4043-864e-0e514a920de6",
+    "name": "15: PANNIYAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c61ccfb7-33bc-4c32-9f41-2242aeb8e859",
+    "name": "16: MANAKKALPADI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

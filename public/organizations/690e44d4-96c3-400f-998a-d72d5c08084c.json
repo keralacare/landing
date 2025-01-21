@@ -1,0 +1,51 @@
+[
+  {
+    "id": "46b2fd21-581c-481d-93df-91a6676670db",
+    "name": "Anicadu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ead0c9a4-608f-482d-baf0-8c5a51945965",
+    "name": "Kallooppara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a10936d4-2392-4f81-a6eb-e33e2845c099",
+    "name": "Kaviyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0aab3974-4365-4ae1-854a-545346a2190a",
+    "name": "Kottanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d24086ae-ce13-4f20-a07d-869cb1709073",
+    "name": "Kottangal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "08f71ee6-4601-4ed4-9c8e-55d8ded058d5",
+    "name": "Kunnamthanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "23fc1153-eee8-4b24-bb1b-e082a16477e9",
+    "name": "Mallappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

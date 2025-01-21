@@ -1,0 +1,104 @@
+[
+  {
+    "id": "41e97231-a99a-4586-86fe-e2f9620fd618",
+    "name": "1: EDOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1dac7316-7073-4409-9678-2f87c67e1a91",
+    "name": "2: MANCHUVAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df473abb-c914-4f12-9ce2-c621ff9ee5dc",
+    "name": "3: KUNDUMANGODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ce2ca93-02d6-4c99-845e-79ede89a758a",
+    "name": "4: CHATHIROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46fc9a8a-33a8-4f0b-ad38-0f114db71b18",
+    "name": "5: VIYATNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "360859af-2377-4d5c-ad86-5412e5cb45e9",
+    "name": "6: ARALAM FARM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65eb0721-da01-4066-9474-de4e2390a820",
+    "name": "7: KEEZHPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6d789c5-d0b3-44be-a0cb-d26d50a7d35d",
+    "name": "8: VELIMANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af3216f6-f43b-44f7-b8c6-96a11de736ec",
+    "name": "9: AMBALAKANDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d37f9db-c21a-4711-bdfc-f4fef98ac58e",
+    "name": "10: VEERPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4831a8d-e27d-4c18-99fc-f6c43c3eceee",
+    "name": "11: URUPPUMKUND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90ab1435-020a-4cf6-962e-bccb9afa2567",
+    "name": "12: KALLARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdacb7fd-1dc1-4e63-a23c-4762867f545e",
+    "name": "13: CHEDIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eddd1be3-e2ca-44dd-b7fc-8a887ed18929",
+    "name": "14: PERUMPAZHASSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66aa9161-8ab3-414a-ae3f-2ae9827443bc",
+    "name": "15: ARALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97e7b6ce-2155-4f9e-b59a-9c0a5ff9c4d5",
+    "name": "16: POOTHAKUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45a70fc7-f14d-47df-9d4a-c73473fa98df",
+    "name": "17: KOOTTAKKALAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

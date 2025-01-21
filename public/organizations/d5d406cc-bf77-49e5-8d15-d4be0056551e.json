@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d845ba2e-d8d5-416d-92a9-a6359d6b07e3",
+    "name": "1: CHITTANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cff8990-8a8e-4bd3-831c-9d21fb9c51cd",
+    "name": "2: ERUMELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70b60328-8765-4e7a-8768-aaa723725dab",
+    "name": "3: PARAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10c6124f-bf00-4e8d-9c14-6db06472855b",
+    "name": "4: PUNNORKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1a78d33-0d40-4272-a002-30e879608c2d",
+    "name": "5: KAITHAKKADU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25dbef85-6b97-4fc1-907a-1271d59c0908",
+    "name": "6: KAITHAKKADU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17f578f5-812c-4e91-8ad5-6dd1a3961b4e",
+    "name": "7: PATTIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45785400-dc75-4e00-ba79-79aaf652a2ff",
+    "name": "8: CHENGARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b03cb90-2ca8-412b-87d4-e703d4d140fe",
+    "name": "9: CHENGARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "630e73cf-ea5e-4197-8501-ef65e2acfe88",
+    "name": "10: PARAKKODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa23ec76-ddd0-4df0-b090-51b17f7a4a02",
+    "name": "11: VEMBILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f535901-00b0-436f-9593-7c50cbd8f056",
+    "name": "12: PERINGALA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57cbdb3b-2069-49b7-b679-d029bab29bb7",
+    "name": "13: PERINGALA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7fdc6e4-a870-4b37-b752-dfd9190a4f86",
+    "name": "14: PERINGALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "352e0a35-6fb8-4497-b1c4-0cb533950e16",
+    "name": "15: PINARMUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64ef88e3-26d3-4657-9762-5453c16c4e40",
+    "name": "16: PALLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aacfae3e-f7c5-42fc-bbc6-fec69ef6912c",
+    "name": "17: MORAKKALA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9c451d4-ec9f-4b24-b2aa-435499625ceb",
+    "name": "18: MORAKKALA WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

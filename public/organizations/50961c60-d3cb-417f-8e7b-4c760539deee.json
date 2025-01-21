@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ec5234b5-698d-442c-8436-bd9e9cbc3964",
+    "name": "Aryanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "08799aca-a388-4bae-8c0a-12031726745e",
+    "name": "Kattakada Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "31ad1dab-a23b-4bfd-861b-067091edf064",
+    "name": "Kuttichal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e8c8ffe4-7d41-48b5-851a-3845559269f4",
+    "name": "Poovachal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "64721100-cbcb-4ad2-9065-2c0b672cf500",
+    "name": "Tholicode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6566bad6-bcad-4e86-a5b5-d75c4333af2d",
+    "name": "Uzhamalakkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0fe55653-cf3a-41f1-a1e5-cf7f8b17c53b",
+    "name": "Vellanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0d98a760-e185-4693-8c27-d1ce329ac0b8",
+    "name": "Vithura Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

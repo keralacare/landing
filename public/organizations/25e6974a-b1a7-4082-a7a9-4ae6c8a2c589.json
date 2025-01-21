@@ -1,0 +1,116 @@
+[
+  {
+    "id": "5326290f-f5f5-406d-9e45-94a247d389c8",
+    "name": "1: KALAYAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23bb66f3-8bd3-4dd8-ae86-5ede72bc6b2f",
+    "name": "2: KUMBALAMCHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb839a0d-d55f-4f65-9f0e-dd56654588d2",
+    "name": "3: KALLAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5ae9a4d-e860-4c5f-9169-cf7607b3e390",
+    "name": "4: KALLAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06b94eec-fcee-41ff-8a36-a71b16f90c63",
+    "name": "5: AMBAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c6fd2a4-e680-4564-8f4d-5bc4aca04007",
+    "name": "6: POONCHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "010948ac-c7b1-4428-9a3f-df1a5a789150",
+    "name": "7: IRUMBAKACHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba0edbeb-d41d-4b4c-b4f8-7dbcea92d655",
+    "name": "8: VARMAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77cbb47f-ba22-48ca-a0e9-e8c29a928ac9",
+    "name": "9: KANJIRAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe9553d6-425d-4638-9ddc-5aafc5a20849",
+    "name": "10: MUNDAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c017e2b-7f5d-4956-a504-900ed97723ea",
+    "name": "11: PALLIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e4d79aa-4973-4ab5-b6dd-b2f82d9b7a07",
+    "name": "12: KANJIRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df8c120c-e8f9-46cd-85d8-d9e36f453c85",
+    "name": "13: AKKIYAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cd1c760-68ba-49c2-b7e4-e58d387a4848",
+    "name": "14: KUPPAKURUSSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea92f079-a6f5-49d2-ad57-412bee48a6a9",
+    "name": "15: KALLAMKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb9d777f-de57-4287-8f28-921f5ba9d65c",
+    "name": "16: THRIKKALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fb6a1e4-1136-4c10-824a-f26b33a7756a",
+    "name": "17: CHIRAKKALPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efe4bc1f-210c-4d54-af5b-92748b5b42d8",
+    "name": "18: KOTTIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9517b738-333a-45e6-bd1a-cff9a36d65be",
+    "name": "19: NOTTAMALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

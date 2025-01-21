@@ -1,0 +1,104 @@
+[
+  {
+    "id": "04703acd-17d9-4aae-9db5-317bc0f05034",
+    "name": "1: PAYYEKKANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d2ddd6bd-71b3-4850-b76a-7c868b08573e",
+    "name": "2: KUMBALACHOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c7491185-b1bd-4b0a-be9a-c405b2ebb033",
+    "name": "3: VALOOK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b212d33a-c0db-4c34-ac72-8f1cbd4c46aa",
+    "name": "4: MULLAMBATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aae61438-7191-4794-ba3a-0a4bc1f89ff1",
+    "name": "5: NADUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a966cb9-e2d9-4824-8666-cef70acc80c7",
+    "name": "6: THAVULLAKOLLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "273df18f-19bc-4e26-bfc5-5bf528930fc1",
+    "name": "7: MUNDYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77c1e8d4-c3c7-4251-b35a-6ebc09c62e17",
+    "name": "8: KAIVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "858b1d4c-aa90-4aa8-a266-7e7a8f0aae5e",
+    "name": "9: CHAMBILORA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24463b19-768a-4bff-bb33-c14eb82e8920",
+    "name": "10: KAYAKKOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff9c7334-c6f6-4317-9a0b-5585104046e5",
+    "name": "11: KANDOTHKUNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ccbdc8c-50c7-4ed2-afd5-dc041fc0ae0b",
+    "name": "12: MANNIYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4058c2ea-2ec9-48de-b386-fa4467afe334",
+    "name": "13: THAZHE NARIPPATTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3219dd9-e9f5-4b6c-9fab-1b33c09d8dfd",
+    "name": "14: CHEVITTUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62ac38c4-42ab-4c4e-bdd7-b8e7414f8481",
+    "name": "15: KOYYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54335df6-fdd7-4777-878d-7c8eed15797b",
+    "name": "16: KAKKUZHIPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6c7167a-52fc-4fe3-9864-3071a488212d",
+    "name": "17: THINOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "18dfeea0-25f1-4cc5-bdf3-7514a057f1d3",
+    "name": "1: VAPPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "097f005f-9b73-48a0-9b39-085aa289f694",
+    "name": "2: CHAZHUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cf9f3d6-ebb4-4300-894e-e145a864afe6",
+    "name": "3: CHAZHUR  EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a02c0f6d-3fd8-44b3-b5ae-0dcd5983f150",
+    "name": "4: PULLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d19f3eda-709a-4493-9d8c-de2bb34bf520",
+    "name": "5: ALAPAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be351913-5084-4720-af9b-87db2c1ba188",
+    "name": "6: PURATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ce14df5-1305-47c0-8ebe-dd686373a48c",
+    "name": "7: KOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "081517d2-907c-4bf9-8ad1-67f89201f2e6",
+    "name": "8: INCHAMUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55e092f7-680c-4184-8e2b-f2a39d46eda4",
+    "name": "9: KAROOPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81f825c9-c873-487c-94a1-e18bebf780ce",
+    "name": "10: CHIRAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9481faa-cfbe-43de-a120-97d5edb829bf",
+    "name": "11: KOLOTHUMKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b38ed515-8aa6-47b8-8611-37ca77ce3c12",
+    "name": "12: PAZHUVIL CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cda789b2-1784-4856-ae1d-b38cb74fbf76",
+    "name": "13: PAZHUVIL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8df6305a-e6f3-4d14-a566-8dcbe00dae37",
+    "name": "14: PAZHUVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6d6a2d2-7213-4b27-b265-6177dd541340",
+    "name": "15: PAZHUVIL  EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "573e72b6-0a25-46c6-8cd4-d06db45df013",
+    "name": "16: JANATHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e2aa636-b45f-42c5-9132-9672ebd463f2",
+    "name": "17: PAZHUVIL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6962a33-9435-4af8-a778-def7c0bc826e",
+    "name": "18: CHAZHUR WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

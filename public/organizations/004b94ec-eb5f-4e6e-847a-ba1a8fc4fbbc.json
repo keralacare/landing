@@ -1,0 +1,80 @@
+[
+  {
+    "id": "86d236a7-5c15-4b09-834f-ac70fba2c5f9",
+    "name": "1: PADINJATTINKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a11387f-9889-4cd0-998a-e6e7f4342461",
+    "name": "2: KANIYAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08883616-0573-42b6-a9f4-1772f25769bb",
+    "name": "3: ALLUNKALKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "911063b2-1b10-47ef-b7d6-68840781a074",
+    "name": "4: PULIYANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca546804-9e87-481f-9ce8-e1f781e5b7e7",
+    "name": "5: PULIYANNOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c0f5f54-bd6a-4da2-89d8-5f26e5314d20",
+    "name": "6: KADAPPATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b02b7e2-eac7-4861-821d-29a68c064f98",
+    "name": "7: VELLIYEPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00f6c7d1-d947-4cf1-84ff-aa305fb3cef3",
+    "name": "8: MEENACHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64659c2a-c5ab-4394-aca7-0f05a85954a8",
+    "name": "9: PANTHATHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a8d9360-9821-4513-a2b1-269a9b81b114",
+    "name": "10: MUTHOLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc4e71eb-ddf6-4933-880d-87b561ca55ee",
+    "name": "11: NEYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d762412-176d-4aae-8ca2-ce69930d3c5b",
+    "name": "12: THEKKUMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e7e8d01-6c3b-4aec-8b4c-a2600ae6d67f",
+    "name": "13: THEKKUMMURY NORTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

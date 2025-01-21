@@ -1,0 +1,80 @@
+[
+  {
+    "id": "27c1e412-4b3d-49d6-9536-e5c22ae0bae0",
+    "name": "1: PLAMUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb04fb8b-c71b-4fa8-a3a1-705d41617913",
+    "name": "2: KALLUMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9b2f152-3eba-4277-8d9b-43f044865642",
+    "name": "3: MUTTATHUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "173ac77c-66d4-4c2b-a386-b71a2160b508",
+    "name": "4: CHELACKAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "433bf88f-f7aa-4288-8dd6-dbbecbe9b9ea",
+    "name": "5: UPPUKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5dbc6725-dca5-45c9-a191-766c1128fb07",
+    "name": "6: VADASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b5bf96f6-6a3e-4bcd-905c-e3eb43ab1442",
+    "name": "7: MUNTHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5df9b698-2c59-485b-833c-9e3743f0d143",
+    "name": "8: NAGANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51c6d89b-f734-4b87-ba00-96dea0367c58",
+    "name": "9: PANIPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f23e83a-e4b9-4530-bba2-f5236435b710",
+    "name": "10: THURANGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9b9e196-fdd5-4e4c-933b-fed7e58b5550",
+    "name": "11: KOLLIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80407856-47db-4005-aa9f-ab5a1b0b616c",
+    "name": "12: CHERANGANAL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cefcf410-47f3-4f46-bd0f-beb41bef2400",
+    "name": "13: KOTTAPPADY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

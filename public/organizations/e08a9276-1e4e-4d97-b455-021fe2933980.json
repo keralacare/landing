@@ -1,0 +1,80 @@
+[
+  {
+    "id": "961e5656-1323-4076-86f8-c498be57cdfd",
+    "name": "1: PEZHUMKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b018b8a1-0569-4a32-9934-b1d6c469d707",
+    "name": "2: MEKKOZHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad2acc99-d515-41fc-a24c-ce4cc930fd1c",
+    "name": "3: KOTTAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cac16090-495c-47ce-89e5-7245340a6827",
+    "name": "4: MANNARAKULANJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "03f825b4-47ee-4c57-867e-679fc1c1bd5e",
+    "name": "5: PANCHAYAT WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2afcc9c-9ab3-4683-a127-35c1a90257a3",
+    "name": "6: KATTADI VALIYATHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63055f7a-3599-411f-9f3b-a41d26866f79",
+    "name": "7: MYLAPRA CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ac5f817-882e-4e3d-974f-ae595fc8d366",
+    "name": "8: I.T.C  WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e24bf674-11b5-469e-bb27-a064d23fc3c0",
+    "name": "9: SHANTHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2861b3a-1451-4f8b-ad43-616618084558",
+    "name": "10: KAKKAMTHUNDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ebae609-6493-450a-a023-a6380630c32d",
+    "name": "11: EDAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2674cf02-e383-4186-9f6b-185c63ac8b16",
+    "name": "12: P.H.C SUBCENTRE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3efd646-f759-48e2-9eea-2312092b4d93",
+    "name": "13: MULLANKALLU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

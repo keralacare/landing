@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bdbfc6ca-e399-471c-9c36-62ad507e2f50",
+    "name": "Elavally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ee2c220a-83e5-4614-a743-72f0a7e2c5b5",
+    "name": "Mullassery Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "538ddcf7-06a3-43ac-9770-53df06fc9335",
+    "name": "Pavaratty Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "80510687-3f7c-4893-885d-99fd15ceda14",
+    "name": "Venkitangu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

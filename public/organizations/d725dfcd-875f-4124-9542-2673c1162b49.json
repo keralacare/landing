@@ -1,0 +1,98 @@
+[
+  {
+    "id": "dad68140-1e60-4ef3-8d4c-304470d4a469",
+    "name": "1: UJJAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "880a2485-fb62-4774-9ef9-3fd41d98454c",
+    "name": "2: DELAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed529cb2-deeb-481b-a6ed-243750e1f531",
+    "name": "3: PARAPPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27d67398-1383-4778-a47f-403e864b6d8f",
+    "name": "4: PUTHIYAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4017b73-d866-41c4-963d-c363ff8cef50",
+    "name": "5: DEVARADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ee759f17-378d-4955-9550-9684798e0e2f",
+    "name": "6: BELLAKKANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "311295a7-a0c7-45bc-a11e-78529f6837ee",
+    "name": "7: PAYARADUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bfa2b17-0a8a-4c45-ae1e-4677c8447145",
+    "name": "8: MALLAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3ae36ca-7da0-408d-8c62-44a3b87478dd",
+    "name": "9: KATTIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5fe9dd3-13e2-41ad-9af9-664f9a1526ee",
+    "name": "10: BALAVANTHADUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74d259d4-debf-41dc-862c-521655982bea",
+    "name": "11: PANDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36d88223-04f6-4a5a-9b88-59b01cb3e75f",
+    "name": "12: ADOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7af6a40f-f9c7-4b94-9242-24fd395dd344",
+    "name": "13: EDAPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62f06217-8a01-4d9e-8be4-97b942e2cafa",
+    "name": "14: MOGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "957c5378-ee4e-420d-81db-ab0b8efa968e",
+    "name": "15: PALLANGOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff6dc56f-e6f1-4517-8456-3c162a42dfe0",
+    "name": "16: MAYYALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

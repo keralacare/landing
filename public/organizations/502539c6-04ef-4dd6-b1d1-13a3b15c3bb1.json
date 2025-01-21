@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17fcada4-79f9-46fb-83ae-da5d2ae8b601",
+    "name": "1: KOCHALUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7449ab27-870e-4df5-b865-88a2bad1707c",
+    "name": "2: ULIYANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9832e9ac-b4a6-436c-a76f-6250464583c5",
+    "name": "3: COLLEGE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04d50af3-d137-4707-89fa-b1da39a8d940",
+    "name": "4: KANNETA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b9e086f-d341-4a35-9f70-b29719a95f0a",
+    "name": "5: EARAM THEKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b776bdbd-eea3-4e93-b457-d8103500cfb8",
+    "name": "6: CHIRAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cca68500-8169-40b8-8836-001b2948ed57",
+    "name": "7: KULATHOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8da1f12f-6fa9-4239-a45d-780dce6a629c",
+    "name": "8: CHIRAKKARAKSHETRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0978fe6-e279-4fe7-a8da-61134fbdc561",
+    "name": "9: EDAVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "738e8c28-4248-4eed-bd1b-fe7cc4c9144f",
+    "name": "10: CHIRAKKARATHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40ebe3bd-5cdb-4be0-ad34-1e8927b8e5d9",
+    "name": "11: KUZHUPPIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e31f951b-d8c5-4747-9263-f9e733450d60",
+    "name": "12: POLACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc9460a9-2734-40de-85e4-86103a69be2b",
+    "name": "13: OZHUKUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6728960-fba9-4ff2-bdb9-51ab53af8374",
+    "name": "14: NEDUNGOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7538e2fd-2d74-4275-aba0-687587e5e0b5",
+    "name": "15: MALAKKAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "832156ba-b311-4c3f-b378-ee6c5ba8a653",
+    "name": "16: NEDUNGOLAM WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

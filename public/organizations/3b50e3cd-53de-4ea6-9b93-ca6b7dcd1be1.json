@@ -1,0 +1,65 @@
+[
+  {
+    "id": "80c7c30d-de2b-4d69-beb2-635e1d14f78b",
+    "name": "Kottathara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "23d0248c-865e-4218-b587-215c39e3cbd9",
+    "name": "Meppadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5ee195b7-ec89-4b07-8a37-0a66e6b90377",
+    "name": "Muppainad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4b6e150c-5f76-4bc4-9ff5-b49d087ab29f",
+    "name": "Muttil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "63d30429-3931-4104-abf8-205540d02c33",
+    "name": "Padinharathara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "29484f0d-ad45-4d13-932c-a27545108048",
+    "name": "Pozhuthana Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "774973e4-afee-4258-b44c-d8bfe0f84143",
+    "name": "Thariode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "41b411ae-02f4-4d99-8f3c-15b15d911762",
+    "name": "Vengappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c2d17e21-c9c8-44ec-a730-5609220db20a",
+    "name": "Vythiri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

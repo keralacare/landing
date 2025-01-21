@@ -1,0 +1,86 @@
+[
+  {
+    "id": "58224656-75c0-4336-8d00-f293e8c53e11",
+    "name": "1: CHENNIKODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ba45f7d-351d-4de1-81f8-8bdef1809bc9",
+    "name": "2: DHARMATHADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ce21411-781a-4f43-9a97-ee845854895f",
+    "name": "3: DERADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4dded631-e1f7-46dc-8f09-281f608892b3",
+    "name": "4: BADOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b8a68df3-68e2-41cf-9600-d37ad843fb84",
+    "name": "5: MUGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3564f540-9611-4062-9aa0-1c19689746dd",
+    "name": "6: URMI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c686ffd6-d8b2-4e2e-9c17-0596f4d85b5a",
+    "name": "7: UJAMPDAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0abaaccd-be43-4faf-b714-4ca7f7b2d733",
+    "name": "8: SEETHANGOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d62265e6-5ed9-480f-9815-3cb3accdc81c",
+    "name": "9: KANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b27fbf4-aa60-424e-b495-9653f524f7f5",
+    "name": "10: EDANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e122d20-0b51-45b6-97d4-5cc02c2334eb",
+    "name": "11: MUKARIKANDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23fe1e01-f65b-4e4e-b390-08c6960466a3",
+    "name": "12: PUTHIGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "152a926c-54dc-40d1-ab14-62d79b16d434",
+    "name": "13: KATHIBNAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da1e91ea-ec9b-4294-a825-aea518532ed1",
+    "name": "14: ANGADIMOGAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

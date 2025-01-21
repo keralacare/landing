@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dd43c641-7407-4209-ab10-a5721356b6ce",
+    "name": "Erumely Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ef0e5e10-1d58-4c8a-8261-4447f146a4f3",
+    "name": "Kanjirappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b3e0ef25-6f6b-41f1-b6f1-6bc7083f8a4b",
+    "name": "Koottickal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d58e5d75-eda0-4802-9f0c-f407d489ee47",
+    "name": "Koruthodu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ae2c1fbb-dbf6-4c27-8c51-035e5b46d78d",
+    "name": "Manimala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "16e89d9d-0ac6-48f1-98a9-b939bf9c5434",
+    "name": "Moonnilavu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2dff5d60-8427-4d9c-a16e-a3d317f1c949",
+    "name": "Mundakayam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e92ed92d-f486-4f9f-b9df-e784ceafbd7f",
+    "name": "Parathodu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "a563b8aa-7ec3-420d-8e60-38f035731dd7",
+    "name": "1: GANDHI NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4db471f9-1a11-4347-af96-108a41853b5e",
+    "name": "2: CHOONDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a8cb0281-1849-4539-a44d-7582ec5a8068",
+    "name": "3: SOS GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a00dd1f-e74a-43b0-8cd7-4def717db502",
+    "name": "4: PENGATTUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "413d8a0d-033a-4e26-8ac9-24adbead24a6",
+    "name": "5: NALAMMILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d9dc862-7ca1-4e08-a5b6-6cb568efa258",
+    "name": "6: AMBEDKAR GRAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da5e2129-290e-49ea-a393-1d509124f9b9",
+    "name": "7: PUKKATTUMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dfd9bc0-7f10-489c-91b7-e28f0eab6373",
+    "name": "8: PUKKATTUPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2756d082-7ff8-4b87-8f3e-486d2521d495",
+    "name": "9: KUNJATTUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e33a2a5b-5c38-4f8b-9cff-96ef5b804216",
+    "name": "10: MALEKKAPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7062a3f-21e3-4bfa-a75c-4491fdf7c0f4",
+    "name": "11: KUZHIVELIPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7eaf68d8-8213-4a36-8a9c-5b1f5402baf6",
+    "name": "12: KAILAS NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a635636f-4acc-4447-8c07-2ec6c305834a",
+    "name": "13: SIVAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c486034a-7ee1-4175-9999-9fb91322a0bb",
+    "name": "14: ERUMATHALAMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53f91782-e754-46b6-9e2a-1df24aeb0658",
+    "name": "15: MUTHIRAKATTUMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7deb78c9-52d3-45cd-8703-6e62e343c9f9",
+    "name": "16: EDATHALA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ee6d090-f4c2-4487-961f-5e9d3857fcae",
+    "name": "17: MALEPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7416871e-81ba-4cbc-a043-6ca39e15d2f1",
+    "name": "18: MAJORMILTON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5e90278-3c09-486b-8ef9-5168bfb2650d",
+    "name": "19: PULLALIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d30a084-ec46-4cec-a0d7-8d9619f6ced5",
+    "name": "20: NOCHIMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d98d8b54-f49c-4fb8-bbdc-848cb3a62a7b",
+    "name": "21: NELLIKKATHUKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

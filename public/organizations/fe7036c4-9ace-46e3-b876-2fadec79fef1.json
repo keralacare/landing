@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bb7b6c56-253e-48df-abc6-7e1165a3370a",
+    "name": "1: ARAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91caf573-67d4-4094-a51d-a6c4f63cad1c",
+    "name": "2: PAKALKURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "545d4a0f-178f-4c29-b16e-605cb116ac3f",
+    "name": "3: MOOTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "640487e4-746f-46c2-ad0b-46943a233944",
+    "name": "4: MOOLABHAGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c47fe39-0b40-48ec-b48f-ceb2effbf0b5",
+    "name": "5: K .K. KONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f186fd6-4c4b-442e-a22c-e880c33a779d",
+    "name": "6: MOLYCHANTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19e690c9-34ce-44f9-8d81-3cad47f53487",
+    "name": "7: PALLICKAL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad818d68-d7bc-4e75-9ad7-883e70ead512",
+    "name": "8: OONNAMKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c71e53df-956b-4b1e-b6ca-ae0899d4a38a",
+    "name": "9: KATTUPUTHUSSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fbba1496-ddff-4e42-be8d-f6852bd42dfb",
+    "name": "10: PALLICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61ddf3a2-6ddf-4e94-9e36-e174491d7938",
+    "name": "11: CHEMMARAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd1b09f1-9a9f-46a3-bd4f-c86a86d5bb6e",
+    "name": "12: PLACHIVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0061c10d-d718-4677-a41f-f718c01d8e23",
+    "name": "13: KOTTIYAMMUKKU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

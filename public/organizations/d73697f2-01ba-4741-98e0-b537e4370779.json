@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0e27df9c-15d9-4399-a543-104bedafaa0d",
+    "name": "1: OZHUKUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d113072-fef4-4b71-a74f-6c354ad47ed9",
+    "name": "2: PALLIMUKK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "506756df-5f36-474f-b408-36cb633fb416",
+    "name": "3: NERAVATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61f91556-3954-4c05-8fc3-cbcda87df78b",
+    "name": "4: KEEZHMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf8d8998-83b4-4cf8-92c4-b2645f3a3dbd",
+    "name": "5: HILLTOP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f60d084a-f8b0-48d8-8d28-d13965230ad4",
+    "name": "6: MONGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "679c7cd0-dbf0-40db-8997-d8cd40341f59",
+    "name": "7: CHERIKKAKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10289952-52a4-4b35-b0bb-820fe155a8a3",
+    "name": "8: ARIMBRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f77b99c-fc01-46e7-ab82-89ec8ab82b51",
+    "name": "9: POOTHANAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8fc79da2-a452-4fc9-9d4b-f0a25810d384",
+    "name": "10: KALATHUMPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b92bfce4-bbdf-48ab-bdc3-d7662ef1dca7",
+    "name": "11: BIRIYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d166e110-1de9-446b-994c-2732bd55b8b9",
+    "name": "12: PARAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "272a563f-3313-4171-8d8a-7d00c8022d7d",
+    "name": "13: VALANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ec68e85-be8b-452e-a296-606bad147929",
+    "name": "14: THIRUVALIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f20f994b-daa9-4292-b674-a5e6057e0c20",
+    "name": "15: MORAYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e241fb6-3be6-4256-8a41-1892b6afa923",
+    "name": "16: EDAPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da6983aa-6419-4e37-9d40-ba10452d6d47",
+    "name": "17: KALATHIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e024411-bde1-450c-b336-5dde046e94a5",
+    "name": "18: KUNNAKKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

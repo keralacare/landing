@@ -1,0 +1,98 @@
+[
+  {
+    "id": "981ec8aa-aa48-4e7b-98cf-f2815c30f6a2",
+    "name": "1: THONNALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ff7e486-27b2-4bf3-9f36-435373db3242",
+    "name": "2: MEVELLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "428fcbdb-1f48-48ef-b382-e70426238100",
+    "name": "3: VAIPPELPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d622f4ea-0e8d-4e64-b5dc-25857c4716da",
+    "name": "4: CHANDRAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ccb2d05-63f8-4e70-b729-959debb643cb",
+    "name": "5: VELLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56a6d861-5b7d-42cf-b7c0-dcb62e6981c3",
+    "name": "6: NEWSPRINT NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e4067e9-b449-40ce-81f8-f8cee83a38dd",
+    "name": "7: IRUMPAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc6551c4-f3f9-4c15-bcc7-8554bde38838",
+    "name": "8: PERUMTHATTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d93b8319-ca71-4598-9afd-d0c5b6d1aa97",
+    "name": "9: THANNIPPALLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d64616ef-7dcf-4f02-9ecb-cacfdda13034",
+    "name": "10: PUTHENCHANTHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "880900f4-b8f9-43e1-94ce-5d9114de3963",
+    "name": "11: VETTIKKATTUMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71d8dc27-350b-4a93-afa5-1e46a2b71f53",
+    "name": "12: PARACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04d35f11-cf12-42b6-ae84-c26a992c72cf",
+    "name": "13: THATTAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "431f4381-db83-47cc-b039-f1cf4b99d023",
+    "name": "14: KARIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9de27fec-183c-4e3f-bc16-0216a4cd1a41",
+    "name": "15: NEERPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29b2a17a-6305-40ac-9373-a6ef86a6911e",
+    "name": "16: VARIKKAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

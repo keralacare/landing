@@ -1,0 +1,116 @@
+[
+  {
+    "id": "28a1c552-06bc-48df-9947-87490a300a61",
+    "name": "1: MANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "400a2b69-11b4-4f4d-9fc8-66adb0bbbe02",
+    "name": "2: KADUNGAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4cc5c568-907d-433b-8da0-174bc4bbffc7",
+    "name": "3: AREKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2087541b-72dd-4259-9d44-b814c4a37d56",
+    "name": "4: CHEKANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1745028-d35f-42c3-9eea-96f1ac0dccf6",
+    "name": "5: POTTUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afd2175f-f5fb-4b4f-a0fe-8bcefde729c9",
+    "name": "6: KANTHALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f4a72ad-2a99-4767-87a5-773719040baa",
+    "name": "7: KUTTIPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a5a1b48-9ef2-4150-aa41-89cb4b9e729f",
+    "name": "8: CHOLAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09ec78bf-10a6-4418-9c54-ecf44c92626b",
+    "name": "9: PURAMUNDEKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a670f566-a6fa-498e-98eb-fe01343d0381",
+    "name": "10: NADUVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1003e16b-53be-4d59-b5a9-520bc5cf90ff",
+    "name": "11: KALADITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d743d901-93d2-4c1a-8d5f-ee8846a3bcfe",
+    "name": "12: THANIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "617e3604-ce42-42b4-8325-30db989c9040",
+    "name": "13: VATTAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f2159d2-2501-48d5-91ac-6d6205d47310",
+    "name": "14: EDAPPAL CHUNGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a159bbc3-4d65-4b73-8197-1d143a2649ea",
+    "name": "15: THYKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebcb1d63-f84e-4dc2-823c-fcf300030e35",
+    "name": "16: KAVUPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7dbf6ec8-1e50-4b0e-b825-1216e4f89f04",
+    "name": "17: MUDUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51d20cd2-596e-4efd-b589-df43729b49f3",
+    "name": "18: ERUVAPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9947b236-1a64-45ed-87f8-1ab9a0dcae2b",
+    "name": "19: MELMURI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

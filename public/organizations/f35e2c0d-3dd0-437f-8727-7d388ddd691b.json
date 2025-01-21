@@ -1,0 +1,110 @@
+[
+  {
+    "id": "901262c6-a265-447a-b1e7-8b924adaa98b",
+    "name": "1: THRIPPILAZHIKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "081b6787-eefc-47a5-8393-26223fec09c3",
+    "name": "2: CHOWALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14fa0730-77be-4380-92a9-694fabcc25aa",
+    "name": "3: IDAKKIDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ee76969-778f-43a1-8bd1-bc0ae65428b2",
+    "name": "4: GURUNATHANMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f7c9214-1b45-447d-bab2-2692a76b1867",
+    "name": "5: KADAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "959b9cd3-9319-4dc3-9c32-69595c568831",
+    "name": "6: ILAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "759ac981-8822-4e97-8661-af67a1ff435f",
+    "name": "7: PLACKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "270a538c-48fb-4579-9f14-a085c9e851c4",
+    "name": "8: KAREEPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "736c46c3-e5f5-4ac1-b425-348b160320a9",
+    "name": "9: MULAVOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0279996f-aae3-457b-b644-46588f74200c",
+    "name": "10: VAKKANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "49f2f35d-d025-4abb-8788-2b2f00a9f1d1",
+    "name": "11: ULACODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2ccbdff-24ed-4276-88ab-c544173b45cf",
+    "name": "12: NEDUMONCAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b284b3c-54c4-4cfa-a5b4-ca7c21ee39e5",
+    "name": "13: ETTUVAIKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8c04c8d-6dc6-4b90-b081-b1543a77046f",
+    "name": "14: KUDIKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a07cefa8-bcad-4384-8829-094fa9d2a0ca",
+    "name": "15: MADANTHACODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df7681ff-4fa5-4ade-b914-5cdb3e9650ca",
+    "name": "16: THALOVOORKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f535d0e2-822d-4bee-b924-ceb58f5503f1",
+    "name": "17: CHOORAPOIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9811e0c5-41d8-4618-b932-1cad61a53cc1",
+    "name": "18: KUZHIMATHIKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

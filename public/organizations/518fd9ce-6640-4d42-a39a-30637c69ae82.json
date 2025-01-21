@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f9b105fb-092c-4cdc-a711-26049fb7b65c",
+    "name": "1: PADINHARE THANAKKOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "977a72c5-1c29-41dc-87cd-284434ffccf6",
+    "name": "2: THANAKKOTTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "07db2c49-459d-4a97-bdd7-3cc5948b0c04",
+    "name": "3: KAYALOTTU THAZHE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2295b670-76cc-4b10-9a75-a6200a078aa3",
+    "name": "4: KANDIVATHUKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e80139c0-fb1a-4914-94cd-64f278df9f76",
+    "name": "5: KIZHAKKE KURUVANTHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31319fe7-054d-4410-9fe5-918c528dd565",
+    "name": "6: KURUVANTHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "384b0360-b404-4eb5-b34a-f48c8540854c",
+    "name": "7: CHEKKIAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea49bdd1-20a2-41c2-9757-e2cf794685e0",
+    "name": "8: SOUTH CHEKKIAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a95b47f-f73d-4f36-8c10-a2836a5d536e",
+    "name": "9: JATHIYERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c13bf4c2-d160-4948-a834-05359fa26113",
+    "name": "10: KALLUMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08f750e3-b69e-4c04-9ef3-2f7b304182f8",
+    "name": "11: PULIYAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9987a098-7656-4ad7-873d-b9ac6b9f55e1",
+    "name": "12: VEVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfeb4efd-5f9c-4b22-9343-e604fb02ae33",
+    "name": "13: PARAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b53d4be-f9b5-4076-9346-875aff2637c7",
+    "name": "14: UMMATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "313d335b-8295-4cb3-9e4c-273e588addc1",
+    "name": "15: NORTH UMMATHOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

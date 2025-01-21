@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4d8c8690-fa22-46fa-9b6b-fc0b0d09cc91",
+    "name": "1: KANNANKAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ae6ffeb-6fb9-4d49-b1ea-64b53e941cb1",
+    "name": "2: PILICODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c56935e8-f19d-43e0-95e0-92dcc1eff708",
+    "name": "3: PUTHILOT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5d12425-d109-4724-9b97-15ef95d36a49",
+    "name": "4: ANIKKADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f673a293-00af-4b7d-a605-d8e92accd77d",
+    "name": "5: POLLAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5260ee31-3aef-48b3-bc69-d193ebea4134",
+    "name": "6: PADIKKEEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a7cd341-2a38-4eec-9448-ace01b646a6a",
+    "name": "7: OLAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9ffe168-c51c-4839-982c-73a671e23b14",
+    "name": "8: KODAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "891606c9-7c9b-4ff0-8e43-74b047bd7bb2",
+    "name": "9: VELLACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cb9b36b-63ef-472f-a995-50057d513442",
+    "name": "10: EACHIKOVVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d87332c-0c96-4351-97fa-1f103979e7d8",
+    "name": "11: KALIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9542300-1037-4b27-b497-79594b6a877e",
+    "name": "12: CHANDERA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca1dcb0b-8dff-4d0e-b0ca-abaf349a05c3",
+    "name": "13: MANIYAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7157ae2c-10ad-4a3a-b317-393fd79190e2",
+    "name": "14: THIRUNELLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11a58725-5997-4c54-b62f-0a469b8529b6",
+    "name": "15: VAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27e2de78-e57b-48ba-b615-d3670e4a1ee5",
+    "name": "16: KARAPPATH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

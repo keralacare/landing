@@ -1,0 +1,140 @@
+[
+  {
+    "id": "8324a68c-f98b-4fbf-810f-fcbd983d7f68",
+    "name": "1: PANJAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57cdbb4c-c2a0-4943-bbab-450f3d38d9c8",
+    "name": "2: VADAKKUMMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f2db455-8463-4404-8a38-7bc063ae3d53",
+    "name": "3: KALLETTUMKARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71484592-3d48-48c6-8d81-78bf5b2001f2",
+    "name": "4: ANATHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddfcf22f-f0b8-41fc-9b24-cc5baba0a598",
+    "name": "5: KADALICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6413958-04fb-43b6-a2ee-0de16a1af1c3",
+    "name": "6: THANIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a399d93c-3d57-4d06-bca3-b565df65d454",
+    "name": "7: URUMPANKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6067fdb9-479f-4ea2-b3b5-666e63f9677d",
+    "name": "8: VELLANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24eea780-95c9-4c5d-9576-ab6736b2bfea",
+    "name": "9: EAST THIRUTHIPARAMPU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97a14728-05ee-4228-a821-73a13f63d52c",
+    "name": "10: WEST THIRUTHIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a77edcb-3204-4aa2-84dc-825d28d9048a",
+    "name": "11: KAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c11af8e1-d9c7-42a4-93a8-3499d886a035",
+    "name": "12: KUZHIKATTUSSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "002febc4-0d90-494a-8f4c-32c30a0b4cb6",
+    "name": "13: KOMBODINJAMAKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e42ed94-0bce-40fd-a745-2ff7c7ec40aa",
+    "name": "14: PARAMBI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d6c5cac-bf47-4bac-97ff-6691a9ad7f8c",
+    "name": "15: KANNIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bea5477d-c5d8-4809-a0d4-4898827ebe8f",
+    "name": "16: THAZHEKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71677925-6f7c-4cb6-8af3-0a9058d70f8d",
+    "name": "17: KALLETTUMKARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1cfca4a-b446-455b-9072-960a21e76675",
+    "name": "18: MANATTUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c31e206-7af4-44b9-876c-ab814c4c5e17",
+    "name": "19: ALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "13a49949-600b-4b99-8f2e-06c6a26b995d",
+    "name": "20: PORUNNAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c3e2504-c185-4310-9b5c-3630517b0ab9",
+    "name": "21: SHOLAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fa0f2044-8087-4c9d-9596-fee655ee2ea1",
+    "name": "22: KARAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8aad0d08-904d-4174-8919-5045ff047426",
+    "name": "23: VALLAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "30c213a1-3515-4d6b-a3b3-931d5ff683e9",
+    "name": "1: EDAVANCAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5dec4081-e2df-4c80-a2a9-1e00cc1b462c",
+    "name": "2: THURUTHIMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64c45184-79cc-46c4-8660-923753013f8d",
+    "name": "3: CHERIYANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cb196b5-c35b-478c-9883-c682cbaad0a5",
+    "name": "4: ARIYANNURSSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1d32d67-5ddf-469e-955f-c4be7ed04188",
+    "name": "5: MAMPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e781907c-8205-41bc-b9f5-c71258c651b5",
+    "name": "6: PHC WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18988478-f652-4192-ae9c-808aea03759b",
+    "name": "7: ALAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83b7f2ca-c1ae-4bb2-ba5b-1f540dcb36d0",
+    "name": "8: CHERUMICADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c15d2c2-ba26-4019-9356-57a171d42c05",
+    "name": "9: CHERUVALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04f2700b-105f-47f3-9781-3d751227ea66",
+    "name": "10: NJANJUKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "442fcf4d-4a5d-4109-9bc4-dfb5a61dea91",
+    "name": "11: KOLLAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35cde433-ab1e-4e4b-8196-42ca478d504a",
+    "name": "12: KADAIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "138e7348-0a67-4da1-b002-4a8ce3be1361",
+    "name": "13: RAILWAY STATIONCWARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e38b79e0-f605-4114-8fc6-f74524efe0ae",
+    "name": "14: ATHIMANCHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a11445d0-b892-4b64-97e2-87eee571483e",
+    "name": "15: MANDAPARIYARAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "82c0136e-d246-4f1d-92fc-868610b1ca77",
+    "name": "1: MAYITHARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2386f358-14d0-48d3-9013-27f1746ae1a2",
+    "name": "2: SUBHASH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "289c52b7-5fcd-4091-8792-9fc5a1d54e42",
+    "name": "3: CHERUVARANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f25b5e33-203b-41e1-8f7f-b56f809bf170",
+    "name": "4: AYYAPPANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1bb8ce28-aa18-4889-bf31-b1dd2298eed8",
+    "name": "5: PUTHANAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd5bc6a6-0594-4c89-97d4-eee70dc940ea",
+    "name": "6: MOOLAMVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd80c3e0-1836-4ed0-b0c4-4ae9308c4cd5",
+    "name": "7: KOOTTUVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9140147a-e0ce-4435-8bf3-f1b57a3f0254",
+    "name": "8: ILLATHUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de0c5010-2439-46c3-a0ef-caca82a4b24b",
+    "name": "9: VEMBALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93f4c0b2-4255-4310-ae58-c4a808a0e789",
+    "name": "10: CHATHANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05902396-0a4f-4b79-b573-db9c32300fda",
+    "name": "11: MANGALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "57bd6a25-627d-46aa-8b85-826258a80489",
+    "name": "12: LOOTHARAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c09aea41-d2ec-4141-96a3-c81a74da8888",
+    "name": "13: KANNARKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b17ff944-d035-4f04-919c-979708f22334",
+    "name": "14: KANJIKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4543cd3f-1ff4-4a12-a481-f2219a1fb85c",
+    "name": "15: KUMARAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c2baf2a-0442-4681-86ef-bfd24e29ee7d",
+    "name": "16: KALATHIVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a982d3f3-7a03-49d6-ba01-fce2f7f4d920",
+    "name": "17: CHALUNKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83789c1f-5699-4c02-bf6c-5dc54b7889c0",
+    "name": "18: MAYITHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "881bf40b-1f77-49ff-b8d9-9c0288ec6b64",
+    "name": "1: ILLATHKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc45ee5e-5cce-493b-9d32-b6bced7cd755",
+    "name": "2: KAITHAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf3c95c1-54d2-42c3-9ced-1cffe39f1882",
+    "name": "3: THAYAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22e27c7b-95eb-46ed-82e7-b7d51becda85",
+    "name": "4: PADAKALIPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "940c4b99-9a47-4843-a579-b1582f876bf3",
+    "name": "5: NADUVATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ee8f570-21a1-4ea5-a35a-2200129d2fc2",
+    "name": "6: A.K.G NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb62df4a-385c-4374-8502-c977ca951775",
+    "name": "7: KANDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3b55c39-d115-467f-b92e-528e6f614019",
+    "name": "8: VALORINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f023d41-e54e-4e1f-af16-f36b6e644eae",
+    "name": "9: KOTTAKKUNN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33476363-a6b2-4ce4-9f91-31a3b605be3c",
+    "name": "10: POOLAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00a5e20b-cba3-4800-9ccf-a08df2943886",
+    "name": "11: PUNNAPPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2749028-34c2-459f-928a-94a962cc1409",
+    "name": "12: THIRUVALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c48a347-ca8a-4aea-bbdb-36fba9cba441",
+    "name": "13: THODAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce0db316-583a-49d2-ad4f-ca49d9f64a8b",
+    "name": "14: VATTAPPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "262250d0-a45a-4e86-a118-5680c5e21838",
+    "name": "15: PATHIRIYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5068743b-e805-4ef4-984f-fc28003967f6",
+    "name": "16: SHARATHKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

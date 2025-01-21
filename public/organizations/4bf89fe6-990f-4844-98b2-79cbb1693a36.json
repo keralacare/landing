@@ -1,0 +1,116 @@
+[
+  {
+    "id": "db4b27e2-3671-4752-a570-461f841900a1",
+    "name": "1: KILINGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "897fb32d-ded8-4395-8b02-7f5850714a53",
+    "name": "2: NEERCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29d228d3-4f68-4202-892b-194a2d9ab9e8",
+    "name": "3: KUNTIKANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d99dc4fa-6952-4687-aad8-b363ebb73173",
+    "name": "4: KUNTALMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2e313a5-44a9-4088-93cd-2388da3aabec",
+    "name": "5: PALLATHADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9f9924b-e041-4e63-a739-658a4c8456fa",
+    "name": "6: KEDENJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c1809e0-0154-4788-8957-06975351b5e2",
+    "name": "7: KUDUPPAMKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afa99de2-4e57-4d3d-ae1b-d3fa85f17057",
+    "name": "8: VIDYAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a33c63b-d750-4f5a-acb2-380179814380",
+    "name": "9: BADIADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30d60dbd-80f3-46ed-8fbd-fc6bd52b0b65",
+    "name": "10: BEEJANTHADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3622064-21f1-43e8-a00e-374a48cbeab2",
+    "name": "11: CHEDEKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a6cad2e-fb15-40c0-9b45-2b0699b303db",
+    "name": "12: PERDALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb90b9cf-6e1d-4310-8bd1-9a22531ea008",
+    "name": "13: KANYAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df5c9690-02a6-48ca-9b6a-81e51f974f55",
+    "name": "14: PATTAJE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6013eeed-c94a-4a6c-91b0-1beaabfd2b69",
+    "name": "15: MANYA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1ba9ec3-466a-498e-9bf2-8a886c4e4986",
+    "name": "16: BIRMINADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5b270e3-b5e5-4476-9ac5-d4e9b50b112a",
+    "name": "17: MALLADKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2556a7b-2990-42b3-a536-0b921b7bbcd1",
+    "name": "18: KUNJAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5352e818-c9b3-4e53-93f7-d71a51084ba2",
+    "name": "19: BELA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

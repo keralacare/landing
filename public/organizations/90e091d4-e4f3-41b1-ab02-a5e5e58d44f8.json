@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96dcca58-dbb7-4eb7-884d-8cd1ce300523",
+    "name": "Eruvessy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f4a990ba-588d-46f3-be5b-cb1ddd11f915",
+    "name": "Irikkur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "898aa04c-9fee-4d50-a46e-3fedb9d6451a",
+    "name": "Kuttiattoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9135c1cb-5082-4322-9d98-e309b072f5c4",
+    "name": "Malappattam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "9a407d2f-4ac6-4277-923d-7400d6d92eb2",
+    "name": "Mayyil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "40b8a97e-dd13-405d-b5ee-8aa3a3591e29",
+    "name": "Padiyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2ed48707-6747-48b1-9694-daeaf365b9e3",
+    "name": "Payyavoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "434440e8-c3ba-4740-9523-159f466e29a2",
+    "name": "Ulikkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

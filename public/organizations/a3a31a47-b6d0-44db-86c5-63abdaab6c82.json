@@ -1,0 +1,116 @@
+[
+  {
+    "id": "585604f1-bb60-4e9e-844c-3d62a7a8ad17",
+    "name": "1: DHANAGRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1382828-7ec4-42cf-b440-506b82e0e15b",
+    "name": "2: PERINGAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d84eb06b-989c-485c-83ce-1487fd7c9104",
+    "name": "3: KODAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ad9a65a-5acd-4da5-bbc9-b4d82684b0c8",
+    "name": "4: CHERAPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe02551c-f5f2-4e1f-94cb-2259a866bc67",
+    "name": "5: PUTHOOPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7a1863f-edbb-4fbb-b829-a3a6c7390861",
+    "name": "6: KANNAMVETTIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd7d60e6-43be-4093-baa0-0c000c15b514",
+    "name": "7: CHENAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c59d5a2-23b5-4ec2-a947-a21b284d5f87",
+    "name": "8: PARAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22c121c4-b36d-4e29-9572-71a0c473401d",
+    "name": "9: PERIYAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98428d70-eb57-4191-93e1-6f42bf040d50",
+    "name": "10: CHEVAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3af354a2-2ff0-4129-a3f2-2a21890189ca",
+    "name": "11: MINI ESTATE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec1ed7db-99f8-466f-ac8b-3ebe817817ec",
+    "name": "12: CHAMAPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f7ce41f-9fdb-49e0-a483-99ef87f34504",
+    "name": "13: SIYAMKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9327ce5c-fb08-400e-ad6c-abc10e64aefe",
+    "name": "14: VENNAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "472a5cf4-4e5e-4678-a149-cff72193532f",
+    "name": "15: AYIKKARAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b5b2f02-e0ab-4ff6-b785-4970b9a768b7",
+    "name": "16: KAITHAKUNDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6ba4088-1824-4656-8441-e86bf20bb4c5",
+    "name": "17: POOCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "524552b5-da9a-43df-a8ef-dd37c955fc31",
+    "name": "18: PENGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f58c1419-4bdc-4487-8f39-58d7badfb3cd",
+    "name": "19: PUTHUKKODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

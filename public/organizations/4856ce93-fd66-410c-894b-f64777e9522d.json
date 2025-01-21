@@ -1,0 +1,98 @@
+[
+  {
+    "id": "8e6eb9df-a8f8-4e59-80a2-13f3fcc6ef20",
+    "name": "1: AMBALLOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "37b0f299-c1c4-4428-a8d8-59de44ab9a9a",
+    "name": "2: AAKKAPPANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22c0a00a-e872-46c9-a997-84bfe946e469",
+    "name": "3: AMBALLOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c59364cb-8f28-4644-899a-b5a5eef51e70",
+    "name": "4: AMBALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9dc0a921-69f4-4765-9728-4cf3e0e2404a",
+    "name": "5: KANJIRAMATTOM CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a702d494-c874-4f85-ac55-44318fd67592",
+    "name": "6: KULAYATTIKKARA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9279d268-fd01-425c-9f29-fde5367776f8",
+    "name": "7: KULAYATTIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d882b1f-5691-4725-85c3-79a9f86b1fc3",
+    "name": "8: THOTTARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bf9fd54-7c58-4c23-8865-0927e7bb1c7d",
+    "name": "9: THOTTARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5606e4ab-0b9e-4a5a-baeb-cd2d48f8ec0a",
+    "name": "10: ARAYANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c50fa7bb-590c-4721-b817-4e9d73e43013",
+    "name": "11: KEECHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e9495a9-b407-4b47-b2c8-dce8f5f2d223",
+    "name": "12: PLAPPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df13a275-0268-4e17-a42c-0b208772a437",
+    "name": "13: MAMBUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a98d6adf-4c0a-4dba-a550-df5e8be858d7",
+    "name": "14: PUTHUVASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7d609e3-d0ca-45ac-ae8d-a898bddb4d83",
+    "name": "15: KANJIRAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9a5a1ee-c9aa-419b-945e-5adb94121f32",
+    "name": "16: KANJIRAMATTOM WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

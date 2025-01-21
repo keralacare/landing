@@ -1,0 +1,116 @@
+[
+  {
+    "id": "4a30dda7-f8ef-480d-801c-ea16d7b926ca",
+    "name": "1: VENKOLLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbf7fc57-d653-4860-81b5-213704195421",
+    "name": "2: PONMUDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2dfe46f-5426-4afd-98d8-e8de71a79b43",
+    "name": "3: IDINJAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eaf08dfb-c387-4ff1-a5a1-707b0451ff47",
+    "name": "4: KOCHUVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e7040c4-0a05-4813-ba3f-5cd9705963d9",
+    "name": "5: EDAVAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff4d0e47-5ae2-4f63-81d8-fb1a8711b12f",
+    "name": "6: NJARANEELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "096b1310-f60d-4bc9-ade3-bb1ff629601f",
+    "name": "7: THENNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9430809-8a98-4c3e-86ef-2698b7e33387",
+    "name": "8: KOCHUKARIKKAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba406a8b-3874-477a-ad1e-2f2d072f5a1c",
+    "name": "9: IQBALCOLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39d9c3bd-c9d4-4c49-994a-f5da195ff681",
+    "name": "10: DAIVAPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6583ad2f-cc66-40a8-9b8c-a2d6701d8656",
+    "name": "11: CHITTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de7b1840-51e5-4dce-a1c7-c55f70ba3eff",
+    "name": "12: PERINGAMMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bd0616b4-86d9-406e-bd67-b523b4d40ba2",
+    "name": "13: KOLLARUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e592cc90-52f5-4de2-a887-89e05dc0dbec",
+    "name": "14: PALODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "058f2723-f4ce-4d60-81f1-0faf398e0768",
+    "name": "15: KARIMANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92aa12e3-d56d-42e1-b482-91090cacf6db",
+    "name": "16: CHIPPANCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "322081d4-6970-427d-adc8-d78902a9b4ec",
+    "name": "17: ELAVUPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4de81d31-0aa4-42ad-82fc-dce1e39de040",
+    "name": "18: KOLLAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f513eb4-c951-4f74-a5dc-9e7c23d60535",
+    "name": "19: MADATHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

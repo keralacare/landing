@@ -1,0 +1,98 @@
+[
+  {
+    "id": "299b6d0a-fe50-4124-a1bd-2b447c9054a5",
+    "name": "1: CHETTUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c037d92-84da-44ba-9a6d-0e1658e7462f",
+    "name": "2: VADAKKUMMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "669a1a0d-c42a-4f5e-9aa6-1fd1189275fb",
+    "name": "3: PULIKKAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b320f9d-2be3-4cb1-8735-e07b9bb91f77",
+    "name": "4: PULINCHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "086d265f-ad2c-46ac-a48c-dd0ba465fd92",
+    "name": "5: SREENARAYANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "492bf8f7-2a1e-403b-b71e-040e11068c1d",
+    "name": "6: VETTEKORUMAKAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89a6e9eb-d1f7-4c40-84b8-814a2cd1aafc",
+    "name": "7: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbd381b1-e59b-4b57-85db-91ec65990c64",
+    "name": "8: N.H.S",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa2ecdb0-2ed6-419f-ab59-c6055206ae34",
+    "name": "9: AYIRAMKANNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a359874-00d4-41ea-ae86-ee55bb83f1bf",
+    "name": "10: THIRUNARAYANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e46d5ae6-1cff-4fdd-9999-da61ef25e62a",
+    "name": "11: POLAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81e08c07-94fa-45b6-a023-fe019411c292",
+    "name": "12: THIRUMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d2ba265-ee8a-459d-bf6a-bc12068f01c7",
+    "name": "13: FISHARIES",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b37f869c-c574-4a6b-abaa-e1e22fa92b46",
+    "name": "14: ETHAI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a1d4d0e-2eec-4f10-aecd-8b4cfe9b41c1",
+    "name": "15: NETHAJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "424b4b74-173e-4c5a-b74f-50878962534d",
+    "name": "16: KOTTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

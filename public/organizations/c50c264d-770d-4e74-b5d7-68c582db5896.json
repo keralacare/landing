@@ -1,0 +1,134 @@
+[
+  {
+    "id": "87d8e68c-d604-498a-ba01-1eed1e65b6c4",
+    "name": "1: MULLAPPALLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4c8fb6d8-2f0e-42c9-84f9-e82acdd1076c",
+    "name": "2: KURUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c498304a-d005-42be-a5e4-244b3840fc7b",
+    "name": "3: SAMOOSAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56264c9f-2881-419c-9eca-efd1a4d93a58",
+    "name": "4: VATTALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82db866c-707a-4dfe-9d46-2593df9c34b6",
+    "name": "5: NECHIKKUTHPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79aec5ab-5a8f-4560-98ff-bdb55abb4e66",
+    "name": "6: KARINJAPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "126cf00b-931f-4168-98c0-04545154ad8d",
+    "name": "7: PADAPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cad5a69-1a37-4b32-bf65-0cb2f92c232d",
+    "name": "8: KIZHAKKAN PANG",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85d43851-27c6-4266-937c-b2a7279186d7",
+    "name": "9: THORA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e66a6afc-26d5-45a7-a2a5-40e38d604e32",
+    "name": "10: THEKKAN PANG",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89f1dfb2-8075-4ac5-9983-6bfb95fb37fa",
+    "name": "11: POOKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fd50764-539c-485a-bf95-3d4cd2fb455c",
+    "name": "12: AMBALAPPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad1b570c-efec-4922-9e88-648e477ff195",
+    "name": "13: CHENDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98edc815-f8fa-4a05-a815-013feddf2efe",
+    "name": "14: PADINHATTUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8078ecc-5330-432b-8ada-eea674a4bf4b",
+    "name": "15: CHANDANAPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e3b8474-3f95-4332-a9b2-433e468e95b3",
+    "name": "16: CHANDAPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76e03a6d-60b9-4bc9-9065-082d919b20e1",
+    "name": "17: CHERUKKULAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36e298f7-e6f4-41b9-96c8-f424f66fb8fb",
+    "name": "18: CHERUKKULAMBA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24559f19-027a-4001-94af-5d91ff0415b5",
+    "name": "19: MEKKULAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f2e5c4e-6a68-4ef1-8628-4ba99b44f264",
+    "name": "20: THEKKUMKULAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "45f39259-b13b-4b12-99e2-ae94e15be9a1",
+    "name": "21: PAZHAMALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6cbb08cd-1bd9-4797-aed7-45c329e2652e",
+    "name": "22: MEENARKUZHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

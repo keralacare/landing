@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2dde1c5f-4815-417d-bec3-2fe4a6a71eb6",
+    "name": "1: CHOWALLOOR KARIYANOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c49ec9d-25de-4775-b877-bc7249b20f6d",
+    "name": "2: CHOWALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cae12e41-405e-4ab3-8853-7147332968a3",
+    "name": "3: KANDANASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "895db667-b2fd-4e5d-b2f6-a61bc4001fcc",
+    "name": "4: ARIKANNIYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cdd0754-6711-427b-af78-34a9cfbb2d0d",
+    "name": "5: KALANAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "581d42ac-fd2e-4d4a-9c61-35c6c5bea46c",
+    "name": "6: KOONAMOOCHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08da5b41-7232-4868-946d-a20d51a5e7de",
+    "name": "7: VETTUKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a825a90-b26a-4963-90e3-9517235e46ae",
+    "name": "8: ALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1436685d-c70c-4c40-b920-4a5b94a15eba",
+    "name": "9: THIRUVATHRA KANDIYUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a714dd78-9d60-4671-a874-5ff3029c847a",
+    "name": "10: MATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "327a7e6b-5eb3-4e11-84e3-ba05b350cd9f",
+    "name": "11: MATTOM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1454f569-f581-4d0c-a1e8-6fe144e702bb",
+    "name": "12: VALIADAMKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65e6c64f-47c7-4ca6-bcd1-5277e5e2c9ed",
+    "name": "13: VADUTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0bcf774-4bf9-41cc-a1b6-69d888a75cba",
+    "name": "14: NAMBAZHIKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbd073ee-f2f2-4253-a1f7-6c628285c8f8",
+    "name": "15: SANKARAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba008490-cc38-4021-ae6b-e35087c4fdd7",
+    "name": "16: AAYIRAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b3a12b58-839c-455b-8f74-7c42d7e2748a",
+    "name": "Azhikode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6b8bdbb2-4689-45e2-89d4-86acae4170e8",
+    "name": "Chirakkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c58bfc3d-1a53-417f-a2de-41c1e224c529",
+    "name": "Pappinisseri Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6abf39c0-566d-464a-91b0-310e98955601",
+    "name": "Valapattanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

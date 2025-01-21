@@ -1,0 +1,116 @@
+[
+  {
+    "id": "a4ebc8e6-22cf-46c4-9281-01469c28e905",
+    "name": "1: MAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f60fc86-32b3-46ea-84bf-975ab8b7a7ae",
+    "name": "2: PALAMAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b319d6a-325b-4259-a599-34b71c2c030f",
+    "name": "3: PULIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39ab8e75-1e5e-433a-9bb1-c60476992012",
+    "name": "4: VETTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "224f8715-25c5-41dd-baa5-4c5b213fedaf",
+    "name": "5: ELAKOLLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddb640cf-082c-400b-b1d8-bb98d660c482",
+    "name": "6: THENGUMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6dd41a0-f365-4b18-bbf3-009857741a7f",
+    "name": "7: VATTAKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4073c85-ff04-49ba-8f44-e72ad1474ce9",
+    "name": "8: VELLAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5c66fab-eabf-4477-853e-64b1dc232e1d",
+    "name": "9: POVANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "907d0254-18b6-485e-82e3-bccfc50823d2",
+    "name": "10: ELAPPUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "99a6ad19-6c89-4a5f-8ed7-b61b4804d9d4",
+    "name": "11: KAITHAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8236fa18-e59a-4fe1-8f84-dbabbfd6c960",
+    "name": "12: VAKAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcc4284f-4b3a-40c6-a9c8-78166b25a3dd",
+    "name": "13: EZHUMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7bd1eaa6-9cf7-41f3-9ecc-6df9b8f059fe",
+    "name": "14: ANDICHANDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1dc2b41b-7a90-41a3-b3c3-ab64c25ed6e2",
+    "name": "15: V KOTTAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6e476a8c-f6d3-4f95-ba94-c14d5ce3d144",
+    "name": "16: NEDUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a0781b3-3ad6-4310-aeb0-0dccc0365cde",
+    "name": "17: LAKKOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58b91aef-829d-4e59-9905-058ab81a4b66",
+    "name": "18: POONKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cec91442-4033-4ef7-9fb0-b497e1ea18cd",
+    "name": "19: PRAMADOM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

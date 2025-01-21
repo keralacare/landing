@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8189ff21-8f54-4a43-b9fb-aeeb240e95a3",
+    "name": "1: KALLUVETTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd70ba1a-4124-444e-b02e-2fc6a2cb4d1d",
+    "name": "2: VADAKKUMBAGHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54f0d2fc-28fe-442d-9f14-f53df44d70bc",
+    "name": "3: ELAVEEZHAPOONJIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9ea8fd1b-bcaf-4dbb-8d00-c20155bd4dc2",
+    "name": "4: MELUKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34d6e458-6326-4513-88e3-cd487cbee020",
+    "name": "5: MELUKAVUMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "602d21fa-1d5c-4617-bada-0844ad6e1b7f",
+    "name": "6: KONIPADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "361735cf-1bcc-4b79-a11d-37a125d531eb",
+    "name": "7: VAKAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7109a699-6c20-4c82-a14d-b848cbb2ba21",
+    "name": "8: EDAMARUKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebbd7792-59ee-4336-91b4-f8bb32c622d3",
+    "name": "9: KAILASAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b9ad4ff-998b-4707-b3ba-681a0d6bd73e",
+    "name": "10: KIZHAKKENMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "edbcf718-38eb-4fc6-b1f3-c8df6a5449cf",
+    "name": "11: PIOUSMOUNT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ade93b2f-56d0-4504-834d-d5608b4e8e33",
+    "name": "12: CHALAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abe9cd85-562d-4089-af87-68839bda5ed5",
+    "name": "13: KULATHIKANDAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

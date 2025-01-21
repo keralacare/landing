@@ -1,0 +1,140 @@
+[
+  {
+    "id": "303fde74-b7c8-4e5e-97a5-9555858f97a8",
+    "name": "1: KADAPPURAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "157fea97-a404-49a3-bd06-d3d3b4e6b488",
+    "name": "2: ROTTARY VILLAGE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "126ab7c3-aa90-44bc-92ab-e8fb74b787a4",
+    "name": "3: JANAKEEYA PALAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e1e47fd5-ffe8-4dbf-95ca-1509942e4484",
+    "name": "4: L.P.SCHOOL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09011492-5a55-4a94-846e-3c725e3d9f54",
+    "name": "5: TEMPLE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1492dbba-23f6-4363-a69a-f784c3ca90f7",
+    "name": "6: KARTHEDOM CHURCH WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7aab9c97-073f-43a3-9033-cda483a3699e",
+    "name": "7: KARTHEDOM CENTRAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd66a3d8-4edf-49e3-a5fc-48f9885a7cb9",
+    "name": "8: MALIPPURAM CENTRAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5061a6ce-1e72-4612-92f2-26262593a4c1",
+    "name": "9: VYDHUTHI WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a328e54-15f5-4c54-8351-34ec38db4dc0",
+    "name": "10: SCHOOLMUTTAM EAST WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2c971ca-c6fd-4de4-9995-0727ea7efd9f",
+    "name": "11: SANTA CRUZ WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7db1430-b11a-4cab-9f25-94396ec2021b",
+    "name": "12: KURISINGAL CHURCH WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "73cbd412-3c38-4543-bc6e-dbc7c3b0dd6b",
+    "name": "13: MURIKKUMPADOM JETTY WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb20f24b-68ed-4267-8cda-b1b0c394edab",
+    "name": "14: MALLIKARJUNA TEMPLE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "599d2483-e9a7-4970-a650-061bcc9d0b58",
+    "name": "15: AZHEEKAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53f6d97f-fa83-48e6-a4a2-c573bc8c4dbf",
+    "name": "16: UNIVERSITY WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a1654ce3-fbbf-4d67-95e5-9b3fcd02320a",
+    "name": "17: MASJID WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43853da4-f4aa-4673-9a02-bd17d9161ed2",
+    "name": "18: LIGHT HOUSE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d6302294-42dd-4f9b-9660-47578d465849",
+    "name": "19: PUTHUVYPE EAST WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60e6c3ad-e804-446a-9da8-ef36709730bc",
+    "name": "20: LIGHT HOUSE NORTH KADAPPURAM WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59ba7520-89c0-4871-9bd7-7d01eee85f57",
+    "name": "21: SCHOOLMUTTAM WEST WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "583896c0-4baf-4d5c-8b9c-779ce9648a23",
+    "name": "22: PANCHAYAT WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "102aa2f4-79c8-475a-ae49-7b977fed9b8a",
+    "name": "23: MALIPPURAM BEACH WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

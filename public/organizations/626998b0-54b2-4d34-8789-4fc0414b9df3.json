@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a74b5cb5-7f9e-4545-9349-b0bd517bb063",
+    "name": "Elappara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4ff420e5-4d4a-42db-9297-8b7f71ab0224",
+    "name": "Kokkayar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "807af759-7035-4b79-9aa0-06516e3cb901",
+    "name": "Kumily Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3ff40907-e101-44b2-99b0-ed484319779a",
+    "name": "Peermade Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c3dafad2-0759-4c63-9874-9890d4265051",
+    "name": "Peruvanthanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d8b84256-d802-4b36-a3e1-c57787ceb7c6",
+    "name": "Vandiperiyar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

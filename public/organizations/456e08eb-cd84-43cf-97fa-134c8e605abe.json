@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3fe36761-e46b-448d-8781-38126bd26c9e",
+    "name": "1: KALATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "648d921b-dd02-471e-b7e4-bcfbeb04e232",
+    "name": "2: VEMPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5602760-19ff-405f-a8ab-58ece2c50efb",
+    "name": "3: KARIMPUMKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "557ba043-da39-4a11-9156-106df8b0cab5",
+    "name": "4: VATTUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4f3c447-2d6c-41ee-9469-b2de377e4caa",
+    "name": "5: KADAPPOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c046787-3bf2-4e04-bc42-896d8451a8f8",
+    "name": "6: MUTHIRAKKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d5ff713-3057-4063-b8f1-e1eed2555f31",
+    "name": "7: RETNAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4c7cb51-1530-4153-a545-fe6bbc814c58",
+    "name": "8: PATTITHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ffbc300-098b-4464-a25f-ac04e04888c7",
+    "name": "9: KALARIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e908a025-984b-492d-b730-15c7f00f4acc",
+    "name": "10: KANAKKARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4a245b7-58ed-487a-99c2-13a925e5d99a",
+    "name": "11: CHATHAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2b638b2-54b1-4a2a-b84e-3355316fd5db",
+    "name": "12: VEDAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24fd6054-47da-42a3-bd45-8c631af1e903",
+    "name": "13: KURUMULLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69befe3a-6123-4fa7-8629-2e13d0bf978f",
+    "name": "14: KALLAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff5813bf-299d-4f0e-be23-50962e46c497",
+    "name": "15: NAMBIAKULAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3f17c31d-079e-44b6-87e3-6127e2f8100d",
+    "name": "1: BHUVANESWARI  KSHETHRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4533d8a2-330d-4072-9215-6bec815771fa",
+    "name": "2: ST. JOSEPH CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c127c4a2-6d3b-40a6-9a5e-102a16ec4eb3",
+    "name": "3: ST. JOSEPH CHAPPEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "31bfdc6a-41f1-475f-abdd-5ed087be9118",
+    "name": "4: SUBRAMANYAKSHETHRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1951e564-454b-45eb-a21e-131ac288c3fa",
+    "name": "5: WATER TANK",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce64123b-e995-46a7-b914-4d0a9f9ca127",
+    "name": "6: KUMBALANGHI CENTAL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a82ddd4-aec8-483d-8140-6c7c70f0b72a",
+    "name": "7: KELTRON FERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "475f8a82-d931-4683-b665-26a36e03e9fc",
+    "name": "8: EZHUPUNNA FERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d659c6a5-062a-4dd4-953d-1524f2925881",
+    "name": "9: SREE NARAYANA GURUVARA MADOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b3076f9-774f-4a3d-b4c2-670743a6ffc1",
+    "name": "10: ST GEORGE CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b31d9ce-e93c-49b0-8279-2a4dffcd5069",
+    "name": "11: ANJILITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a23154a-bb83-4d87-88ce-c6011722e65f",
+    "name": "12: KUMBALANGHI CENTRAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "25ef8ea6-003e-407a-987b-e063f3e0f9f9",
+    "name": "13: KAMSEYI MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd8a2ae0-7e59-46fd-8fdf-360d40cbe687",
+    "name": "14: AZHEEKAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9d9f345-9cfb-4cfa-a942-2aba8af4a307",
+    "name": "15: PANCHAYATH OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d127ce42-1f53-47b4-997c-289fe10aeff1",
+    "name": "16: KALANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc6b45ac-f481-458e-a49e-83fa7cfb2ef9",
+    "name": "17: SEHIYON OTTUSHALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

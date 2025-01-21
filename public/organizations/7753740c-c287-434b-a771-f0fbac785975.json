@@ -1,0 +1,80 @@
+[
+  {
+    "id": "79062784-a813-4b88-8639-8fbae4790535",
+    "name": "1: KARITHOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8e9f90b-acab-4737-bbff-e59f21e04f2d",
+    "name": "2: KOODUVETTICKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "003745c3-6903-4ba3-b3d2-2fecfecf8e91",
+    "name": "3: KURIYANIPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e923f8a-5e89-4795-ad4a-b07e6452d1a4",
+    "name": "4: PATHISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab875455-9353-4581-85ef-47822bc241e8",
+    "name": "5: ALAKKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "df9fcc6f-d14a-40a8-8276-d15ccda8c402",
+    "name": "6: MULOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3f0a9347-bc04-4117-8047-6b5d03962941",
+    "name": "7: MARAMAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18ca499c-9ef8-4276-9ee7-374ca0f91947",
+    "name": "8: ELAVUMTHITTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6544faa-a09a-4fad-8e53-e19f555a78ce",
+    "name": "9: KAYYAMTHADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "597aff7e-4c49-4984-ac6a-bd9db0f8bc6a",
+    "name": "10: NEDIYAKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c6a489d-542f-4803-9dff-444ff779c853",
+    "name": "11: ANARKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfc79d92-2554-4b9f-ad4e-5573eec3c522",
+    "name": "12: MEZHUVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4227d5e-a65a-456c-b530-7fcb6a5605bd",
+    "name": "13: ULLANNOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

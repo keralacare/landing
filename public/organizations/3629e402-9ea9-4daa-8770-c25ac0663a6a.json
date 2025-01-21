@@ -1,0 +1,86 @@
+[
+  {
+    "id": "bad798d4-4767-48e8-a234-482683b1e715",
+    "name": "1: MUTTATHUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6338cd3a-cc92-47c0-af3f-e3974d8cdd98",
+    "name": "2: EDANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "87189680-a018-43ac-8117-9301a7601a62",
+    "name": "3: PRAKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b6284a6-9154-4520-bffc-0aa0dcdbc261",
+    "name": "4: MUTTUKUDUKKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "47dee5c3-101f-4a36-92bf-b2745e4fc2cf",
+    "name": "5: UMMINIKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcbbedfa-9269-4da2-8e72-426c066c4ee0",
+    "name": "6: VETTOLIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02b27df0-927b-4ec8-89c3-c0ef22511644",
+    "name": "7: VALUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5257cbfa-8e91-4a0f-8c9c-09c7bd47d37a",
+    "name": "8: MANJINIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38bcad31-39af-4e90-b13e-0d363e57c78a",
+    "name": "9: MATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "758ad22f-3e51-490c-be2b-4b240a8d2e14",
+    "name": "10: MURIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ad3d357-9835-462b-9639-126baac88f6b",
+    "name": "11: AMBALAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0c429d8-fcaa-4f7b-a9b2-12bb9a58b77f",
+    "name": "12: CHENNEERKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6190515d-35c9-4706-b35e-89299dc291bf",
+    "name": "13: OONNUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fbee1f0-6a4b-4cfe-9901-3167b5431a2e",
+    "name": "14: NALLANIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

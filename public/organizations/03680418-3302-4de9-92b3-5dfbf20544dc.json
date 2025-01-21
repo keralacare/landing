@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b112d539-b1eb-4384-bf57-3d2cd81d1043",
+    "name": "1: MALEKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e835385a-e3e4-4721-b4c5-acdbb171e99d",
+    "name": "2: PERUMTHRIKKOVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e49431b-96a3-4429-9525-ffe51c37bd03",
+    "name": "3: UDAYAMPEROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7311679c-6dab-4a38-b562-2dc78dac3e5e",
+    "name": "4: KANDANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b776a73-6859-4440-a19d-7430fc6c97fa",
+    "name": "5: VALIYAKULAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e9ec0b7-4622-4118-ba7d-f7227fe38fbf",
+    "name": "6: NADAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d258c7d7-6995-41b1-83b4-ac8ab4cbe278",
+    "name": "7: KOCHUPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "70b49218-95f3-4c90-95b2-ab49a4e01888",
+    "name": "8: POOTHOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d436520a-3b08-4100-9c89-8639ea4174c6",
+    "name": "9: PUTHANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "794e6623-e414-4197-87bd-7d1491870328",
+    "name": "10: PUNNACKAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c88d90d1-d539-49e3-a110-fa9b53da4ddc",
+    "name": "11: THEKKAN PARAVOOR MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56afb630-c492-4f56-9794-472e5b6c314e",
+    "name": "12: THATTAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8686334a-b819-40c0-9b4e-a29483885181",
+    "name": "13: PUTHUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6880abf9-1d99-4940-aed1-475bd44e67bf",
+    "name": "14: MUTHIRAPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cd1941f-4574-4d87-8fdd-311f679b8a28",
+    "name": "15: KURUPPASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53c84388-b06c-42e0-9277-62bfee81122e",
+    "name": "16: AMEDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5dc02a9f-ad3e-460c-91df-2f8c6a72798e",
+    "name": "17: KANNEMPILLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "732f8466-5d84-4d48-aac1-399160b3fa20",
+    "name": "18: UDAYAMPEROOR MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e969171c-a9fc-4688-841d-91e8b3456878",
+    "name": "19: MANGAIKAVALA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02bffa47-0649-4a4d-8eab-bc19ac637e51",
+    "name": "20: THEREKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

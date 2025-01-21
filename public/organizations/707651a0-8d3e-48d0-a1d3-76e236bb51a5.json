@@ -1,0 +1,98 @@
+[
+  {
+    "id": "50cc83ae-5e7e-4947-8e78-19263baaf6f7",
+    "name": "1: PALAYAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d543152-aaa1-4d20-9a44-f3cb452a70ef",
+    "name": "2: KADUKUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51e48126-6a52-4df0-8e2d-d393643c65c9",
+    "name": "3: VATTAKKOTTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6a86907-34bc-413c-8be2-4d5c75b5b76d",
+    "name": "4: GANDHINAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb96da26-0b1b-46a4-ab42-7232a5395a1e",
+    "name": "5: PAMPUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a973af9a-6027-4168-89fe-a1ffbbd79490",
+    "name": "6: ANNANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7ec63ab-aaf5-4a90-a515-94bbb08c666a",
+    "name": "7: ARANGALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f8094338-7aaf-40c5-8bc1-91f86c1ae18f",
+    "name": "8: KANALPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e789e57f-421d-4e3c-894a-78b5ec3d04ee",
+    "name": "9: KATHIKUDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9493d51-d0df-41d2-98e6-c68ae0dc2187",
+    "name": "10: PARAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81bc620f-efd8-4f1c-a09f-c259f51d96b7",
+    "name": "11: CHERALAKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "307979a5-a02b-466d-87d9-4e548df11ed8",
+    "name": "12: KULAYIDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1598b738-0bfc-4312-bbd8-0b025e9b624f",
+    "name": "13: CHERUVALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7d500dd1-375e-45c3-8cf4-99cb18833ed7",
+    "name": "14: KALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69fe068d-e8b0-4d0c-8e31-520cfa5b0d6f",
+    "name": "15: THYKKOOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3676df24-a24b-4f57-b597-74b6feb69b81",
+    "name": "16: VYNTHALA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

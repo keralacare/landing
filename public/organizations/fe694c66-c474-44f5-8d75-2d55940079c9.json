@@ -1,0 +1,58 @@
+[
+  {
+    "id": "330e2ff1-5e03-4011-8bc7-b90f1f92fdb3",
+    "name": "Ala Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fed5df75-f8fb-4ed4-89ff-bcc7f6db2f9e",
+    "name": "Budhanoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "c6affbdb-d289-403a-9c4e-c425843b3e42",
+    "name": "Cheriyanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d899211d-961c-4e03-8d03-00d95aa8f5a4",
+    "name": "Mulakuzha Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "794cb544-f3f8-42f2-866b-7dbf8cb801b5",
+    "name": "Pandanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "29bb81f6-b925-452f-87b4-35db490ec998",
+    "name": "Puliyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3c7c98d9-2aa6-41b3-9eff-b6b3d800cbac",
+    "name": "Thiruvanvandoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5f0f6975-5870-43e4-bc7d-d2df717aab1c",
+    "name": "Venmoney Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "18c637ea-af97-4b84-9a4a-3a96cd014501",
+    "name": "Kanichar Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "bfe21559-2ae6-4ef8-8d05-b7842aced36d",
+    "name": "Kelakam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "efd01e6d-afa0-4254-8889-b328d2a0ab5a",
+    "name": "Kolayad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "01461887-c96a-499c-a87a-6aa5c3ee8f67",
+    "name": "Kottiyoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a99e2a07-9595-450a-88ee-3f55e033ed29",
+    "name": "Malur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a737a1a8-5fb0-46d5-a6af-2c37fc3bbdcb",
+    "name": "Muzhakkunnu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ff067c53-a836-4607-9ee8-2feefb694108",
+    "name": "Peravoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

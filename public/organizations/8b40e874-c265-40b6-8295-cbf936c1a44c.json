@@ -1,0 +1,314 @@
+[
+  {
+    "id": "f32eb669-b7e2-40d2-a743-4058cc0ab831",
+    "name": "1: GANDHI NAGAR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a841d8c-ce28-4856-9805-2580f083ce75",
+    "name": "2: SANKRANTHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2a1a8a4-241c-489f-bf4b-1d69f865ff24",
+    "name": "3: PARAMPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afcbcb81-c47e-48cc-89bc-8ebd8eb27e18",
+    "name": "4: PALLIPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8447bd7-9a2e-4a2c-8405-676660bed501",
+    "name": "5: NATTASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2d18233a-afda-4435-a4b2-a64d87e75669",
+    "name": "6: PUTHETTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1bd7c34-5400-44fe-ab5c-4c1daf8994a8",
+    "name": "7: KUMARANALLOOR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab91fe8c-b7e7-41b7-b219-62b15f94233b",
+    "name": "8: TEMPLE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba89852c-8559-40c8-896e-2bb8949e200c",
+    "name": "9: S H MOUNT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a484a5f-9262-42e4-b214-b101a6c8ab9f",
+    "name": "10: PULLARIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd910819-82a5-4f7c-8e4d-0f778e81f23d",
+    "name": "11: MALLUSSERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d671bb2a-733f-4096-abff-4b4f925f96f3",
+    "name": "12: NAGAMPADOM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e46500a6-5847-49ec-8b15-fb9654ecab39",
+    "name": "13: NAGAMPADOM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c53e25b7-2f80-451b-bd7d-9862626c88fd",
+    "name": "14: MULLENKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "135cb747-b232-4e73-ae5a-4eede6822820",
+    "name": "15: MOUNT CARMEL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "745b7c2a-37e5-4c3a-848a-e456de2a0266",
+    "name": "16: KANJIKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ccbad207-d6a1-4fa3-9489-94cdaa43cf15",
+    "name": "17: DEVALOKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28c5e672-cfe9-49b8-9e0e-0710e3ac6a36",
+    "name": "18: MUTTAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "baa4beb2-ba9c-474c-8a43-4fbfb776e76d",
+    "name": "19: COLLECTORATE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac50e3c1-fc08-4bf8-8f0b-e4821119de83",
+    "name": "20: CATHEDRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28631424-d893-4a7e-a06d-3cc91ecc3104",
+    "name": "21: THIRUNAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d7291da-5256-487b-a626-f8e081a2429a",
+    "name": "22: CHIRAYILPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e371ba3b-70b0-4cba-a301-3759ba261a69",
+    "name": "23: PUTHENANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa883021-92e2-4169-afc5-bec82032821c",
+    "name": "24: THIRUVATHUKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76e7fff0-454d-4ea3-a024-da68c37b92aa",
+    "name": "25: PALLIKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8ff1c69-55b2-4434-88c3-51620b37c0b1",
+    "name": "26: PULINACKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b5398c3-d4c8-4638-bcd2-24346cf414d6",
+    "name": "27: PATHINARILCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10a1994b-b5ad-4977-9345-242b42d51077",
+    "name": "28: KARAPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc6b7499-269d-42e1-b63b-bb5d283c8578",
+    "name": "29: KODIMATHA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1c0d4e9-6ca4-4bd6-9353-84f545839d56",
+    "name": "30: MUPPAYIKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04ae6c35-6c15-41b5-a678-73039a89057c",
+    "name": "31: MOOLAVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78bcf7f7-cd8b-4ada-934b-122a1502fdc2",
+    "name": "32: KAKKUR MUTHENMALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eaa5140d-ff11-4233-b9bd-b854c9cf6b61",
+    "name": "33: CHETTIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9aa134f1-603e-40f1-8284-8144fd0b9468",
+    "name": "34: POWER HOUSE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "93592242-392d-49fc-83d7-3607ee70961b",
+    "name": "35: PANNIMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3fa460bd-80b2-4ee7-a2dd-85572b5ab69c",
+    "name": "36: CHINGAVANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9a7880b-acfe-444c-b73c-a99bf7bf38a2",
+    "name": "37: PALAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35a0eba4-804a-403b-91c5-6b1292748991",
+    "name": "38: PUTHENTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa82ba26-de4c-4cd9-b2ea-37c492a3f16d",
+    "name": "39: MAVILANGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afe87bb6-f589-4673-ae3d-633bed65b004",
+    "name": "40: PALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7be9e52-a371-4cbe-a9a5-fb2dc0e807ea",
+    "name": "41: KANNADIKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "131de22d-b4a4-4a45-90e6-d74e8ef5655a",
+    "name": "42: MARIYAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5961ce19-c407-4bad-85ce-e9eea92c985a",
+    "name": "43: THURAMUKHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98556281-d1b5-4d7a-a4da-45fa2f284357",
+    "name": "44: KODIMATHA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74262b1f-a465-41da-ae35-9cf7316161c3",
+    "name": "45: KANJIRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54275537-952d-4d73-a2b6-9b872b8428ac",
+    "name": "46: PANAMPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fdc58bd-ba05-4394-8c76-fcf51b4fc010",
+    "name": "47: ILLIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0fa8554-9503-4366-bd07-6f739152b68d",
+    "name": "48: THAZHATHANGADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04ab3dcd-8034-483a-82bf-88bd2897442d",
+    "name": "49: PAZHAYA SEMINARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ac8dcadf-a67f-4e24-849a-76a9e3479c3b",
+    "name": "50: VARISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7a5d7e4-5642-4571-a300-131729f94e8f",
+    "name": "51: THUTHUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e8e29a9-b78f-469b-99dd-c8840d960acb",
+    "name": "52: GANDHI NAGAR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

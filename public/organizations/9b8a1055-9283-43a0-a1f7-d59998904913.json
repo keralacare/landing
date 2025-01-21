@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2f5a89d8-c747-40d4-bd99-1a58d2d3439f",
+    "name": "1: KEEZHAROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acabef5d-0632-4b62-bb9b-680911af698f",
+    "name": "2: ARYANCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a3b0429-b08d-43b6-83cd-473c04051041",
+    "name": "3: VELLANGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e62d4910-5fae-49b1-b11a-049ae610b904",
+    "name": "4: EDAVAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56888ad9-21a5-4a34-8a67-a047c2d75f47",
+    "name": "5: KALAYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01b94b47-65cc-4fad-96d9-988f8caee7c3",
+    "name": "6: CHILAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55a64839-86f4-467a-a339-667549c8e624",
+    "name": "7: MANCHAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f9dd0de-d015-4ee0-8b8b-1fb0d7d6beb1",
+    "name": "8: CHEMBOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f505b725-e6ed-45f3-ab67-d4c528f34a2d",
+    "name": "9: KARIKKOTTUKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d46b438c-deb8-4e3f-9293-d4777e28fca0",
+    "name": "10: MANNAMKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1c8b5ff-351a-4db9-9a86-9bd781706c78",
+    "name": "11: THUDALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "edf19b14-a976-467e-ae3f-1a05a149db05",
+    "name": "12: MUKKOLAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83a21e3a-2d28-49cc-b896-83bbbf331e38",
+    "name": "13: MYLACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "74bd7c13-eacf-4c80-b2e5-3f8e44802566",
+    "name": "14: KUTTIYAYANIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6d47b29-30ae-4e96-bdb7-f5ffdf580fe9",
+    "name": "15: KAVALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9c06436-40d3-4380-b1bb-0b1cb627485f",
+    "name": "16: PASUVANNARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

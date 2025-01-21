@@ -1,0 +1,116 @@
+[
+  {
+    "id": "83da318c-78cd-431d-bf6d-4b8adbb25b38",
+    "name": "1: KUNNUMMAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2460fc01-415f-49fa-8bfc-9866178bb380",
+    "name": "2: PAYYATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8028763b-28de-4b13-a343-cce63f484d0b",
+    "name": "3: ERAMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3d45a3c7-53e0-479a-ab92-74a22b5dfd26",
+    "name": "4: ADIYOOR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08ab898e-108b-44fa-968f-9c406b9c7f77",
+    "name": "5: ADIYOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf0cb8fd-cad6-4b26-ae34-d0015a09455b",
+    "name": "6: ORKKATTERI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8bbf9f51-48a8-42a5-b45e-307e00a26e87",
+    "name": "7: ORKKATTERI CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "798ec7eb-292c-41bb-8a18-ea29f9603abd",
+    "name": "8: ORKKATTERI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a413227-79c9-4f7d-9a3a-ffc93b83f322",
+    "name": "9: ELANGOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b45e67e-501c-4f24-85f3-12495cd628f4",
+    "name": "10: KANDEEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da104582-3b1c-4541-9c77-5dd301491f7e",
+    "name": "11: KARTHIKAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dcaac626-5aa0-4eb9-abda-6a3d1551b313",
+    "name": "12: KURINHALIYODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a41340f4-91d5-4f3d-a7c3-54e5a21b3a04",
+    "name": "13: MUYIPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f109c56-b726-4096-b2e1-ef92202c7352",
+    "name": "14: ORKKATTERI SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7ff5e1b-49e4-467b-8f1d-74c35c027c3c",
+    "name": "15: ORKKATTERI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0cf42df7-5ffb-4c46-8008-59f1b802e68e",
+    "name": "16: NELLACHERI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01d68e7f-b474-478e-ad1d-c5ad524f54b4",
+    "name": "17: NELLACHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d2bcc78-b38b-4042-82e0-b7a9ad493a8d",
+    "name": "18: KUNNUMMAKKARA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4756dcaa-8f1c-451c-a16a-8e1d12f45674",
+    "name": "19: THATTOLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

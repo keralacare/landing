@@ -1,0 +1,110 @@
+[
+  {
+    "id": "894dec1d-e39c-4918-8fca-9d290521d761",
+    "name": "1: CHENNAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11b86b7e-41fb-4e38-a8c7-38fc36daffa4",
+    "name": "2: KARIKKAD NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26c96204-4253-4df3-a8a2-d6e4960f4c10",
+    "name": "3: KARIKKAD SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1048dcef-6371-4933-85d6-7631e628e4c5",
+    "name": "4: POKLASERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c5d243ba-8b86-4b9c-928d-3deaace4ff7d",
+    "name": "5: KANICHUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebe89995-cc27-4516-a6d0-25c7fbb18a38",
+    "name": "6: PANAKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b6bae18-2d02-4641-99ae-a91aa1511ac7",
+    "name": "7: THIRUVIZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a49f660-5445-4531-a0d0-e3a8facbf500",
+    "name": "8: VARAKADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8333b38e-7de4-43cf-8e30-feec5ddff62e",
+    "name": "9: THOPPUVELY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e8126df0-591e-4176-a7cd-4862ee7318f8",
+    "name": "10: PANCHAYATH OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92b913f4-20ff-4890-b137-b0bc2db001e2",
+    "name": "11: MARARIKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e5a094c-c06b-4b8a-af0c-21191a9bdc2f",
+    "name": "12: GANDHI SMARAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afa2d94f-0082-4ee3-9142-2a069131cb25",
+    "name": "13: KASTHOORBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "243bd840-cdfe-4152-bf3e-0a059928ad91",
+    "name": "14: PALLIWARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9ce54b2-8015-404b-b529-62be44f56e85",
+    "name": "15: JANAKSHEMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "22601cd3-6315-4212-a4c9-41eafd774d8c",
+    "name": "16: CHERUVALLYSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b6514f1-20d0-49a5-ae5d-ede24b6d17a8",
+    "name": "17: CHETHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ded6c26-8700-4d62-93cd-6da0d58a5b2e",
+    "name": "18: BEACH WARD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

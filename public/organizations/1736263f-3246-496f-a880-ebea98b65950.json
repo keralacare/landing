@@ -1,0 +1,37 @@
+[
+  {
+    "id": "e652e733-95d2-4384-8fad-3bc2d44642a6",
+    "name": "Ezhukone Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f35e2c0d-3dd0-437f-8727-7d388ddd691b",
+    "name": "Kareepra Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "30ee2081-af16-4f7e-bb7f-2b2c1873fce4",
+    "name": "Neduvathoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0856de15-d80d-460f-b557-ed5f4fade614",
+    "name": "Pooyappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "01624b95-54c7-400c-88b2-d3ce3e1e94a2",
+    "name": "Veliyam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

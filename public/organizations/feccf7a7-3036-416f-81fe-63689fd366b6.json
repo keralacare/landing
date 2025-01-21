@@ -1,0 +1,116 @@
+[
+  {
+    "id": "66b4745f-6f9c-41ff-8352-f00b63187b2f",
+    "name": "1: ELAMPAZHANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fdd29d9e-1cb2-4605-aab3-a96627096caf",
+    "name": "2: VELLARVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36bed37e-f3a4-4707-b088-bc712fdbef0e",
+    "name": "3: KOTTAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "884b19ec-38f5-474f-b246-5a549e2cb98f",
+    "name": "4: KUTTIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffe271da-3d03-4cac-a8cd-4f7bf55cca69",
+    "name": "5: VADAKKEVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "326715af-8ef2-4bd5-afc9-cc3e869fcbf2",
+    "name": "6: KARAKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6f7a3e0-6c35-4662-a9bf-93eb0553dd46",
+    "name": "7: PANTHALAMMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f72a5fc6-2583-4595-b9e8-27837767a667",
+    "name": "8: MUKUNNERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "783053c7-5bd4-4bd3-9af3-06c7e6a88755",
+    "name": "9: PALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a981281f-3c4a-418d-8115-e821d9b29a68",
+    "name": "10: CHINGELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d08e875d-6790-4938-99fc-56bdc1125b5c",
+    "name": "11: ALTHARAMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46963ae2-ba42-4efa-b23d-3c7a50010ca4",
+    "name": "12: THUMBODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56d630bc-9b3e-4d33-a2cf-811336e843a4",
+    "name": "13: KADAKKAL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01f5ed8a-2421-4cbc-8d74-e967b3ceecf3",
+    "name": "14: GOVINDAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e39e98d-9fae-4729-b4cc-d4f0396c8b6f",
+    "name": "15: MATTIDAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "130e36b2-caad-47ee-83a0-8101b3855139",
+    "name": "16: PULLUPANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cf6ad0a-6480-4fcb-abaf-973ac4b12813",
+    "name": "17: ATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dd11554-2c2a-416e-bf3b-d661d2d29057",
+    "name": "18: KARYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f0d2c79-e5f8-4463-bcce-bb03d43e9efc",
+    "name": "19: EDATHARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a10b10c3-ed84-482b-aafc-8d6179f6317f",
+    "name": "1: ACHANCOVIL KSHETHRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7e02edc4-2e64-4153-8031-0ecba2d1de17",
+    "name": "2: ACHANCOVIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d14e1a86-e50e-4eeb-87fb-eed2e4b565e9",
+    "name": "3: AMBANAD EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f22a373a-48a8-4c43-b8f3-adb0dd06da40",
+    "name": "4: ARYANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "89ca82b5-7ff2-4a18-a4d2-1ec8d08b6671",
+    "name": "5: ARYANKAVU KSHETHRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a354dd8-2c01-4ddf-ab00-1840d6cad3a3",
+    "name": "6: PALARUVI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de633967-16a9-469a-abab-b8eb68cc6a43",
+    "name": "7: EDAPPALAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85e6da79-2ab1-4b88-8085-b8292a50877a",
+    "name": "8: FLORENCE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60f7accd-7249-4a64-be79-1a80fb7ea2e5",
+    "name": "9: KAZHUTHURUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2cabe06b-f37f-4000-b0d7-b4ce08bb1daa",
+    "name": "10: NEDUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e158036-9218-43dd-98ba-119128988a87",
+    "name": "11: VENTURE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a52aeee-4502-4ef8-92ca-a711dc37e167",
+    "name": "12: POOTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4952e1f6-18c7-4aae-afc6-595c893023ea",
+    "name": "13: AMBANAD WEST",
+    "has_children": false,
+    "type": "ward"
+  }
+]

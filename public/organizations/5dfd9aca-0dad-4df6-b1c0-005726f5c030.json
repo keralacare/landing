@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c568a226-5001-49f7-b9c9-6de90b6c713c",
+    "name": "1: ERINJIPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "313aaa22-9b98-4233-a457-484ad5403da5",
+    "name": "2: KALLINGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff2d6a1e-545f-431a-b8e7-d8f8836d9d54",
+    "name": "3: PARAYANGAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "583eaea5-9bd8-4df5-854e-fa217cc67836",
+    "name": "4: KOWKKANAPETTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7560bbd-101d-4d37-b5b6-84e614fde37c",
+    "name": "5: KOCHANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26789cca-5a7a-4345-9fdd-c6763be097ec",
+    "name": "6: NHAMANGHAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01717cd8-9d8f-40a8-8896-d0fc0a571777",
+    "name": "7: CHAKKITHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3db52f18-f32b-4527-815d-4164e9d50c2d",
+    "name": "8: ANJOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0fb9ca50-c6ab-4313-86df-9bd7c6dbb5cc",
+    "name": "9: VYLATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46d05920-36ca-45f7-93da-f8e8e41992b7",
+    "name": "10: NAYARANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bca05df-6adc-4c47-b460-52eeda020139",
+    "name": "11: PADINJAKKARA VYLATHUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63e97b89-51e7-413f-9b5a-e0f5b82bcdfe",
+    "name": "12: KALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d1f1b3d8-231a-4270-ac22-25d512ed6d46",
+    "name": "13: VATTAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cf0523d-a96b-4ad1-83fb-4cc0ddd7222a",
+    "name": "14: KOMBANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "41864773-3754-42fb-8eb0-7704f3a6d3d7",
+    "name": "15: THEKKEKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a29f952-ddaf-4816-aa5a-042da32d251b",
+    "name": "16: THIRUVALAYANNUR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

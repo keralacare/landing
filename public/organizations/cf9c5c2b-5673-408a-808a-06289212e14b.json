@@ -1,0 +1,98 @@
+[
+  {
+    "id": "243118b5-5cdb-4d47-b64e-28b78bc2fb6a",
+    "name": "1: AMBATTUPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d45df147-64d4-4d4e-8ab4-b6dce49a6066",
+    "name": "2: KAVILKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3b7a4c7b-dd1c-44f9-bbe9-aa35522ebd18",
+    "name": "3: ATTANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5b98089-a062-413d-8273-10c193657705",
+    "name": "4: VILAKANAMKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5231c9da-4dc7-44d4-803b-0b9ed9dc87aa",
+    "name": "5: PANAMKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f4be12e-35c8-4995-ba06-7ccbafca9c7a",
+    "name": "6: VANDITHAVALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a3341e27-63d6-4b16-8292-969325377f42",
+    "name": "7: AYYAMVEETUCHALLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b771100-c637-4338-8302-f81b30ec1b90",
+    "name": "8: PARAKATTUCHALLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f6ce17d-3d66-47d7-8153-8e340418c831",
+    "name": "9: PATTIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "787ba112-549d-423c-9045-a2f1254a0860",
+    "name": "10: KANNIMARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "64581dd9-838f-40ec-8f12-ef84b029e51f",
+    "name": "11: THEKKEKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f820d94-7dfa-4fbf-a871-1033e8f32da9",
+    "name": "12: CHOZHIYAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8a6e0a3-af8d-401d-90e5-5f50288f27f6",
+    "name": "13: MUTTUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "802aa61d-5124-4ccb-bc7b-8ac8728c4616",
+    "name": "14: KADUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf353068-fef7-4da3-b03e-9812ff3a060a",
+    "name": "15: PATTANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b57dc83a-6211-4825-9a27-8944f7d97401",
+    "name": "16: KARIPPALI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

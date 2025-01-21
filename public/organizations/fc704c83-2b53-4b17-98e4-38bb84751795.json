@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f2983aa8-1c0f-4433-bd7f-1a8b7248780e",
+    "name": "1: KIZHISSERI NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e0f4e35-9284-41a7-82bf-df08fadf7293",
+    "name": "2: NEERUTTIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0bdb203d-dc46-4a51-80a4-e8920b45f0d9",
+    "name": "3: MUNDAMPARAMBA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4abe3e08-9dbd-4a0e-b165-89a389b7870a",
+    "name": "4: MUNDAMPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "19c15545-5863-4450-a9d0-0e2f70b968af",
+    "name": "5: KADUNGALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ddd638d-0d8e-4ef5-96ad-b64887568872",
+    "name": "6: CHIRAPPALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "008338fa-8a62-4918-9f73-e9fa13b9dc1c",
+    "name": "7: AKKAPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a28b47d-b596-4ad3-bb75-45f115a789cb",
+    "name": "8: PULIYAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "844cdb3a-5494-44a4-83cd-08012b8415ec",
+    "name": "9: MELMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af7295e8-1faa-42d9-a5cb-47cd3cd4431f",
+    "name": "10: KUZHIYAMPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fd35bd8-b95f-49ab-9e77-9c65206b1250",
+    "name": "11: KUZHIMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de92bbb3-4fef-4158-b3a2-33a048d82466",
+    "name": "12: KUZHIMANNA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "265fc8c5-d4c7-44fc-b904-d74eb60a761b",
+    "name": "13: PULLANCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84a3d322-01b4-483e-9843-9942183c1c03",
+    "name": "14: EKKAPPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55306ef8-ccb5-471b-bc4f-85dc11d4fcac",
+    "name": "15: MELE KIZHISSERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8951d74b-c1a2-48a4-9520-85d93c557b0d",
+    "name": "16: KIZHISSERI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62e7e6db-55df-4978-9e3c-377bb817855c",
+    "name": "17: KIZHISSERI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed30c71f-df86-459f-a561-a7a6644a5fe0",
+    "name": "18: KUZHINHOLAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

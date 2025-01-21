@@ -1,0 +1,92 @@
+[
+  {
+    "id": "44616dad-f818-4af9-b5a0-a0f41234232c",
+    "name": "1: KURUMULLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5dda9cd8-13af-4293-8207-e8dd9adfd5d6",
+    "name": "2: MOOZHIKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "01539137-80d2-435d-a10c-0ad3201626ee",
+    "name": "3: KAIRATHAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d545acde-f73c-41f3-b532-0d5a1ee5862b",
+    "name": "4: S K V NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "02d01a69-6345-4bdf-8d17-af7d700fe373",
+    "name": "5: S K V SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11aa7989-8a3d-4bd9-bec3-08a6669737c1",
+    "name": "6: ONAMTHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "79741b2c-eeb8-45d2-b83b-63f5044517f0",
+    "name": "7: KUTTYANIKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc2486c8-aae8-4b39-9b3c-b0e669e59a9a",
+    "name": "8: KAIPUZHA HOSPITAL WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d03c4db4-a634-4025-a481-0483d4f0037d",
+    "name": "9: KAIPUZHA POSTOFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0ef2d95-f027-4971-a427-324620314ccf",
+    "name": "10: MEKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "487dc10e-ba00-4bad-a2a5-a41fb760ade5",
+    "name": "11: SASTHANKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de9aa116-9e6d-415d-8cd3-b18efeaf0ea1",
+    "name": "12: KUTTOMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b785e5c-f48c-4f0b-b4a2-e0b987144d79",
+    "name": "13: PALATHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "16056a7b-8c6a-4c1f-8f0c-9ec14bc34469",
+    "name": "14: PRAVATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ef84ce1-82ed-454b-bfe4-59a0e43f3ce6",
+    "name": "15: ST.MICHEL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

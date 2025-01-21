@@ -1,0 +1,98 @@
+[
+  {
+    "id": "acde887d-ff61-4e25-8c21-6202b328d18f",
+    "name": "1: PALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "33ee3f45-1e14-436d-bc66-4fe74a44c904",
+    "name": "2: PUDUSSERY MANAPPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "48d5926f-02e9-4ffe-ac9f-939217578fa8",
+    "name": "3: MUESIUM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f85fe9d3-df0b-41c3-ab58-8d28f556000f",
+    "name": "4: CHERUTHURUTHY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ede6ca2b-f645-4c1e-b910-6908581bffc4",
+    "name": "5: MECHERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cca2016e-cb77-46d0-8bb7-84d4b081abc7",
+    "name": "6: KULAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51055dff-3def-4dbf-927e-df26ac6a6867",
+    "name": "7: KALAMANDALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e0d8a88-dae7-4375-90d2-708a3c68f14c",
+    "name": "8: VETTIKATTIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7336cd43-8e4d-49bf-8b4a-01ae00015b31",
+    "name": "9: THAZHAPRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9dc25837-4488-46e5-b77c-44182bad1bd7",
+    "name": "10: NEDUMPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6414badb-722d-4d06-a14d-3bcc08bc9ed8",
+    "name": "11: PANNIYADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2313bf0-d5b2-4028-a449-0dfca4de8b20",
+    "name": "12: PALLIKKAL SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0835dc3a-4c02-44db-8b70-cdacfc8368e4",
+    "name": "13: CHERUTHURUTHY SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "86c103fa-23a5-4e3b-a10e-3e1940226960",
+    "name": "14: YATHEEMKHANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b552b5b-a46f-4f2b-97a6-2e431ddb3313",
+    "name": "15: CHEYIKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1aaca82f-ad00-428b-8485-4ac63c4cca9b",
+    "name": "16: PUDUSSERY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

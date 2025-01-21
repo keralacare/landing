@@ -1,0 +1,170 @@
+[
+  {
+    "id": "f256ca90-20b3-4854-a0ff-1ec11c49fa12",
+    "name": "1: MITHRAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4083a064-8e11-47b4-9308-70600224be57",
+    "name": "2: E.V. WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bda6aa5f-eeb5-4179-ae1c-94ac210c5d88",
+    "name": "3: PANNIVIZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ad75b095-d7dc-4e63-86e9-df291c125dff",
+    "name": "4: SALVATION ARMY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc62b367-884e-4ba1-a94a-5e9c3d3e43fc",
+    "name": "5: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14d86469-b10d-4b06-941e-205bfb97345a",
+    "name": "6: JAWAHAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e44f53e0-4dff-4720-a292-bab86bf695e6",
+    "name": "7: ANANDAPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3863a3b6-2566-45dd-a854-6e6ce77aa9c9",
+    "name": "8: POTHRODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "80e512f4-88c6-4dbb-ad73-872f1397b1b5",
+    "name": "9: M. G. WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71d8e956-75be-4f68-bebd-3e1e7814dc39",
+    "name": "10: BHAGATH SINGH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "112b678d-75d4-4688-884a-576c1e57f756",
+    "name": "11: PANNIVIZHA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0ce4bee-8290-4e40-9dca-df3f15e74f48",
+    "name": "12: SANGAMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "560ecb26-5a18-44ce-adad-454489234397",
+    "name": "13: NETHAJI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d998b9d2-1155-4bc8-b39f-8b68c539e4be",
+    "name": "14: PARAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8e3e7abf-e95c-43f4-9583-22ccc95575ca",
+    "name": "15: PARAKKODE EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "897e5cb2-8627-402f-9ad9-32668ad95366",
+    "name": "16: ANANDHARAMAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "477e2c44-1879-4f51-8db3-35e564cc88e6",
+    "name": "17: PARAKKODE WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0903760a-4410-4fa7-9ed9-ac1e88da8638",
+    "name": "18: T. B . WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f6ff20e7-7ef0-4e97-b795-910b0bb72f29",
+    "name": "19: KANNAMKODU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "67fff9cf-db31-4558-8669-a62806fe7f77",
+    "name": "20: ADOOR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6de4031-74c0-435e-b729-ae5134b7f5ca",
+    "name": "21: KANNAMKODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf928e16-c3c5-47b5-b492-cc98898ee573",
+    "name": "22: NELLIMOOTTILPADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f92a3fe0-99d4-4bef-8db2-5976f9098694",
+    "name": "23: AYYAPPANPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8a522196-2676-4af9-81cf-bc183b4632b4",
+    "name": "24: TOWN WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53d096c0-98ec-4e12-926a-17153ab9e470",
+    "name": "25: MUNNALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f133ff7-ae3e-4bac-83fc-c90020e8e795",
+    "name": "26: PRIYADARSHINI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bf26100-38dd-4cb1-b7f6-05f38346fab0",
+    "name": "27: HOLYCROSS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cb549176-45dc-4c75-9d7f-6e01375af524",
+    "name": "28: PUTHIYAKAVILCHIRA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

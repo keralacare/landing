@@ -1,0 +1,104 @@
+[
+  {
+    "id": "be9acc88-73a7-40b2-81e9-a3e31b181b06",
+    "name": "1: GANESHAVILASAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2224aa9a-c24b-4e36-b8ef-0b29bc506cbc",
+    "name": "2: NELLIMUKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "694ab43a-3869-4abd-913f-b72ba50c4888",
+    "name": "3: MALANKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8f17645-4c69-45db-96b6-400f0054ca73",
+    "name": "4: MAHARSHIMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc564e76-10cf-4813-b87a-c92b72075df7",
+    "name": "5: MANJALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58e61d76-ea9b-4635-b5c8-ff08e263910e",
+    "name": "6: KANNIMALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bb4bbbbf-1ace-4c19-8e76-3990bb321815",
+    "name": "7: MUDIPPURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "afa6185c-d69b-4224-aebb-8b38449ab6b4",
+    "name": "8: DESHAKALLUMMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "14aa11df-43f3-4102-b9b4-38b58fc23d8a",
+    "name": "9: VELUTHAMPIDALAVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c20b8af-9e88-4e29-8953-2ea60487cbb2",
+    "name": "10: MANNADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52eb6a80-03b7-4bfe-8794-49d2dcbad6e3",
+    "name": "11: MANNADITHAZHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f19e986-d1f4-4900-bf15-c504271b1ee0",
+    "name": "12: PANDIMALAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6d74c5f-55f0-4d76-8728-d42c4bb0b340",
+    "name": "13: NILACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a8b3cfe-dc66-4d9b-8f9b-7d77d36d7aab",
+    "name": "14: ELLUMVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46a86404-da12-49c0-85f1-605055d7a248",
+    "name": "15: KADAMPANAD TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "555d9819-ae49-469c-97b1-14072b2858b1",
+    "name": "16: THUVAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0d641db-7138-4de9-a895-044eff930f4f",
+    "name": "17: KALLUKUZHY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

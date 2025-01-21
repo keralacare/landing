@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e37a7383-c47a-411e-a38f-2ef8d939b4a7",
+    "name": "1: PRAVITHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bcd37c3-df74-4567-8e87-20d83aabb25c",
+    "name": "2: ULLANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b43084b1-8048-4d29-8bd3-7264c1182dda",
+    "name": "3: ALAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bdc71d7c-b9eb-48a8-b74c-f31ef0fb5e43",
+    "name": "4: KAYYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd0d2b34-7c6f-4593-946b-4af447089cd0",
+    "name": "5: KANJIRAMATTOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2a5f4d3a-f127-4271-a1c5-35a33b66df2d",
+    "name": "6: CHOONDACHERRY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3607d66-ccb6-4b59-add1-09e46b86ae23",
+    "name": "7: BHARANANGANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf5a9ff2-da2c-4d02-a2c3-ba32f3b3fb88",
+    "name": "8: ARAVAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea5e9661-f2b3-4f2c-8f05-6b5c52425db4",
+    "name": "9: EDAPPADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53393e4d-be6e-42d7-8b0b-0c2e3237bb16",
+    "name": "10: AREEPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06ac3d56-9bae-42a9-95d7-20c21fc3b47c",
+    "name": "11: PAMBOORAMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4047ae18-9259-41d3-ac8e-535ba8e1d3bd",
+    "name": "12: ELAMTHOTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c9b6ec2-e410-4c66-b710-34f7df62468d",
+    "name": "13: ALANAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

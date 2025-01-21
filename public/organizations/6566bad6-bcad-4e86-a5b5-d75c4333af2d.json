@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e289bd5f-fa2c-4a29-83a9-517382db2c98",
+    "name": "1: PERILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a466bc4-ce15-4dbf-af40-736971cfcb60",
+    "name": "2: AYYAPPANKKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "816d9c05-bf44-4f81-926e-f4b9bcd91204",
+    "name": "3: KURYATHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "626826b9-db65-460e-8491-e090a0456247",
+    "name": "4: PONGODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58aa94a6-1bfb-4fca-8747-e21e982ec43d",
+    "name": "5: MUNPALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5baf36d0-a4f1-4fcd-83f0-b5dba72b4ddd",
+    "name": "6: CHITTUVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9abb02b-3374-432c-8121-ec9486510adc",
+    "name": "7: PULIMOOD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c4ca2b1-9f5e-42ed-9e56-1e96ec91487f",
+    "name": "8: KULAPPADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0faae7b-0124-4964-b1d3-b30bc6a09f39",
+    "name": "9: VALOOKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fed76a64-d618-494d-8ee1-c2edb4e2f37a",
+    "name": "10: ELIYAVOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2b28764-d2db-4c0e-853b-be0febd34e7c",
+    "name": "11: CHAKRAPANIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e001c868-58ec-4ee8-8be9-3e650551a978",
+    "name": "12: MANJAMMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0e01134-d177-45f8-8da6-2ef38ef94b92",
+    "name": "13: PUTHUKKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "386f489c-792d-4c53-b918-a5880e7f6e56",
+    "name": "14: MANIKYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a62db73c-d395-4721-87f6-c7dfeead150d",
+    "name": "15: PARUTHYKUZHI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

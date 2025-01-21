@@ -1,0 +1,104 @@
+[
+  {
+    "id": "3c8d756c-310f-40cb-b300-ebb0f080911f",
+    "name": "1: KUNNATHUPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eb971370-e63a-4ba0-81c1-93a4fc04270b",
+    "name": "2: ATTORE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6c39e36-b021-4acf-9706-5396a889f9d8",
+    "name": "3: POTTORE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "27e55dd9-4da1-4cc5-a4ca-d4493d415615",
+    "name": "4: THIROOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f4262638-5432-4e73-a8f6-f08849d71f25",
+    "name": "5: PUTHANMADAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f5cc9493-87e7-4651-8fd8-ab7400179851",
+    "name": "6: ATHEKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcfd38d8-a210-42ce-93bd-f48fd532a773",
+    "name": "7: KOLAZHY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "103f18b0-cd4f-453f-87d8-194e29519e34",
+    "name": "8: KOLAZHY CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8c705a4f-33fb-4de1-9e5c-5dab4dc72bf8",
+    "name": "9: POOVANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e72a115d-be8c-4829-aa18-7bd6130adf50",
+    "name": "10: KOLAZHY WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f547772e-4308-47c5-8e19-be08828c70e8",
+    "name": "11: POTTORE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "917bbe6d-0461-4b98-ab0c-1bf3b4275406",
+    "name": "12: ATTORE SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c8f078e9-a3fb-421d-be6f-8454db3e5c0e",
+    "name": "13: PAMBOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81d1efa7-e418-45a1-9c38-414d2b9ba993",
+    "name": "14: KUTTUR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f7ac04f-38e1-42f5-bfdc-9a530ccc4b80",
+    "name": "15: KUTTUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db0a615f-f454-4cde-af3f-c3d43dae8f35",
+    "name": "16: KUTTUR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "76caa7e5-dc28-4fbb-8c0e-141a7d715606",
+    "name": "17: KOTTEKKAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "3fa3617c-f47c-4fb5-ac31-c7c834b309eb",
+    "name": "1: PUTHANANGADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b0ba6472-7507-4440-bce3-63649cdb55d5",
+    "name": "2: THURUTHANKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbe27f55-89c4-4bae-b4fa-40f715b60699",
+    "name": "3: POOJAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c50f2e1-b131-41de-bd50-78882b0146ed",
+    "name": "4: AYURVEDA HOSPITAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be436b27-327f-4e26-926f-8fce0b46fda8",
+    "name": "5: AZAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8ae27439-288c-429a-9f47-e51194830f3b",
+    "name": "6: S N WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8f78ac56-dce8-482d-8995-99e08481b449",
+    "name": "7: PANCHAYATH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a009c91-0d57-4fc2-879b-968454b28ad4",
+    "name": "8: MUHAMMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9030e306-ab13-4277-bf4a-dfb6a551a354",
+    "name": "9: MUKKALVATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "09008403-c4ae-468c-8783-7fdb2992e5ef",
+    "name": "10: PERUNTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f454a389-0c41-4d66-9dc0-2f961b54a184",
+    "name": "11: MOTHER TERESA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8972ac7c-f0c2-4d7b-9309-5145cf9507ee",
+    "name": "12: JANAKSHEMAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9078fce8-4993-4522-84ce-669a0fc52157",
+    "name": "13: ARYAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd0a29ec-7784-40d8-91a8-5c93c93d8097",
+    "name": "14: S N V",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "04cbc8a5-3c7c-4af5-93cc-bb19a6ad7ae4",
+    "name": "15: KALLAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "622069fd-592e-4e50-94ba-f0347b662bba",
+    "name": "16: KAAYIKKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

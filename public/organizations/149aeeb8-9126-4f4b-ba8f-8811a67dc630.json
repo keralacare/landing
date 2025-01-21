@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0ab8deea-e614-4e46-827c-7d4412aba3df",
+    "name": "Madappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2fb7cb95-a120-4de0-8d80-f7aeca471ac8",
+    "name": "Paippad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "81f12922-4b1c-418f-bbce-e15386fa9ea1",
+    "name": "Thrickodithanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "60fc78f0-5504-48d7-abec-ea2bd64bc735",
+    "name": "Vakathanam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3594e928-7d3c-4dc0-854c-c68d9de94de8",
+    "name": "Vazhappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

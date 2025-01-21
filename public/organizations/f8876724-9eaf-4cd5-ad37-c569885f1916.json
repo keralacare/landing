@@ -1,0 +1,37 @@
+[
+  {
+    "id": "47b80f3b-4563-48cc-b4a4-b36c68bc91eb",
+    "name": "Cherthala South Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2951b84a-2497-495a-8230-941c29b4e1b6",
+    "name": "Kadakkarappally Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4ea9fad5-c1c0-4aab-8a0b-3af1d4534b71",
+    "name": "Kanjikuzhy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a3461e7f-7ca6-440e-a592-8f3aa192d567",
+    "name": "Mararikulam North Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b332efd7-2824-4629-86c3-78db64a00c4b",
+    "name": "Thanneermukkom Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

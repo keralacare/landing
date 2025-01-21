@@ -1,0 +1,58 @@
+[
+  {
+    "id": "27f04cbd-c577-4e0d-807f-1d89ac83ada8",
+    "name": "Aliparamba Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "12c591ff-8fb7-4971-b4a6-ae2fe6d1913c",
+    "name": "Angadippuram Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4f785d5b-b9d4-4bc1-afb2-90666fb5a23e",
+    "name": "Elamkulam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "6bc50014-434c-42ec-bff2-46966ee38ceb",
+    "name": "Keezhattur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "0d3d6d7b-4ce1-47f4-aba4-6b6282896741",
+    "name": "Melattur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "4b2b5e4d-3364-482c-be8e-716b6e5cf718",
+    "name": "Pulamanthole Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "2d89a139-1918-4a9f-be23-bed9863f3219",
+    "name": "Thazhekkode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e45baffd-7b5c-4310-a103-15f4090820ae",
+    "name": "Vettathur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

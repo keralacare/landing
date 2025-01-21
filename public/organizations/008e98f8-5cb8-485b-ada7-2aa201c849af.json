@@ -1,0 +1,149 @@
+[
+  {
+    "id": "6e892dc3-fd7f-4bfa-a643-f94bab54fe10",
+    "name": "Anthoor Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "df335425-2bf2-42b4-a041-e9aec10f324c",
+    "name": "Edakkad Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "90e091d4-e4f3-41b1-ab02-a5e5e58d44f8",
+    "name": "Irikkur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "d393357a-b514-40b6-953f-8ffd2f31fa3c",
+    "name": "Iritty Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "0f755ebd-d213-444d-ac05-12fab76ad1b4",
+    "name": "Iritty Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "9b22a1f4-2dc0-4482-9a89-7f9a983dc5ae",
+    "name": "Kalliasseri Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "11ea2600-fc63-47da-bef1-bed5d0a00ca4",
+    "name": "Kannur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "af129030-d48d-4b4b-8f75-450629c2a8c4",
+    "name": "Kannur Corporation",
+    "has_children": true,
+    "type": "corporation",
+    "children_type": "ward"
+  },
+  {
+    "id": "f59e3318-3ab8-4d7f-ba9c-e5358979eb2c",
+    "name": "Koothuparamba Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "98d7ab30-05a0-4ca4-8edb-dbf9bf95b75c",
+    "name": "Kuthuparamba Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "58f090df-5795-4ccf-9c97-5bd9f42babac",
+    "name": "Mattanur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "bc8d1219-75c0-4a8a-a827-c87af1353270",
+    "name": "Panoor Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "d7af87a3-9685-4fba-8602-ca37c01350ad",
+    "name": "Panoor Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "d942dc6c-5096-469b-8b6a-1d879682185c",
+    "name": "Payyannur Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "39d23022-f1eb-4dba-82d9-703c1cb8addd",
+    "name": "Payyannur Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "4bfa925f-b32d-4f64-8ae9-cc42f47ddd36",
+    "name": "Peravoor Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "4bdc144c-e357-41db-b16a-316e7ad23816",
+    "name": "Sreekandapuram Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "b204a5b5-f635-4b9d-8052-aa4e8ff8c089",
+    "name": "Thalassery Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "20bab957-f0cb-43b9-8d3f-76c51b8c8b53",
+    "name": "Thalassery Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  },
+  {
+    "id": "4f0e8a0d-7836-4681-b1c7-3608a36979c0",
+    "name": "Thaliparamba Block Panchayat",
+    "has_children": true,
+    "type": "block_panchayat",
+    "children_type": "grama_panchayat"
+  },
+  {
+    "id": "64d42ce7-044f-4fda-af4b-4f56e1113f41",
+    "name": "Thalipparamba Municipality",
+    "has_children": true,
+    "type": "municipality",
+    "children_type": "ward"
+  }
+]

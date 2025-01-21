@@ -1,0 +1,140 @@
+[
+  {
+    "id": "f31174a1-05e3-46a6-8903-ef3a3bc9693e",
+    "name": "1: MANJUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af3bd225-4c9e-42d5-8ab2-0a8568fe25e5",
+    "name": "2: KAPPADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f88cd65c-f943-489d-a5ce-ca92ff933b74",
+    "name": "3: VANDANPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9d936afe-730f-4579-bb1b-186e228a0ee7",
+    "name": "4: MANJAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b20acb9a-6e6c-4299-a605-cd7bee98e09a",
+    "name": "5: ANAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f1f9394-c99b-4915-8f9a-fea99467e062",
+    "name": "6: KANJIRAPPALLY TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "97ea0c30-e20d-4929-9916-46d44d432bc6",
+    "name": "7: THOTTUMUGHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4503912f-df1b-44d7-abe4-22d149d68ced",
+    "name": "8: KANJIRAPPALLY PETTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd092d7c-ee6f-4715-9618-2f012ac2bb45",
+    "name": "9: VATTAKAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6187797d-4e9e-4c03-b58b-76a91a0eeb31",
+    "name": "10: POOTHAKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91896e69-32ad-4c34-9702-5ce5ec3396bf",
+    "name": "11: KANJIRAPPALLY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ff159068-3b96-439d-b8da-905ac5d12d5c",
+    "name": "12: PATTIMATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ff53fc4-1812-4906-8081-2157d744db10",
+    "name": "13: PANACHEPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "54ab27f5-5f25-4bd1-b8cc-00808cabaf09",
+    "name": "14: KOOVAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fb538ca-56cb-447e-b2ae-350b40d17204",
+    "name": "15: KORATTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf6595a1-d3d8-420e-a0bf-cf86255908a3",
+    "name": "16: MANANGALLOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52229f0b-2d00-4f8b-81f0-581fd4260879",
+    "name": "17: VIZHICKITHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4d925cd-265f-4064-8802-b73d4ce71513",
+    "name": "18: NJALLAMATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7b94a0f-8f61-48ed-9ec5-29d4ae6f8b2b",
+    "name": "19: ANCHILIPPA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24fb9acb-da97-4ffd-8d57-41d4ed895fb9",
+    "name": "20: MANNARAKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "789e2a2d-6b1b-4795-813e-b268fb27cd87",
+    "name": "21: PANCHAYAT OFFICE WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "830044ae-e4f2-45fe-9fd7-8e55614bf3de",
+    "name": "22: MANIDUMKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a9f93406-6174-4a49-84be-9a9cb05fc5d0",
+    "name": "23: THAMPALACKADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

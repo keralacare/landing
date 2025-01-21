@@ -1,0 +1,104 @@
+[
+  {
+    "id": "49208c75-087f-4d9b-b180-f015698962d3",
+    "name": "1: VALIYAKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd823e77-1359-44fc-83ad-aa9b530d519b",
+    "name": "2: RAJAGIRI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e10d48a8-525f-4aa2-8ca7-74269a946b63",
+    "name": "3: PATTAYAKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed21b03d-fac7-4f99-af30-ff4a6893f613",
+    "name": "4: VELLAKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "077eb256-eb53-4be0-9bb9-f0f9e133b68b",
+    "name": "5: KALLIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "236fae53-b6da-439a-992d-c06661648395",
+    "name": "6: MUNDANMUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "096198b7-f4a2-4eb6-95a5-fdd59464b0ba",
+    "name": "7: EZHUPATHEKKAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aedb249a-5cbe-4cd5-952c-97c7f9f9fa08",
+    "name": "8: KOOVAPPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4937b516-f5ab-4b62-b515-d7117e25c9cc",
+    "name": "9: VENMATTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "499c1e1f-9b8e-48e3-94c4-d0db05e4fa43",
+    "name": "10: KALIYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7948f6d-4b1a-495f-8ffb-822fc6e1476d",
+    "name": "11: MULLANKUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77b662bb-b603-44ff-8e6e-f0328581b46b",
+    "name": "12: ORAKANNEY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8dae4b88-b185-4fbb-94c2-fe988ca5708b",
+    "name": "13: VANNAPPURAM TOWN NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1aac734e-142b-4d58-a9cf-12bf6fdbdcfd",
+    "name": "14: VANNAPPURAM TOWN SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2da617ad-bf9f-4f7e-a69a-83914fdab208",
+    "name": "15: KALAYANTHANI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "43b59173-3709-4bd3-a668-f92a26994968",
+    "name": "16: ODIYAPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c4a6fc2-9f3e-4a99-b725-63fdb796b346",
+    "name": "17: MULLARINGADU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

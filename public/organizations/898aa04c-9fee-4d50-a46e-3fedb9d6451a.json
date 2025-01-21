@@ -1,0 +1,98 @@
+[
+  {
+    "id": "805c5e9d-9a9d-48ba-8c22-8552376902f1",
+    "name": "1: PAZHASSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eae09745-5beb-4581-b267-eb1151657d12",
+    "name": "2: KOYOTUMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f0bb127-cc39-485e-996f-3bfe7524c508",
+    "name": "3: PAVANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a6c4b32-e428-4378-8acf-43faffc4d8e5",
+    "name": "4: NIDUKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9be143b3-5d86-406d-b412-364819eb0f83",
+    "name": "5: KUTTIATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc5be59a-1e84-4685-b6f9-abbebfddfceb",
+    "name": "6: VADUVANKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3bd7072b-bfb4-4588-a66f-19d7e1537c7d",
+    "name": "7: KURUVOTTUMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92e29666-df56-4a9c-a369-7db3bf62348c",
+    "name": "8: KOMAKKARI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9830a8f-fe9a-4503-be1c-5f8e1feb996a",
+    "name": "9: VESALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ea88a5b-4995-4b0f-beb0-4351341e8208",
+    "name": "10: KATTOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b264742-edd4-4d48-99d8-d061f52b97a8",
+    "name": "11: THANDAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1993687a-bac9-405d-a0b7-5b556b5f9be9",
+    "name": "12: CHEMMADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aef593c2-98b3-4e26-8a6b-4fb5184907be",
+    "name": "13: CHEKKIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b3b6acf-43d2-4d9a-9e6b-8b4971a83fb4",
+    "name": "14: MANIYOOR CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aac6777e-cb46-4682-b72c-8bce44c27a2e",
+    "name": "15: CHATUKAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90812d16-4e4e-4d21-811e-affe9a2d395c",
+    "name": "16: POROLAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

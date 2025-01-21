@@ -1,0 +1,248 @@
+[
+  {
+    "id": "d0629eea-778b-445d-b67f-a5da39aefb9e",
+    "name": "1: MOORKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8d1b8fd6-d4b8-48df-ab30-6198b86682dd",
+    "name": "2: BANGLAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "644840d2-69ab-47f7-a7ec-bbde160e9b16",
+    "name": "3: PUTHENTHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38c8fbd2-9c71-4984-9080-963911df74bf",
+    "name": "4: KARUVANNUR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "18c91457-e306-4234-aba7-7be30edc23c7",
+    "name": "5: PEECHAMPILLYKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8650ea5-c30d-4795-86fa-c22b0f3e5864",
+    "name": "6: HOLY CROSS CHURCH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "05e3b837-8d97-4ef3-b109-a6769c75d64e",
+    "name": "7: MAPRANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "358b5e0c-f90e-48e9-8c85-0d4e39c7657e",
+    "name": "8: MADAYIKONAM SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f1a557a9-f341-44c2-9436-d4b33e9d1055",
+    "name": "9: NAMBIANKAVU KSHETHRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c723bbc5-8707-4da7-925b-6f3366918698",
+    "name": "10: KUZHIKKATTUKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abc2001a-479d-4ff2-b061-47975335fb32",
+    "name": "11: POLICE STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "377a68f8-f683-4707-999b-f5f630ddbd00",
+    "name": "12: BOYS HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4aa597e9-794c-4f23-a819-71f15f810a3f",
+    "name": "13: AZAD ROAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0292d27-cc98-4697-85c2-41c947d248d2",
+    "name": "14: GANDHIGRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "797c2f69-81ed-4090-b348-7953c1192b19",
+    "name": "15: GANDHIGRAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "decba3a3-5687-4680-b439-d5c8d892c729",
+    "name": "16: GOVT HOSPITAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f70942d-5615-4186-ae37-d7e9aaa9b37d",
+    "name": "17: MADATHIKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ed4c3538-8261-411a-957d-c68d20bba8ee",
+    "name": "18: CHALAMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a303a3f-bebe-485d-9ad5-a64741f70e04",
+    "name": "19: MARKET",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f0bdf9af-6343-4013-9ad6-73546b455300",
+    "name": "20: COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d2bab14-3724-4ea5-91b7-06329bf69806",
+    "name": "21: CANAL BASE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fc17bbcf-24b7-492f-bd53-5e2c7d310c80",
+    "name": "22: MUNICIPAL OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7866b752-4d67-4192-b53e-9b57e0c0a373",
+    "name": "23: CHRIST COLLEGE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30150ac3-c8c2-4e4b-abd7-f977fd7b1866",
+    "name": "24: BUS STAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "944bec97-baeb-4255-8d59-620e3cd8f7fe",
+    "name": "25: KOODALMANIKYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7ade27f4-8d0e-442f-879b-171fc838dd38",
+    "name": "26: UNNAYIVARRIAYAR KALANILAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9fc2c9bf-470a-4bce-9a77-084b5460b7e7",
+    "name": "27: CHELOORKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7aff849-2055-492d-8381-239dd2cf3bf0",
+    "name": "28: POOCHAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12bc0643-9e9a-4862-a6dd-e5468aad27e3",
+    "name": "29: KSRTC",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f3beba66-16cc-408f-8f27-d4287502aea9",
+    "name": "30: KORUMBISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f2bec78-1442-4cf1-ac6b-f3343713f484",
+    "name": "31: KARUKULANGARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4e784407-0af5-451b-af27-86ed3ddaecdd",
+    "name": "32: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2b2b801-41f4-4d6f-9889-ca913041253f",
+    "name": "33: PORATHISSERY POST OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a396746f-774f-4df6-8319-9acd8a61eb5e",
+    "name": "34: PORATHISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3413dee0-88b3-4891-b909-8b62036cebb4",
+    "name": "35: MAHATHMA SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12b73d59-cddd-4cc6-ab91-fb2d788ec71b",
+    "name": "36: FIRE STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38040f1f-6ce5-4ee2-a0c6-8f458b02b49c",
+    "name": "37: BLOCK OFFICE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f3758de-6449-4af7-a0e1-9e4d4265d3c7",
+    "name": "38: THALIYAKONAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e860869-0712-4d2b-8113-13f7631147da",
+    "name": "39: KALLADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "611f3938-94c8-4f49-a86d-d7f7d4f283af",
+    "name": "40: THALIYAKONAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "256a82c1-9c44-462a-97ba-dd19d3166e88",
+    "name": "41: PURATHAD",
+    "has_children": false,
+    "type": "ward"
+  }
+]

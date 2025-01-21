@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2a0673fe-4ce0-47d2-8c52-a98b19f4fc8e",
+    "name": "1: KOZHIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8b448144-e40d-4353-b89d-3cc66d9d6c0b",
+    "name": "2: KONNALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83d7d9a3-3a2b-4f1c-b644-339a3f1780db",
+    "name": "3: CHITTILAMCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9e7169c9-468b-4a64-8b5e-6124a67d138a",
+    "name": "4: KALLAMBADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "806bef6e-0dcc-4bce-8f5a-15dd43ec8f7b",
+    "name": "5: THEKKETHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4ec67aa3-1eca-4009-9e33-b751111d8aaa",
+    "name": "6: KAPPUKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "923b4598-a3cc-4d59-882f-09c835b33971",
+    "name": "7: CHETTIYARKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d955428-8cd0-4450-b626-53ac7bbedf6d",
+    "name": "8: CHERAMANGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92ecaf6d-7098-4b94-bea0-9d27322462f0",
+    "name": "9: KILIYALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eee737b7-7331-43de-b0ac-4d3669810262",
+    "name": "10: ANTHAZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "38e44295-c857-4434-a7e0-c62adbe2933e",
+    "name": "11: PUTHANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7b3b0a4a-b2cd-463a-8266-659104c99b10",
+    "name": "12: VALATHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "60214106-93d3-46d9-8915-7ec6f198761b",
+    "name": "13: KADAMBIDI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "40512552-b142-41c7-a17a-36eea7b4e775",
+    "name": "14: MUTHUKUNNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f7e0f714-2dc6-4be7-bf3a-0bc0828f665a",
+    "name": "15: VATTOMBADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0dd47cbb-edf0-417b-bc5b-41e41d4c8f18",
+    "name": "16: KATHAMPOTTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

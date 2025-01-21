@@ -1,0 +1,140 @@
+[
+  {
+    "id": "17f88222-16d6-4c7a-b41e-3568c65d66ec",
+    "name": "1: THAYYILAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "923dd58c-951c-463d-a602-841d08e588ab",
+    "name": "2: VELLAYIPPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "278c2336-9d28-444c-bbaa-5cce7499487f",
+    "name": "3: CHELARI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d12ee606-2187-4cc3-8dec-3d85b75c2642",
+    "name": "4: CHELARI EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a31a254c-6150-48f3-a0da-35e04303399f",
+    "name": "5: PADIKKAL NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9a983ec-213d-4c06-9db1-9b51429d6576",
+    "name": "6: PADIKKAL SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef18a612-0fd3-4f38-acad-6873ecb743f9",
+    "name": "7: VELIMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20ceea73-d921-4a38-ada7-a62c4c177363",
+    "name": "8: THALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4f76884f-ab52-4ee7-b29e-084cd58794e4",
+    "name": "9: A.C BAZAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f715712-f942-430d-b196-496c8df35daf",
+    "name": "10: ODUNGATTUCHINA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d67981d3-63bd-435f-8c55-419a44ba6abf",
+    "name": "11: PARAKKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5f495977-c664-44dd-972a-d4c8b4f4d545",
+    "name": "12: CHINAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9946e911-fa4f-49d8-9fa5-5c439d484ff7",
+    "name": "13: CHUZHALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c39a4cd3-63a2-40a5-8dd8-2e9a263a2b74",
+    "name": "14: PARAKKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "20511b46-0700-4652-8734-5fe6c3d40198",
+    "name": "15: KUNNATH PARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1e310d17-3959-4373-a09a-19a84a19c4a9",
+    "name": "16: SALAMATH NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfb173c0-7344-49bc-81cd-ca90f362bf65",
+    "name": "17: M.H NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "26271797-28bc-44e7-b07e-7af3d99aea91",
+    "name": "18: KALIYATTAMUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24577326-7b52-4b9e-a4e3-279518bc801c",
+    "name": "19: VELIMUKKU WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a4be4d17-10b0-4e05-8ec8-0d5c5d6ab515",
+    "name": "20: PALAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95bd37d3-c084-47e7-b692-17771dc23288",
+    "name": "21: ALUNGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "08171f85-0efd-4486-bcf9-b2ed0c52b6c2",
+    "name": "22: PADIKKAL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fad41ca9-019c-4679-b05f-208deeadee3a",
+    "name": "23: PAPPANOOR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

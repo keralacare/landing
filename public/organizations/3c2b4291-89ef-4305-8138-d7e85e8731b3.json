@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f67d5cc2-dbab-4bdc-8d5a-6b0966d286c8",
+    "name": "1: VADAKKUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71737128-aede-4fd2-81ba-7c6c7737ff3d",
+    "name": "2: KEEZHARIYUR WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5ec1b56e-17a3-4501-8e71-fba92c08909b",
+    "name": "3: KEEZHARIYUR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0314f880-c831-4d6a-825a-07c0138a30ba",
+    "name": "4: NADUVATHOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e19ce4e1-ae78-4365-a68b-7e81fa441e29",
+    "name": "5: MANAPPATTIL THAZHE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "98f9b012-9680-4479-97b9-3187b6238c03",
+    "name": "6: KUNNOTH MUKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d8241672-34a5-4048-b608-bbdcc0abb84c",
+    "name": "7: NAMBRATHUKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "338116bb-31c6-4117-9cff-07def1e63c9c",
+    "name": "8: NAMBRATHUKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "728d8798-6f14-45a3-9c28-75bc9333b046",
+    "name": "9: NADUVATHOOR SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92903d11-2155-4c53-ba4f-8f2d3dd8414e",
+    "name": "10: THATHAMVALLIPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2ca537b-a8d4-48a0-a6b7-0b5c746896cf",
+    "name": "11: MANNADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "638e94f1-0691-40e7-bdc5-4b369786d97d",
+    "name": "12: KEERAMKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c3c76a3b-6b72-45d7-8086-f58991de92d7",
+    "name": "13: KORAPRA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

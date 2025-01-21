@@ -1,0 +1,110 @@
+[
+  {
+    "id": "126dba64-79fa-4697-9ad8-8e9c65467655",
+    "name": "1: VELLILA UK PADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "159ffc37-7aa2-480a-9840-8b013984f067",
+    "name": "2: VELLILA NIRAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd05710e-e31a-4cb2-8264-4e144d7095ac",
+    "name": "3: KOZHIKKOTTUPARAMB",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7c885e47-81da-4ee4-9468-482e93696dc8",
+    "name": "4: KADANNAMANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "77d5ecbf-49a8-465b-a7e7-62036e0313ca",
+    "name": "5: VERUMPULAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e81d11f5-1bd3-4419-83a5-42ef54b84490",
+    "name": "6: CHERIYAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd43c4e6-3c42-491d-ab12-124388a6fb61",
+    "name": "7: CHERIYAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c21163f4-833e-497b-8882-c19c74cf3d4c",
+    "name": "8: KOOTTIL WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0b70299d-2176-4516-a021-80ac17b3dc16",
+    "name": "9: KOOTTIL EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "39c0e548-381f-4a0b-ae5e-de36b5bf9ea0",
+    "name": "10: PULIKKALPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2c309816-2404-4cd3-97a8-5447ec938ec6",
+    "name": "11: NJARAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2bbc3afc-a646-499a-8f49-cb22b8a55548",
+    "name": "12: MANKADA TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "58a0a0bc-41e2-40a8-bac2-e8c5ee39e99c",
+    "name": "13: MANKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de4ce736-b49c-40d0-ad8b-0ab4d853dd10",
+    "name": "14: KARKKIDAKAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "380ebac9-eaeb-4405-a73a-b9ac69ee922f",
+    "name": "15: KARIMBANAKKUND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf5e51dd-8517-4930-ac74-e94c1707db41",
+    "name": "16: MANJERITHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b6cdcf63-7655-4af5-9e45-73dfcc5594b8",
+    "name": "17: VELLILA PUTHANVEEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "15c4a51f-5f09-49d3-bd8e-4269901a338d",
+    "name": "18: VELLILA THACHOTH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

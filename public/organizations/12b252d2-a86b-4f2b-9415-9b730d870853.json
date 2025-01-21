@@ -1,0 +1,116 @@
+[
+  {
+    "id": "d2458b27-6ad0-4ec2-a029-00a1769be84d",
+    "name": "1: MANNAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "538859d3-ff80-48fc-9bef-2199c47f13eb",
+    "name": "2: GOVT. HIGH SCHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "29872535-b827-4ee7-9358-6656b604ebbd",
+    "name": "3: K.S. PURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ec4a687-26c0-4f10-a508-e693b860b821",
+    "name": "4: MANGADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2861704-8a22-45e9-a1e7-eaddd6729f27",
+    "name": "5: ALARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d8dbc78-cc7f-44e0-98e7-0d79537974ff",
+    "name": "6: KADUTHURUTHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c630260-4cc0-4dd2-b792-61f106674b4c",
+    "name": "7: MYLADUMPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b7afa0eb-fe65-4726-ab89-ad592b73caaf",
+    "name": "8: PARAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1c47216f-7e8e-4e29-bbb3-8ba9e5b22220",
+    "name": "9: MUTTUCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "82b302a5-4cd0-4830-9a14-6b57d94ac578",
+    "name": "10: MUTTUCHIRA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a0f405f-f154-44ea-ba7d-bdc6677543ee",
+    "name": "11: VALACHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "665f48ef-d6b7-4d07-8a37-0b84bb686d7a",
+    "name": "12: ADITHYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d2cc942-4663-4f85-8fbb-e8d29a392f03",
+    "name": "13: KAPIKKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "abb693eb-92cd-452a-aef7-edc5c54bd3ad",
+    "name": "14: MADHURAVELI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0400fea3-d495-48a7-a5fc-82c039a0fd94",
+    "name": "15: AYAMKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "976c220c-831e-4f03-baca-1f93fc4a9fd1",
+    "name": "16: EZHUMANTHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bac285e1-e694-4a99-97c6-b335634dbc34",
+    "name": "17: APPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b73b5fbf-2d64-47b1-b09e-5707c41f3682",
+    "name": "18: VELLASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "271fde3c-ec81-4d97-aa7d-3b59cdc40d31",
+    "name": "19: POLYTECHNIC",
+    "has_children": false,
+    "type": "ward"
+  }
+]

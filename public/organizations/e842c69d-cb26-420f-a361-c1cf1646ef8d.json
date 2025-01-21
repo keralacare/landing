@@ -1,0 +1,58 @@
+[
+  {
+    "id": "00aa9ef1-a420-4b20-83ef-7ab59a7ddf52",
+    "name": "Chadayamangalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f151b0b1-bd19-402a-bc5d-52e23a4bcbc0",
+    "name": "Chithara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "de3ea12b-b10e-4cd7-9a7e-ab10a86dd7e5",
+    "name": "Elamadu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "f211dcfa-e955-4422-8290-3d674248b349",
+    "name": "Ittiva Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "feccf7a7-3036-416f-81fe-63689fd366b6",
+    "name": "Kadakkal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "3a1fdb38-bfaf-4f47-844e-9300b6d8a165",
+    "name": "Kummil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "170e0be4-b2a4-4a15-8940-42381a9ade4b",
+    "name": "Nilamel Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b5e3f76d-36f0-4225-8bd7-d92fd240b445",
+    "name": "Velinalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

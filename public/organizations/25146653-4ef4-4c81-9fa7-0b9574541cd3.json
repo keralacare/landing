@@ -1,0 +1,104 @@
+[
+  {
+    "id": "19b9eaf0-7aad-4d63-a638-4ef65732ca77",
+    "name": "1: RAMAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6577a318-bed9-4e47-a688-d4194796b28c",
+    "name": "2: ATHIYANNOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61b808a5-a519-4ea1-a18b-efa7160cab13",
+    "name": "3: ARANGAMUGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9f9b75e5-663e-4e22-8276-0780908997ab",
+    "name": "4: OORUTTUKALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e002f79b-b039-4999-b9b7-c259f6bfe2e5",
+    "name": "5: KODANGAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "acbfa24d-0d38-4faf-8d9b-c76c5b5c585e",
+    "name": "6: KAMUKINCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9d0a06d-c9e7-42f2-9a7d-e474e69e9995",
+    "name": "7: SASTHAMTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcf1f715-3975-4e50-b459-e3beb487b171",
+    "name": "8: VENPAKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dc7b40f-8a38-478f-8e09-dc2394487f70",
+    "name": "9: BHASKERNAGER",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c3515bc-7495-425a-a37b-7d819ddf3e5a",
+    "name": "10: ARANGAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e6944805-0aff-4b82-bd9c-2985dd01e527",
+    "name": "11: PONGIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f9a9df45-5f9f-494d-966f-dbaeb18b6e5d",
+    "name": "12: NELLIMOODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6f598315-d827-496a-9dbf-8f2d21898384",
+    "name": "13: KANNARAVILA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6395bbc5-1a7c-4204-b879-2e044bdfc4c0",
+    "name": "14: POOTHAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e7852b9-a8f9-4a8d-802c-b6eae0204b23",
+    "name": "15: MARUTHAMCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "66d48204-34f7-4713-9bd5-239bbf3d31a2",
+    "name": "16: SABARIMUTTAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cdf2fb55-d6df-4c14-ae34-3795a1c39c33",
+    "name": "17: THANNIMOODU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

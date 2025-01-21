@@ -1,0 +1,51 @@
+[
+  {
+    "id": "cb0893cf-4e46-4876-b544-c2ae834052c7",
+    "name": "Ayiloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "ee06a350-dec9-42e3-b3a6-8e74b942bb97",
+    "name": "Elavancherry Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dc594d54-9e16-40ed-bd84-874a08616cb1",
+    "name": "Melarcode Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b92f7ad6-d7a3-4b5c-a2ec-e5f45449a7e6",
+    "name": "Nelliyampathy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d333719f-7e1b-43df-bb44-6701fadc06f7",
+    "name": "Nenmara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "a90384a3-a90c-4963-a849-abe6b3707fa9",
+    "name": "Pallassana Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "dc49130a-a01c-465e-8b2f-d1f55ec913d6",
+    "name": "Vandazhy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

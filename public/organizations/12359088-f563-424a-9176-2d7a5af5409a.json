@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c1c5938c-93c2-44e0-bef4-fa9e267b0625",
+    "name": "1: A.M.C.",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d0631961-8bf2-4bea-b688-9db2cbdf83bc",
+    "name": "2: PUTHENTHURA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3c7a0ef6-978d-414b-9d9d-192513b212dc",
+    "name": "3: FISHERMEN COLONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "61063774-ea5b-4955-a362-a9630686bb6b",
+    "name": "4: PANNACKALTHURUTHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "632c31c2-e87b-4d72-9c8f-8f2996196293",
+    "name": "5: ANAMKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9132496-379d-4a81-89ea-9368d98cb7f0",
+    "name": "6: MARYLAND",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2eea103a-45b3-46ef-aa8a-610edbc74c68",
+    "name": "7: NEENDAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0570a55f-0f56-46d5-9547-a7468f91b147",
+    "name": "8: PORT WARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "674c84e6-0635-494e-bc6b-e1d683ecbf7c",
+    "name": "9: VETTUTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55be77b5-a0d3-4ada-9006-ac5a9423e465",
+    "name": "10: PARIMANAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "efeb8d3c-025c-4aec-80f0-b12835b6b63e",
+    "name": "11: PARIMANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d8d96cd-9b76-4f07-afc9-3cece85285a8",
+    "name": "12: FOUNDATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cd5a032d-80c5-43e6-ab57-b31477ed42ca",
+    "name": "13: ALTHARA BEACH",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4bf528c6-46fd-4207-a5f3-e96f9d227152",
+    "name": "1: THATTEKKANNI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1da2bc64-fa65-4df4-b545-b01611b1a83e",
+    "name": "2: KEERITHODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b900ed40-a781-42de-9ef9-68dcdbc9742d",
+    "name": "3: ANCHUKUDY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a0833e55-4313-4f5e-807d-774e1c417aba",
+    "name": "4: CHELACHUVADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b2589d7b-f11c-4114-b747-bf3068f5fdac",
+    "name": "5: KATHIPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c6229646-976a-4a7f-8a21-b49ac70e1f34",
+    "name": "6: ATTIKKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ab94ed22-9b92-4272-adb4-3d8c88278297",
+    "name": "7: CHURULI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7288a4c-bcb5-461f-8f3c-21ba4e6ab34c",
+    "name": "8: ALPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f98425c6-7bee-40be-8354-c167a9f91b9a",
+    "name": "9: MAZHUVADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcfb6541-5aa9-4d1d-8205-8118701514cb",
+    "name": "10: THALLAKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2779e433-66c4-4b48-b0ec-19c800d2ed06",
+    "name": "11: PUNNAYAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "30ae07b7-1332-4395-87cc-b2263f0717da",
+    "name": "12: KANJIKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52d18de4-afc3-429c-b1d2-ee5ceb5e9d38",
+    "name": "13: PAZHAYARIKKANDOM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "469dc713-f798-4f56-88bd-d53f76c70072",
+    "name": "14: VAKACHUVADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f08eafaa-8d78-4da0-9b5d-d8ecfa9baf46",
+    "name": "15: MAKKUVALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "841288bb-3835-409b-a5a2-4e21c86974ab",
+    "name": "16: VENMONY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90578273-7b6d-4986-b339-70ab31c9861a",
+    "name": "17: VARIKKAMUTHAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3287b91a-1258-4733-998a-1ee7e5854071",
+    "name": "18: PONNEDUTHAN",
+    "has_children": false,
+    "type": "ward"
+  }
+]

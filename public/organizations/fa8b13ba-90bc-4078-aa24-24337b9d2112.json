@@ -1,0 +1,80 @@
+[
+  {
+    "id": "862ecb27-8845-4675-b590-276d5733680d",
+    "name": "1: EDAMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a027458b-7380-4709-b3ac-16a6365c45b4",
+    "name": "2: THOMPIKANDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a07d33c0-ab27-4696-9514-ef559583cc96",
+    "name": "3: CHEMPANOLI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1296ff04-ffb1-46ae-b3af-508e848fd68d",
+    "name": "4: KADUMEENCHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "048acdc9-2f31-40b7-971f-f01918c1582c",
+    "name": "5: KURUMPANMOOZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5b756aaa-1004-427a-8fd2-30eae47fb643",
+    "name": "6: KUDAMURUTTY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78ba3afd-2f74-4f02-9687-0a3a2ae04ed3",
+    "name": "7: POOPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5eec1ea2-7cda-4861-8063-8c5ffe570a0f",
+    "name": "8: ATHIKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4d01b467-16c6-4e04-bda9-ee9c2df9b3f3",
+    "name": "9: NARANAMMOOZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c1af0ad-e8c8-4b21-b94e-d4a60edc85ee",
+    "name": "10: CHOLLANAVAYAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d44d1b9-d80a-42ce-97f6-ed3a4b614129",
+    "name": "11: ADICHIPUZHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c6a0407-30ee-40b1-bb37-eb0291b937a3",
+    "name": "12: KAKKUDIMON",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "468150b0-3d1f-46bf-95d6-022b472bfcca",
+    "name": "13: PONNAMPARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

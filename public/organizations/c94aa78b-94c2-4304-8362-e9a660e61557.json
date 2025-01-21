@@ -1,0 +1,92 @@
+[
+  {
+    "id": "253aeec5-885c-4b07-8bd3-edbb95ebd0ba",
+    "name": "1: KADALAKURISSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "409a6660-9334-429e-8c0b-080839609a6c",
+    "name": "2: MANALOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "51a2e3ca-c410-42b8-82d8-d4b0be9592a6",
+    "name": "3: VADAKKUMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ae79719-319f-46e9-9126-76341d99af27",
+    "name": "4: PUZHAKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e57826a4-785a-41e7-8eec-ff93bc5923f6",
+    "name": "5: YAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e07ea89-9141-455a-8612-d44931059b50",
+    "name": "6: UPPUMPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d9487b9-384d-4084-acfb-79cb42c1b6bf",
+    "name": "7: KADUMTHURITHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b19943e1-0c82-4229-84c3-c80ebda70162",
+    "name": "8: THANNEERPANTHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "437e4571-f1d6-4e62-ba5b-c0d09bf725f4",
+    "name": "9: PARAPPANA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91778fbc-b502-4a2f-908e-89891303555b",
+    "name": "10: NEDUVAKKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "62ef0c9a-aec5-4a38-a9fa-e830110e5f2c",
+    "name": "11: CHENGALAMKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "555b42f1-9d75-4313-8064-bf96cbb3ccee",
+    "name": "12: NJAYARAZCHAKAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f134d28d-abea-4289-9500-f9ea63e531f5",
+    "name": "13: PATHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7f585ab6-aa23-446d-8e7d-510a811d3a9d",
+    "name": "14: THARUVAKURISSI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "da0e429e-7782-4ea9-a04e-4849521625b0",
+    "name": "15: KADAKURISSI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

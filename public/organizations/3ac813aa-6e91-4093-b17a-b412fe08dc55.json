@@ -1,0 +1,92 @@
+[
+  {
+    "id": "d0aec6be-d63d-44c9-b0f3-e78d985f02da",
+    "name": "1: PADATTUKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4fe977e2-fb9e-44dd-9917-d9e7fef90f50",
+    "name": "2: THANNEERCODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2eba5780-78fd-40f6-b316-6f4c27a77bb1",
+    "name": "3: PATTISSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2471438b-3674-45f6-9bcf-e925a653b010",
+    "name": "4: CHOWCHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bbc10483-b6cc-444d-a240-8b9aeb947694",
+    "name": "5: PERUMANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "59206948-c129-4e8a-8bca-6fdae24eacbf",
+    "name": "6: KOOTTANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "34ea14d7-49af-4faa-9fe5-b98fcb9234c9",
+    "name": "7: KUNNATHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ffe78e97-6d0e-4892-876d-7a0b88b3088e",
+    "name": "8: ALIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3da1dc0-e7cc-40e9-b09b-b36f947beddb",
+    "name": "9: CHALISSERI MAIN ROAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55dba08b-781f-4850-a7e1-8101c90a4faa",
+    "name": "10: MAYILADIKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88b3a867-59a3-405d-9e15-28a26e54f6aa",
+    "name": "11: CIVIL STATION",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "35a2a531-7333-4f95-b19f-a6919b1e0ad1",
+    "name": "12: THEKKEKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "649233a0-8b1b-4108-bac4-593373b00845",
+    "name": "13: CHALISSERI TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84640233-df3c-48d4-b8e7-b2a9e4d50bff",
+    "name": "14: MUKKILPEEDIKA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e213ca5f-ff91-4f27-8de1-5c5889db1da7",
+    "name": "15: KAVUKKODE",
+    "has_children": false,
+    "type": "ward"
+  }
+]

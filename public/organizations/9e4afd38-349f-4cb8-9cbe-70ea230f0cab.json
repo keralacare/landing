@@ -1,0 +1,140 @@
+[
+  {
+    "id": "d2dc9c69-8e9b-4869-bf2f-a7ad176b4069",
+    "name": "1: VAZHAPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42587115-438a-424f-84d2-87521ae7f712",
+    "name": "2: UMAYANALLOOR NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a594fbf0-7cbc-40af-8823-f9763120d95c",
+    "name": "3: UMAYANALLOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2b6d1264-022a-4541-8590-585f240417b5",
+    "name": "4: KOTTIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "890e2d3a-587a-4fd6-89ca-af3f43fb132d",
+    "name": "5: PARAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "414c1e3c-2420-4901-b185-745d44cb791e",
+    "name": "6: KOTTIYAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ef62673f-3177-4936-8ca8-b2a4228e2c13",
+    "name": "7: NADUVILAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba8d4d7c-64d8-496a-9041-ed5f38f32a33",
+    "name": "8: THEKKUMKARA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d563ab69-66d8-43a6-adf6-411f5a8945d3",
+    "name": "9: PULLICHIRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "65d79f97-9a57-4fe9-823a-7b4d279e6238",
+    "name": "10: DHAVALAKUZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c25aa5dc-6492-42d2-b17e-81c36d7301a4",
+    "name": "11: KAKOTTUMOOLA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e4f8ba62-5d5f-4539-946c-2c0d1c6bf7f3",
+    "name": "12: MUKKOM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "572cac54-b22b-4497-817b-b7703e6a9cee",
+    "name": "13: MUKKOM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9a56d287-b0c8-41ed-b096-b2761d532a15",
+    "name": "14: MAYYANAD SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ca4b30f6-3160-4e5f-b32a-a0fc9adf646f",
+    "name": "15: MAYYANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "459f7478-0cc1-4342-a19b-7a6412d7458e",
+    "name": "16: MAYYANAD WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aa269c41-4a1e-4a24-837f-9dd297f53664",
+    "name": "17: KOOTTIKADA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ebf9170-feb9-41c7-b50f-b54690471245",
+    "name": "18: AYIRAMTHENGU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dc08a63d-9a77-4051-bc99-ed8c897f7b4f",
+    "name": "19: THEKKUMKARA WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6804c3e0-c32e-4a2d-b958-cbda655f7214",
+    "name": "20: KIZHAKKE PADANILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "318dcde7-1a4a-4021-863e-3556e80904b0",
+    "name": "21: PADANILAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0321277-13c1-4399-8420-7265d11e72fb",
+    "name": "22: VENPALAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1f41862e-6529-43b6-bece-7b9bc1cf3fc6",
+    "name": "23: PINAKKAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

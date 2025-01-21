@@ -1,0 +1,80 @@
+[
+  {
+    "id": "981ffa50-693b-460e-b741-9b266e41a9a8",
+    "name": "1: KARIMPAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92030407-f9b1-4f33-baa5-5b2ce4fa3ec6",
+    "name": "2: UDAYACITY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "84d4b609-416d-4b6e-9c22-4e4665538933",
+    "name": "3: UPPUTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "477b706d-fd55-42b3-af46-358c5b0a4b0e",
+    "name": "4: CHITTADIKKAVALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7cf2e3d4-c5fa-4922-8059-252b1070675d",
+    "name": "5: CHATTIKKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "12308067-f912-4e2f-b66b-53499dcf550f",
+    "name": "6: DOUBLECUTTING",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0ca65744-959f-4e2d-90bf-c062dd284f98",
+    "name": "7: NARAKAKKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ebae987c-6a5e-4f37-be3a-e5b1d2ef441a",
+    "name": "8: MINIDAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "71b34ed2-cdbf-4a80-bc19-6921f161af03",
+    "name": "9: IDUKKI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "17736a09-a7d6-45e2-b678-4f3603f9bae3",
+    "name": "10: MARIYAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a908b07d-98c8-4d21-8b27-9c13a9547070",
+    "name": "11: KUTHIRAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3ffce47e-de87-4d81-ae90-52ab22d2446f",
+    "name": "12: KARIKKINTHOLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "245c895e-e728-4e38-a48f-53c88ab9cb9e",
+    "name": "13: VIMALAGIRI",
+    "has_children": false,
+    "type": "ward"
+  }
+]

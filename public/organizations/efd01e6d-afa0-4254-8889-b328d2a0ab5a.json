@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6063130b-5472-466e-825e-e1d9c98aad65",
+    "name": "1: ALACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a2cb6a5-8de8-4baa-b678-50e7fb1438d9",
+    "name": "2: MENACHODI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a87795f3-d0ae-481b-a878-6b82cd8521d2",
+    "name": "3: ARYAPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3918bd90-1ac6-4be0-afa3-d4c5627d7dd3",
+    "name": "4: VAYANNUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eaf07f2a-7b02-4141-8931-f8bdc4f07199",
+    "name": "5: VEKKALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e38eb54-b1ce-4af0-886c-180337dd88d2",
+    "name": "6: ERAYIKKOLLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf55dc5f-dabf-4ef8-9c8d-101a69532a14",
+    "name": "7: NIDUMPURAMCHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "85b759de-75c7-424b-8847-397c0564d7be",
+    "name": "8: KOMMERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "be0d8cae-8caf-49dd-be3d-6031189b1821",
+    "name": "9: PUTHALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ec63bb8c-aeeb-4580-bfcf-2a95b73aeecc",
+    "name": "10: KAKKAMTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aec546d9-5d64-4043-a8e0-5e035d9a4680",
+    "name": "11: KOLAYAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e60f7b56-4795-4c45-9f04-f8e52dec44ad",
+    "name": "12: PADIPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56922f1c-e685-4773-be0a-96be949d0f18",
+    "name": "13: PERUVA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3893f61b-888a-46ad-b628-f511ac2a83b5",
+    "name": "14: EDAYAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

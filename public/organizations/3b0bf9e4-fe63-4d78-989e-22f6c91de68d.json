@@ -1,0 +1,44 @@
+[
+  {
+    "id": "29c9db27-30eb-45a3-b264-514ee7196bca",
+    "name": "Bharananganam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "b6e66ae1-0677-49d1-a7c4-cc4517935303",
+    "name": "Kadanad Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "cee9ce5c-942e-4b5e-8dd5-5ac3a96205a9",
+    "name": "Karoor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e234992e-9eea-447d-bfed-5e93423f5d93",
+    "name": "Kozhuvanal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "11f0d6f3-15d9-407a-a481-e4ef3ecb02ad",
+    "name": "Meenachil Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "004b94ec-eb5f-4e6e-847a-ba1a8fc4fbbc",
+    "name": "Mutholy Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

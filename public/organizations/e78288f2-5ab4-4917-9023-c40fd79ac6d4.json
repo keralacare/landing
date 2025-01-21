@@ -1,0 +1,92 @@
+[
+  {
+    "id": "54f8bdcb-02c2-4ae0-b942-c74ac481bb28",
+    "name": "1: VAZHAKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e3537657-cf59-4d6f-8f50-f05408e0ed52",
+    "name": "2: ACHIKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dae6a53e-7900-4650-b45d-9e8df8619a58",
+    "name": "3: VELLACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f65df312-421f-49ea-aae6-6e45d25c0acb",
+    "name": "4: ALAMBADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c9145f2-2900-400f-ae67-6fedd34e1e59",
+    "name": "5: KANHIRAPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce12950c-0d06-41d8-b8da-898402185000",
+    "name": "6: MALAPPACHERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e39f4415-30be-467a-a0ff-cfc5573f054c",
+    "name": "7: CHERANATHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81d671a4-1316-478b-916e-0018f00311d7",
+    "name": "8: KOLIKKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bcc36718-58d6-499c-8bf8-e9cd49ed5d56",
+    "name": "9: ERIKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eaa70c85-15d4-4af2-abe0-9d2cad10d704",
+    "name": "10: BENGALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c85f7611-2a46-42f6-855e-6a0ba46ac459",
+    "name": "11: KAKKAT",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a2b5b224-da74-406e-b681-aa2a885d2c43",
+    "name": "12: ADUKATHPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "bf53312c-dcd0-4a76-bceb-81fdd90354cb",
+    "name": "13: CHALAKADAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dd16f828-1da7-4bda-a4bb-2aaa15271c62",
+    "name": "14: KEEKKAMKOTTU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "aaad63fd-2148-42e6-b569-b02f3207dd8d",
+    "name": "15: AMBALATHUKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

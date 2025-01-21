@@ -1,0 +1,80 @@
+[
+  {
+    "id": "33bbdfc4-ccde-41aa-8ba9-6dcee3925687",
+    "name": "1: CHIRAKKUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3a10dd46-8b84-4c91-b747-fcdfc5b1ead6",
+    "name": "2: MONCOMPU THEKKEKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "187b75b2-e96c-4105-a55b-e42323f65627",
+    "name": "3: PUNNAKUNNAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9bba1ad4-2f95-4316-b61b-76bbb5aea080",
+    "name": "4: THEKKEKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2fe9811-d454-432a-9f6f-f3d32f67a011",
+    "name": "5: ONNAKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "665f3986-c706-4bcb-974f-3e168c436f76",
+    "name": "6: KANDAKARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a9bb16b-12bc-4411-87a4-7e7b91922615",
+    "name": "7: PULLANGADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "88771ef3-c558-420a-8665-65e68da8d3fb",
+    "name": "8: CHAMPAKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "28d1fd49-7d45-440a-b2dc-1e24bfb9a885",
+    "name": "9: CHAMPAKULAM EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8229c58a-9a74-45a1-b3f0-cc8454561455",
+    "name": "10: GOVENDA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "833f9bbd-11de-4577-a78f-ce8c79fbe702",
+    "name": "11: NATTAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91f5f99c-658c-4886-9bed-f94a7355d003",
+    "name": "12: AMICHAKARY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ba75ed6c-159d-450f-8a11-5b5137bd0e4a",
+    "name": "13: KOYIKARY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

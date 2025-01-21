@@ -1,0 +1,110 @@
+[
+  {
+    "id": "68f9e7c0-31a6-450e-80bf-ad7e9466aabb",
+    "name": "1: SAMSKARIKA NILAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6ba92437-fc27-4120-b92b-2433295faf79",
+    "name": "2: KAITHATHIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fb1cad26-1846-4280-862f-260b34989a9d",
+    "name": "3: ASHAN SMARAKA  GRANDHASALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fd420377-55bb-4b81-b06f-15c9a0a9a328",
+    "name": "4: KOMALAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56ee94a9-80a0-4e30-b487-1a2dcebda98e",
+    "name": "5: LUTHUREN HIGHS CHOOL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9c1d4881-dd5d-4855-a4e5-8854060e0edf",
+    "name": "6: KRISHIBHAVAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "11043265-2f1d-425a-ae4f-082c523cce26",
+    "name": "7: CHARAMPARAMBU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5c5079c3-3104-4597-9dcb-0cfb4cc2c5f8",
+    "name": "8: SARGAWARD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cfdbace4-6353-4bb1-ba9a-75b8b5d8db8e",
+    "name": "9: CHEMPANTHARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "582efc4f-711f-4e7a-b0c4-00d6cb7e2ca2",
+    "name": "10: THIRUVILAKKU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "92f7139a-3c9d-4fb7-b0d0-c12485bc79ec",
+    "name": "11: AYYANKALI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2576411d-6414-4e3c-896c-75e12d80d02b",
+    "name": "12: NAVADARSHA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21fb9b43-4dba-4660-bf8f-632a5ee4d0ae",
+    "name": "13: RAMAVARMA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "275dc61b-f933-4e3d-aba1-393e54e805b7",
+    "name": "14: PASHNAMBALAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "9b8b7e98-261c-4f5a-a38d-28dfea66b3a7",
+    "name": "15: IKYABHARATHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6de88b32-9bf0-4761-ba46-edde824b46b2",
+    "name": "16: NONTOWN THUMPOLOY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0e0cdb66-7b95-4bab-81e3-0a74be77a93c",
+    "name": "17: THUMPOLY THEERADESHAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "06bc9f7d-57ef-4aa7-bfd0-c94acde848ae",
+    "name": "18: A S CANAL",
+    "has_children": false,
+    "type": "ward"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dfa1cb1b-e035-46cd-9c73-f3b14fd7f65b",
+    "name": "1: ANCHUKUZHY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c887fc9e-e7e6-47d5-b01a-fb8327f0ab4b",
+    "name": "2: PANCHAYAT PADI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f0ecde2-f1cb-4d0e-afee-1171e9cf6f7e",
+    "name": "3: KARIMANTHODU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a7abbc45-a280-4580-a84b-ec68fb43b84f",
+    "name": "4: THOOMPAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cbec85df-e806-48d1-9015-ad5d86fbc285",
+    "name": "5: THEKKUTHODE CENTRAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5e47e32e-82bb-4fe3-861b-95a775aa7096",
+    "name": "6: EZHAMTHALA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "21588290-be46-412d-897c-d50008181a4e",
+    "name": "7: PARAKKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ea3c2d26-063d-4695-b6b5-8514b3460cf9",
+    "name": "8: ALLUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2badaafa-5866-49d0-8c07-fa0694584ed4",
+    "name": "9: MANNEERA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "69024d19-b6d1-4a65-9bd9-b8ba3c00aa1e",
+    "name": "10: ELIMULLUMPLACKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "56f6e6e3-eafa-42f9-ad05-0a740126e287",
+    "name": "11: V K PARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce316637-bdca-4b15-8752-bbf7a126bfcd",
+    "name": "12: THANNITHODU MOOZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "46ca8784-45e4-4e2c-9cbe-d7e7e5262af2",
+    "name": "13: MEKKANNAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

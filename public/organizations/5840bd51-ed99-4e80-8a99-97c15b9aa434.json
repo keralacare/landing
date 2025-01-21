@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9398b199-9f68-4079-986b-c9a481e93d99",
+    "name": "1: CHEMMAPPILLY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6c811937-f387-425b-a822-ebcb66aa7e05",
+    "name": "2: VADAKKUMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5a576324-68c7-44de-9096-439eced26f75",
+    "name": "3: VADAKKUMURY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c473d187-397f-4241-aff9-dd155ff66b2b",
+    "name": "4: VADAKKUMURY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c2ee4c19-4253-401e-a4c8-0142fbf1b724",
+    "name": "5: KIZHAKKUMURY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "eba72127-b700-42a6-90f6-b049096f86cb",
+    "name": "6: KIZHAKKUMURY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2ab7c0cc-5292-434f-aef7-28d1410f3344",
+    "name": "7: SOMASEKHARA NAGAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d300f75-1eb4-4d5e-9ebd-9d17fb29066c",
+    "name": "8: KARUVAMKULAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "90845aab-28e3-4233-a519-6a8132d13e20",
+    "name": "9: KIZHUPPILLIKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "de48c482-1203-4409-9825-d0f8166498ab",
+    "name": "10: AZHIMAVU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1fec4a2a-f259-450c-9f95-5c91b7871b79",
+    "name": "11: THANNIYAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c1736df6-289a-42a2-9a6e-b40f8141cbcb",
+    "name": "12: VENDARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "631b8ee4-6044-44a9-b1a4-4ec19aa56c7c",
+    "name": "13: KIZHAKKUMURI WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1a47e249-918b-4a82-925f-6b2cdbe398d8",
+    "name": "14: THANNIYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b3fd9578-1c57-487b-9bb9-b6f294364139",
+    "name": "15: THANNIYAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ddca8af4-522f-46ca-bae5-7a12a52b3ad3",
+    "name": "16: PERINGOTTUKARAPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d21f0d46-6c2c-4a88-b4f4-0a4d4208e241",
+    "name": "17: PAINOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c51881ba-c3f5-4d65-ac26-731661ffefd4",
+    "name": "18: BOAT KADAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]

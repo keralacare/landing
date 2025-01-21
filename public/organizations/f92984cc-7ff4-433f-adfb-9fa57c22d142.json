@@ -1,0 +1,86 @@
+[
+  {
+    "id": "fbb2f29c-2f69-44ce-84f0-43a793c4ce45",
+    "name": "1: PEECHAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "dee83f00-8175-4189-8ec6-9f412d60917f",
+    "name": "2: KURISUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce6b8511-33c1-468b-8ea3-8218aca6c32f",
+    "name": "3: 2ND MILE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b41b69b1-060f-4c79-bebd-6c4272fa5e36",
+    "name": "4: PALLIVASAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b9066aba-3a6e-445f-9649-85fc619032b5",
+    "name": "5: POTHAMEDU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ce255250-05df-449b-aad1-bbcc89625979",
+    "name": "6: ATTUKADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db104a4c-9caa-45cf-80cd-942c31c18b93",
+    "name": "7: KUNCHITHANNY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5cb16c2e-cee7-4c0d-898f-b5a030220c07",
+    "name": "8: POWERHOUSE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2c950dd-30f2-408d-bad9-0f34892381d7",
+    "name": "9: CHITHIRAPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d24d8d33-441f-4e81-811b-fbc16cb705af",
+    "name": "10: ANACHAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5089632-d048-4367-a928-e9af38325b75",
+    "name": "11: THOKKUPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d135e96-5302-4151-a754-be54eb57fc5b",
+    "name": "12: KALLAR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c0019eb5-f586-4f42-987d-af08b2ad22bf",
+    "name": "13: IRUTTUKANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e2238838-6afc-49d2-9eae-cd734a33b964",
+    "name": "14: ANAVIRATTY",
+    "has_children": false,
+    "type": "ward"
+  }
+]

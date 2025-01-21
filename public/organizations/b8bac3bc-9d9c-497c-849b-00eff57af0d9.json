@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f31b0110-8ec2-46ef-9104-2fe40ac0f15a",
+    "name": "Moonniyur Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e02acf5a-98fd-4acc-bb98-059768becb20",
+    "name": "Nannambra Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "32f9559e-5e6d-4956-9302-8eed2775fae5",
+    "name": "Peruvalloor Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "e12afe77-87cc-469f-b1b8-5a06371af944",
+    "name": "Thenhipalam Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "35b6a1c7-5e10-4e68-8180-8152e3ec8cd8",
+    "name": "Vallikkunnu Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

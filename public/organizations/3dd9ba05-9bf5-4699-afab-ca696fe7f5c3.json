@@ -1,0 +1,51 @@
+[
+  {
+    "id": "3e99bbb1-2a92-4239-964d-3ef039dc3e9d",
+    "name": "Kavilumpara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fa451dcc-178f-4c66-80a7-bcf535fed81b",
+    "name": "Kayakkody Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "fc80229b-447d-4db0-b6d8-c8a38a09a63b",
+    "name": "Kunnummal Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "736c5037-c09f-41f6-8805-999f68ea4f79",
+    "name": "Kuttiadi Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "5f21be90-aef3-435e-8667-c2ef1722b568",
+    "name": "Maruthonkara Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "d0ff8305-4ef4-4f37-a867-e97569948d22",
+    "name": "Narippatta Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  },
+  {
+    "id": "08c82a73-d79a-4180-8d92-0eada5fc4226",
+    "name": "Velom Grama Panchayat",
+    "has_children": true,
+    "type": "grama_panchayat",
+    "children_type": "ward"
+  }
+]

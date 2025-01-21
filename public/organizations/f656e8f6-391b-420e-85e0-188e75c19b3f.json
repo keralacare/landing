@@ -1,0 +1,92 @@
+[
+  {
+    "id": "9675ea4a-6a44-4712-bd00-67c4ee228eee",
+    "name": "1: VARAVATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2fb135c0-e669-4b2f-acf1-e05754d40a37",
+    "name": "2: KONDAYOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "af886161-ba6d-4f08-9e52-f557f1995ac2",
+    "name": "3: PALLOOR CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "c9151030-bfad-4f67-9e18-8fdbd0dee331",
+    "name": "4: PALLOOR EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "446cd910-efb0-4313-9c7e-765574300bfa",
+    "name": "5: NAMBRAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "687b1f58-5b01-40d2-8563-a7268c56545c",
+    "name": "6: KATTUVATTOOR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63003e5c-5648-445c-8c34-bbfe7cfd664c",
+    "name": "7: DESAMANGALAM CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e5714913-1516-4733-9c27-ace969a37f5a",
+    "name": "8: ATTUPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a5d3175-8ad4-4ca8-a1ae-452256f72920",
+    "name": "9: PALLAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "209cc6a8-b012-4ad1-a148-a451c54db0fc",
+    "name": "10: KUNNUMPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3e73fbed-f1ae-4bab-ba81-5a561fa080a6",
+    "name": "11: MELE THALASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d5cab4c6-44ca-4048-add7-2a305dd51a7f",
+    "name": "12: DESAMANGALAM WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2e5970f8-01a5-4d2c-8491-f2d2b14ecee3",
+    "name": "13: THALASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cf5ba5d1-c1a8-406b-87af-ffcedbbf44a8",
+    "name": "14: KADUKASSERY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d671da86-7943-41e4-bf63-16766a310b1a",
+    "name": "15: ARANGOTTUKARA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

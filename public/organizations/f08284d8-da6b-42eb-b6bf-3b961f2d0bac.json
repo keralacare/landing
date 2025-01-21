@@ -1,0 +1,104 @@
+[
+  {
+    "id": "b9a9f464-c9fc-4d7d-8cd3-b6dc9a5c32f2",
+    "name": "1: AMBALLUR",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d674340-1e21-4f3e-91ce-20c908c3b507",
+    "name": "2: VENDORE WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "2f25880d-e343-42c9-88f1-2380cf6c77ab",
+    "name": "3: VENDORE NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d9d394e3-e5a0-482b-9b9e-b1455a9cfda9",
+    "name": "4: VENDORE CENTRE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "63b9dc07-883c-40e8-92fb-cbb6dc92d782",
+    "name": "5: MANNANPETTA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "42c60109-95a0-46cb-841b-58a83bb62d5d",
+    "name": "6: VATTANATHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b607ff99-060a-48bf-a723-3228906ac265",
+    "name": "7: PACHALIPURAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0d0eacb0-3c76-447a-a212-d42f5073db6d",
+    "name": "8: PALAKUNNU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "83f18296-ee07-4a73-8561-9bff1c252e44",
+    "name": "9: PAYYAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fe013bbc-5123-4d3d-9ec1-20bae0973dfc",
+    "name": "10: VARAKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f03a9a2a-c901-41ea-884b-ae61ef56b29d",
+    "name": "11: KALAKKALLU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b80ced55-62e1-430b-b07d-edbdd8cd8ce9",
+    "name": "12: POOKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "95708f3b-33ff-42fd-93e0-45f0d3662967",
+    "name": "13: POOKODE WEST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6b114ca2-d689-4e1c-a3a4-9878b035fd8b",
+    "name": "14: THEKKEKKARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "534aa979-fe97-43b2-87d2-59a50c6e2430",
+    "name": "15: VALANJOOPADAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b531c077-de30-4dbe-8e17-a48e082e048c",
+    "name": "16: CHUNGAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5452db82-e4bc-49a4-9657-6b3e3c3f474c",
+    "name": "17: ALAGAPPANAGAR",
+    "has_children": false,
+    "type": "ward"
+  }
+]

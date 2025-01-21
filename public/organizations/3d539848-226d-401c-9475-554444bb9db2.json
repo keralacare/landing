@@ -1,0 +1,98 @@
+[
+  {
+    "id": "78bb501b-329d-4aa8-bf1d-df99348af3fd",
+    "name": "1: THEVARKAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "fccdd4fb-138b-4af1-87bf-b16f419139f9",
+    "name": "2: CHIRAKKAKAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "53076be0-489b-4751-8a91-f2db8a765770",
+    "name": "3: CHIRAKKAKAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a66d4e21-0087-41e9-9601-80cd81138363",
+    "name": "4: PUTHENPALLY NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "cc55641d-af77-48e3-af81-12b405d5d92b",
+    "name": "5: MUTTINAKAM NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "5d82ee62-5a2e-421b-8d88-9e49ef43c8b2",
+    "name": "6: MUTTINAKAM SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "91c2b8fa-68a4-481c-a8f3-184ccac65340",
+    "name": "7: PUTHENPALLY SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6fee3ca-d380-48a4-b99f-36ae22c9b4d7",
+    "name": "8: MANNAMTHURUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0f892f3c-0127-421e-9a58-f2dc8d1bc4b2",
+    "name": "9: VARAPUZHA NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "24d5c2fe-be5b-4a38-bf79-d2bfe5ea3a52",
+    "name": "10: VARAPUZHA SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "78b0c921-99a4-43f6-8a03-b47cf6a5fc7b",
+    "name": "11: THUNDATHUMKADAVU SOUTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "00af4cee-c4c6-45d8-bee8-a7ded821b260",
+    "name": "12: THUNDATHUMKADAVU NORTH",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a6fe44f2-94ef-4366-8439-ce912839d509",
+    "name": "13: THUNDATHUMKADAVU HEAD QUARTERS",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e9192f65-ad00-4de5-9c25-086b96da1da8",
+    "name": "14: CHETTIBHAGHAM TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "52d3daf7-3277-479c-a459-8a3b27ef0e34",
+    "name": "15: CHIRAKKAKAM PAADY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "199d215d-9758-427f-a14a-acb062ee4afb",
+    "name": "16: DEVASWAMPAADAM",
+    "has_children": false,
+    "type": "ward"
+  }
+]

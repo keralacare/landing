@@ -1,0 +1,80 @@
+[
+  {
+    "id": "23da2851-eea8-479c-a6fd-ef9c280715c5",
+    "name": "1: PARATHANAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55e37840-7061-465a-a16a-feac72c11ea9",
+    "name": "2: THALUMKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "44586961-569a-49d3-845c-659c755414ff",
+    "name": "3: PLAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e7a1e0b8-636d-4a01-9efa-bbfff2c4e02a",
+    "name": "4: CHATHANPLAPPALLY",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "db17d772-2e00-442e-b73a-2eee6096a794",
+    "name": "5: ELAMKADU TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "815723cc-99ef-49c6-bfbd-633b0e97f796",
+    "name": "6: KODUNGA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "e0744249-11c2-411a-894e-59caa03a2e91",
+    "name": "7: ELAMKADU TOP",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "55c115b1-66ee-4b86-bc90-d38a4ee50500",
+    "name": "8: OLAYANADU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0a2784fb-a5f7-4bce-a45a-dab5103b1e8d",
+    "name": "9: YENDAYAR TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "23acbf4b-d5ca-4fad-ae05-7d871e3f7e05",
+    "name": "10: THENPUZHA EAST",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6a99204e-1790-4b35-bee0-c526fabdab9a",
+    "name": "11: KOOTTICKAL TOWN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b952e2cb-5e34-416a-8221-f8c42a0bdc6d",
+    "name": "12: KOOTTICKAL CHAPPATHU",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "6d7eaeab-be67-4b3b-b6f9-048129d68c53",
+    "name": "13: VALLEETTA",
+    "has_children": false,
+    "type": "ward"
+  }
+]

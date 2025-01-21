@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cb3cb870-7f1e-430a-9ef8-426cd1665d4a",
+    "name": "1: CHUNDATHUMPOYIL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "037f5304-9dec-4b9d-acfe-009df401bfa2",
+    "name": "2: ODAKKAYAM",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8cbac777-a72a-46a0-b21c-a75473575da2",
+    "name": "3: VETTILAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b818dcab-f61c-4c27-8c38-11446db651f4",
+    "name": "4: THACHAMPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d3fdeeba-3159-4354-905d-79e95267e4aa",
+    "name": "5: VEZHAKKODE",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1d6d89b2-6762-4a58-a8f0-77080d410251",
+    "name": "6: POOVATHIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "f2d88780-9030-4c36-99da-dfadb8b0287f",
+    "name": "7: THENCHEERI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "1b32b23f-e2fc-4766-aeb6-7bd9580a35ab",
+    "name": "8: PAVANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "ceb536ff-f67b-41cd-ba0c-94055c84f61e",
+    "name": "9: KUTHUPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "81652509-bb31-4225-b0c7-5424a84e3f23",
+    "name": "10: THACHANNA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "d4afb4e1-9cbb-4f53-abe7-a2f70b8415f9",
+    "name": "11: KUNDUVAZHI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "4a25c138-43a2-4ff4-85c5-10b8d298c9bf",
+    "name": "12: MAITHRA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "226b1296-0351-4861-9b5e-ca30f94b23b7",
+    "name": "13: MOORKANAD",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "36d34e12-45c6-4a8b-a37f-9544e6616d27",
+    "name": "14: KALLARATTIKKAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "10582c32-4045-4a21-964c-2cd80a185d11",
+    "name": "15: THERATTAMMAL",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "a498a87b-2a31-4dc6-b7af-581c38317da1",
+    "name": "16: EAST VADAKKUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "7a45c098-310f-4b13-876a-e29ceec69203",
+    "name": "17: VADAKKUMMURI",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "8445095b-36a4-40ea-b59c-d096fb3db85d",
+    "name": "18: KALAPPARA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "3dee4a8a-1b0a-4f33-97b7-3b1ad412c6ab",
+    "name": "19: KINARADAPPAN",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "b1920c52-6ad1-4bef-a636-5fcc8a044d6d",
+    "name": "20: EDAKKATTUPARAMBA",
+    "has_children": false,
+    "type": "ward"
+  },
+  {
+    "id": "0c6dae71-920d-454d-a538-1c1f30c52de1",
+    "name": "21: PANAMPILAVU",
+    "has_children": false,
+    "type": "ward"
+  }
+]
