@@ -121,7 +121,7 @@ async function main() {
   // Write all caches to files
   await Promise.all(
     Object.entries(caches).map(([key, cache]) =>
-      writeFile(path.join(dir, `${key}.json`), JSON.stringify(cache, null, 2))
+      writeFile(path.join(dir, `${key}.json`), JSON.stringify(cache))
     )
   );
 }
