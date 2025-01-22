@@ -86,23 +86,23 @@
   "footer": {
     "resources": [
       {
-        "label": "National Health Mission - Government of Kerala",
+        "label": "നാഷണൽ ഹെൽത്ത് മിഷൻ",
         "link": "https://arogyakeralam.gov.in"
       },
       {
-        "label": "Local Self Government Department | LSGD Kerala",
+        "label": "തദ്ദേശ സ്വയംഭരണ വകുപ്പ്",
         "link": "https://lsgkerala.gov.in"
       },
       {
-        "label": "Digital University Kerala",
+        "label": "ഡിജിറ്റൽ യൂനിവേഴ്സിറ്റി കേരള",
         "link": "https://duk.ac.in"
       },
       {
-        "label": "Samoohika Sannadhasena",
+        "label": "സാമൂഹിക സന്നദ്ധസേന",
         "link": "https://sannadhasena.kerala.gov.in"
       },
       {
-        "label": "Kerala Startup Mission: Home",
+        "label": "കേരള സ്റ്റാർട്ടപ്പ് മിഷൻ",
         "link": "https://startupmission.kerala.gov.in"
       }
     ],
