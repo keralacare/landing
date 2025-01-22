@@ -115,7 +115,11 @@ async function main() {
   await Promise.all(
     rootOrganizations
       .filter((o) => o.has_children)
-      .map((o) => fetchOrganizationsRecursive(o))
+      .map(async (parent) => {
+        let children = await fetchOrganizations(parent);
+        children = children.map((c) => ({ ...c, has_children: false }));
+        caches[parent.id] = buildCache(children);
+      })
   );
 
   // Write all caches to files
@@ -138,15 +142,4 @@ const buildCache = (orgs: Organization[]): CacheOutput => {
       type: org.metadata?.govt_org_type,
       children_type: org.metadata?.govt_org_children_type,
     }));
-};
-
-const fetchOrganizationsRecursive = async (parent: Organization) => {
-  const children = await fetchOrganizations(parent);
-  caches[parent.id] = buildCache(children);
-
-  await Promise.all(
-    children
-      .filter((c) => c.has_children)
-      .map((c) => fetchOrganizationsRecursive(c))
-  );
 };
