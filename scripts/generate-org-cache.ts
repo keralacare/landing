@@ -117,6 +117,7 @@ async function main() {
       .filter((o) => o.has_children)
       .map(async (parent) => {
         let children = await fetchOrganizations(parent);
+        // Voluntarily doing this as we don't need to cache sub-childrens below these
         children = children.map((c) => ({ ...c, has_children: false }));
         caches[parent.id] = buildCache(children);
       })
