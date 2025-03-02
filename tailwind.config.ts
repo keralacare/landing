@@ -12,6 +12,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ["var(--font-inter)"],
+        malayalam: ["var(--font-anek-malayalam)"],
       },
       colors: {
         primary: {

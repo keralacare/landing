@@ -46,7 +46,7 @@ export const languages = [
 const getDictionary = (locale: Locale) => dictionaries[locale];
 
 type TranslationFunction = <K extends TranslationKey>(
-  key: K,
+  key: K
 ) => PathValue<Dictionary, K>;
 
 interface I18nContextType {
@@ -56,7 +56,7 @@ interface I18nContextType {
 }
 
 export const I18nContext = createContext<I18nContextType | undefined>(
-  undefined,
+  undefined
 );
 
 interface I18nProviderProps {
@@ -99,7 +99,9 @@ export const I18nProvider = ({
 
   return (
     <I18nContext.Provider value={{ language, setLanguage, t }}>
-      {children}
+      <div className={language === "ml" ? "font-malayalam" : "font-sans"}>
+        {children}
+      </div>
     </I18nContext.Provider>
   );
 };

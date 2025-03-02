@@ -1,9 +1,17 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { I18nProvider } from "@/lib/i18n";
-import { Inter } from "next/font/google";
+import { Anek_Malayalam, Inter } from "next/font/google";
 
-const font = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const anekMalayalam = Anek_Malayalam({
+  subsets: ["latin"],
+  variable: "--font-anek-malayalam",
+});
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+});
 
 export const metadata: Metadata = {
   title: "Kerala Care - Community Based Palliative Care Grid",
@@ -17,7 +25,7 @@ export default async function Layout({
   children: React.ReactNode;
 }>) {
   return (
-    <html className={font.variable}>
+    <html className={`${inter.variable} ${anekMalayalam.variable}`}>
       <body className="smooth-scroll antialiased relative">
         <div className="absolute bg-gray-50 inset-0 opacity-[1] bg-[url('/grid-green.png')] bg-fixed bg-repeat bg-contain bg-center -z-10" />
         <I18nProvider initialLanguage="ml">{children}</I18nProvider>

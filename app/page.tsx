@@ -31,10 +31,13 @@ export default function Page() {
           />
           <div className="absolute inset-0 bg-black/50" aria-hidden="true" />
           <div className="relative z-10 text-white drop-shadow-2xl h-[90vh] lg:min-h-screen flex items-center">
-            <div className="container mx-auto px-4 pt-[92px]">
-              <h1 className="text-4xl md:text-6xl font-bold max-w-4xl mx-auto text-center">
+            <div className="container mx-auto px-4 pt-[92px] space-y-12">
+              <h1 className="text-5xl md:text-8xl font-bold max-w-4xl mx-auto text-center">
                 {t("hero.title")}
               </h1>
+              <h2 className="text-3xl md:text-5xl max-w-4xl mx-auto text-center">
+                {t("hero.description")}
+              </h2>
             </div>
           </div>
         </div>
@@ -49,7 +52,7 @@ export default function Page() {
                   alt="Palliative Care"
                   width={300}
                   height={300}
-                  className="w-full md:w-auto rounded-lg size-64"
+                  className="w-full h-full md:h-64 md:w-auto rounded-lg size-64"
                 />
                 <div className="space-y-4 px-6 md:px-0">
                   <h2 className="text-2xl font-bold text-primary-800">
@@ -147,10 +150,13 @@ export default function Page() {
               <div className="container mx-auto px-4">
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
                   {[
-                    { number: "500+", label: t("stats.ngoUnits") },
-                    { number: "1487", label: t("stats.careUnits") },
-                    { number: "1,16,549", label: t("stats.bedBoundPatients") },
-                    { number: "2,00,000+", label: t("stats.patientVisits") },
+                    { number: "2,000+", label: t("stats.homeCareUnits") },
+                    { number: "1,50,000+", label: t("stats.bedBoundPeople") },
+                    {
+                      number: "4,00,000+",
+                      label: t("stats.peopleWithSeriousHealthSufferings"),
+                    },
+                    { number: "1,00,000+", label: t("stats.volunteers") },
                   ].map((stat, index) => (
                     <div key={index} className="space-y-2">
                       <div className="text-4xl font-black text-zinc-800">

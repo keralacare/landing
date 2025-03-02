@@ -6,11 +6,12 @@
     "gridLogin": "Grid Login"
   },
   "hero": {
-    "title": "Community-Led Universal Quality Palliative Care Grid"
+    "title": "Palliative Care Grid",
+    "description": "Community led Universal Palliative Care System"
   },
   "about": {
     "title": "About Kerala Care",
-    "description": "Kerala palliative care grid is a community-based healthcare network where trained volunteers and medical professionals collaborate to support people with Serious Health Related suffering through home-based care, incorporating medical, social, and emotional support for both patients and families. Monitored by the State Health Authority.",
+    "description": "Kerala Palliative Care Grid is a community-based healthcare network led by Kerala State Government where trained volunteers and medical professionals collaborate to support people with serious health related suffering through home-based care, incorporating medical, social, and psychological support for both patients and families.",
     "gridRegistration": "Grid Registration",
     "buttons": {
       "register": "Register a Patient",
@@ -21,14 +22,14 @@
   },
   "legacy": {
     "title": "Legacy of Compassion",
-    "quote": "A people’s movement should be initiated to ensure quality palliative care for all individuals and families in need, bridging the gap between rural and urban areas, and guaranteeing care without any distinction between APL (Above Poverty Line) and BPL (Below Poverty Line) categories.",
+    "quote": "A social movement should be initiated to ensure quality palliative care to all people and families requiring care irrespective of rural-urban & APL/BPL differentiation.",
     "author": "Pinarayi Vijayan, Chief Minister of Kerala"
   },
   "stats": {
-    "careUnits": "Govt. Care Units",
-    "patientVisits": "Monthly Patient Visits",
-    "ngoUnits": "NGO/CBO Care Units",
-    "bedBoundPatients": "Bed Bound Patients"
+    "homeCareUnits": "Home Care Units",
+    "bedBoundPeople": "Bedbound People",
+    "peopleWithSeriousHealthSufferings": "People with serious health sufferings",
+    "volunteers": "Volunteers"
   },
   "services": {
     "title": "Services Available",
@@ -45,7 +46,7 @@
     }
   },
   "facilities": {
-    "title": "Facilities Finder",
+    "title": "Find Service Providers",
     "description": "Enter your location to find nearby care facilities",
     "form": {
       "ward": "Ward",
@@ -58,12 +59,12 @@
     "title": "About Palliative Care",
     "questions": [
       {
-        "question": "What exactly is palliative care?",
-        "answer": "Palliative care is the total care of patients and their families, suffering from life limiting illness, aiming to reduce physical, psychological, social and  spiritual suffering and improve the quality of their lives."
+        "question": "What is palliative care?",
+        "answer": "Palliative care is the complete care of people and their families with serious health-related sufferings, aiming to reduce physical, psychological, social and spiritual suffering and improve the quality of their lives."
       },
       {
         "question": "When should someone consider palliative care?",
-        "answer": "Anyone who needs assistance to get up from bed, or is home bound due to any illness or is undergoing suffering due to any life limiting illness is eligible to receive Palliative care."
+        "answer": "All bedbound people and other people with serious health-related suffering can avail palliative care services through the Grid. They can reach out to the nearest government or NGO/CBO service providers to access palliative care services."
       },
       {
         "question": "When should Palliative care be given to a person who is suffering from a chronic illness?",

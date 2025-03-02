@@ -6,48 +6,56 @@ import GovtOrgSelector from "@/components/govt-org-selector";
 import Title from "@/components/title";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
+import { Nav } from "@/components/Nav";
+import Footer from "@/components/footer";
 
 export default function DashboardPage() {
   const { t } = useI18n();
   return (
-    <section id="find-a-dashboard">
-      <div className="bg-white shadow-md rounded-lg py-12">
-        <div className="container mx-auto px-4">
-          <div className="grid md:grid-cols-2 gap-12 items-center px-4">
-            <div className="hidden md:block mx-auto">
-              <Image
-                src="/facilities-finder.svg"
-                alt="Kerala Map"
-                width={252}
-                height={452}
-                className="w-full max-w-[252px]"
-              />
-            </div>
-            <div className="space-y-6">
-              <Title>{t("dashboard.title")}</Title>
-              <p className="text-gray-600">{t("dashboard.description")}</p>
-              <GovtOrgSelector
-                trigger={(org) =>
-                  org ? (
-                    <Button asChild>
-                      <Link
-                        href={`${process.env.NEXT_PUBLIC_GOV_DASHBOARD_URL}/?id=${org.id}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="w-full"
-                      >
-                        {t("dashboard.form.submit")}
-                      </Link>
-                    </Button>
-                  ) : (
-                    <div />
-                  )
-                }
-              />
+    <>
+      <Nav />
+      <main>
+        <section id="find-a-dashboard">
+          <div className="bg-white shadow-md rounded-lg py-12">
+            <div className="container mx-auto px-4">
+              <div className="grid md:grid-cols-2 gap-12 items-center px-4">
+                <div className="hidden md:block mx-auto">
+                  <Image
+                    src="/facilities-finder.svg"
+                    alt="Kerala Map"
+                    width={252}
+                    height={452}
+                    className="w-full max-w-[252px]"
+                  />
+                </div>
+                <div className="space-y-6">
+                  <Title>{t("dashboard.title")}</Title>
+                  <p className="text-gray-600">{t("dashboard.description")}</p>
+                  <GovtOrgSelector
+                    trigger={(org) =>
+                      org ? (
+                        <Button asChild>
+                          <Link
+                            href={`${process.env.NEXT_PUBLIC_GOV_DASHBOARD_URL}/?id=${org.id}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="w-full"
+                          >
+                            {t("dashboard.form.submit")}
+                          </Link>
+                        </Button>
+                      ) : (
+                        <div />
+                      )
+                    }
+                  />
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-    </section>
+        </section>
+      </main>
+      <Footer />
+    </>
   );
 }
