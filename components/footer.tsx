@@ -38,10 +38,12 @@ export default function Footer() {
               height={46}
               className="mb-4 md:mb-0"
             />
-            <div className="text-sm text-gray-50 mt-4 md:mt-6 max-w-sm md:max-w-none">
-              {
-                "KeralaCare is developed for the community in collaboration with the Open Healthcare Network — & — the Govt. of Kerala"
-              }
+            <div className="text-sm text-gray-50 mt-4 md:mt-6 max-w-sm md:max-w-md">
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: t("footer.text"),
+                }}
+              />
             </div>
             <div className="text-sm text-gray-50 mt-4 md:mt-6 font-semibold">
               {t("footer.developedBy")}

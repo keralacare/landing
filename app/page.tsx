@@ -58,14 +58,14 @@ export default function Page() {
                   <h2 className="text-2xl font-bold text-primary-800">
                     {t("about.title")}
                   </h2>
-                  <p className="text-gray-600 text-lg text-left">
+                  <p className="text-gray-600 text-base text-left">
                     {t("about.description")}
                   </p>
                 </div>
               </div>
 
               {/* Grid registration */}
-              <div className="w-full lg:max-w-sm mx-auto bg-white rounded-lg shadow-md p-6">
+              <div className="w-full lg:max-w-md mx-auto bg-white rounded-lg shadow-md p-6">
                 <h2 className="text font-semibold text-primary-700">
                   {t("about.gridRegistration")}
                 </h2>

@@ -67,20 +67,12 @@
         "answer": "All bedbound people and other people with serious health-related suffering can avail palliative care services through the Grid. They can reach out to the nearest government or NGO/CBO service providers to access palliative care services."
       },
       {
-        "question": "When should Palliative care be given to a person who is suffering from a chronic illness?",
-        "answer": "Palliative care should ideally begin when the diagnosis of a chronic illness is made. It should go hand in hand with Curative treatment so that the person and the family is better supported. But, as the disease advances, the role of Palliative care increases and that of curative treatment reduces.\nPalliative care does not end with death too, and goes on to provide bereavement support to the family."
+        "question": "Importance of community based palliative care system?",
+        "answer": "Community-based palliative care begins with a person & family -centric approach, where the community and volunteers come together to support individuals with serious health-related sufferings  empowered by healthcare professionals to ensure total care."
       },
       {
-        "question": "Who makes up a palliative care team?",
-        "answer": "The Palliative care team is led by a Nurse  who is trained in Palliative care. In Primary units whose aim is mainly to provide Basic nursing care and social support, this will be a Community nurse whereas in Secondary units whose aim is Specialised nursing care and Symptom management, this will be a Palliative care trained Staff nurse.\nThe Community Nurse is supported by Doctors who have received basic Palliative care training, who occasionally visit the patients who need a Doctor’s care. The Staff Nurse led team will usually have a Doctor who has specialised training in Palliative care enabling better symptom control. The Doctor might not be present in every Home care, but will be guiding the Nurses whenever needed.\nCommunity volunteers are also an integral part of the Palliative care team."
-      },
-      {
-        "question": "How does palliative care support families and caregivers?",
-        "answer": "Both clinical and social support is being provided by the palliative care system. Clinical support is given by the home care team as basic care, wound care, catheter care etc, also comfort devices and medicine for symptom management  at home."
-      },
-      {
-        "question": "How to avail services?",
-        "answer": "Any one could use this grid to find the service provider near your home. It is available from all government health centres and many NGO/ CBOs working along with it."
+        "question": "What is the role of home care services in palliative care ?",
+        "answer": "Home care services play a crucial role in palliative care by ensuring that people with serious health-related sufferings receive compassionate person & family -centric support within the comfort of their homes. These services empower families and the community to actively participate in caregiving, with community based healthcare professionals providing guidance, medical support, and training. This enhances the quality and dignity of life."
       }
     ]
   },
@@ -111,6 +103,7 @@
         "link": "https://startupmission.kerala.gov.in"
       }
     ],
+    "text": "Kerala Care is developed for the community by Govt. of Kerala in collaboration with the <a href='https://contributors.ohc.network/people' target='_blank' rel='noopener noreferrer' class='underline underline-offset-2'>Open Healthcare Network</a>",
     "developedBy": "Developed and Maintained by the people of Kerala"
   },
   "dashboard": {
