@@ -25,11 +25,6 @@ export const metadata: Metadata = {
     url: process.env.SITE_URL,
     locale: "ml",
     type: "website",
-    images: [
-      {
-        url: "/logo.png",
-      },
-    ],
   },
 };
 
