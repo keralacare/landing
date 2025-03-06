@@ -14,11 +14,39 @@ export function Nav() {
   const [shrinked, setShrinked] = React.useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   const pathname = usePathname();
+  const navRef = React.useRef<HTMLElement>(null);
+  const lastScrollY = React.useRef(0);
 
   React.useEffect(() => {
-    const onScroll = () => setShrinked(window.scrollY > 150);
+    const onScroll = () => {
+      const currentScrollY = window.scrollY;
+      if (currentScrollY !== lastScrollY.current) {
+        setShrinked(currentScrollY > 150);
+        setMobileMenuOpen(false);
+        lastScrollY.current = currentScrollY;
+      }
+    };
+
     window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
+    window.addEventListener("touchmove", onScroll, { passive: true });
+
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("touchmove", onScroll);
+    };
+  }, []);
+
+  React.useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (navRef.current && !navRef.current.contains(event.target as Node)) {
+        setMobileMenuOpen(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
   }, []);
 
   const navItems = [
@@ -33,14 +61,15 @@ export function Nav() {
 
   return (
     <nav
+      ref={navRef}
       className={cn(
         "sticky top-0 z-[100] text-white transition-all duration-1000 ease-in-out px-4",
-        shrinked || pathname !== "/"
+        shrinked || pathname !== "/" || mobileMenuOpen
           ? "py-2 bg-gradient-to-r from-[#057252] to-[#059669] backdrop-blur-none shadow-xl"
           : "py-4 bg-transparent backdrop-blur-[2px] shadow-none"
       )}
     >
-      {shrinked && (
+      {(shrinked || mobileMenuOpen) && (
         <div
           className="absolute inset-0 opacity-[0.6] bg-[url('/grid-white.png')] bg-repeat bg-contain bg-center -z-10"
           aria-hidden="true"
@@ -58,7 +87,7 @@ export function Nav() {
         </Link>
 
         {/* Desktop Navigation */}
-        <div className="hidden md:flex items-center space-x-6">
+        <div className="hidden lg:flex items-center space-x-6">
           {navItems.map((item, index) => (
             <Link
               key={index}
@@ -81,7 +110,7 @@ export function Nav() {
         <Button
           variant="ghost"
           size="icon"
-          className="md:hidden text-white hover:text-primary-100 focus:bg-transparent"
+          className="lg:hidden text-white hover:text-primary focus:bg-transparent"
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
         >
           {mobileMenuOpen ? (
@@ -93,14 +122,14 @@ export function Nav() {
       </div>
 
       {mobileMenuOpen && (
-        <div className="absolute left-0 right-0 top-full md:hidden">
-          <div className="mx-4 py-4 bg-gray-100 text-black rounded-lg">
-            <div className="flex flex-col space-y-4 items-center">
+        <div className="absolute top-full right-0 lg:hidden">
+          <div className="py-4 bg-white text-gray-600 text-sm rounded-b-md">
+            <div className="flex flex-col items-end">
               {navItems.map((item, index) => (
                 <Link
                   key={index}
                   href={item.href}
-                  className="hover:text-primary-100 transition-colors w-full text-center py-2"
+                  className="hover:text-primary transition-colors w-full text-end px-4 py-2"
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   {item.label}
@@ -109,8 +138,11 @@ export function Nav() {
               <div className="pt-2">
                 <Button
                   variant="link"
-                  className="text-black text-base"
-                  onClick={() => setLanguage(language === "en" ? "ml" : "en")}
+                  className="text-primary transition-colors w-full "
+                  onClick={() => {
+                    setLanguage(language === "en" ? "ml" : "en");
+                    setMobileMenuOpen(false);
+                  }}
                 >
                   {language === "en" ? "മലയാളം" : "English"}
                 </Button>
