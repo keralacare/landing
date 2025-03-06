@@ -16,6 +16,7 @@ import { Separator } from "@/components/ui/separator";
 import GovtOrgSelector from "@/components/govt-org-selector";
 import { Nav } from "@/components/Nav";
 import Footer from "@/components/footer";
+import { Span } from "next/dist/trace";
 
 export default function Page() {
   const { t } = useI18n();
@@ -115,16 +116,16 @@ export default function Page() {
           {/* Legacy of compassion */}
           <section id="legacy-of-compassion" className="pt-40">
             <div className="bg-white shadow-md rounded-lg">
-              <div className="container mx-auto px-4">
+              <div className="container mx-auto px-4 py-4">
                 <div className="max-w-6xl mx-auto">
-                  <div className="flex flex-col md:flex-row items-center gap-y-8 px-4">
+                  <div className="flex flex-col md:flex-row items-center gap-y-8 pb-4">
                     <div className="w-full md:w-1/3">
                       <Image
                         src="/cm-portrait.png"
                         alt="Chief Minister"
                         width={346}
                         height={368}
-                        className="-mt-16"
+                        className="-mt-16 md:-mt-0 lg:-mt-16"
                       />
                     </div>
                     <div className="w-full md:w-2/3 space-y-4 md:pr-10">
@@ -148,7 +149,7 @@ export default function Page() {
           <section id="stats" className="pt-24">
             <div className="bg-white rounded-lg shadow-md py-12 px-6">
               <div className="container mx-auto px-4">
-                <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
                   {[
                     { number: "2,000+", label: t("stats.homeCareUnits") },
                     { number: "1,50,000+", label: t("stats.bedBoundPeople") },
@@ -243,12 +244,12 @@ export default function Page() {
                       className="w-full max-w-[252px]"
                     />
                   </div>
-                  <div className="space-y-6">
-                    <Title>{t("facilities.title")}</Title>
-                    <p className="text-gray-600">
+                  <div className="space-y-6 truncate">
+                    <Title className="text-wrap">{t("facilities.title")}</Title>
+                    <p className="text-gray-600 text-wrap">
                       {t("facilities.description")}
                     </p>
-                    <GovtOrgSelector />
+                    <div className="px-1"><GovtOrgSelector /></div>
                   </div>
                 </div>
               </div>

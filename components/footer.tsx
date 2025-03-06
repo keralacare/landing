@@ -10,7 +10,7 @@ export default function Footer() {
 
   return (
     <footer className="bg-gradient-to-r from-[#057252] to-[#059669] text-white py-8 md:py-16">
-      <div className="container mx-auto max-w-6xl px-4">
+      <div className="container mx-auto max-w-6xl px-5 md:px-10">
         <div className="flex flex-col gap-12 md:flex-row md:items-center md:justify-between">
           <div className="flex flex-col gap-2 w-full md:w-auto">
             <Image
@@ -24,7 +24,7 @@ export default function Footer() {
               <a
                 href={link.link}
                 key={link.label}
-                className="text-sm text-green-200 hover:text-green-100 transition-all duration-200 ease-in-out hover:underline hover:underline-offset-2"
+                className="text-sm text-green-200 hover:text-green-100items-center md:items-end text-center md:text-left transition-all duration-200 ease-in-out hover:underline hover:underline-offset-2"
               >
                 {link.label}
               </a>
