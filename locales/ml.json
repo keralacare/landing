@@ -3,6 +3,7 @@
     "services": "സേവനങ്ങൾ",
     "findFacility": "സേവനദാതാക്കളെ കണ്ടെത്തുക",
     "about": "പാലിയേറ്റീവ് ഗ്രിഡ്",
+    "dashboard": "ഡാഷ്ബോർഡ്",
     "gridLogin": "ഗ്രിഡ് ലോഗിൻ"
   },
   "hero": {
@@ -105,5 +106,12 @@
     ],
     "text": "സമൂഹത്തിനായി <a href='https://contributors.ohc.network/people' target='_blank' rel='noopener noreferrer' class='underline underline-offset-2'>ഓപ്പൺ ഹെൽത്ത്കെയർ നെറ്റ് വർക്കിന്റെ</a> സഹകരണത്തോടെ  കേരളാ സർക്കാർ വികസിപ്പിച്ചതാണ് കേരളാ കെയർ",
     "developedBy": "കേരള ജനതയാൽ വികസിപ്പിച്ചതും നിലനിറുത്തിയതും."
+  },
+  "dashboard": {
+    "title": "ഡാഷ്ബോർഡ് തുറക്കുക",
+    "description": "ഡാഷ്‌ബോർഡ് കാണുന്നതിന് ഒരു സ്ഥലം തിരഞ്ഞെടുക്കുക.",
+    "form": {
+      "submit": "ഡാഷ്ബോർഡ് കാണുക"
+    }
   }
 }

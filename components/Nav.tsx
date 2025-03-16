@@ -53,6 +53,7 @@ export function Nav() {
     { label: t("nav.services"), href: "/#services" },
     { label: t("nav.findFacility"), href: "/#find-a-facility" },
     { label: t("nav.about"), href: "/#about-palliative-care" },
+    { label: t("nav.dashboard"), href: "/dashboard" },
     {
       label: t("nav.gridLogin"),
       href: `${process.env.NEXT_PUBLIC_GRID_URL}/login`,
