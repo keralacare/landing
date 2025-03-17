@@ -3,6 +3,7 @@
     "services": "Services",
     "findFacility": "Find a Facility",
     "about": "About Palliative Care",
+    "dashboard": "Dashboard",
     "gridLogin": "Grid Login"
   },
   "hero": {
@@ -52,6 +53,7 @@
       "ward": "Ward",
       "district": "District",
       "state": "State",
+      "kerala": "Kerala",
       "continue": "Continue"
     }
   },

@@ -28,26 +28,28 @@ export default function DashboardPage() {
                     className="w-full max-w-[252px]"
                   />
                 </div>
-                <div className="space-y-6">
-                  <Title>{t("dashboard.title")}</Title>
-                  <p className="text-gray-600">{t("dashboard.description")}</p>
+                <div className="space-y-6 truncate">
+                  <Title className="text-wrap">{t("dashboard.title")}</Title>
+                  <p className="text-gray-600 text-wrap">
+                    {t("dashboard.description")}
+                  </p>
                   <GovtOrgSelector
-                    trigger={(org) =>
-                      org ? (
-                        <Button asChild>
-                          <Link
-                            href={`${process.env.NEXT_PUBLIC_GOV_DASHBOARD_URL}/?id=${org.id}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="w-full"
-                          >
-                            {t("dashboard.form.submit")}
-                          </Link>
-                        </Button>
-                      ) : (
-                        <div />
-                      )
-                    }
+                    trigger={(org) => (
+                      <Button asChild>
+                        <Link
+                          href={`${
+                            process.env.NEXT_PUBLIC_GOV_DASHBOARD_URL
+                          }/?id=${
+                            org?.id || process.env.NEXT_PUBLIC_STATE_ORG_ID
+                          }`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="w-full"
+                        >
+                          {t("dashboard.form.submit")}
+                        </Link>
+                      </Button>
+                    )}
                   />
                 </div>
               </div>

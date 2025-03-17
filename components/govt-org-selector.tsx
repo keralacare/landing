@@ -59,6 +59,7 @@ export default function GovtOrgSelector({
   return (
     <form className="space-y-4">
       <div className="flex flex-col gap-2">
+        <Input value={t("facilities.form.kerala")} disabled />
         {selectedOrgs.map((org, index) => (
           <Input
             key={org.id}
