@@ -33,10 +33,8 @@ const getChildren = async (parentId: string) => {
 
 export default function GovtOrgSelector({
   trigger,
-  showState = false,
 }: {
   trigger?: (organization?: Organization) => React.ReactNode;
-  showState?: boolean;
 }) {
   const { t } = useI18n();
   const inputRef = useRef<HTMLInputElement>(null);
@@ -61,7 +59,7 @@ export default function GovtOrgSelector({
   return (
     <form className="space-y-4">
       <div className="flex flex-col gap-2">
-        {showState && <Input value={t("facilities.form.kerala")} disabled />}
+        <Input value={t("facilities.form.kerala")} disabled />
         {selectedOrgs.map((org, index) => (
           <Input
             key={org.id}

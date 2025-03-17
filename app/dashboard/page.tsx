@@ -30,16 +30,17 @@ export default function DashboardPage() {
                 </div>
                 <div className="space-y-6 truncate">
                   <Title className="text-wrap">{t("dashboard.title")}</Title>
-                  <p className="text-gray-600 text-wrap">{t("dashboard.description")}</p>
+                  <p className="text-gray-600 text-wrap">
+                    {t("dashboard.description")}
+                  </p>
                   <GovtOrgSelector
-                    showState={true}
                     trigger={(org) => (
                       <Button asChild>
                         <Link
                           href={`${
                             process.env.NEXT_PUBLIC_GOV_DASHBOARD_URL
                           }/?id=${
-                            org?.id || "1522e452-9907-47da-b62a-07c4bf78dff8"
+                            org?.id || process.env.NEXT_PUBLIC_STATE_ORG_ID
                           }`}
                           target="_blank"
                           rel="noopener noreferrer"
