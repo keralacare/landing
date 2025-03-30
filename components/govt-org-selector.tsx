@@ -85,7 +85,11 @@ export default function GovtOrgSelector({
                 </span>
               </Button>
             </PopoverTrigger>
-            <PopoverContent className="w-[300px] p-0" align="start">
+            <PopoverContent
+              className="w-[300px] p-0"
+              align="start"
+              avoidCollisions={false}
+            >
               <Command>
                 <CommandInput
                   ref={inputRef}
