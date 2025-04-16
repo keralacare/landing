@@ -1,50 +1,41 @@
-name: Deploy Care Kerala
-
+name: Deploy Care to S3 and CloudFront
 on:
   push:
     branches:
       - main
   workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   deploy:
-    name: Deploy to S3 and CloudFront
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.event_name == 'workflow_dispatch' && 'kerala-care' || github.ref_name }}
 
-      - name: Set Up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 22
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install
 
-      - name: Build Next.js App
+      - name: Build the Next.js app
         run: npm run build
 
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v4
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v3
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
 
-      - name: Sync Files to S3
+      - name: Sync files to S3
         run: |
           aws s3 sync out/ s3://${{ secrets.LANDING_BUCKET_NAME }}/ --delete
 
-      - name: Invalidate CloudFront Cache
+      - name: Invalidate CloudFront cache
         run: |
-          aws cloudfront create-invalidation \
-            --distribution-id ${{ secrets.LANDING_DISTRIBUTION_ID }} \
-            --invalidation-batch '{"Paths":{"Quantity":1,"Items":["/*"]},"CallerReference":"$GITHUB_RUN_ID"}'
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.LANDING_DISTRIBUTION_ID }} --invalidation-batch "{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$GITHUB_RUN_ID\"}"
