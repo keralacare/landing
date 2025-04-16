@@ -16,6 +16,7 @@ import { Separator } from "@/components/ui/separator";
 import GovtOrgSelector from "@/components/govt-org-selector";
 import { Nav } from "@/components/Nav";
 import Footer from "@/components/footer";
+import { YoutubeIcon } from "lucide-react";
 
 export default function Page() {
   const { t } = useI18n();
@@ -139,6 +140,36 @@ export default function Page() {
                       </div>
                     </div>
                   </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* Resources */}
+          <section id="resources" className="pt-24">
+            <div className="bg-white shadow-md rounded-lg py-12">
+              <div className="container mx-auto px-4">
+                <Title className="text-center mb-12">
+                  {t("resources.title")}
+                </Title>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-4">
+                  {t("resources.items").map((resource, index) => (
+                    <a
+                      key={index}
+                      href={resource.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group p-6 bg-white border border-gray-200 rounded-lg hover:border-primary-500 transition-colors"
+                    >
+                      <div className="flex items-center gap-4 mb-4">
+                        <YoutubeIcon className="w-8 h-8 text-red-600" />
+                        <h3 className="text-lg font-semibold text-primary-800 group-hover:text-primary-600">
+                          {resource.title}
+                        </h3>
+                      </div>
+                      <p className="text-gray-600">{resource.description}</p>
+                    </a>
+                  ))}
                 </div>
               </div>
             </div>

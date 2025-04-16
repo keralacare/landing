@@ -26,6 +26,26 @@
     "quote": "A social movement should be initiated to ensure quality palliative care to all people and families requiring care irrespective of rural-urban & APL/BPL differentiation.",
     "author": "Shri. Pinarayi Vijayan, Hon'ble Chief Minister of Kerala"
   },
+  "resources": {
+    "title": "Training Resources",
+    "items": [
+      {
+        "title": "LSGD Training Videos",
+        "description": "Comprehensive training materials for Local Self Government Department staff",
+        "url": "https://www.youtube.com/playlist?list=PLf_Ch_O33Od5Q1YALa1eiNMBIogjSbyZ8"
+      },
+      {
+        "title": "DHS Training Videos",
+        "description": "Training resources for Department of Health Services personnel",
+        "url": "https://www.youtube.com/playlist?list=PLf_Ch_O33Od66imqpeHozSuWpH1tVq5jG"
+      },
+      {
+        "title": "Nurses Training Videos",
+        "description": "Specialized training content for nursing professionals",
+        "url": "https://www.youtube.com/playlist?list=PLf_Ch_O33Od45Q1PTTx8F3fbGzremCLN_"
+      }
+    ]
+  },
   "stats": {
     "homeCareUnits": "Home Care Units",
     "bedBoundPeople": "Bedbound People",
