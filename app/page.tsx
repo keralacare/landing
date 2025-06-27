@@ -75,7 +75,7 @@ export default function Page() {
                   <Button
                     variant="default"
                     className="w-full bg-primary-600 hover:bg-primary-700 md:text-lg font-bold"
-                    asChild
+                    disabled
                   >
                     <a href="#find-a-facility">{t("about.buttons.register")}</a>
                   </Button>
@@ -280,7 +280,7 @@ export default function Page() {
                       {t("facilities.description")}
                     </p>
                     <div className="px-1">
-                      <GovtOrgSelector />
+                      <GovtOrgSelector disabled />
                     </div>
                   </div>
                 </div>

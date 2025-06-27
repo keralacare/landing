@@ -33,8 +33,10 @@ const getChildren = async (parentId: string) => {
 
 export default function GovtOrgSelector({
   trigger,
+  disabled,
 }: {
   trigger?: (organization?: Organization) => React.ReactNode;
+  disabled?: boolean;
 }) {
   const { t } = useI18n();
   const inputRef = useRef<HTMLInputElement>(null);
@@ -76,7 +78,7 @@ export default function GovtOrgSelector({
           selectedOrgs[selectedOrgs.length - 1].has_children) && (
           <Popover open={showPopover} onOpenChange={setShowPopover}>
             <PopoverTrigger asChild>
-              <Button variant="outline" role="combobox">
+              <Button variant="outline" role="combobox" disabled={disabled}>
                 <span className="truncate text-left w-full text-gray-500 capitalize">
                   Select{" "}
                   {[...new Set(results.map((r) => r.type))]
@@ -125,7 +127,7 @@ export default function GovtOrgSelector({
       {trigger ? (
         trigger(selectedOrgs[selectedOrgs.length - 1])
       ) : (
-        <Button disabled={selectedOrgs.length === 0} asChild>
+        <Button disabled={selectedOrgs.length === 0 || disabled}>
           <Link
             href={`${
               process.env.NEXT_PUBLIC_GRID_URL
