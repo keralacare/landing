@@ -76,7 +76,7 @@ export default function GovtOrgSelector({
           selectedOrgs[selectedOrgs.length - 1].has_children) && (
           <Popover open={showPopover} onOpenChange={setShowPopover}>
             <PopoverTrigger asChild>
-              <Button variant="outline" role="combobox">
+              <Button variant="outline" role="combobox" disabled>
                 <span className="truncate text-left w-full text-gray-500 capitalize">
                   Select{" "}
                   {[...new Set(results.map((r) => r.type))]
@@ -125,7 +125,7 @@ export default function GovtOrgSelector({
       {trigger ? (
         trigger(selectedOrgs[selectedOrgs.length - 1])
       ) : (
-        <Button disabled={selectedOrgs.length === 0} asChild>
+        <Button disabled>
           <Link
             href={`${
               process.env.NEXT_PUBLIC_GRID_URL

@@ -74,8 +74,8 @@ export default function Page() {
                 <div className="space-y-6">
                   <Button
                     variant="default"
-                    className="w-full bg-primary-600 hover:bg-primary-700 md:text-lg font-bold"
-                    asChild
+                    className="w-full bg-primary-600 hover:bg-primary-700 md:text-lg font-bold cursor-wait"
+                    disabled
                   >
                     <a href="#find-a-facility">{t("about.buttons.register")}</a>
                   </Button>
