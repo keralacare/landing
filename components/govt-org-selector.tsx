@@ -127,7 +127,7 @@ export default function GovtOrgSelector({
       {trigger ? (
         trigger(selectedOrgs[selectedOrgs.length - 1])
       ) : (
-        <Button disabled>
+        <Button disabled={selectedOrgs.length === 0 || disabled}>
           <Link
             href={`${
               process.env.NEXT_PUBLIC_GRID_URL
