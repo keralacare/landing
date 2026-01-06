@@ -69,17 +69,22 @@ export const I18nProvider = ({
   initialLanguage = "en",
 }: I18nProviderProps) => {
   const [language, setLanguage] = useState<Locale>(initialLanguage);
+  const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
     const storedLanguage = localStorage.getItem("language") as Locale;
     if (storedLanguage) {
       setLanguage(storedLanguage);
     }
+    setIsMounted(true);
   }, []);
 
   useEffect(() => {
-    localStorage.setItem("language", language);
-  }, [language]);
+    if (isMounted) {
+      localStorage.setItem("language", language);
+      document.documentElement.lang = language;
+    }
+  }, [language, isMounted]);
 
   const currentDict = getDictionary(language);
   const englishDict = getDictionary("en");
@@ -96,6 +101,10 @@ export const I18nProvider = ({
 
     return (result || fallback || key) as PathValue<Dictionary, typeof key>;
   };
+
+  if (!isMounted) {
+    return null;
+  }
 
   return (
     <I18nContext.Provider value={{ language, setLanguage, t }}>
