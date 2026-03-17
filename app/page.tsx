@@ -114,7 +114,7 @@ export default function Page() {
           </section>
 
           {/* Legacy of compassion */}
-          <section id="legacy-of-compassion" className="pt-40">
+          <section id="legacy-of-compassion" className="pt-40 hidden">
             <div className="bg-white shadow-md rounded-lg">
               <div className="container mx-auto px-4 py-4">
                 <div className="max-w-6xl mx-auto">
