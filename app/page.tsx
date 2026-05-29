@@ -114,32 +114,102 @@ export default function Page() {
           </section>
 
           {/* Legacy of compassion */}
-          <section id="legacy-of-compassion" className="pt-40 hidden">
-            <div className="bg-white shadow-md rounded-lg">
-              <div className="container mx-auto px-4 py-4">
-                <div className="max-w-6xl mx-auto">
-                  <div className="flex flex-col md:flex-row items-center gap-y-8 pb-4">
-                    <div className="w-full md:w-1/3">
-                      <Image
-                        src="/cm-portrait.png"
-                        alt="Chief Minister"
-                        width={346}
-                        height={368}
-                        className="-mt-16 md:-mt-0 lg:-mt-16"
-                      />
-                    </div>
-                    <div className="w-full md:w-2/3 space-y-4 md:pr-10">
-                      <Title>{t("legacy.title")}</Title>
-                      <blockquote className="text-gray-600 leading-relaxed md:pr-16">
-                        &ldquo;{t("legacy.quote")}&rdquo;
-                      </blockquote>
-                      <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-                        <cite className="text-primary-800 font-semibold text-lg text-center md:text-left">
-                          {t("legacy.author")}
-                        </cite>
-                      </div>
-                    </div>
+          <section id="legacy-of-compassion" className="pt-24">
+            <div className="max-w-6xl mx-auto px-4">
+              {/* Chief Minister & Health Minister */}
+              <div className="grid md:grid-cols-2 gap-8 mb-12">
+                <div className="bg-white shadow-md rounded-lg text-center p-8">
+                  <div className="relative w-48 h-48 mx-auto mb-6 rounded-md overflow-hidden">
+                    <Image
+                      src="/V.D-Satheesan.png"
+                      alt="Chief Minister of Kerala"
+                      fill
+                      className="object-cover object-top"
+                    />
                   </div>
+                  <Title className="text-2xl font-semibold">
+                    Shri. V. D. Satheesan
+                  </Title>
+                  <p className="text-sm text-gray-500">
+                    Hon. Chief Minister of Kerala
+                  </p>
+                </div>
+
+                <div className="bg-white shadow-md rounded-lg text-center p-8">
+                  <div className="relative w-48 h-48 mx-auto mb-6 rounded-md overflow-hidden">
+                    <Image
+                      src="/muraleedharan.png"
+                      alt="Minister for Health"
+                      fill
+                      className="object-cover object-top"
+                    />
+                  </div>
+                  <Title className="text-2xl font-semibold">
+                    Shri. K. Muraleedharan
+                  </Title>
+                  <p className="text-sm text-gray-500">Minister for Health</p>
+                </div>
+              </div>
+
+              {/* Officials */}
+              <div className="grid md:grid-cols-3 gap-8">
+                {/* Dr. Rajan N. Khobragade IAS */}
+                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
+                    <Image
+                      src="/Dr-Rajan-N-Khobragade.png"
+                      alt="Dr. Rajan N. Khobragade IAS"
+                      fill
+                      className="object-cover object-top"
+                    />
+                  </div>
+                  <Title className="text-2xl font-semibold">
+                    Dr. Rajan N. Khobragade IAS
+                  </Title>
+                  <p className="text-sm text-gray-500">
+                    Additional Chief Secretary
+                    <br /> Department of Health & Family Welfare
+                  </p>
+                </div>
+
+                {/* Rahul Krishna Sharma IAS */}
+                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
+                    <Image
+                      src="/Rahul-Krishna-Sharma-IAS.png"
+                      alt="Rahul Krishna Sharma IAS"
+                      fill
+                      className="object-cover object-top"
+                    />
+                  </div>
+                  <Title className="text-2xl font-semibold">
+                    Rahul Krishna Sharma IAS
+                  </Title>
+                  <p className="text-sm text-gray-500">
+                    State Mission Director
+                    <br />
+                    National Health Mission (NHM)
+                  </p>
+                </div>
+
+                {/* Dr. Reena K J */}
+                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
+                    <Image
+                      src="/Dr-Reena-KJ.png"
+                      alt="Dr. Reena K J"
+                      fill
+                      className="object-cover object-top"
+                    />
+                  </div>
+                  <Title className="text-2xl font-semibold">
+                    Dr. Reena K J
+                  </Title>
+                  <p className="text-sm text-gray-500">
+                    Director
+                    <br />
+                    Directorate of Health Services (DHS)
+                  </p>
                 </div>
               </div>
             </div>
@@ -311,7 +381,7 @@ export default function Page() {
                             <AccordionTrigger>{question}</AccordionTrigger>
                             <AccordionContent>{answer}</AccordionContent>
                           </AccordionItem>
-                        )
+                        ),
                       )}
                     </Accordion>
                   </div>
