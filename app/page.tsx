@@ -172,43 +172,44 @@ export default function Page() {
                   </p>
                 </div>
 
-                {/* Rahul Krishna Sharma IAS */}
+                {/* Sharmila Mary Joseph IAS */}
                 <div className="bg-white shadow-md rounded-lg text-center p-6">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
                     <Image
-                      src="/Rahul-Krishna-Sharma-IAS.png"
-                      alt="Rahul Krishna Sharma IAS"
+                      src="/Sharmila-Mary-Joseph-IAS.png"
+                      alt="Sharmila Mary Joseph IAS"
                       fill
                       className="object-cover object-top"
                     />
                   </div>
                   <Title className="text-2xl font-semibold">
-                    Rahul Krishna Sharma IAS
+                    Sharmila Mary Joseph IAS
+                  </Title>
+                  <p className="text-sm text-gray-500">
+                    Principal Secretary
+                    <br />
+                    Health and Family Welfare Department, Government of Kerala
+                  </p>
+                </div>
+
+                {/* Anu S. Nair IAS */}
+                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
+                    <Image
+                      src="/Anu-S-Nair-IAS.png"
+                      alt="Anu S. Nair IAS"
+                      fill
+                      className="object-cover object-top"
+                    />
+                  </div>
+                  <Title className="text-2xl font-semibold">
+                    Anu S. Nair IAS
                   </Title>
                   <p className="text-sm text-gray-500">
                     State Mission Director
                     <br />
-                    National Health Mission (NHM)
-                  </p>
-                </div>
-
-                {/* Dr. Reena K J */}
-                <div className="bg-white shadow-md rounded-lg text-center p-6">
-                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
-                    <Image
-                      src="/Dr-Reena-KJ.png"
-                      alt="Dr. Reena K J"
-                      fill
-                      className="object-cover object-top"
-                    />
-                  </div>
-                  <Title className="text-2xl font-semibold">
-                    Dr. Reena K J
-                  </Title>
-                  <p className="text-sm text-gray-500">
-                    Director
-                    <br />
-                    Directorate of Health Services (DHS)
+                    National Health Mission (NHM), Kerala Directorate of Health
+                    Services (DHS)
                   </p>
                 </div>
               </div>
