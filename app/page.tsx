@@ -154,7 +154,7 @@ export default function Page() {
               {/* Officials */}
               <div className="grid md:grid-cols-3 gap-8">
                 {/* Dr. Rajan N. Khobragade IAS */}
-                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                {/*<div className="bg-white shadow-md rounded-lg text-center p-6">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
                     <Image
                       src="/Dr-Rajan-N-Khobragade.png"
@@ -170,7 +170,7 @@ export default function Page() {
                     Additional Chief Secretary
                     <br /> Department of Health & Family Welfare
                   </p>
-                </div>
+                </div>*/}
 
                 {/* Sharmila Mary Joseph IAS */}
                 <div className="bg-white shadow-md rounded-lg text-center p-6">
@@ -208,8 +208,7 @@ export default function Page() {
                   <p className="text-sm text-gray-500">
                     State Mission Director
                     <br />
-                    National Health Mission (NHM), Kerala Directorate of Health
-                    Services (DHS)
+                    National Health Mission (NHM), Kerala 
                   </p>
                 </div>
               </div>
