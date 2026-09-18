@@ -153,31 +153,12 @@ export default function Page() {
 
               {/* Officials */}
               <div className="grid md:grid-cols-3 gap-8">
-                {/* Dr. Rajan N. Khobragade IAS */}
-                {/*<div className="bg-white shadow-md rounded-lg text-center p-6">
-                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
-                    <Image
-                      src="/Dr-Rajan-N-Khobragade.png"
-                      alt="Dr. Rajan N. Khobragade IAS"
-                      fill
-                      className="object-cover object-top"
-                    />
-                  </div>
-                  <Title className="text-2xl font-semibold">
-                    Dr. Rajan N. Khobragade IAS
-                  </Title>
-                  <p className="text-sm text-gray-500">
-                    Additional Chief Secretary
-                    <br /> Department of Health & Family Welfare
-                  </p>
-                </div>*/}
-
                 {/* Sharmila Mary Joseph IAS */}
-                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                {<div className="bg-white shadow-md rounded-lg text-center p-6">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
                     <Image
                       src="/Sharmila-Mary-Joseph-IAS.png"
-                      alt="Sharmila Mary Joseph IAS"
+                      alt="Sharmila Mary Joseph IAS IAS"
                       fill
                       className="object-cover object-top"
                     />
@@ -187,28 +168,48 @@ export default function Page() {
                   </Title>
                   <p className="text-sm text-gray-500">
                     Principal Secretary
-                    <br />
+                    <br /> 
                     Health and Family Welfare Department, Government of Kerala
                   </p>
-                </div>
+                </div>}
 
-                {/* Anu S. Nair IAS */}
+                {/* Dr.Renu Raj IAS */}
                 <div className="bg-white shadow-md rounded-lg text-center p-6">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
                     <Image
-                      src="/Anu-S-Nair-IAS.png"
-                      alt="Anu S. Nair IAS"
+                      src="/ias-renu-raj.jpg"
+                      alt="Dr.Renu Raj IAS"
                       fill
                       className="object-cover object-top"
                     />
                   </div>
                   <Title className="text-2xl font-semibold">
-                    Anu S. Nair IAS
+                    Dr.Renu Raj IAS
                   </Title>
                   <p className="text-sm text-gray-500">
                     State Mission Director
                     <br />
-                    National Health Mission (NHM), Kerala 
+                    National Health Mission (NHM), Keralam
+                  </p>
+                </div>
+
+                {/* Dr. Meenakshy V */}
+                <div className="bg-white shadow-md rounded-lg text-center p-6">
+                  <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
+                    <Image
+                      src="/dr.meenakshi-dhs.jpg"
+                      alt="Dr.Meenakshy V"
+                      fill
+                      className="object-cover object-top"
+                    />
+                  </div>
+                  <Title className="text-2xl font-semibold">
+                    Dr. Meenakshy V 
+                  </Title>
+                  <p className="text-sm text-gray-500">
+                    Director of Health Services
+                    <br />
+                    Keralam
                   </p>
                 </div>
               </div>
